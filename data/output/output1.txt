@@ -1,0 +1,23 @@
+{score: 0.649191, chapter: Book 1, Chapter 23 – Spring Ends, Autumn Comes (part 2)}
+{score: 0.629319, chapter: Book 1, Chapter 16 – Catastrophe (part 1)}
+{score: 0.627627, chapter: Book 1, Chapter 7 – Coiling Dragon Ring (part 2)}
+{score: 0.624460, chapter: Book 1, Chapter 6 – Coiling Dragon Ring (part 1)}
+{score: 0.622280, chapter: Book 1, Chapter 9 – Magical Beast – Velocidragon! (part 2)}
+{score: 0.619361, chapter: Book 1, Chapter 17 – Catastrophe (part 2)}
+{score: 0.612784, chapter: Book 1, Chapter 18 – The Coiling Dragon Spirit (part 1)}
+{score: 0.597617, chapter: Book 1, Chapter 11 – Dance of the Fire Serpents (part 2)}
+{score: 0.591366, chapter: Book 1, Chapter 14 – The Battle in the Sky (part 1)}
+{score: 0.589399, chapter: Book 1, Chapter 8 – Magical Beast – Velocidragon!}
+{score: 0.586300, chapter: Book 1, Chapter 1 – Early Morning at a Township}
+{score: 0.586104, chapter: Book 1, Chapter 21 – Earth-Style Magic (part 2)}
+{score: 0.585347, chapter: Book 1, Chapter 3 – The Dragonblood Warrior Clan (part two)}
+{score: 0.580783, chapter: Book 1, Chapter 15 – The Battle in the Sky (part 2)}
+{score: 0.577841, chapter: Book 1, Chapter 5 – Growth (part 2)}
+{score: 0.571268, chapter: Book 1, Chapter 22 – Spring Ends, Autumn Comes (part 1)}
+{score: 0.570779, chapter: Book 1, Chapter 12 – The Will of the Mighty (part 1)}
+{score: 0.570678, chapter: Book 1, Chapter 19 – The Coiling Dragon Spirit (part 2)}
+{score: 0.569257, chapter: Book 1, Chapter 2 – The Dragonblood Warrior Clan (part one)}
+{score: 0.569111, chapter: Book 1, Chapter 10 – Dance of the Fire Serpents (part 1)}
+{score: 0.563365, chapter: Book 1, Chapter 20 – Earth-Style Magic (part 1)}
+{score: 0.551552, chapter: Book 1, Chapter 4 – Growth (part 1)}
+{score: 0.514638, chapter: Book 1, Chapter 13 – The Will of the Mighty (part 2)}

@@ -1,0 +1,36 @@
+sa book 1 chapter 3, nag train si linley para sa magus exam maong most related cya sa book 2 chapter 8 which is ang magus exam na gud ba.. mao ba? huhuhuhuhus.. TT_TT
+
+{ score: 0.949344, chapter: Book 1, Chapter 23 – Spring Ends, Autumn Comes (part 2) }
+{ score: 0.933993, chapter: Book 2, Growing Up, Chapter 9 – The Magical Aptitude Test (part 2) }
+{ score: 0.933240, chapter: Book 1, Chapter 22 – Spring Ends, Autumn Comes (part 1) }
+{ score: 0.926255, chapter: Book 2, Growing Up, Chapter 12 – Instructions }
+{ score: 0.924341, chapter: Book 1, Chapter 21 – Earth-Style Magic (part 2) }
+{ score: 0.916086, chapter: Book 1, Chapter 12 – The Will of the Mighty (part 1) }
+{ score: 0.913396, chapter: Book 2, Growing Up, Chapter 2 – A Clumsy Method (Part 1) }
+{ score: 0.912590, chapter: Book 1, Chapter 14 – The Battle in the Sky (part 1) }
+{ score: 0.911308, chapter: Book 1, Chapter 1 – Early Morning at a Township }
+{ score: 0.909353, chapter: Book 2, Growing Up, Chapter 5 – ‘Bebe’ the Shadowmouse (part 1) }
+{ score: 0.909142, chapter: Book 1, Chapter 2 – The Dragonblood Warrior Clan (part one) }
+{ score: 0.906479, chapter: Book 1, Chapter 9 – Magical Beast – Velocidragon! (part 2) }
+{ score: 0.900995, chapter: Book 1, Chapter 4 – Growth (part 1) }
+{ score: 0.900368, chapter: Book 2, Growing Up, Chapter 4 – The Ernst Institute }
+{ score: 0.898341, chapter: Book 1, Chapter 17 – Catastrophe (part 2) }
+{ score: 0.897150, chapter: Book 1, Chapter 19 – The Coiling Dragon Spirit (part 2) }
+{ score: 0.895528, chapter: Book 2, Growing Up, Chapter 7 – Fenlai City }
+{ score: 0.895291, chapter: Book 1, Chapter 20 – Earth-Style Magic (part 1) }
+{ score: 0.894255, chapter: Book 2, Growing Up, Chapter 10 – The Secret Dragonblood Training Tome (part 1) }
+{ score: 0.893650, chapter: Book 1, Chapter 3 – The Dragonblood Warrior Clan (part two) }
+{ score: 0.892923, chapter: Book 1, Chapter 18 – The Coiling Dragon Spirit (part 1) }
+{ score: 0.890961, chapter: Book 1, Chapter 8 – Magical Beast – Velocidragon! }
+{ score: 0.889859, chapter: Book 2, Growing Up, Chapter 3 – A Clumsy Method (Part 2) }
+{ score: 0.886443, chapter: Book 1, Chapter 7 – Coiling Dragon Ring (part 2) }
+{ score: 0.886345, chapter: Book 1, Chapter 15 – The Battle in the Sky (part 2) }
+{ score: 0.884788, chapter: Book 1, Chapter 13 – The Will of the Mighty (part 2) }
+{ score: 0.883743, chapter: Book 1, Chapter 11 – Dance of the Fire Serpents (part 2) }
+{ score: 0.878262, chapter: Book 2, Growing Up, Chapter 1 – Magical Beast, Shadowmouse }
+{ score: 0.869950, chapter: Book 1, Chapter 10 – Dance of the Fire Serpents (part 1) }
+{ score: 0.868616, chapter: Book 1, Chapter 6 – Coiling Dragon Ring (part 1) }
+{ score: 0.862955, chapter: Book 2, Growing Up, Chapter 6 – ‘Bebe’ the Shadowmouse (part 2) }
+{ score: 0.851938, chapter: Book 2, Growing Up, Chapter 11 – The Secret Dragonblood Training Tome (part 2) }
+{ score: 0.848348, chapter: Book 1, Chapter 5 – Growth (part 2) }
+{ score: 0.839730, chapter: Book 1, Chapter 16 – Catastrophe (part 1) }

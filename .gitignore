@@ -5,3 +5,5 @@ __pycache__/
 *.so
 
 data/GoogleNews-vectors-negative300.bin
+data/cd
+data/paragraph
