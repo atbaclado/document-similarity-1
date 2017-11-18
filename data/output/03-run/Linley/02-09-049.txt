@@ -1,0 +1,27 @@
+source: 02 9 49	Watched by a crowd of nobles, commoners, and church officials, Linley and Hillman departed the cathedral.
+
+
+score: 0.574971, para: 02 5 53	Linley didn’t think about it anymore, and immediately followed Uncle Hillman as they departed from the manor.
+
+
+score: 0.567503, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.564257, para: 02 7 54	Linley and Hillman had arrived here as well.
+
+
+score: 0.517323, para: 01 2 33	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+
+score: 0.517317, para: 02 12 52	Yulan calendar, year 9991. The nine year old Linley, accompanied by the young Shadowmouse, ‘Bebe’, and the Baruch clan’s guard captain, Hillman, departed from Wushan township.
+
+
+score: 0.515693, para: 01 7 30	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.510206, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.507038, para: 01 1 132	Bidding farewell to his good friend Hadley, Linley went back, alone, to his home. After walking for a while, he saw the Baruch estates.
+
+

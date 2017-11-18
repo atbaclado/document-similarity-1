@@ -1,0 +1,15 @@
+source_doc: 1 4	As a member of a noble house, Linley’s education began from a young age. The five-thousand year old Baruch clan was even stricter regarding educational matters than even the royal families of most kingdoms were.
+
+
+score: 0.719917, para: 2 3	“Looks like the educational methods of the Baruch clan are rather effective after all.” Doehring Cowart silently sighed with praise. Education can raise a person’s intelligence, but most commoners didn’t have access to education. Most commoners could not meet either the entry requirements or the fee requirements for good magus academies or warrior academies.
+
+
+score: 0.689190, para: 1 2	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+
+score: 0.657428, para: 1 2	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+
+score: 0.651176, para: 2 7	There were some commoners amongst the hundreds of people crowding the square, and some countryside nobles such as Linley. Usually, those nobles from small countryside noble families were also looked down upon. The nobles of the capital were an arrogant lot who generally looked down on people.
+
+

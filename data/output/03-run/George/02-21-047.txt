@@ -1,0 +1,30 @@
+source: 02 21 47	George laughed confidently. “In the history of sculpture, from the beginning til now, there have been countless stone sculptures made. Of the top ten sculptures, any one of them would be worth a million gold coins. And of those top ten sculptures, three were made by Grandmaster Proulx. He can be considered the number one person in the history of stonesculpting!”
+
+
+score: 0.642092, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.583492, para: 02 19 29	George laughed and nodded. “Right, him. He has very high talent. Even before training, his spiritual essence had reached the level of a magus of the second rank. All he did this year was accumulate sufficient mageforce. It isn’t too hard for someone with the power of a magus of the second rank to become number one in the tournament amongst first grade students.”
+
+
+score: 0.561337, para: 02 14 59	But George smiled as he nodded. “I’ve heard of him. The number one genius of the Ernst Institute, ‘Dixie’ [Di’ke’xi], a talent that appears once in a century. He is a dual-element magus, and has exceptional levels of elemental affinity and spiritual essence. But his spiritual essence is especially amazing; 62 times that of others his age. Usually, reaching 30 times is considered ‘exceptional’ level, so his precise level should be ‘super exceptional’, but since the highest level is ‘exceptional’, that’s what he is classified as.”
+
+
+score: 0.557702, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+
+score: 0.556737, para: 02 22 14	Yale, Reynolds, George, and Linley viewed one stone sculpture after another, and in their hearts they felt as though these sculptures truly were incomparably beautiful.
+
+
+score: 0.539267, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+
+score: 0.538398, para: 02 15 42	George calmly smiled. “Yale, don’t grow complacent. Although there aren’t formal requirements for students, every year, there will be an ability test. Only if you advance a rank in power can you advance a grade. If you don’t work hard, do you plan to stay here for a century? What’s more, the Ernst Institute has a rule that if one does not become a magus of the sixth rank in sixty years, one will be expelled, no exceptions.”
+
+
+score: 0.528557, para: 02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+
+score: 0.523974, para: 02 22 26	“Grandpa Doehring, Grandpa Doehring?” Linley mentally called out a few times. But seeing that Doehring Cowart was still lost in his thoughts, Linley no longer tried to call to him. He followed Yale, Reynolds, and George to the experts’ hall. This hall really was different, as within the center of the main hall, each and every artist had their information recorded and the location of their displays recorded.
+
+

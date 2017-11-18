@@ -1,0 +1,30 @@
+source: 02 12 44	On the road headed east of Wushan township, Linley turned his head saw the hundreds of familiar faces which had come to send him off, with his father, Hogg, and his younger brother Wharton standing in the lead.
+
+
+score: 0.610119, para: 01 5 30	Hogg sternly shook his head firmly. “The grandfather clock is not for sale! As for the sculpture, six hundred gold. Take it or leave it.”
+
+
+score: 0.588024, para: 02 5 44	Hogg stood there, straight as a ramrod. Staring directly at Linley, he said, “Linley, Wushan township is located fairly close to the capital, just ninety or so kilometers away. You should be able to make it to the capital before nightfall. Remember, when you reach the capital, don’t cause any trouble. There are too many rich and powerful people in the capital.”
+
+
+score: 0.579465, para: 01 17 35	“It really did come too fast.” Hogg turned his head to stare at the eastern sky.
+
+
+score: 0.565641, para: 01 5 31	Philip carefully studied Hogg for a moment, then chuckled. “Fine, Hogg. I’ll give you some face. Six hundred gold it is. Housekeeper, bring me six hundred gold.” The caretaker for his manor, who had been waiting outside the entire time, immediately ran over with the gold.
+
+
+score: 0.562094, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.545072, para: 01 2 58	Exiting the guest hall, Hogg, Linley, and Uncle Hiri, who still held Wharton, followed the blue stone path towards the back manor.
+
+
+score: 0.536547, para: 02 11 25	“The events of the past happened too long ago. The real secrets of that era, this book has not revealed. All I know is that because of this, the dragon race sent representatives to engage in discussions with our Baruch clan’s clanlord. After this, our descendants no longer attempted this method. Later on, when our family line weakened, even when we wanted to drink dragon’s blood, we no longer were able to.” Hogg shook his head and sighed.
+
+
+score: 0.534990, para: 01 11 54	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.526959, para: 01 17 7	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+

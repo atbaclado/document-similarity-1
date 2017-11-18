@@ -1,0 +1,30 @@
+source: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+
+score: 0.807888, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+
+score: 0.642264, para: 01 2 72	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+
+
+score: 0.624791, para: 01 5 2	“Is Hogg at home?” A clear voice rang out. The Baruch manor had no guards, so clearly, this person had already arrived within the manor grounds.
+
+
+score: 0.618200, para: 01 2 52	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+
+score: 0.592521, para: 02 5 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+
+score: 0.560157, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.537118, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+
+
+score: 0.534535, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+
+score: 0.530855, para: 02 23 35	Since his clan had produced a descendant with the requisite density of Dragonblood, he must be given the best upbringing. Even if they had to beggar themselves, it would be worth it. This was without question!
+
+

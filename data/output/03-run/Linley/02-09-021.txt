@@ -1,0 +1,27 @@
+source: 02 9 21	“Linley, I come from the Welling [We’lin] Magus Academy. We…”
+
+
+score: 0.664347, para: 02 5 28	Because Linley, after all, was already a magus of the first rank.
+
+
+score: 0.555647, para: 02 5 35	There was no way he could bring a little Shadowmouse into a magus academy.
+
+
+score: 0.542127, para: 01 18 54	Linley’s eyes suddenly turned round. “You…you are a Saint-level magus instructor?”
+
+
+score: 0.536282, para: 01 11 29	Linley’s gaze suddenly turned towards the mysterious magus on the back of the Velocidragon. By appearances, the magus was much smaller and much weaker.
+
+
+score: 0.527786, para: 02 4 63	Linley chuckled, then turned to look at Hogg. “Father, there must be many magus academies. Which ones are good? Right, are there any combined magus academy/warrior academy schools?”
+
+
+score: 0.508104, para: 01 2 29	“Uncle Hillman, I know already. My lord father already reminded me three times. My lord father has never been so insistent about anything. I won’t go off and play.” Linley grinned, revealing his pearly white teeth, perfect but for the fact that one was missing.
+
+
+score: 0.506712, para: 02 17 61	Linley’s wind-style magus instructor, the sixth-ranked magus Trey, frowned. “Hmm, the earth magic spell, ‘Shattered Rocks’? Based on its power, it should be of the second rank. An entry-level magus has come to the mountain to train? Who is it?”
+
+
+score: 0.502993, para: 01 1 66	Linley cracked a smile, revealing his small canines. “I’m fine, Uncle Hillman.” As captain of the Baruch clan’s guardsmen, Hillman had watched Linley grow up. Naturally, the two of them were very close.
+
+

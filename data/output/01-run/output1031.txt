@@ -1,0 +1,15 @@
+source_doc: 2 2	“Grandpa Doehring, won’t this Shadowmouse run all over the place?” Linley was worried that if he went and got some roasted meat, he might come back to find the Shadowmouse had gone. There would be nothing he could do then.
+
+
+score: 0.729165, para: 2 4	“Don’t be impatient.” Linley took the roasted chicken out of the clothsack.
+
+
+score: 0.647275, para: 2 4	“I haven’t even taken the food out, and he’s already run up to me. He really isn’t afraid of me at all.” Linley felt joy in his heart.
+
+
+score: 0.641010, para: 2 4	“Hehe, all yours!” Linley gave the cooked chicken to the Shadowmouse.
+
+
+score: 0.621394, para: 2 4	“Linley, I hear that you’ve often been bringing roasted hares to the back courtyards?” Halfway through the meal, Hogg put down his utensils and turned to Linley.
+
+

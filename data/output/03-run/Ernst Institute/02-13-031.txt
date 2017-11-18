@@ -1,0 +1,27 @@
+source: 02 13 31	The Ernst Institute was founded by the Radiant Church. Of course it would show favoritism towards the Holy Union.
+
+
+score: 0.592509, para: 02 14 54	Yale pursed his lips. “That’s very normal. Which student in the Ernst Institute is weak? Myself, my elemental affinity and spiritual essence are both high level, putting me towards the bottom of the pack of our one hundred. If it wasn’t for the fact that my old man has a special relationship with the Radiant Church, I probably wouldn’t even be able to make it in.”
+
+
+score: 0.559293, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+
+
+score: 0.542631, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+
+score: 0.515230, para: 02 12 33	“Linley, today you are going to go to the Ernst Institute and formally become an Ernst Institute student. When you graduate from the Ernst Institute, you will be a powerful magus! Before you depart, as your father, I want to say to you…” On this last day, Hogg had a belly full of things he wanted to speak to Linley.
+
+
+score: 0.510980, para: 02 17 16	Linley immediately walked off, quietly but quickly heading towards the mountains behind the school. There were thousands of students at the Ernst Institute, and there were also many magi who were researching new spells here. There were also many servers. In short, the Ernst Institute was a well-populated place.
+
+
+score: 0.507490, para: 02 7 63	For example, the number one magus academy, the Ernst Institute. Because it admited so few students, any students who hailed from the Holy Union did not have to pay any fees at all! After all, everyone who could be admitted to the Ernst Institute had to be genius-level. In the future, their possibilities were limitless.
+
+
+score: 0.505362, para: 02 16 15	The Holy Union and the Dark Alliance were located west of the Yulan continent’s Mountain Range of Magical Beasts. East of the range were the Four Great Empires, but even further east of the empires was a vast grassland, which contained three kingdoms of its own. The distance between the great grasslands and the Ernst Institute was unbelievably great. A one way trip alone would take at least three years!
+
+
+score: 0.501802, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+

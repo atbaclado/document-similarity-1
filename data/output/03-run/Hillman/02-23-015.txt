@@ -1,0 +1,30 @@
+source: 02 23 15	Hillman laughed loudly and nodded. “Right. Your father was absolutely ecstatic. He excitedly drank wine with me until midnight. Your father said that his two sons are the absolute prides of his life. One is a mighty magus, and the other is a Dragonblood Warrior. Haha…”
+
+
+score: 0.684635, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.682692, para: 01 2 29	“Uncle Hillman, I know already. My lord father already reminded me three times. My lord father has never been so insistent about anything. I won’t go off and play.” Linley grinned, revealing his pearly white teeth, perfect but for the fact that one was missing.
+
+
+score: 0.654520, para: 02 10 36	“Fine, enough of that topic. Uncle Hiri, Hillman, lead the guards to make the arrangements right away. Tonight, I am going to host a magnificent banquet.” Hogg laughed loudly. Right now, his laughter was extremely full and carefree.
+
+
+score: 0.644298, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.642011, para: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+
+score: 0.604069, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+
+score: 0.603944, para: 01 8 40	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+
+score: 0.599286, para: 01 1 66	Linley cracked a smile, revealing his small canines. “I’m fine, Uncle Hillman.” As captain of the Baruch clan’s guardsmen, Hillman had watched Linley grow up. Naturally, the two of them were very close.
+
+
+score: 0.597865, para: 01 1 60	“This must be Linley’s [Lin’lei] first day at training. Who would’ve thought he’d be so formidable?” Lorry said, amazed. Next time him, Roger and Hillman also noticed. Looking in that direction, they saw that to the north, a single brown haired boy was still holding firm. His lips tightened, the boy stared determinedly in front, both fists tightly clenched so hard that his fists were white.
+
+

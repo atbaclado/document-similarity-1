@@ -1,0 +1,30 @@
+source: 01 7 41	Just as Linley began jogging towards his usual position in the team, suddenly…
+
+
+score: 0.608204, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.577885, para: 01 6 24	Having made up his mind, Linley raced towards the large room.
+
+
+score: 0.545473, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.542763, para: 02 6 19	“Uncle Hillman, let’s go. Hehe, the little Shadowmouse is smart. He knows what I’m saying.” Linley said to Hillman. Hillman, who had been watching this spectacle with amazement, chuckled and then continued walking forward with Linley.
+
+
+score: 0.542191, para: 01 1 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.541327, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+
+score: 0.539911, para: 02 4 17	It seemed as though this time, the little Shadowmouse had enjoyed his meal very much. He was so happy that he immediately began to hop up and down while squeaking at Linley, while even hugging Linley’s leg with his own front arms. Linley couldn’t help but feel pleased; this was the first time that the little Shadowmouse had acted so intimately towards him, even after eating.
+
+
+score: 0.536990, para: 01 17 4	Hogg’s body trembled. Only then did he regain his usual faculties. “Linley.” Hogg charged violently towards the warehouse at an astonishing speed. Seeing this, Hillman guessed what had happened and immediately followed Hogg.
+
+
+score: 0.536640, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+

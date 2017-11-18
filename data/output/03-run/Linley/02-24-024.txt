@@ -1,0 +1,30 @@
+source: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+
+score: 0.712346, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.669436, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.665618, para: 02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+
+score: 0.652781, para: 02 25 38	Magi found it harder and harder to advance in ranks as they grew more powerful. Logically speaking, from the fourth to the fifth rank, it should have taken Linley at least three years.
+
+
+score: 0.648565, para: 02 12 25	The real reason that Linley continued his fighter training was this. “In the future, if I have the chance to drink fresh dragon’s blood, I will be able to practice according to the Secret Dragonblood Training Tome. I have to keep up my physical training. The body is like a vessel, while battle-qi is like wine. The body is extremely important. The earlier I begin building my fundamentals, the faster my improvement will be when I study the Secret Dragonblood Training Tome in the future.”
+
+
+score: 0.648306, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.645353, para: 02 25 50	Linley and Dixie both could definitely be considered freaks of nature. But in the hearts of the vast majority, Linley was even more of a freak, because since the day he took the ability assessment for the fourth rank, he had spent only a year and a half before attaining the fifth rank.
+
+
+score: 0.643208, para: 02 1 51	“Linley, you must be calm.” Doehring Cowart said solemnly. “Even if this is just a Violet Shadowmouse infant, his speed is comparable to a mature Shadowmouse of the fourth rank. Even your Uncle Hillman won’t be able to catch him. You simply don’t have the ability to forcibly subdue him, and you also are not able to utilize a soul-binding magical formation.
+
+
+score: 0.642220, para: 01 4 13	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+

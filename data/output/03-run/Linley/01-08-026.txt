@@ -1,0 +1,12 @@
+source: 01 8 26	Linley memorized the word, forever etching it in his mind.
+
+
+score: 0.573692, para: 02 17 46	Linley immediately began to quietly mouth the words to a spell. The words had long since been memorized by Linley to the point where he could recite them without thinking. As the words to the spell continued, Linley could feel his entire spirit enter a special mode.
+
+
+score: 0.526872, para: 02 10 56	“Wait a moment. I am going to get something.” Hogg suddenly turned and entered a hidden room next to the ancestral hall. Shortly afterwards, he returned with a thick book in hand. “Linley, take this and give it a good read. Memorize everything.”
+
+
+score: 0.502796, para: 01 4 16	Linley remembered his father’s words very clearly.
+
+

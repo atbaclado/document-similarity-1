@@ -1,65 +1,61 @@
 import numpy as np
 
 class DocSim(object):
-    def __init__(self, w2v_model , stopwords=[]):
-        self.w2v_model = w2v_model
-        self.stopwords = stopwords
+  def __init__(self, w2v_model , stopwords=[]):
+    self.w2v_model = w2v_model
+    self.stopwords = stopwords
+    self.chapter = 0
+    self.para = 0
 
-    def vectorize(self, doc):
-        """Identify the vector values for each word in the given document"""
-        print("Identify the vector values for each word in the given document")
-        doc = doc.lower()
-        words = [w for w in doc.split(" ") if w not in self.stopwords]
-        word_vecs = []
-        for word in words:
-            try:
-                vec = self.w2v_model[word]
-                word_vecs.append(vec)
-            except KeyError:
-                # Ignore, if the word doesn't exist in the vocabulary
-                pass
+  def vectorize(self, doc):
+    """Identify the vector values for each word in the given document"""
+    doc = doc.lower()
+    words = [w for w in doc.split(" ") if w not in self.stopwords]
+    word_vecs = []
+    for word in words:
+      try:
+        vec = self.w2v_model[word]
+        word_vecs.append(vec)
+      except KeyError:
+        # Ignore, if the word doesn't exist in the vocabulary
+        pass
 
-        # Assuming that document vector is the mean of all the word vectors
-        # PS: There are other & better ways to do it.
-        vector = np.mean(word_vecs, axis=0)
-        return vector
+    # Assuming that document vector is the mean of all the word vectors
+    # PS: There are other & better ways to do it.
+    vector = np.mean(word_vecs, axis=0)
+    return vector
 
 
-    def _cosine_sim(self, vecA, vecB):
-        """Find the cosine similarity distance between two vectors."""
-        print("Find the cosine similarity distance between two vectors.")
-        csim = np.dot(vecA, vecB) / (np.linalg.norm(vecA) * np.linalg.norm(vecB))
-        if np.isnan(np.sum(csim)):
-            return 0
-        return csim
+  def _cosine_sim(self, vecA, vecB):
+    """Find the cosine similarity distance between two vectors."""
+    csim = np.dot(vecA, vecB) / (np.linalg.norm(vecA) * np.linalg.norm(vecB))
+    if np.isnan(np.sum(csim)):
+      return 0
+    return csim
 
-    def calculate_similarity(self, source_doc, target_docs=[], threshold=0):
-        """Calculates & returns similarity scores between given source document & all
-        the target documents."""
-        print("Calculates & returns similarity scores between given source document & all the target documents.")
-        file = open("./data/output3.txt", "w")
+  def calculate_similarity(self, source_doc, target_docs=[], threshold=0.5):
+    """Calculates & returns similarity scores between given source document & all
+    the target documents."""
+    if isinstance(target_docs, str):
+      target_docs = [target_docs]
 
-        if isinstance(target_docs, str):
-            target_docs = [target_docs]
+    source_vec = self.vectorize(source_doc)
+    results = []
+    for doc in target_docs:
+      chapter = int(doc.split("\t")[0].split()[1])
+      if not chapter == self.chapter:
+        target_vec = self.vectorize(doc)
+        sim_score = self._cosine_sim(source_vec, target_vec)
+        if sim_score > threshold:
+          results.append([sim_score, doc])
 
-        source_vec = self.vectorize(source_doc)
-        results = []
-        for doc in target_docs:
-            target_vec = self.vectorize(doc)
-            sim_score = self._cosine_sim(source_vec, target_vec)
-            if sim_score > threshold:
-                d = doc.split("\n")
-                # results.append({
-                #     'score' : sim_score,
-                #     'doc' : d[0]
-                # })
-                results.append([sim_score, d[0]])
-
-        # Sort results by score in desc order
-        results.sort(key=lambda k : k[0] , reverse=True)
-        for r in results:
-            file.write("{ score: %f, chapter: %s }\n" % (r[0], r[1]))
-        file.close()
-        return results
-
-        
+    # Sort results by score in desc order
+    results.sort(key=lambda k : k[0] , reverse=True)
+    ctr = 0
+    sims = ""
+    for r in results:
+      sims = sims + "score: %f, para: %s\n\n" % (r[0], r[1])
+      ctr = ctr + 1
+      if ctr == 9:
+        break
+    return sims

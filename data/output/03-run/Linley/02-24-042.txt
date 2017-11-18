@@ -1,0 +1,30 @@
+source: 02 24 42	“You were that good? How come I’ve never heard of your name amongst the other grandmaster sculptors, then, Grandpa Doehring?” Linley said suspiciously.
+
+
+score: 0.645073, para: 01 19 44	“Gramps, you said your name is Doehring Cowart? Can I address you as Grandpa Doehring?” Linley suddenly said.
+
+
+score: 0.637285, para: 02 21 44	Linley felt some reservations about those types of places, and so he said, “Yale, forget it, what’s the point of us kids going to those places? Just now, you mentioned the Proulx Gallery? Since the Proulx Gallery names itself after the famous Grandmaster Proulx, it must be extraordinary. Let’s go check it out.”
+
+
+score: 0.574873, para: 02 22 32	“Doehring Cowart, how can these people possibly compare to Grandmaster Proulx?” Linley shook his head and laughed helplessly. Proulx was the number one sculptor in the entire history of the Yulan continent.
+
+
+score: 0.550743, para: 02 13 16	“My name is Linley. I’m from Fenlai Kingdom.” Linley courteously said to the boy called Reynolds.
+
+
+score: 0.550024, para: 01 1 63	Linley, full name Linley Baruch, was the eldest son and heir to the Baruch clan, which ruled over the Wushan town. The Baruch clan was an extremely old clan. Once, it was extremely prosperous, but after thousands of years, it had only three members remaining. The clan leader, Hogg [Huo’ge] Baruch, and his two sons. The elder son was Linley Baruch, six years old. The younger son, Wharton [Wo’dun] Baruch, was just two years old. As for his wife, when she gave birth to the younger son, she died in the midst of childbirth. Linley’s grandfather also was dead, having lost his life in battle.
+
+
+score: 0.543199, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.541954, para: 01 20 4	If any other magus had been present and heard his words, they would have been astonished.
+
+
+score: 0.541359, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+
+score: 0.538591, para: 01 20 32	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+

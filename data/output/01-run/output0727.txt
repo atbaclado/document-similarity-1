@@ -1,0 +1,14 @@
+source_doc: 1 18	A gentle, chime-like sound could be heard as rays of light began to leak out from Linley’s chest area. And then, a cage of light surrounded the pitch-black Coiling Dragon ring, which slowly flew out from under Linley’s pajamas and began to hover roughly ten centimeters away from him.
+
+
+score: 0.763733, para: 1 17	But since it was being worn underneath his clothes, no one could possibly notice the faint light coming off from the surface of the Coiling Dragon ring.
+
+score: 0.735867, para: 2 3	A ray of light shot out of the Coiling Dragon Ring and transformed into the white-robed Doehring Cowart.
+
+
+score: 0.731184, para: 1 23	Doehring Cowart flew out from within the Coiling Dragon Ring. Standing next to Linley, he looked at the black mouse with some surprise. “A magical beast, a Shadowmouse? And judging by its size, a Shadowmouse infant.”
+
+
+score: 0.721610, para: 2 6	From within the Coiling Dragon Ring, Doehring Cowart flew out. His white beard fluttering happily, he said, “Linley, the little guy is setting up a ‘bond of equals’ formation.”
+
+

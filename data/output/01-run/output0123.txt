@@ -1,0 +1,15 @@
+source_doc: 1 2	“That’s enough. You are missing one of your front teeth. When you smile, you let the wind in.” Hillman laughed. “Go, go home.”
+
+
+score: 0.621574, para: 2 5	The next day, after lunch. The Baruch family’s front courtyard.
+
+
+score: 0.570975, para: 2 8	“Exceptional affinity for the wind element?” The nearby Doehring Cowart was shocked.
+
+
+score: 0.569189, para: 1 4	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+
+score: 0.569065, para: 1 9	Staring at the Velocidragon, Linley watched as its whip-like tail snapped about, dancing in front of it.
+
+

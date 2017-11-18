@@ -1,0 +1,20 @@
+source: 02 10 49	Late night, the Baruch family ancestral hall. Only Linley and his father were present.
+
+score: 0.761001, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+score: 0.761001, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+score: 0.761001, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+score: 0.761001, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+score: 0.661111, para: 01 3 45	Hogg proudly said, “Our ancestral heirloom – the warblade, “Slaughterer”. This was the weapon used by the very first leader of the Baruch clan, the very first Dragonblood Warrior of the Yulan continent. Alas…his descendants were unfilial. Six hundred years ago, because of poverty, a descendant who loved luxury actually sold our ancestral weapon for money.”
+
+score: 0.661111, para: 01 3 45	Hogg proudly said, “Our ancestral heirloom – the warblade, “Slaughterer”. This was the weapon used by the very first leader of the Baruch clan, the very first Dragonblood Warrior of the Yulan continent. Alas…his descendants were unfilial. Six hundred years ago, because of poverty, a descendant who loved luxury actually sold our ancestral weapon for money.”
+
+score: 0.661111, para: 01 3 45	Hogg proudly said, “Our ancestral heirloom – the warblade, “Slaughterer”. This was the weapon used by the very first leader of the Baruch clan, the very first Dragonblood Warrior of the Yulan continent. Alas…his descendants were unfilial. Six hundred years ago, because of poverty, a descendant who loved luxury actually sold our ancestral weapon for money.”
+
+score: 0.661111, para: 01 3 45	Hogg proudly said, “Our ancestral heirloom – the warblade, “Slaughterer”. This was the weapon used by the very first leader of the Baruch clan, the very first Dragonblood Warrior of the Yulan continent. Alas…his descendants were unfilial. Six hundred years ago, because of poverty, a descendant who loved luxury actually sold our ancestral weapon for money.”
+
+score: 0.629496, para: 01 2 56	The members of the Baruch clan only stayed in the front side of the manor. The areas in the far back, virtually no one went there to clean. Only the ancestral hall in the back did they ever visit, once a month, to clean.
+

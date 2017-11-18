@@ -1,0 +1,12 @@
+source: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+
+score: 0.644415, para: 01 2 46	“Young master Linley, your father is looking for you. Let me carry young master Wharton.” A brandy-nosed old man walked over. This brandy-nosed old man was the Baruch clan’s housekeeper, Hiri (Xi’li). In the entire manor, aside from the housekeeper, there wasn’t even a serving girl.
+
+
+score: 0.623898, para: 01 17 30	Uncle Hiri smiled at Hogg. “Not bad. Linley is in excellent physical shape, and he hasn’t fainted. There shouldn’t be too much to worry about. In the coming days, he just needs to eat more meat to replenish his blood, and he’ll be fine.”
+
+
+score: 0.606151, para: 01 18 22	Hiri chuckled. “Lord, please be at ease. I’ve already washed and cleaned young master Linley’s wounds, then re-bandaged them. I’ve made him eat a big meal, and then change his clothes and go to bed. By the time he wakes up, he’ll be much better.”
+
+

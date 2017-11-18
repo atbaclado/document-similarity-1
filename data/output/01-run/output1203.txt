@@ -1,0 +1,15 @@
+source_doc: 2 6	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+
+score: 0.708704, para: 1 7	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.701447, para: 1 4	“Big brother!” Upon seeing Linley, the healthy-looking Wharton rushed over.
+
+
+score: 0.695324, para: 1 1	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+
+score: 0.666177, para: 1 17	Housetaker Hiri, off to the side, said, “This was my fault. This disaster came too suddenly, and as soon as I had taken Wharton into the warehouse, I saw young master Linley in great danger, so I immediately rushed forward to help him. I didn’t imagine that in just that instant, a huge boulder would head for the warehouse. This was my fault.”
+
+

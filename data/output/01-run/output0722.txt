@@ -1,0 +1,15 @@
+source_doc: 1 18	“Hillman, lead the guard squad to do some more scouting about the township. Uncle Hiri, go and get some rest.” Hogg directly instructed.
+
+
+score: 0.617741, para: 1 8	“Thank you, Uncle Hillman. I definitely won’t run around.” Linley was overjoyed.
+
+
+score: 0.607915, para: 1 1	The leader’s name was Hillman (Xi’er’man). He was the captain of the guard for the Baruch (Ba’lu’ke) clan, the noble clan which owned Wushan town.
+
+
+score: 0.585855, para: 1 20	“Grandpa Doehring, why didn’t Uncle Hiri see you just then?” Linley mentally asked Doehring Cowart.
+
+
+score: 0.581631, para: 2 5	“Yes, Uncle Hillman.”
+
+

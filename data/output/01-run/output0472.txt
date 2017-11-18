@@ -1,0 +1,15 @@
+source_doc: 1 12	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+
+score: 0.816495, para: 2 5	While speaking, Hogg looked at Linley eagerly.
+
+
+score: 0.781222, para: 1 4	“Just this?” Hogg frowned.
+
+
+score: 0.781222, para: 1 5	“Five hundred?” Hogg frowned.
+
+
+score: 0.781222, para: 1 17	“Linley, how are you feeling?” Hogg said with concern.
+
+

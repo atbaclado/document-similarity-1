@@ -1,0 +1,20 @@
+source: 02 25 17	Linley continued to be a solitary figure at the Ernst Institute. The vast majority of his time each day was spend in arduous training at the back mountains.
+
+score: 0.630773, para: 02 18 52	Linley got most of his news regarding the Institute’s going-ons from his three bros, as Linley, who spent all his time training in the mountain, probably would be totally in the dark otherwise.
+
+score: 0.630773, para: 02 18 52	Linley got most of his news regarding the Institute’s going-ons from his three bros, as Linley, who spent all his time training in the mountain, probably would be totally in the dark otherwise.
+
+score: 0.630773, para: 02 18 52	Linley got most of his news regarding the Institute’s going-ons from his three bros, as Linley, who spent all his time training in the mountain, probably would be totally in the dark otherwise.
+
+score: 0.598167, para: 02 19 14	The yearly tournament went on for a bit over a month, which naturally was the wildest, most rowdy month each year at the Ernst Institute. During this frenetic period, Linley would only occasionally watch the battles of the fifth and sixth grade students. All of the rest of his time, he would quietly train by himself.
+
+score: 0.598167, para: 02 19 14	The yearly tournament went on for a bit over a month, which naturally was the wildest, most rowdy month each year at the Ernst Institute. During this frenetic period, Linley would only occasionally watch the battles of the fifth and sixth grade students. All of the rest of his time, he would quietly train by himself.
+
+score: 0.598167, para: 02 19 14	The yearly tournament went on for a bit over a month, which naturally was the wildest, most rowdy month each year at the Ernst Institute. During this frenetic period, Linley would only occasionally watch the battles of the fifth and sixth grade students. All of the rest of his time, he would quietly train by himself.
+
+score: 0.579378, para: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+
+score: 0.579378, para: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+
+score: 0.579378, para: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+

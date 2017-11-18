@@ -1,0 +1,30 @@
+source: 02 18 34	Instructor Trey grew somewhat impatient. As a sixth grade student, if one of Trey’s student became one of the top three in his grade, not only would he be rewarded, he would also gain a lot of face. Young people all cared about face.
+
+
+score: 0.763550, para: 02 16 28	“Greetings, everyone,” a handsome, yellow-haired youngster said with a smile. “I am a sixth grade student, Trey [Te’lei]. From today onwards, I will be responsible for teaching you wind-style magic. I live in dorm 0298, so if you have any questions after class ends, you can come find me there.”
+
+
+score: 0.599078, para: 02 17 68	Naturally, Trey recognized his own student. “This kid called Linley never talks in class. Even when experimenting in new spells, others will try them out, but he will just stand and watch from afar, never showing his strength. It seems…this kid called Linley is already a magus of the second rank. I remember him being one of our new students. Didn’t expect him to be so talented.”
+
+
+score: 0.597964, para: 02 17 64	Trey curiously walked in that direction. Based on his prowess as a magus of the sixth rank, his execution of the ‘Supersonic’ spell was far stronger than that of Linley’s. Like a passing fog or cloud, Trey easily and tranquilly flowed through the mountain.
+
+
+score: 0.561930, para: 02 17 71	“Hehe, looks like I have a genius amongst my students. Mm. Looks like this year, I should receive a reward when the first grade student competition commences.” A brilliant smile was on Trey’s face. As for Linley, right now, being in a meditative trance, he couldn’t sense anything more than a hundred meters away from him.
+
+
+score: 0.539404, para: 02 17 65	In the blink of an eye, Trey had reached a spot two hundred meters next to Linley.
+
+
+score: 0.533196, para: 02 17 62	Just then, Trey had utilized the ‘Windscout’ spell, and had sensed the earth-style magic which Linley had just cast.
+
+
+score: 0.524898, para: 02 17 66	Standing next to a large tree, Trey saw Linley from afar.
+
+
+score: 0.513974, para: 02 16 39	“A Saint-level magus can fly, yes, but the Ernst Institute can perhaps produce just one, at most, in a century! But we magi of the wind-style can, upon attaining the fifth rank, immediately execute the ‘Floating Technique’.” Trey said confidently, “And wind-style magi are extremely fast. When they execute the ‘Supersonic’ technique, they can dramatically increase their speed.”
+
+
+score: 0.508874, para: 02 17 63	Based on the magic vibrations, Trey was able to determine what spell it was.
+
+

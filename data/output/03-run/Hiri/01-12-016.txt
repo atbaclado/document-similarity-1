@@ -1,0 +1,9 @@
+source: 01 12 16	“My lord, young master Linley has already went home.” Hiri said from the side. “Although, when he left, he seemed to be in a daze. No clue what he was thinking about.”
+
+
+score: 0.607160, para: 01 16 45	“Young master Linley?” Seeing how Linley was acting, Hiri couldn’t help but feel shocked.
+
+
+score: 0.557017, para: 01 2 46	“Young master Linley, your father is looking for you. Let me carry young master Wharton.” A brandy-nosed old man walked over. This brandy-nosed old man was the Baruch clan’s housekeeper, Hiri (Xi’li). In the entire manor, aside from the housekeeper, there wasn’t even a serving girl.
+
+

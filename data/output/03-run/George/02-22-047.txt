@@ -1,0 +1,24 @@
+source: 02 22 47	George and Linley glanced at each other, and couldn’t help but chuckle bitterly.
+
+
+score: 0.710263, para: 02 19 26	George chuckled but didn’t speak.
+
+
+score: 0.641019, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.595452, para: 02 21 10	Reynolds and George were both calmly smiling as well, and were joking with Linley to the side.
+
+
+score: 0.573596, para: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+
+score: 0.572253, para: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+
+
+score: 0.529843, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+
+score: 0.500327, para: 02 20 43	Reynolds and George were also excited. Linley nodded as well as he calmly chuckled, “Someone wants to give us ten thousand gold? How can we refuse?”
+
+

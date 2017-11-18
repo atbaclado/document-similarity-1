@@ -1,0 +1,15 @@
+source_doc: 2 4	But unconsciously, he still used appearances to judge.
+
+
+score: 0.539442, para: 1 21	Doehring Cowart appeared very confident.
+
+
+score: 0.511821, para: 2 1	Linley was startled.
+
+
+score: 0.511821, para: 2 2	Linley now understood.
+
+
+score: 0.511821, para: 2 2	Linley nodded.
+
+

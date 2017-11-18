@@ -1,0 +1,15 @@
+source_doc: 1 21	Doehring Cowart appeared very confident.
+
+
+score: 0.749950, para: 1 13	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.716325, para: 2 1	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+
+score: 0.686172, para: 1 19	“Then Gramps, how is it that you appeared from within the ring just now?” Linley looked doubtfully at the old man.
+
+
+score: 0.672942, para: 1 1	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+

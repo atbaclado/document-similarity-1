@@ -1,0 +1,9 @@
+source: 02 19 40	Yale feared neither heaven nor hell, and cared tremendously about face.
+
+
+score: 0.544661, para: 02 15 45	“Expelled?” Yale stared. “If I really were to be expelled, my old man would probably kill me.” Expulsion by the Ernst Institute would result in an unbearably humiliating reputation. No one would be willing to shoulder it. After all, to have been accepted meant they were all talented people.
+
+
+score: 0.508860, para: 02 14 22	“Mm. You can leave now. Go back and tell my father that in the future, if there isn’t something urgent, not to bother me. Oh, right. Remember…every year, he can’t forget to transfer money into my magicite card. He should know very well that a magus needs a lot of money for his magistaff and socketable gems.” Yale said loudly and casually.
+
+

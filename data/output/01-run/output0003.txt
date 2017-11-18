@@ -1,0 +1,15 @@
+source_doc: 1 1	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+
+
+score: 0.709504, para: 2 3	The black Shadowmouse immediately moved and in the blink of an eye, appeared over ten meters away. His two guileless eyes stared towards the doorway, and he immediately saw Linley. His eyes were filled with caution.
+
+
+score: 0.691509, para: 1 13	Hearing these words, Linley’s eyes shone.
+
+
+score: 0.691509, para: 1 16	“Linley!” Hogg’s eyes turned red.
+
+
+score: 0.691509, para: 1 23	“What’s that?” Linley’s eyes widened.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 5	Unfortunately, even the vastest of hoards could not withstand so many years of auctions and sales. By this point in time, the number of valuable items within the clan was very few. Linley couldn’t help but turn to stare at the grandfather clock. “I wonder how long it will be before even this clock has to be sold off.”
+
+
+score: 0.670377, para: 1 3	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.664327, para: 1 3	As the current clan leader, Hogg also had this desire, but the clan’s economic situation was in dire straits. 180,000 gold coins of gold? Even if they sold off the manor and all their possessions, they might not be able to produce such a vast sum.
+
+
+score: 0.636969, para: 2 10	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.635573, para: 1 1	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+

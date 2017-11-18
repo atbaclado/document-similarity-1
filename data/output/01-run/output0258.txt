@@ -1,0 +1,15 @@
+source_doc: 1 4	Yesterday, he had read many books. Clearly, the Holy Union could be considered the ‘cultural center’ for the entire Yulan continent. At the same time, in terms of economic strength, it was on par with the Yulan Empire, making the two of them the most economically powerful entities in the world.
+
+
+score: 0.606988, para: 1 5	“Linley, do you know that amongst the hundreds of millions of people in the Holy Union, there are at least several million who have studied sculpting. But in the entire Holy Union, the number of true masters can be counted on one hand. In addition, if you don’t have a good instructor, you simply cannot succeed on your own.”
+
+
+score: 0.600323, para: 1 1	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.589038, para: 2 7	Linley laughed while nodding. “In the books, it is said that Fenlai City is the political, economic, and cultural capital of the entire Holy Union.”
+
+
+score: 0.588929, para: 1 17	“The legendary earth-style incantation of the tenth rank, a forbidden spell – the earth element ‘World Protector’. The power of this ‘World Protector’is extremely terrifying. It’s considered the most powerful offensive spell available to an earth-style magus.” Staring at the earthen giant, Hogg’s face had grown cold as he spoke.
+
+

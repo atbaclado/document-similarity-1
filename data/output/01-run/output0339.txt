@@ -1,0 +1,15 @@
+source_doc: 1 7	When Linley had strode forward by three steps, reaching the doorway, he came to a sudden halt, because he could clearly feel that he had stepped on something hard.
+
+
+score: 0.680244, para: 1 11	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.672771, para: 1 2	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.658201, para: 2 9	Linley stepped into the magical formation.
+
+
+score: 0.652739, para: 1 1	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+

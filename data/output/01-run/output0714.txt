@@ -1,0 +1,15 @@
+source_doc: 1 18	“Hillman, what’s the situation in Wushan township?” Hogg quickly asked.
+
+
+score: 0.708338, para: 1 5	“Forgive me.” Philip quickly apologized.
+
+
+score: 0.607951, para: 1 20	“Still feeling dizzy? Then go and get some rest.” Hogg hurriedly said.
+
+
+score: 0.590075, para: 1 1	“Lorry.” Hillman suddenly shouted.
+
+
+score: 0.590075, para: 1 20	Linley suddenly understood.
+
+

@@ -1,0 +1,30 @@
+source: 02 4 11	“Don’t be impatient.” Linley took the roasted chicken out of the clothsack.
+
+
+score: 0.723876, para: 02 2 28	“Grandpa Doehring, won’t this Shadowmouse run all over the place?” Linley was worried that if he went and got some roasted meat, he might come back to find the Shadowmouse had gone. There would be nothing he could do then.
+
+
+score: 0.617853, para: 02 3 6	“Linley, why aren’t you cooking it? Although the Shadowmouse will eat raw meat, his favorite is cooked meat.” Doehring Cowart’s voice sounded in Linley’s mind.
+
+
+score: 0.600833, para: 02 3 10	Linley self-confidently said, “I often have to coax little Wharton. Lemme tell ya, if you want to give a kid something, you can’t give them something too good, right off the bat. Otherwise, in the future, they’ll expect something really good every single time, or something even better. Right now, the Shadowmouse is chewing on rocks. If I give him some raw meat, he’ll be really happy. I’ll give him raw meat for seven or eight days, and then I’ll give him cooked meat. That will make him even happier.”
+
+
+score: 0.594031, para: 02 15 24	“Reynolds, I’ll tell you a secret. Bebe loves to eat roast meat. If in the future, you can feed him some roast ducks or roast chickens, I believe that he won’t be very hostile to you.” Linley laughed upon seeing Reynolds eyes shine.
+
+
+score: 0.555910, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.548941, para: 01 20 48	Linley mentally nodded as he grabbed a roasted leg of mutton and chewed on it.
+
+
+score: 0.540227, para: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+
+score: 0.516513, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.505740, para: 01 20 35	Linley felt quite surprised. His family was in poor economic straits, so normally their dinner was quite spartan. But today, they even had roast sheep?
+
+

@@ -1,0 +1,30 @@
+source: 01 5 20	“Philip, if you don’t wish to buy it, then forget about it.” Hogg was quite succinct.
+
+
+score: 0.672752, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.595443, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.579493, para: 01 3 60	“I believe you, I believe you,” Hogg laughed.
+
+
+score: 0.567728, para: 02 4 57	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+
+score: 0.551601, para: 01 3 54	Seeing the look on his father’s face, Linley consoled him, “Father, don’t be unhappy! I promise that one day, I will recover our family’s heirloom and bring it back to this manor.”
+
+
+score: 0.545683, para: 01 3 47	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.538548, para: 01 13 40	“No, not necessarily. If you have enough money, you can purchase a soul-binding scroll. When the time comes, all you have to do is to tear it apart, and it will automatically generate a soul-binding magical array. However, a soul-binding scroll is amazingly expensive,” Hogg said with a self-deprecating laugh.
+
+
+score: 0.531354, para: 02 10 35	Although he had many questions about how Linley might have entered a soulbinding pact with the little Shadowmouse, Hogg didn’t worry too much about it. Right now, he was in a wonderful mood.
+
+
+score: 0.526059, para: 01 4 48	“Just this?” Hogg frowned.
+
+

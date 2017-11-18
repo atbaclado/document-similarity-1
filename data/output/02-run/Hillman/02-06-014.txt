@@ -1,0 +1,20 @@
+source: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+score: 0.672303, para: 02 8 7	“Bebe, stick with Uncle Hillman for now. I’m going to take the test.” Linley mentally instructed the little Shadowmouse, who somewhat unwillingly shuffled around a bit under Linley’s clothes. But after multiple requests from Linley, the little Shadowmouse directly scurried into Hillman’s clothes.
+
+score: 0.672303, para: 02 8 7	“Bebe, stick with Uncle Hillman for now. I’m going to take the test.” Linley mentally instructed the little Shadowmouse, who somewhat unwillingly shuffled around a bit under Linley’s clothes. But after multiple requests from Linley, the little Shadowmouse directly scurried into Hillman’s clothes.
+
+score: 0.672303, para: 02 8 7	“Bebe, stick with Uncle Hillman for now. I’m going to take the test.” Linley mentally instructed the little Shadowmouse, who somewhat unwillingly shuffled around a bit under Linley’s clothes. But after multiple requests from Linley, the little Shadowmouse directly scurried into Hillman’s clothes.
+
+score: 0.665937, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+score: 0.665937, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+score: 0.665937, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+score: 0.656919, para: 01 1 60	“This must be Linley’s [Lin’lei] first day at training. Who would’ve thought he’d be so formidable?” Lorry said, amazed. Next time him, Roger and Hillman also noticed. Looking in that direction, they saw that to the north, a single brown haired boy was still holding firm. His lips tightened, the boy stared determinedly in front, both fists tightly clenched so hard that his fists were white.
+
+score: 0.656919, para: 01 1 60	“This must be Linley’s [Lin’lei] first day at training. Who would’ve thought he’d be so formidable?” Lorry said, amazed. Next time him, Roger and Hillman also noticed. Looking in that direction, they saw that to the north, a single brown haired boy was still holding firm. His lips tightened, the boy stared determinedly in front, both fists tightly clenched so hard that his fists were white.
+
+score: 0.656919, para: 01 1 60	“This must be Linley’s [Lin’lei] first day at training. Who would’ve thought he’d be so formidable?” Lorry said, amazed. Next time him, Roger and Hillman also noticed. Looking in that direction, they saw that to the north, a single brown haired boy was still holding firm. His lips tightened, the boy stared determinedly in front, both fists tightly clenched so hard that his fists were white.
+

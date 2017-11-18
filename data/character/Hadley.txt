@@ -1,0 +1,30 @@
+01 1 25	“Crap, the Head Monster is coming!” A golden-haired child with large, bright eyes named Hadley (Ha’de’li) said in a low voice.
+
+01 1 131	“See ya, Hadley!”
+
+01 1 132	Bidding farewell to his good friend Hadley, Linley went back, alone, to his home. After walking for a while, he saw the Baruch estates.
+
+01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+01 14 4	All the children were staring at Hadley with wide eyes.
+
+01 14 5	“Hadley, yesterday you were with us on the east side as well. You didn’t dare go over. How could you see all this?” A thirteen year old brown-haired child snorted.
+
+01 14 7	Hadley turned to stare at the thirteen year old youth. His eyes widening, he said, “Faura [Fu’la], you don’t believe me? When have I, Hadley, ever tricked anyone?”
+
+01 14 8	That brown-haired child named Faura said with a sneer, “Everyone knows what a big talker you are. When do you ever speak the truth? Hey everyone, why don’t you guys speak for yourselves; has Hadley ever told the truth?” Faura said to the children next to him.
+
+01 14 9	Those twelve to fifteen year old children all began to laugh. “Right on. This little scamp Hadley is always filled with nonsense.”
+
+01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+01 14 15	Those thirteen and fourteen year olds were more mature as well. They knew that Linley was a noble and not like them. Almost all of them addressed him as ‘young master Linley’. Only Hadley and the rest of the rascally seven and eight year olds still continued to directly address him as ‘Linley’, without regard for propriety.
+
+01 14 16	“Tell’m, Linley! Was I lying? Tell’m what happened!” Hadley rushed towards Linley, tugging Linley’s hand and secretly winking towards Linley.
+
+01 14 17	Linley couldn’t help but feel helpless. How was it that Hadley’s nonsense roped him into this conversation as well?
+
+01 14 23	“You hear that? I told you, that Velocidragon creature is really powerful!” Hadley began shouting loudly.
+
+01 14 24	That youth named Faura glanced at him, and was about to say something.
+

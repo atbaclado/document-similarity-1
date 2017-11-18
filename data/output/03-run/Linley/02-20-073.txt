@@ -1,0 +1,30 @@
+source: 02 20 73	Some of the fifth and sixth graders were a bit surprised. Just now, when facing the fireballs, Linley had been able to dodge while continuing to chant the words to a spell. From this one could tell how agile Linley was.
+
+
+score: 0.670585, para: 02 1 28	“Grandpa Doehring, then based on your words, this Shadowmouse is really amazingly fast. The Shadowmouse in front of me is slightly faster than even Uncle Hillman, but you are telling me that it is comparable to a Shadowmouse of the fourth rank. For a magical beast of the fourth rank to be faster than a warrior of the sixth rank…” Linley couldn’t help but sigh in amazement.
+
+
+score: 0.670571, para: 02 19 33	Reynolds nodded as well. “I also don’t like him. Our school’s number one genius, the third grader Dixie, won the third grade tournament. Look at how composed he was! The difference between the two is too huge. What’s more, the strongest amongst us first graders isn’t Rand.”
+
+
+score: 0.658537, para: 02 19 14	The yearly tournament went on for a bit over a month, which naturally was the wildest, most rowdy month each year at the Ernst Institute. During this frenetic period, Linley would only occasionally watch the battles of the fifth and sixth grade students. All of the rest of his time, he would quietly train by himself.
+
+
+score: 0.656069, para: 01 4 17	Linley growled to himself, “I’m stronger than everyone else now, only because of the Dragonblood in my veins. But since I can’t practice battle qi, my only options are to work hard, and to work harder! Since great grandfather was able to become a warrior of the seventh rank, then I shall…I shall become a warrior of the eighth rank. Or even the ninth rank! Nothing is impossible!”
+
+
+score: 0.640390, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.639033, para: 01 23 31	“As long as you work hard, Linley, I am fully confident that you can reach the eighth rank. But as to whether or not you can become a magus of the ninth rank, or even a Saint-level magus? That will depend on your own comprehension and your experiences.” Doehring Cowart said seriously. “If you do not work hard, I’m afraid you might not even become a magus of the sixth rank. At that point in time, you’ll have no one else to blame.”
+
+
+score: 0.633130, para: 02 25 63	Linley quickly and casually floated through the forests, while the little Shadowmouse ‘Bebe’ continued to chat with him nonstop through their mental link. “Boss, when are we gonna go to the Mountain Range of Magical Beasts to test our strength? You are already a magus of the fifth rank. You can begin to test yourself. And I, Bebe, will finally be able to show my awesome abilities.”
+
+
+score: 0.631551, para: 02 17 55	Linley would never be able to forget the words his father had said to him when he left. “If you cannot bring it back, even when I die, I won’t forgive you!” These words had pierced Linley’s heart like a sharp knife, and he was constantly reminded of them.
+
+
+score: 0.628884, para: 01 8 28	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+

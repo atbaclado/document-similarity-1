@@ -1,0 +1,24 @@
+source: 02 11 2	Hogg smiled. “Not only is it the Secret Dragonblood Training Method. This tome also discusses many things related to our Baruch clan. The Secret Dragonblood Training Tome is included within, as well as the method to create and control the Dragonblood Needles, as well as the history of some of the elders of our clan.”
+
+
+score: 0.583607, para: 01 13 10	“Let’s not discuss Saint-level magi for now. Even a magus of the eighth or ninth rank would be capable of using spells which contain shocking power and are able to change the course of a battle. This is why magi have such a high social standing.” Hogg said with a light chuckle.
+
+
+score: 0.548890, para: 01 4 63	“Today, we will study art,” Hogg said coldly. “As the descendent of a noble family, you must have a thorough understanding and appreciation of art. Art is what gives noblemen an aura of gravitas!” Hogg pulled out a large tome as thick as a fist, immediately opening it.
+
+
+score: 0.545952, para: 01 13 20	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.534022, para: 01 17 38	“The legendary earth-style incantation of the tenth rank, a forbidden spell – the earth element ‘World Protector’. The power of this ‘World Protector’is extremely terrifying. It’s considered the most powerful offensive spell available to an earth-style magus.” Staring at the earthen giant, Hogg’s face had grown cold as he spoke.
+
+
+score: 0.513486, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+
+
+score: 0.512865, para: 01 12 54	Hogg considered for a while, then said, “Linley, every year, when the army recruitment drive begins in deep autumn, in the royal capital of Fenlai City, there is a magus student recruitment testing drive. If you really wish to go, when autumn comes around, you can go take the test.”
+
+
+score: 0.512245, para: 01 17 39	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+

@@ -1,0 +1,9 @@
+source: 01 1 25	“Crap, the Head Monster is coming!” A golden-haired child with large, bright eyes named Hadley (Ha’de’li) said in a low voice.
+
+
+score: 0.551837, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.529528, para: 01 14 4	All the children were staring at Hadley with wide eyes.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 17	Just then, when he saw Linley charge over to protect Wharton, Hogg had truly been scared silly. He had truly been terrified that his sons would’ve died, just like that.
+
+
+score: 0.827886, para: 1 16	“How is that possible?!” Linley was truly scared silly.
+
+
+score: 0.692210, para: 1 12	“Not bad, not bad,” Hogg said proudly as he looked at Linley. “You really are a scion of our Dragonblood Warrior clan. You have our superior qualities. If a descendant of the Dragonblood Warriors were to be terrified of death, terrified of blood, of slaughter, then it would be an absolute joke.”
+
+
+score: 0.689730, para: 1 12	Upon hearing these words, Linley immediately understood. His father was happy at how he had not been terrified by the sight of the Velocidragon eating Luke alive.
+
+
+score: 0.666580, para: 1 15	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+

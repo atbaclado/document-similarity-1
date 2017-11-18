@@ -1,0 +1,15 @@
+source_doc: 1 18	Due to Linley’s head injury, Hiri had instructed everybody not to bother Linley and to let him get some rest. While Wushan township was a whirlwind of activity, Linley’s bedroom was peaceful and quiet. Linley himself had been drawn deeply into a world of dreams.
+
+
+score: 0.636760, para: 1 16	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+
+score: 0.632708, para: 2 11	“The events of the past happened too long ago. The real secrets of that era, this book has not revealed. All I know is that because of this, the dragon race sent representatives to engage in discussions with our Baruch clan’s clanlord. After this, our descendants no longer attempted this method. Later on, when our family line weakened, even when we wanted to drink dragon’s blood, we no longer were able to.” Hogg shook his head and sighed.
+
+
+score: 0.622390, para: 1 15	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+
+score: 0.609853, para: 1 11	Hogg and the other residents of Wushan township simply watched quietly from afar, not daring to make a sound, for fear of angering this powerful, mysterious magus.
+
+

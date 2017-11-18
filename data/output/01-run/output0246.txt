@@ -1,0 +1,15 @@
+source_doc: 1 4	“The four empires are the central Yulan Empire, the southeastern Rhine [Lai’yin] Empire, the eastern Rohault [Luo’ao] Empire, and the northern O’Brien [O’Bu’Lai’En] Empire.” After having said all this at one go, Linley let himself relax slightly.
+
+
+score: 0.592192, para: 2 7	The entire city of Fenlai was divided into two parts; East Fenlai City, and West Fenlai City. East Fenlai City was governed by the King of Fenlai, while West Fenlai City was managed by the Radiant Church. Because Fenlai City was both the kingdom’s capital as well as the Holy Capital, the opulence of Fenlai City could be matched by extremely few cities in the entire Yulan continent.
+
+
+score: 0.560562, para: 1 17	“It really did come too fast.” Hogg turned his head to stare at the eastern sky.
+
+
+score: 0.537222, para: 2 7	In addition, it also served as the ‘Holy Capital’ of the Holy Union, because the Radiant Church itself was headquartered in the western part of Fenlai City.
+
+
+score: 0.534470, para: 1 1	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+

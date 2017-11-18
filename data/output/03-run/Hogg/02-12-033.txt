@@ -1,0 +1,9 @@
+source: 02 12 33	“Linley, today you are going to go to the Ernst Institute and formally become an Ernst Institute student. When you graduate from the Ernst Institute, you will be a powerful magus! Before you depart, as your father, I want to say to you…” On this last day, Hogg had a belly full of things he wanted to speak to Linley.
+
+
+score: 0.565575, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.506430, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+
+

@@ -1,0 +1,30 @@
+source: 02 13 16	“My name is Linley. I’m from Fenlai Kingdom.” Linley courteously said to the boy called Reynolds.
+
+
+score: 0.632673, para: 01 19 35	Linley smiled brightly. “My name is Linley! Linley Baruch!”
+
+
+score: 0.626706, para: 01 19 44	“Gramps, you said your name is Doehring Cowart? Can I address you as Grandpa Doehring?” Linley suddenly said.
+
+
+score: 0.592961, para: 02 20 84	“Hi Linley, my name is Danni [Dan’ni], a water magus of the first rank. I’m glad to meet you.” Immediately, a golden-haired girl with a tall, slender figure walked over and said to Linley with a smile.
+
+
+score: 0.550743, para: 02 24 42	“You were that good? How come I’ve never heard of your name amongst the other grandmaster sculptors, then, Grandpa Doehring?” Linley said suspiciously.
+
+
+score: 0.542720, para: 01 5 11	“Oh, this adorable child must be your son, right Hogg?” Philip smiled very warmly at Linley. “Linley Baruch, right? May I address you as Linley?”
+
+
+score: 0.534374, para: 01 2 48	“I wonder why father summoned me?” Although he was young, Linley could sense that this time, his father had called him for something important.
+
+
+score: 0.532190, para: 02 9 12	“His name is Linley?” Some of the magus academy recruiters learned his name from the test administrators.
+
+
+score: 0.527996, para: 01 19 11	Linley immediately peered up at him and said, “What ‘Worldring’? This ring around my chest was left behind by elders of my ancestral clan. Its name is the ‘Coiling Dragon Ring’!”
+
+
+score: 0.525732, para: 02 16 32	“Hey, Linley, have you noticed? There’s lots of cute girls amongst the wind-style students. Check it. That little blonde girl just smiled at you.” Doehring Cowart, next to Linley, pointed as he spoke. “Based on what that little blonde girl just said, her name seems to be Delia [Di’li’ya]. Delia. Such a cute name. Based on my 1300 years of experience, when this little girl grows up, she’ll be a beauty for sure. Linley, smile at her and build a good foundation. That way, in the future, you’ll be able to advance the relationship.”
+
+

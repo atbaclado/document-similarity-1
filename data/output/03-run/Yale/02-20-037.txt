@@ -1,0 +1,15 @@
+source: 02 20 37	“Haha, don’t have the balls?” Yale pulled out a magicard, waving it around as he spoke.
+
+
+score: 0.628717, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.621245, para: 02 21 24	“There they are.” Yale suddenly shouted loudly.
+
+
+score: 0.585500, para: 02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+
+score: 0.518330, para: 02 14 20	Staring at his two dormmates, Yale became momentarily speechless as well. Besides Linley, the ghostly form of Doehring Cowart was holding his belly as he laughed uproariously. This made Linley ask him curiously, “Grandpa Doehring, why are you laughing?”
+
+

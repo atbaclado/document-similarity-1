@@ -1,0 +1,30 @@
+source: 01 1 101	After practicing the ‘Qi Building Stance’, the waist, back, thighs, shoulders, and other parts of the body would be harmonized. Now, almost all of the children were sitting, relaxed, on the ground. Hillman’s training program was nearly perfect in the difficulty levels he assessed on each age group.
+
+
+score: 0.646292, para: 01 14 36	Based on each squad’s ability, Hillman assigned different exercises. Under the guidance of the three adults, each child studiously completed each exercise. Today, the training atmosphere was totally different. Almost none of the children complained of being tired.
+
+
+score: 0.585037, para: 01 23 53	Due to his daily physical training exercises, Linley’s body was growing sturdier and sturdier. Because he often entered the meditative state and absorbed earth essence, Linley became calmer and more tranquil. Linley’s transformation caused his father Hogg and Hillman to both be amazed and overjoyed.
+
+
+score: 0.584497, para: 01 2 8	A hundred and twenty six children, all age seventeen, respectfully bowed towards Hillman. These youngsters normally did not attend training. They had all become adults, and had their own jobs to do. But since they had all been trained by Hillman since they were toddlers, they all considered Hillman to have been their benevolent master.
+
+
+score: 0.561272, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+
+score: 0.554742, para: 02 7 48	“This kid, Linley, is so hard working. Even at night, he is training his mental energy.” Seeing Linley seated cross-legged with his eyes closed, Hillman couldn’t help but silently praise him. Mental energy was extremely important to both magi and warriors!
+
+
+score: 0.536951, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+
+score: 0.515287, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.514016, para: 01 14 34	“Now, time to do our morning exercises. Same as always – face the sun, and begin the ‘qi-absorbing exercise’.” Hillman crisply began the day’s program, and immediately the three groups of children began to practice the ‘qi-absorbing stance’.
+
+
+score: 0.507429, para: 01 17 43	“Hillman, in a little while, accompany me in inspecting the situation of the residents of Wushan township.” Hogg said, and then looked at Hiri. “Uncle Hiri, after these two Saint-level combatants depart, take Linley home to change his clothes and make sure he gets some rest.”
+
+

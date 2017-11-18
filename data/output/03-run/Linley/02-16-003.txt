@@ -1,0 +1,30 @@
+source: 02 16 3	But since the majority of students were single element, they only had to take two hours of classes a day. Linley was dual-element, which meant each day he had just four hours of classes. But because these classes were on a voluntary basis, if you didn’t want to go, no one would force you.
+
+
+score: 0.604457, para: 02 8 41	By way of explaining, an ordinary magus might take ten hours to produce a certain amount of mageforce, but Linley would only require a single hour to get the same result.
+
+
+score: 0.577916, para: 02 25 17	Linley continued to be a solitary figure at the Ernst Institute. The vast majority of his time each day was spend in arduous training at the back mountains.
+
+
+score: 0.575523, para: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+
+score: 0.570174, para: 01 23 43	Every day, Linley would spend only six hours sleeping. All of his other time was spent in physical training, intellectual studies, magical instruction, and meditation. Six hours of sleep a day, frankly speaking, was simply not enough. In truth, entering the meditative state was extremely taxing, far more tiring than most people’s lives. Every day, Linley entered a very deep sleep for those six hours.
+
+
+score: 0.568611, para: 01 1 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.560557, para: 02 8 32	As time went on, the people in the main hall grew more and more numerous. The magical testing event would go on for seven days, so most people didn’t see the urge to come right away at the beginning. When Linley’s turn came, the line of test-takers had already stretched out the main doors of the cathedral.
+
+
+score: 0.555868, para: 01 1 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+
+score: 0.547419, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+
+score: 0.545278, para: 02 17 69	Linley already knew how to cast spells, so of course when the instructors told the other students to give it a try, he would just stand and watch.
+
+

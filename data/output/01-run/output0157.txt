@@ -1,0 +1,15 @@
+source_doc: 1 2	“Linley, have you heard of the legendary Four Supreme Warriors of the Yulan continent?” Turning his head, Hogg looked at Linley.
+
+
+score: 0.801526, para: 1 1	“Today, I will tell you about the legendary Four Supreme Warrior bloodlines which everyone in the continent knows about.” A look of awe appeared on Hillman’s face.
+
+
+score: 0.741869, para: 1 1	Slightly embarrassed, Hillman grinned, “Well, um, actually, I’m not too clear about exactly how powerful the Four Supreme Warriors are. After all, they are the stuff of legends. It’s been years since any were seen.”
+
+
+score: 0.740693, para: 1 1	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+
+score: 0.722116, para: 1 12	“Not bad, not bad,” Hogg said proudly as he looked at Linley. “You really are a scion of our Dragonblood Warrior clan. You have our superior qualities. If a descendant of the Dragonblood Warriors were to be terrified of death, terrified of blood, of slaughter, then it would be an absolute joke.”
+
+

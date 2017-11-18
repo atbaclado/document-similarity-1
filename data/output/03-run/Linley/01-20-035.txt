@@ -1,0 +1,30 @@
+source: 01 20 35	Linley felt quite surprised. His family was in poor economic straits, so normally their dinner was quite spartan. But today, they even had roast sheep?
+
+
+score: 0.655864, para: 01 13 1	At dinnertime, the three members of the Baruch clan and their housekeeper, Hiri, all shared dinner together. Little Wharton raised a cute ruckus at the dinner table, filling it with laughter. By the time dinner came to an end, the old housekeeper carried Wharton back to his room, while Linley and his father, Hogg, began to chat.
+
+
+score: 0.640393, para: 02 15 24	“Reynolds, I’ll tell you a secret. Bebe loves to eat roast meat. If in the future, you can feed him some roast ducks or roast chickens, I believe that he won’t be very hostile to you.” Linley laughed upon seeing Reynolds eyes shine.
+
+
+score: 0.559976, para: 02 4 33	Within the Baruch clan’s living room, candlelight flickered from within as Linley and his family, along with Housekeeper Hiri, were enjoying supper together on the long dining table.
+
+
+score: 0.559231, para: 02 7 20	There was a small restaurant near the guesthouse, so Linley and Hillman decided to have dinner there.
+
+
+score: 0.552571, para: 01 5 7	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+
+score: 0.543327, para: 02 19 22	There were many men and women dressed in student attire at the Huadeli Hotel. Those who were able to afford this place were generally those who had strong economic backgrounds. A casual table of dishes might cost a few dozen gold coins. If Linley had come by himself, he definitely wouldn’t be able to afford it.
+
+
+score: 0.528498, para: 01 1 134	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.505740, para: 02 4 11	“Don’t be impatient.” Linley took the roasted chicken out of the clothsack.
+
+
+score: 0.502454, para: 01 12 19	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+

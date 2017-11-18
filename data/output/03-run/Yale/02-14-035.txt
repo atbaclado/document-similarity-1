@@ -1,0 +1,30 @@
+source: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.705788, para: 02 15 42	George calmly smiled. “Yale, don’t grow complacent. Although there aren’t formal requirements for students, every year, there will be an ability test. Only if you advance a rank in power can you advance a grade. If you don’t work hard, do you plan to stay here for a century? What’s more, the Ernst Institute has a rule that if one does not become a magus of the sixth rank in sixty years, one will be expelled, no exceptions.”
+
+
+score: 0.647343, para: 02 15 16	Yale shook his head. “I’m not even a magus of the first rank yet. Based on my strength, maybe I could train a magical beast of the first or second rank, but what would I do with such a weak critter? And the infants of magical beasts of the seventh or eighth ranks are extremely hard to acquire. What’s more, the infants of those beasts are more powerful than me, even as babies.”
+
+
+score: 0.611407, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.603452, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+
+score: 0.600305, para: 02 22 20	“But it is quite difficult for a master sculptor to produce a masterpiece, since they naturally don’t want to make any mistakes at all.” Yale sighed as he spoke. “A masterpiece that is worthy of being venerated throughout the ages, requires talent, ability, and sometimes a sudden spark of genius.”
+
+
+score: 0.595581, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+
+score: 0.579201, para: 02 18 56	Yale pursed his lips. “Punk, you became a magus of the first rank on the road from the O’Brien Empire to the Ernst Institute. I wager that by now, you aren’t too off from becoming the magus of the second rank. That really is unfair.”
+
+
+score: 0.547130, para: 02 22 45	“Second bro, third bro, the two of you, ugh. I planned for us to have a good time tonight in Fenlai City, but you…ugh, you guys are so thin-skinned. I started having fun in those places when I was six years old.” Yale was still unhappily grumbling nonstop.
+
+
+score: 0.543137, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+

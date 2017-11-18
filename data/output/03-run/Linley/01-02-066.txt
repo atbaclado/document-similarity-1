@@ -1,0 +1,30 @@
+source: 01 2 66	Linley could feel his heart thumping frantically.
+
+
+score: 0.756491, para: 01 23 12	Linley felt his heart began thumping frantically. He was so excited he didn’t know what to say.
+
+
+score: 0.715296, para: 02 1 39	Hearing his words, Linley’s heart fluttered.
+
+
+score: 0.713949, para: 01 5 6	Hearing these words, Linley felt his heart twinge.
+
+
+score: 0.709729, para: 01 6 9	Upon coming to this realization, Linley’s heart began to pound.
+
+
+score: 0.705190, para: 01 8 29	Linley’s heart trembled.
+
+
+score: 0.656798, para: 01 8 34	Linley could also feel the fear which was in the hearts of Roger and Lorry.
+
+
+score: 0.652565, para: 02 6 34	“It really is the ‘bond of equals’?” Linley’s heart clenched. Even though he had guessed as much, he still felt stunned and excited.
+
+
+score: 0.624445, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 0.624445, para: 01 21 14	Linley’s heart was trembling.
+
+

@@ -1,0 +1,30 @@
+source: 02 4 49	“No.” Doehring Cowart said seriously. “I haven’t interacted with the Yulan continent for over five thousand years. Five thousand years, Linley! You must understand that many magi in the world have been continuously researching and developing new spells during this time period. Who knows how many new spells have been developed in the interim.”
+
+
+score: 0.667155, para: 01 13 14	Hogg replied, “Let’s discuss this question later. Linley, you should know that in the Yulan continent, an average person’s lifespan is around 120-130 years. Powerful magi and warriors can live for longer, usually up to two or three hundred years, or sometimes even four hundred years. The absolute limit to a person’s lifespan is five hundred years. Only those who have attained the legendary power of Saint-level combatants can live eternally, unbound by the dictates of time.”
+
+
+score: 0.655429, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.648516, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.634023, para: 01 5 42	“Linley, do you know that amongst the hundreds of millions of people in the Holy Union, there are at least several million who have studied sculpting. But in the entire Holy Union, the number of true masters can be counted on one hand. In addition, if you don’t have a good instructor, you simply cannot succeed on your own.”
+
+
+score: 0.622341, para: 02 17 16	Linley immediately walked off, quietly but quickly heading towards the mountains behind the school. There were thousands of students at the Ernst Institute, and there were also many magi who were researching new spells here. There were also many servers. In short, the Ernst Institute was a well-populated place.
+
+
+score: 0.621947, para: 02 9 4	Even the nearby nobles began to look at Linley with a new light in their eyes. For a person to have exceptional elemental affinity meant that they could generate mageforce in an extremely short period of time. The rest of the time could be spent on cultivating spiritual energy. His future prospects would therefore be unlimited.
+
+
+score: 0.611980, para: 01 13 21	This was the first time that Linley had ever heard about this. Only now did he learn that both magi and warriors relied on absorbing natural energy from the elements.
+
+
+score: 0.611022, para: 01 13 20	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.605840, para: 01 13 19	Linley had always considered it to be a fact of life that powerful warriors and magi could live for three or four hundred years. He had never considered the reason.
+
+

@@ -1,0 +1,20 @@
+source: 02 13 4	Restaurants, clothing stores, bars, and other sorts of service industries were all located on the campus itself. It could be said that the students of the Ernst Institute spent their entire lives within the campus.
+
+score: 0.685434, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.685434, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.685434, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.683999, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.683999, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.683999, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.609688, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.02 19 1	The mountain behind the Ernst Institute, a place of tranquility.
+
+score: 0.609688, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.02 19 1	The mountain behind the Ernst Institute, a place of tranquility.
+
+score: 0.609688, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.02 19 1	The mountain behind the Ernst Institute, a place of tranquility.
+

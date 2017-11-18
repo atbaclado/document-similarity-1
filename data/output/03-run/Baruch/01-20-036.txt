@@ -1,0 +1,30 @@
+source: 01 20 36	What Linley didn’t know was…when the rain of stones descended on the town, aside from men and women, even many animals were killed. The Baruch clan aside, even some poor families who rarely ate meat were enjoying an extravagant meal today.
+
+
+score: 0.638502, para: 02 10 40	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+
+
+score: 0.638310, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.623707, para: 01 12 19	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+
+score: 0.615619, para: 01 6 16	Linley very much enjoyed this feeling of searching for treasures in the ancient room. But he had forgotten something. If he could come up with this idea, wouldn’t his father, his grandfather, and the other elders of the Baruch clan also have thought of this?
+
+
+score: 0.604923, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.593386, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+
+score: 0.592010, para: 02 5 20	As dinner progressed, the conversation amongst the Baruch clan manors was quite cheerful.
+
+
+score: 0.584614, para: 01 7 34	The kindness which the Baruch clan had showed the commoners caused them to also be filled with love and goodwill towards Linley.
+
+
+score: 0.581388, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+

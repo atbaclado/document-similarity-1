@@ -1,0 +1,30 @@
+source: 01 4 51	How many duchies were there in the Holy Union? Linley’s memory was a bit hazy. He wasn’t sure if it was fifteen, or if it was seventeen. He couldn’t be sure.
+
+
+score: 0.678759, para: 02 5 11	“Grandpa Doehring, you knew Holy Emperor Ernst?” Linley was somewhat surprised.
+
+
+score: 0.632442, para: 02 5 8	“What is it, Grandpa Doehring?” Linley asked questioningly. “I bet all of the hundreds of millions of citizens in the six kingdoms and fifteen dukedoms of the Holy Union know about the legendary Holy Emperor Ernst of the Radiant Church.” Linley, also, knew much about the affairs and history of the legendary Holy Emperor Ernst.
+
+
+score: 0.584388, para: 02 7 17	Linley laughed while nodding. “In the books, it is said that Fenlai City is the political, economic, and cultural capital of the entire Holy Union.”
+
+
+score: 0.574708, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.553270, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.550508, para: 01 2 57	“But this isn’t the time to sacrifice to our ancestors. Why are we going to the ancestral hall?” Linley had a belly full of questions.
+
+
+score: 0.544081, para: 01 5 42	“Linley, do you know that amongst the hundreds of millions of people in the Holy Union, there are at least several million who have studied sculpting. But in the entire Holy Union, the number of true masters can be counted on one hand. In addition, if you don’t have a good instructor, you simply cannot succeed on your own.”
+
+
+score: 0.529983, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.520564, para: 02 1 48	Doehring Cowart felt very happy. “If little Linley really can tame this Shadowmouse, in the future, I can be a bit more at ease.” Doehring Cowart knew very well that as a spirit, he had no mageforce of his own at all. A Saint-level Grand Magus without mageforce really didn’t have many attacking abilities.
+
+

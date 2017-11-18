@@ -1,0 +1,15 @@
+source_doc: 1 12	Hogg considered for a while, then said, “Linley, every year, when the army recruitment drive begins in deep autumn, in the royal capital of Fenlai City, there is a magus student recruitment testing drive. If you really wish to go, when autumn comes around, you can go take the test.”
+
+
+score: 0.683397, para: 2 7	“Linley, get an early night’s rest. Tomorrow morning, you will participate in the magus assessment and recruitment event.” Hillman instructed.
+
+
+score: 0.648191, para: 1 17	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.645009, para: 2 4	“Oh, the magus testing and recruiting event?” Linley suddenly remembered this event.
+
+
+score: 0.632383, para: 2 5	Linley rubbed the little Shadowmouse’s head. “Alright, stop making a fuss. Tomorrow, I’m going to leave home and go to the capital. After the magus recruitment event is over, I’m going to be going to a magus academy. I’m afraid we won’t have many chances to meet after that.”
+
+

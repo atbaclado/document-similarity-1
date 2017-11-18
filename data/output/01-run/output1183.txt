@@ -1,0 +1,15 @@
+source_doc: 2 5	Hogg stood there, straight as a ramrod. Staring directly at Linley, he said, “Linley, Wushan township is located fairly close to the capital, just ninety or so kilometers away. You should be able to make it to the capital before nightfall. Remember, when you reach the capital, don’t cause any trouble. There are too many rich and powerful people in the capital.”
+
+
+score: 0.706047, para: 1 15	While running as fast as he could, Linley’s mind returned to the Black Dragon, its gray-robed rider, and the green-robed man. He couldn’t help but turn once again and look back at the eastern sky. Since all the buildings in the small town were fairly low in height, he could clearly see for hundreds of meters.
+
+
+score: 0.694507, para: 1 18	Hillman let out a pain-filled sigh. “We just ran some calculations. Over three hundred people died, and a thousand were injured.” The entire township only had a population of five thousand. This meant the casualty ratio was about 20%! And this was for those who lived in stone houses. This really was a diaster.
+
+
+score: 0.678342, para: 2 8	As time went on, the people in the main hall grew more and more numerous. The magical testing event would go on for seven days, so most people didn’t see the urge to come right away at the beginning. When Linley’s turn came, the line of test-takers had already stretched out the main doors of the cathedral.
+
+
+score: 0.664016, para: 1 16	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+

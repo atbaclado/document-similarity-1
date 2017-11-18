@@ -1,0 +1,15 @@
+source_doc: 1 12	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+
+score: 0.769424, para: 1 9	A hint of a smile played at Hillman’s lips. “That mysterious magus seems to be at odds with that party over there. Just stay here and watch. No need for us to interfere.” Hillman himself was only a warrior of the sixth rank. In truth, he didn’t dare to interfere either.
+
+
+score: 0.744681, para: 1 13	“The requirements for the former are very difficult. For a magical beast to willingly subordinate himself to you, perhaps the only way is to defeat the magical beast in direct combat. Only then would he willingly follow you. For example, if you wanted to subdue a Velocidragon, you would first have to be able to defeat that Velocidragon in battle.” His father’s words rendered Linley speechless.
+
+
+score: 0.729505, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.727645, para: 1 8	“At least a magus of the seventh rank. Perhaps even a magus of the eighth rank!” Roger’s fists couldn’t help but tremble as well. “I never imagined such an important individual would come to our home.”
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 4	A warrior of the ninth rank could be considered the most powerful expert in the entire country of Fenlai. A warrior of the eighth rank, although unable to restore the Baruch family to its former glories, would be able to dramatically improve its current situation.
+
+
+score: 0.790268, para: 1 1	Hillman knew quite well how much he himself had to suffer in order to become a sixth-ranked warrior, and how many life-and-death battles he had to experience. Even a warrior of the sixth rank was very difficult to become. A seventh, eighth, and ninth ranked warrior was of course only harder. As for a Saint-level warrior? Even in his dreams, Hillman didn’t dare imagine himself as one.
+
+
+score: 0.760560, para: 1 1	“Warriors are divided into nine ranks. I, a mere warrior of the sixth rank, can easily shatter boulders and kick down a large tree! But a ninth rank warrior, even within our country of Fenlai, would be considered a top level expert. But above the ninth rank warriors are the Four Supreme Warriors. They have surpassed the ninth rank warriors and can be considered the pinnacle of warriors. They belong to the level of legendary Saint-level warriors!” Hillman’s eyes were filled with excitement. “The legendary Saint-level warriors can melt giant icebergs, make the boundless sea roar with angry waves, make tall mountains crumble, make cities with millions of people collapse, and make meteors fall from the sky! They are absolutely undefeatable, the highest possible power.”
+
+
+score: 0.724699, para: 1 13	Hogg shook his head. “Can’t you think this through yourself? Magi only have weak bodies in comparison to warriors of the same rank, and not in absolute terms. For example, a magi of the eighth rank might have the same physical strength of a warrior of the second or third rank, even if he never engaged in any physical training. But of course, compared to a warrior of the eighth rank, his body would be very weak indeed!”
+
+
+score: 0.715421, para: 1 17	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+

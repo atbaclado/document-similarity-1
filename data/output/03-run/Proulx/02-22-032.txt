@@ -1,0 +1,12 @@
+source: 02 22 32	“Doehring Cowart, how can these people possibly compare to Grandmaster Proulx?” Linley shook his head and laughed helplessly. Proulx was the number one sculptor in the entire history of the Yulan continent.
+
+
+score: 0.619541, para: 02 24 45	“You don’t believe me?” Doehring Cowart stared at him. “Back in the day, when Proulx was just a young kid, he came to me and earnestly begged me to allow him to view my sculptures. After analyzing my sculptures, that kid Proulx had a mental breakthrough which in the end allowed him to become a grandmaster sculptor. As a matter of fact, he can even be considered a student of mine.”
+
+
+score: 0.607555, para: 02 21 45	Proulx, the number one sculptor in the history of the Yulan continent.
+
+
+score: 0.547247, para: 02 24 48	Proulx, the man who had been acclaimed throughout the ages at the finest sculptor in history, could be considered a student of Doehring Cowart.
+
+

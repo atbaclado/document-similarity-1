@@ -1,0 +1,14 @@
+source_doc: 2 11	“Father, who wrote this Secret Dragonblood Training Tome? Since it is so dangerous, why did he even include it?” Linley didn’t know what to say.
+
+
+score: 0.590730, para: 1 1	“Today’s training ends now,” Hillman announced.
+
+
+score: 0.527907, para: 1 1	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+
+score: 0.517665, para: 2 10	Linley looked suspiciously at the thick book he had just accepted. There were no words on the cover, but when he opened it, there were four big words printed on the first page – Secret Dragonblood Training Tome.
+
+score: 0.514427, para: 1 23	He couldn’t reveal the existence of Doehring Cowart to his father. Every morning and evening, he still needed to attend physical training, while later in the morning, he would have his lessons with his father on politics, religion, religious rites, warfare, geography, art…and all sorts of other lessons.
+
+

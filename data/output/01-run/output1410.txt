@@ -1,0 +1,14 @@
+source_doc: 2 11	Hogg smiled. “Not only is it the Secret Dragonblood Training Method. This tome also discusses many things related to our Baruch clan. The Secret Dragonblood Training Tome is included within, as well as the method to create and control the Dragonblood Needles, as well as the history of some of the elders of our clan.”
+
+
+score: 0.612248, para: 2 10	Linley looked suspiciously at the thick book he had just accepted. There were no words on the cover, but when he opened it, there were four big words printed on the first page – Secret Dragonblood Training Tome.
+
+score: 0.602219, para: 1 22	“If you have no instructor? No matter how much mageforce you have or how high your spiritual energy is, you won’t be able to execute a single spell!” Doehring Cowart smiled faintly. “The profound secrets of every magical spell lies in how to control mageforce and elemental essence to form the spell.”
+
+
+score: 0.598901, para: 1 13	“Let’s not discuss Saint-level magi for now. Even a magus of the eighth or ninth rank would be capable of using spells which contain shocking power and are able to change the course of a battle. This is why magi have such a high social standing.” Hogg said with a light chuckle.
+
+
+score: 0.579319, para: 1 22	Doehring Cowart laughed as he spoke. “In most magus academies, you can only study spells up to the sixth rank. Spells of the seventh, eighth, and ninth ranks, as well as Saint-level spells, are considered secrets. Only if you join a kingdom will you gain access to those special spells.”
+
+

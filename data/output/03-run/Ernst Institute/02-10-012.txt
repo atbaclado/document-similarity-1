@@ -1,0 +1,9 @@
+source: 02 10 12	Several names in bright red particularly stood out – “Ernst Institute” “Linley”.
+
+
+score: 0.520285, para: 02 12 8	Doehring Cowart, wearing a moon-white robe, was seated cross-legged next to him, a smile on his face as he enjoyed the surrounding scenery. Seeing Linley awaken, he laughed. “Linley, tomorrow you are heading to the Ernst Institute, yet you are still hard at work today?”
+
+
+score: 0.508973, para: 02 23 30	Linley tugged Hillman and said, “I won this magicrystal card from a rich kid who lost a magic duel with me. Let’s go to the Golden Bank of the Four Empires.” Right now, the guards at the Ernst Institute’s entrance no longer attempted to bar Hillman’s passage, because they recognized Linley, who had left earlier this morning.
+
+

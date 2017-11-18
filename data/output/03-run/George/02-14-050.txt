@@ -1,0 +1,21 @@
+source: 02 14 50	“George, you are ten? But you look the same as me.” Reynolds said to the side.
+
+
+score: 0.649969, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+
+score: 0.574022, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+
+score: 0.554014, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+
+score: 0.516604, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+
+score: 0.514272, para: 02 21 11	But in truth, neither Reynolds nor George had suffered much in the past.
+
+
+score: 0.505876, para: 02 15 29	Of the four bros, George was the most amiable and steadiest boy. Reynolds was the most childish one of them. Yale…was the playboy type. As for Linley, in the eyes of the other three boys, he was the most mysterious.
+
+

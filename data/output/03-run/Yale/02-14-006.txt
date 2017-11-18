@@ -1,0 +1,30 @@
+source: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.695637, para: 02 22 45	“Second bro, third bro, the two of you, ugh. I planned for us to have a good time tonight in Fenlai City, but you…ugh, you guys are so thin-skinned. I started having fun in those places when I was six years old.” Yale was still unhappily grumbling nonstop.
+
+
+score: 0.687187, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.661979, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.659050, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.642788, para: 02 17 14	“Yale, you pervert, stop tugging at me. Alright, time for me to go train. Tomorrow is the end of the month, I’ll hang out with you guys then.” Linley laughed. The last two days of each month, Linley let himself take two days break.
+
+
+score: 0.632843, para: 02 18 67	“Go enlist in the yearly tournament, Linley. You’ve gotta take part. Give those guys a good trampling and gain some prestige for dorm 1987.” Yale immediately said.
+
+
+score: 0.623148, para: 02 21 44	Linley felt some reservations about those types of places, and so he said, “Yale, forget it, what’s the point of us kids going to those places? Just now, you mentioned the Proulx Gallery? Since the Proulx Gallery names itself after the famous Grandmaster Proulx, it must be extraordinary. Let’s go check it out.”
+
+
+score: 0.622811, para: 02 22 10	“Uncle Cass, come in along with us. The other three can wait for us outside.” Yale instructed.
+
+
+score: 0.605560, para: 02 20 3	“Yeah!” Yale suddenly shouted loudly, his face filled with excitement. “That felt so good. Third bro, I didn’t expect you to be as strong as that!”
+
+

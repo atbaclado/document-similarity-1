@@ -1,0 +1,15 @@
+source_doc: 2 9	“Sir, it would be my honor to enroll within the Ernst Institute.” Linley said courteously.
+
+
+score: 0.509456, para: 1 2	“Wharton, what did you learn today?” Linley asked, smiling.
+
+
+score: 0.501384, para: 1 2	“Today’s evening training session ends now.” Hillman smiled. “Before leaving, however, everyone needs to first congratulate this next crop of children who are about to leave Wushan and join the army.”
+
+
+score: 0.496604, para: 1 4	“Enough, Wharton. I’ll play with you around noon.” Linley laughed.
+
+
+score: 0.480689, para: 2 7	“Linley, get an early night’s rest. Tomorrow morning, you will participate in the magus assessment and recruitment event.” Hillman instructed.
+
+

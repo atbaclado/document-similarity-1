@@ -1,0 +1,15 @@
+source_doc: 1 22	Doehring Cowart stroked his white beard, and contentedly said, “When casting spells, the most important thing for a magus is his ‘mageforce’ and his ‘mental energy’. If his mental energy is sufficiently powerful, he can even instacast spells, without need for any incantations. Magical incantations only serve a supplemental function.”
+
+
+score: 0.678267, para: 1 19	The old man smiled and nodded. “Linley, you must know that when most people die, their spirits will enter the Nether Realm! But because I was a Saint-level Grand Magus at the time of my death, my mental energy had obtained physical form. That was the only reason why I could temporarily resist the call of the Nether Realm and seal myself within the Coiling Dragon Ring. Right now, there is only one way for me to leave this ring – exhaust all of my remaining mental energy.”
+
+
+score: 0.666887, para: 2 7	“This kid, Linley, is so hard working. Even at night, he is training his mental energy.” Seeing Linley seated cross-legged with his eyes closed, Hillman couldn’t help but silently praise him. Mental energy was extremely important to both magi and warriors!
+
+
+score: 0.666625, para: 1 13	Seeing the expression on Linley’s face, Hogg couldn’t help but laugh. “There’s only two ways to acquire a magical beast companion. The first is to make the magical beast willingly subordinate himself to you and serve you. The second way is to use a soul-binding magical array to enslave the magical beast.”
+
+
+score: 0.665430, para: 1 17	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+

@@ -1,0 +1,30 @@
+source: 01 1 126	Hillman smiled slightly. “Although I’m not clear about the exact strength of the Four Supreme Warriors, I know this – a Saint-level mage maestro, which is to say a mage which has attained the Saint-level, can execute forbidden magical techniques and eradicate an entire army of tens of thousands, or an entire city. Since Saint-level mages are so powerful, I expect that Saint-level warriors can’t be that much weaker.”
+
+
+score: 0.695098, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.684545, para: 02 6 6	Next to them, Hillman turned his head towards them. Upon seeing the little Shadowmouse, he was shocked. “A magical beast! Is it a Stoneater Rat?” Hillman didn’t know too much about the various types of magical beasts, but there once was an entire army which had been devoured by Stoneater Rats, so most soldiers knew and feared rat-type magical beasts.
+
+
+score: 0.648987, para: 01 12 6	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+
+score: 0.615222, para: 01 15 37	“Captain, Lord Hogg ordered us to come assist you!” Twelve warriors had come flying out of the Baruch clan manor. As soon as they saw Hillman, they shouted at him.
+
+
+score: 0.612001, para: 01 14 30	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.600136, para: 01 5 16	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+
+
+score: 0.585671, para: 01 15 9	“A man in gray who was able to subdue a Black Dragon? And a Saint-level combatant who can fly?” The eight year old Linley was totally stunned, even after having witnessed the previous day’s amazing battle. Not only him; even Hillman, a warrior of the sixth rank, was totally flabbergasted.
+
+
+score: 0.578443, para: 01 9 2	A hint of a smile played at Hillman’s lips. “That mysterious magus seems to be at odds with that party over there. Just stay here and watch. No need for us to interfere.” Hillman himself was only a warrior of the sixth rank. In truth, he didn’t dare to interfere either.
+
+
+score: 0.564241, para: 02 6 61	Hillman was a worldly man, and of course he knew that taming a magical beast was an extremely difficult, extremely arduous matter. But just now, Linley had actually subdued a magical beast.
+
+

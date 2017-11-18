@@ -1,0 +1,15 @@
+source_doc: 1 21	Doehring Cowart began to speak faster and faster while laughing. “But of course, I’m just speaking of wide-range destructive spells, and not one-on-one battle magic.”
+
+
+score: 0.639939, para: 2 1	“Grandpa Doehring, then based on your words, this Shadowmouse is really amazingly fast. The Shadowmouse in front of me is slightly faster than even Uncle Hillman, but you are telling me that it is comparable to a Shadowmouse of the fourth rank. For a magical beast of the fourth rank to be faster than a warrior of the sixth rank…” Linley couldn’t help but sigh in amazement.
+
+
+score: 0.537447, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.537062, para: 1 23	“Your spiritual energy is ten times stronger than the average person of your age.” Doehring Cowart smiled as he spoke.
+
+
+score: 0.530055, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+

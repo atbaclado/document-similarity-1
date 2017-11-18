@@ -1,0 +1,15 @@
+source_doc: 1 2	Eyes brightening, Linley nodded. “I know. According to Uncle Hillman, the legendary Four Supreme Warriors are the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior.”
+
+
+score: 0.709133, para: 1 1	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+
+score: 0.702880, para: 1 1	“Today, I will tell you about the legendary Four Supreme Warrior bloodlines which everyone in the continent knows about.” A look of awe appeared on Hillman’s face.
+
+
+score: 0.690081, para: 2 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+
+score: 0.667696, para: 1 1	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+

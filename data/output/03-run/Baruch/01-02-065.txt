@@ -1,0 +1,30 @@
+source: 01 2 65	Suddenly, Hogg turned and focused his gaze on Linley. In a weighty voice, he said, “Linley, today, there are many things that must be done. But first, let me tell you some of the history of our Baruch clan.”
+
+
+score: 0.574833, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+
+score: 0.570349, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+
+score: 0.565335, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+
+score: 0.562262, para: 01 23 34	“Grandpa Doehring, please don’t worry. I won’t disappoint you, or my father, or the Baruch clan.” At this moment, Linley’s mind was filled with the image of the spirit tablet in front of the ancestral hall, and those illustrious names and stories engraved on the back.
+
+
+score: 0.560072, para: 01 6 25	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+
+score: 0.543383, para: 02 11 25	“The events of the past happened too long ago. The real secrets of that era, this book has not revealed. All I know is that because of this, the dragon race sent representatives to engage in discussions with our Baruch clan’s clanlord. After this, our descendants no longer attempted this method. Later on, when our family line weakened, even when we wanted to drink dragon’s blood, we no longer were able to.” Hogg shook his head and sighed.
+
+
+score: 0.538298, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.531142, para: 01 3 40	“Linley, at this point in time, the Baruch family just consists of you, me, and your little brother. I don’t have any extravagant hopes. I’ve never dared to dream of becoming a Dragonblood Warrior.” Hogg laughed at himself satirically. How could becoming a Dragonblood Warrior be an easy task?
+
+
+score: 0.525565, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+

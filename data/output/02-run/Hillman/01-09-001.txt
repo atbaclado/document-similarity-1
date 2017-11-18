@@ -1,0 +1,20 @@
+source: 01 9 1	“Captain, what’s going on up ahead?” Lorry said in a quiet voice to Hillman.
+
+score: 0.762143, para: 01 1 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+score: 0.762143, para: 01 1 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+score: 0.762143, para: 01 1 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+score: 0.762143, para: 01 1 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+score: 0.724466, para: 01 124 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+score: 0.724466, para: 01 124 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+score: 0.724466, para: 01 124 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+score: 0.617795, para: 01 1 150	Hillman, Roger, and Lorry all stared at Linley in surprise.
+
+score: 0.617795, para: 01 1 150	Hillman, Roger, and Lorry all stared at Linley in surprise.
+

@@ -1,0 +1,15 @@
+source_doc: 1 4	“Gotta hold it. Gotta hold it.” Linley constantly said to himself.
+
+
+score: 0.805430, para: 1 10	“Killing someone. No big deal. No big deal.” Linley forced himself to think these words repeatedly. “When I grow up and join the army, I too will have to kill people. Gotta hold on. Gotta hold on.”
+
+
+score: 0.634126, para: 1 1	“How long was I able to hold out?” Linley opened his eyes wide, looking around him.
+
+
+score: 0.623934, para: 1 1	Linley gritted his teeth. He could clearly feel that the tightness in his waist had already reached the limits of his endurance, to the point where it was almost going numb. “My body feels so heavy. I’m almost unable to control it. Hold, gotta hold for just a bit more.” By this point in time, of the six to eight year olds, only Linley remained.
+
+
+score: 0.622052, para: 2 6	“Uncle Hillman, hold it!” Linley finally managed to react.
+
+

@@ -1,0 +1,12 @@
+source: 02 21 30	This ‘Second Uncle’ of Yale’s immediately laughed and said, “Haha, did you grow impatient? Alright, your carriages are all ready. The last one is filled with some goods, I’ll have them clear them out so you have a place to sit. You are going to the Holy Capital, right?”
+
+
+score: 0.550746, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.541436, para: 02 20 3	“Yeah!” Yale suddenly shouted loudly, his face filled with excitement. “That felt so good. Third bro, I didn’t expect you to be as strong as that!”
+
+
+score: 0.503189, para: 02 14 20	Staring at his two dormmates, Yale became momentarily speechless as well. Besides Linley, the ghostly form of Doehring Cowart was holding his belly as he laughed uproariously. This made Linley ask him curiously, “Grandpa Doehring, why are you laughing?”
+
+

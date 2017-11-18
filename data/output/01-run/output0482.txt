@@ -1,0 +1,15 @@
+source_doc: 1 12	Hogg thoughtfully nodded.
+
+
+score: 0.612104, para: 1 4	“Father!” Linley respectfully bowed.
+
+
+score: 0.610293, para: 1 13	Linley quietly nodded.
+
+
+score: 0.593264, para: 2 11	Linley carefully flipped through it.
+
+
+score: 0.569602, para: 1 1	“All of you, stand firm!” Hillman coldly harrumphed.
+
+

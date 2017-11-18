@@ -1,0 +1,30 @@
+source: 01 19 35	Linley smiled brightly. “My name is Linley! Linley Baruch!”
+
+
+score: 0.819910, para: 02 13 49	Linley smiled and nodded.
+
+
+score: 0.705741, para: 02 14 8	“My name is Linley. I’m from the Holy Union’s Kingdom of Fenlai.” Linley smiled as well.
+
+
+score: 0.694404, para: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+
+score: 0.676197, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+
+score: 0.655884, para: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.650838, para: 02 18 46	“Harry [Ha’li], have you eaten dinner?” Linley smiled back in response.
+
+
+score: 0.632673, para: 02 13 16	“My name is Linley. I’m from Fenlai Kingdom.” Linley courteously said to the boy called Reynolds.
+
+
+score: 0.623453, para: 01 12 33	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+
+score: 0.614124, para: 01 5 11	“Oh, this adorable child must be your son, right Hogg?” Philip smiled very warmly at Linley. “Linley Baruch, right? May I address you as Linley?”
+
+

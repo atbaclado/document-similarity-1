@@ -1,0 +1,14 @@
+source_doc: 1 1	“Linley, Uncle Hillman has faith in you. I’m sure you’ll become a Saint-level warrior.” Staring at Linley, Hillman spoke firmly. These words of encouragement caused Linley’s eyes to shine. In Linley’s heart, as well, a desire arose.
+
+
+score: 0.696283, para: 1 14	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+
+score: 0.684092, para: 2 9	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+
+score: 0.652797, para: 2 7	“This kid, Linley, is so hard working. Even at night, he is training his mental energy.” Seeing Linley seated cross-legged with his eyes closed, Hillman couldn’t help but silently praise him. Mental energy was extremely important to both magi and warriors!
+
+
+score: 0.648377, para: 2 10	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+

@@ -1,0 +1,21 @@
+source: 02 18 1	A month had passed after Linley had become a magus of the second rank.
+
+
+score: 0.531258, para: 02 24 15	Linley felt his heart violently shudder. They were both nine years old, and Dixie was even a month younger than him. But he had already become a magus of the fourth rank, while Linley was only of the second rank.
+
+
+score: 0.530284, para: 01 19 7	Linley felt as though his entire mind had been turned muddy. This old grandpa had suddenly appeared out of nowhere, and claimed that he was a Grand Magus from the era of the Pouant Empire, which had been destroyed five thousand years ago. What could be more ridiculous than this?
+
+
+score: 0.523569, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.505825, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+
+score: 0.503274, para: 02 24 11	Dixie was nine years old as well, and in fact was actually a month younger than Linley. But this nine year old child had already become a magus of the third rank. Although it became harder and harder to progress in the higher ranks, a nine-year old magus of the third rank was still very astonishing.
+
+
+score: 0.502139, para: 01 11 29	Linley’s gaze suddenly turned towards the mysterious magus on the back of the Velocidragon. By appearances, the magus was much smaller and much weaker.
+
+

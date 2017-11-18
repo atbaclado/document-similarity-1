@@ -1,0 +1,30 @@
+source: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+
+score: 0.706458, para: 02 15 24	“Reynolds, I’ll tell you a secret. Bebe loves to eat roast meat. If in the future, you can feed him some roast ducks or roast chickens, I believe that he won’t be very hostile to you.” Linley laughed upon seeing Reynolds eyes shine.
+
+
+score: 0.667724, para: 02 25 66	“Quiet. If you keep on making a fuss, then today I won’t help you cook meat.” As soon as Linley spoke these words, Bebe immediately shut his mouth and didn’t make a sound.
+
+
+score: 0.660350, para: 02 6 59	“Haha, I’m fine. It’s just that Bebe has become my magical beast, now.” Linley was extremely happy. “Come, Bebe, hop onto my shoulder.” Immediately, the little Shadowmouse let out a happy squeal, then scurried onto Linley’s shoulder.
+
+
+score: 0.606406, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.595585, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.567339, para: 02 12 12	“Woosh!” A black shadow from far away came flashing towards them, appearing on Linley’s shoulders in the blink of an eye. It was the Shadowmouse, ‘Bebe’. Young Bebe leaned towards Linley, making a chewing motion with his mouth, while pointing at a nearby dead hare.
+
+
+score: 0.544571, para: 02 17 33	Linley chuckled and said, “You want to go out and play again? Fine, but don’t run off too far.” Linley had a lot of faith in Bebe. A year had passed since he had met the little guy, but although Bebe still hadn’t grown larger, and was still just twenty centimeters long, his speed had dramatically improved.
+
+
+score: 0.544544, para: 02 15 19	“Linley, this little Shadowmouse is named Bebe? Can you have Bebe allow me to cuddle him?” Reynolds gaze was glued to the little Shadowmouse.
+
+
+score: 0.530382, para: 02 15 22	“No, no way.” Bebe could also express some simple intentions to Linley through their soul link. At the same time, Bebe flashed his fangs towards Reynolds. “Squeak squeak!” He squeaked loudly, clearly very angry.
+
+

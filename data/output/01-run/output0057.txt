@@ -1,0 +1,15 @@
+source_doc: 1 1	All of the commoners were extremely eager to learn battle qi. Even Linley, this scion of a noble house, was extremely eager.
+
+
+score: 0.687279, para: 1 2	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+
+score: 0.661186, para: 1 4	Linley was on extremely good terms with the other kids. Although Linley was the child of a noble house, he was extremely kind to the children of commoners, and often helped them train as well.
+
+
+score: 0.640558, para: 1 3	“My clan, is actually the clan of the Dragonblood Warriors?” Linley was extremely excited.
+
+
+score: 0.630474, para: 2 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+

@@ -1,0 +1,20 @@
+source: 02 1 23	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+score: 0.603690, para: 02 7 30	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+score: 0.603690, para: 02 7 30	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+score: 0.603690, para: 02 7 30	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+score: 0.579737, para: 02 8 23	Doehring Cowart watched with interest from the side.
+
+score: 0.579737, para: 02 8 23	Doehring Cowart watched with interest from the side.
+
+score: 0.579737, para: 02 8 23	Doehring Cowart watched with interest from the side.
+
+score: 0.569185, para: 02 5 18	“I didn’t expect that after I died, Ernst would become so incredible.” Doehring Cowart laughed faintly.
+
+score: 0.569185, para: 02 5 18	“I didn’t expect that after I died, Ernst would become so incredible.” Doehring Cowart laughed faintly.
+
+score: 0.569185, para: 02 5 18	“I didn’t expect that after I died, Ernst would become so incredible.” Doehring Cowart laughed faintly.
+

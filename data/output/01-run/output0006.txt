@@ -1,0 +1,15 @@
+source_doc: 1 1	At a glance, he could tell that the teenagers in the southern group all were maintaining the stance calmly and breathed naturally. At the same time, all of them attained the goals of being stable and steady in their stance. Clearly, they had attained some degree of proficiency in the ‘Qi Building Stance.’
+
+
+score: 0.615173, para: 1 23	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+
+score: 0.613234, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.608232, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.583194, para: 1 3	“However, our clan still has hope. Perhaps in the future, one of our descendants will have the requisite density of dragonblood in their veins, and meet the requirements to become a Dragonblood Warrior. If they meet the requirements, after just a few decades of training, they would be able to become a true, full Dragonblood Warrior. And at that time, the Baruch clan would once more be restored to the glorious days of yore, when we were known as the Dragonblood Warrior Clan!” Hogg’s eyes shone. “Linley, you are six and a half now. According to our rules, at your age, the test to see if your blood has a high density of dragonblood will be fairly accurate. Today, I am going to test you.”
+
+

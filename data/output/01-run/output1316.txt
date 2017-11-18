@@ -1,0 +1,15 @@
+source_doc: 2 8	Because he knew how powerful a dual-element magus was; far more powerful than a single-element magus.
+
+
+score: 0.864009, para: 2 1	“And Shadowmice? How powerful is a Shadowmouse?” Linley asked.
+
+
+score: 0.864009, para: 2 1	There was a Shadowmouse not too far from him. Naturally, Linley wanted to know more about how powerful they were.
+
+
+score: 0.858185, para: 1 11	Linley suddenly had a powerful urge to become a powerful magus as well.
+
+
+score: 0.759526, para: 1 13	Linley wanted a magical beast of his own as well, such as a powerful Velocidragon.
+
+

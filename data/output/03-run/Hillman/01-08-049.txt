@@ -1,0 +1,30 @@
+source: 01 8 49	“Thank you, Uncle Hillman. I definitely won’t run around.” Linley was overjoyed.
+
+
+score: 0.779494, para: 02 5 52	“Yes, Uncle Hillman.”
+
+
+score: 0.629687, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+
+score: 0.629687, para: 02 23 27	“Right! Uncle Hillman.”
+
+
+score: 0.608377, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.607707, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+
+score: 0.605922, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+
+score: 0.605206, para: 01 7 35	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.596160, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+
+score: 0.594572, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+

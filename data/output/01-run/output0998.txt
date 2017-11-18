@@ -1,0 +1,15 @@
+source_doc: 2 1	Doehring Cowart felt very happy. “If little Linley really can tame this Shadowmouse, in the future, I can be a bit more at ease.” Doehring Cowart knew very well that as a spirit, he had no mageforce of his own at all. A Saint-level Grand Magus without mageforce really didn’t have many attacking abilities.
+
+
+score: 0.725585, para: 2 5	There was no way he could bring a little Shadowmouse into a magus academy.
+
+
+score: 0.720941, para: 2 5	“I don’t know how much time I will have to spend in a magus academy, or how many years I will be there for. Will we ever meet again?” Linley stroked the little Shadowmouse’s fur, somewhat unwilling to part from it. After playing with the little Shadowmouse for the past month, he had really come to care for the cute little Shadowmouse.
+
+
+score: 0.665790, para: 2 4	“This little guy is so adorable.” Linley was really beginning to like this little Shadowmouse more and more.
+
+
+score: 0.660876, para: 2 6	Hillman was a worldly man, and of course he knew that taming a magical beast was an extremely difficult, extremely arduous matter. But just now, Linley had actually subdued a magical beast.
+
+

@@ -1,0 +1,30 @@
+source: 02 18 27	His clan’s economic situation was in such terrible shape. If he could win some money, he wouldn’t mind attending the yearly tournament.
+
+
+score: 0.602783, para: 01 10 24	What sort of harm to the psyche would this bloody affair cause an eight year old child? Would it serve as a constant psychological trauma? Once a youth becomes traumatized by battle, his future accomplishments would be dramatically impacted.
+
+
+score: 0.578775, para: 01 20 52	The earlier events of the morning had left a lasting impression on Hogg. There was a moment when he even thought Linley had been crushed to death. After experiencing such an event, Hogg’s attitude towards Linley clearly had improved substantially.
+
+
+score: 0.572982, para: 01 1 134	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.570890, para: 02 20 9	Rand’s face went red, as his heart was filled with fury and shame. Staring at Linley, he shouted fiercely, “You, are you a magus? If you have the skills, compete with me using magic. What sort of behavior was that? A noble magus actually used the lowly skills of a warrior.” Rand was filled with anger and humiliation. He had just won the yearly tournament for the first graders, but just now, when Linley seized him by the throat and hoisted him up, he had been filled with the terrifying sense that his life was in the hands of another.
+
+
+score: 0.565807, para: 02 25 57	On the street, there were many people who, upon seeing Linley, began to discuss him amongst themselves. As the acknowledged genius of the Ernst Institute, no matter where he went, people would discuss him. But although Linley’s strength continued to increase, he still refused to participate in the yearly tournaments.
+
+
+score: 0.565310, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.554860, para: 02 20 52	“Today, I am going to engage in a magical duel with this kid Linley, with the loser paying ten thousand gold coins and having to avoid the other in the future. Everyone, please be my witnesses.” Rand said. He enjoyed the feeling of being watched by many. He didn’t suffer from any stage fright at all.
+
+
+score: 0.553789, para: 02 25 50	Linley and Dixie both could definitely be considered freaks of nature. But in the hearts of the vast majority, Linley was even more of a freak, because since the day he took the ability assessment for the fourth rank, he had spent only a year and a half before attaining the fifth rank.
+
+
+score: 0.549500, para: 01 5 7	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+

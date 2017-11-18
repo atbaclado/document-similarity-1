@@ -1,0 +1,15 @@
+source_doc: 1 14	Just like every other day, the empty ground east of Wushan township was filled with youths. Hillman and the other two teachers had not yet arrived, and so all the children were noisily and energetically chatting together. Naturally, the topic of their conversation was yesterday’s shocking battle.
+
+
+score: 0.655828, para: 1 16	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+
+score: 0.655604, para: 2 10	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+
+
+score: 0.636967, para: 1 4	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+
+score: 0.635544, para: 1 20	Linley’s heart was immediately filled with joy. But as he engaged in conversation with Doehring Cowart, he didn’t pay attention to where he walked, and he tripped over the doorway. Uncle Hiri, walking ahead of him, turned and laughed. “Young master Linley, watch where you walk.”
+
+

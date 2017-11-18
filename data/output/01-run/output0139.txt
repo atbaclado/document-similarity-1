@@ -1,0 +1,15 @@
+source_doc: 1 2	Entering the guest hall, in one corner there was a desk clock that was higher than Linley was tall.
+
+
+score: 0.520036, para: 1 5	Hogg sternly shook his head firmly. “The grandfather clock is not for sale! As for the sculpture, six hundred gold. Take it or leave it.”
+
+
+score: 0.496898, para: 1 20	Seeing Linley constantly glance at the corner of his bed, Uncle Hiri asked curiously, “Young master Linley, why are you staring at the side of your bed? Did you drop something? I can help you look for it.”
+
+
+score: 0.483305, para: 2 3	“The Shadowmouse is actually here staring at me.” Linley chuckled as he saw that Shadowmouse inside the courtyard watch him approach.
+
+
+score: 0.482622, para: 1 5	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+

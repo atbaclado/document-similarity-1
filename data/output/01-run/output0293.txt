@@ -1,0 +1,15 @@
+source_doc: 1 5	Philip’s housekeeper subsequently instructed two powerfully built warriors to lift and carry away the sculpture, which they did with difficulty.
+
+
+score: 0.624127, para: 1 6	“If I am able to find some valuable things and give them to father, no doubt he will be very happy.” Linley took a deep breath, then immediately entered a decrepit room next to the ancestral hall. Step by step, he walked carefully, wielding a sturdy wooden stick in his hands, which he used to strike down the cobwebs, allowing himself a more careful examination.
+
+
+score: 0.612666, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.604119, para: 1 14	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.601696, para: 1 17	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+

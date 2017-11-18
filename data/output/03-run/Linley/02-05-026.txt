@@ -1,0 +1,30 @@
+source: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.722504, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.682914, para: 02 9 20	At this point in time, all of the magus recruiters charged forth. “Hello, Linley. I come from the Lander [Lan’de] Magus Academy. Our Lander Magus Academy sincerely would like to admit you into our school. As long as you enroll with us, your entire tuition will be free, and every year we will even provide you with a thousand gold coins for living expenses. We will also invite an especially skilled magus teacher to personally train you.”
+
+
+score: 0.681796, para: 02 25 32	A white-robed Doehring Cowart smiled at him cheerily from the side. “Linley, starting today, you can just barely be considered to have mastered the basics. Have you felt that special feeling yet? But your work can only be considered to be a superficial pseudo-artwork. It’s only worthy of being placed in the standard hall at the Proulx Institute. If you show it off there, I would be humiliated. Destroy it.”
+
+
+score: 0.674908, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.673303, para: 02 17 71	“Hehe, looks like I have a genius amongst my students. Mm. Looks like this year, I should receive a reward when the first grade student competition commences.” A brilliant smile was on Trey’s face. As for Linley, right now, being in a meditative trance, he couldn’t sense anything more than a hundred meters away from him.
+
+
+score: 0.669544, para: 02 19 17	“Linley, your current assignment is to train hard and build up your strength. As far as combat experience goes, when you become a magus of the fifth rank, you should enter the Mountain Range of Magical Beasts and enter a series of genuine life-and-death experiences.” Doehring Cowart persuaded Linley.
+
+
+score: 0.669436, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+
+score: 0.661202, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+
+score: 0.658413, para: 02 2 6	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+

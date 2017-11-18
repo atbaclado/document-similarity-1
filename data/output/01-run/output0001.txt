@@ -1,0 +1,15 @@
+source_doc: 1 1	The leader’s name was Hillman (Xi’er’man). He was the captain of the guard for the Baruch (Ba’lu’ke) clan, the noble clan which owned Wushan town.
+
+
+score: 0.805534, para: 1 18	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+
+score: 0.644917, para: 1 2	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+
+score: 0.625328, para: 2 10	Wushan township. The Baruch clan manor.
+
+
+score: 0.612201, para: 2 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+

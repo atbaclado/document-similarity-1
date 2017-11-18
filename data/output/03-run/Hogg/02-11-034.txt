@@ -1,0 +1,21 @@
+source: 02 11 34	“Linley, it’s getting late. You should go back and get some rest.” Hogg laughed.
+
+
+score: 0.582347, para: 01 12 48	“It is possible.” Hogg nodded.
+
+
+score: 0.582347, para: 01 17 26	“Linley, how are you feeling?” Hogg said with concern.
+
+
+score: 0.582347, para: 01 18 35	“Ugh!” Hogg let out a long sigh.
+
+
+score: 0.582347, para: 02 23 39	Turning his head, Hogg said, “Hillman, you are back. Uh, what’s that on your shoulders?”
+
+
+score: 0.516044, para: 02 5 3	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.502963, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+

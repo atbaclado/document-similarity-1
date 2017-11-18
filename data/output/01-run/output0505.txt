@@ -1,0 +1,15 @@
+source_doc: 1 12	But Linley’s mind was still preoccupied thinking about that ‘Dance of the Fire Serpents’ and that Velocidragon.
+
+
+score: 0.625716, para: 1 1	“Saint-level warriors?” While walking, Linley was still thinking about that. “In the future, will I be able to become a Saint-level warrior?”
+
+
+score: 0.612366, para: 1 11	Linley’s breathing slowly began to stabilize. Swimming in his mind were images of those seven fire serpents, and how they had descended on the battlefield like a catastrophe of power.
+
+
+score: 0.603133, para: 1 20	Linley’s heart was immediately filled with joy. But as he engaged in conversation with Doehring Cowart, he didn’t pay attention to where he walked, and he tripped over the doorway. Uncle Hiri, walking ahead of him, turned and laughed. “Young master Linley, watch where you walk.”
+
+
+score: 0.600800, para: 2 4	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 2	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.705532, para: 2 5	“I don’t know how much time I will have to spend in a magus academy, or how many years I will be there for. Will we ever meet again?” Linley stroked the little Shadowmouse’s fur, somewhat unwilling to part from it. After playing with the little Shadowmouse for the past month, he had really come to care for the cute little Shadowmouse.
+
+
+score: 0.703590, para: 1 23	Every day, Linley would spend only six hours sleeping. All of his other time was spent in physical training, intellectual studies, magical instruction, and meditation. Six hours of sleep a day, frankly speaking, was simply not enough. In truth, entering the meditative state was extremely taxing, far more tiring than most people’s lives. Every day, Linley entered a very deep sleep for those six hours.
+
+
+score: 0.696383, para: 1 7	The youngsters nearby couldn’t help but stick out their tongues. He was just late by a short amount of time, but was punished with double duty training. Today, Linley probably wouldn’t have any time to go home and eat dinner.
+
+
+score: 0.692268, para: 1 1	The other man, Roger (Luo’jie), also walked over. Usually, when the children practiced the ‘Qi Building Stance’, it was time for the three of them to relax and freely chat, while paying attention to any child who decided to slack off.
+
+

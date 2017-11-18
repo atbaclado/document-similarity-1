@@ -1,0 +1,30 @@
+source: 02 19 58	“Oh, and this one.” Rand’s eyes shone as he stared at Linley. “How come I never knew that in Yale’s dorm, there was someone such as you?”
+
+
+score: 0.742567, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.722776, para: 02 20 42	“Let’s go.” Yale’s eyes were shining.
+
+
+score: 0.593307, para: 02 14 18	“What does ‘losing virginity’ mean?” Reynolds looked questioningly at Yale.
+
+
+score: 0.562874, para: 02 14 19	“Yeah, what’s ‘losing virginity’?” Linley also looked curiously at Yale.
+
+
+score: 0.560181, para: 02 15 13	“Good heavens, that’s a magical beast! Linley, you are really formidable. I’ve dreamed of having one since I was young.” Yale stared at Bebe, his eyes shining. “Although I have access to soulbinding formation scrolls, I don’t have the ability to force a magical beast to submit to me.”
+
+
+score: 0.558505, para: 02 18 66	“You really reached it?” Yale, Reynolds, and George’s eyes all bulged out. None of them expected it to be true.
+
+
+score: 0.546528, para: 02 14 11	“Exercise equipment?” Reynolds blinked at Yale. “Yale, what do you have those for? Are you going to be a warrior?”
+
+
+score: 0.527137, para: 02 23 3	Yale, George, and Reynolds all smiled at Hillman, then entered the Ernst Institute.
+
+
+score: 0.525564, para: 02 20 86	After speaking, Linley glanced expressively at his three bros. Yale and the others knew what he was thinking, and immediately, the four bros ignored everyone around them and departed, leaving behind that young lady, Danni, who frowned unhappily.
+
+

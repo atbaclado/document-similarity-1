@@ -1,0 +1,15 @@
+source_doc: 1 15	But Hillman quickly realized what was going on. Rapidly turning around, he shouted fiercely at all the children, “Everyone, go home right now! Go home and hide! NOW!” Hillman’s loud roar and his urgent expression stunned every child present.
+
+
+score: 0.674938, para: 2 2	“Wild rabbits have a fast reaction time, and run fast also. Best if I use magic.” Linley immediately began to chant the words to a magical incantation.
+
+
+score: 0.674866, para: 1 8	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.658768, para: 2 6	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+
+score: 0.656596, para: 1 18	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+

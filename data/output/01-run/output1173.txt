@@ -1,0 +1,15 @@
+source_doc: 2 5	Because Linley, after all, was already a magus of the first rank.
+
+
+score: 1.000000, para: 2 9	Enter the Yulan continent’s number one magus academy, the Ernst Institute? What did that represent?
+
+
+score: 0.730459, para: 1 20	If any other magus had been present and heard his words, they would have been astonished.
+
+
+score: 0.702975, para: 1 11	“This…this is what a magus is?” For the first time, the concept of a magus clearly imprinted itself in Linley’s mind.
+
+
+score: 0.699632, para: 2 9	“Linley, I come from the Welling [We’lin] Magus Academy. We…”
+
+

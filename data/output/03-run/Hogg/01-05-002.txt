@@ -1,0 +1,30 @@
+source: 01 5 2	“Is Hogg at home?” A clear voice rang out. The Baruch manor had no guards, so clearly, this person had already arrived within the manor grounds.
+
+
+score: 0.653752, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+
+score: 0.624791, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+
+score: 0.579870, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.548050, para: 01 12 50	Hogg waved his hand, motioning for Linley to calm down, before saying, “Linley, there have been magi in the lineage of our Dragonblood Warrior clan. However, there’s only been two in total. Linley, you should know that the most important thing for a magus is ‘natural talent’. Normally, only one person in ten thousand has the talent to become a magus. One in ten thousand! The chance really is very low. So, you’d best not have too much hope.”
+
+
+score: 0.528250, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.517216, para: 01 13 1	At dinnertime, the three members of the Baruch clan and their housekeeper, Hiri, all shared dinner together. Little Wharton raised a cute ruckus at the dinner table, filling it with laughter. By the time dinner came to an end, the old housekeeper carried Wharton back to his room, while Linley and his father, Hogg, began to chat.
+
+
+score: 0.511989, para: 02 10 36	“Fine, enough of that topic. Uncle Hiri, Hillman, lead the guards to make the arrangements right away. Tonight, I am going to host a magnificent banquet.” Hogg laughed loudly. Right now, his laughter was extremely full and carefree.
+
+
+score: 0.511512, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.510768, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+

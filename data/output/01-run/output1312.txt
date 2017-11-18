@@ -1,0 +1,15 @@
+source_doc: 2 8	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+
+score: 0.800773, para: 1 22	“Haha. Of course. Linley, did you think that a powerful magus could simply rely on the elemental essence already in his body? Impossible! Let’s look at forbidden-level magical spells. The mageforce in the body of a Saint-level magus can only provide 1% of the amount of essence needed. The other 99% can only be provided by natural, elemental essence.”
+
+
+score: 0.787039, para: 1 22	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+
+score: 0.769499, para: 1 23	“Good. Extremely good. Your affinity for earth elemental essence is extremely high.” Doehring Cowart’s face was wreathed in smiles. “Based on what I know, only perhaps one in a thousand magi would have as strong an affinity for earth elemental essence as you. Truly.”
+
+
+score: 0.760655, para: 1 23	He experienced, for the first time, the joy of absorbing elemental essence into his body, and then transforming it into mageforce.
+
+

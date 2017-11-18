@@ -1,0 +1,30 @@
+source: 02 17 68	Naturally, Trey recognized his own student. “This kid called Linley never talks in class. Even when experimenting in new spells, others will try them out, but he will just stand and watch from afar, never showing his strength. It seems…this kid called Linley is already a magus of the second rank. I remember him being one of our new students. Didn’t expect him to be so talented.”
+
+
+score: 0.624993, para: 02 18 10	The two sat together and chatted. Time passed quite quickly, and before they realized it, class had started. Instructor Trey energetically explained in front, and Linley sat beneath him, listening intently. But Delia, every so often, would sneak a peek at Linley.
+
+
+score: 0.599078, para: 02 18 34	Instructor Trey grew somewhat impatient. As a sixth grade student, if one of Trey’s student became one of the top three in his grade, not only would he be rewarded, he would also gain a lot of face. Young people all cared about face.
+
+
+score: 0.582778, para: 02 16 28	“Greetings, everyone,” a handsome, yellow-haired youngster said with a smile. “I am a sixth grade student, Trey [Te’lei]. From today onwards, I will be responsible for teaching you wind-style magic. I live in dorm 0298, so if you have any questions after class ends, you can come find me there.”
+
+
+score: 0.580946, para: 02 18 19	“Great.” Instructor Trey took out a duck feather quill pen and began to record down names, but after taking down ten or so names, he realized that Linley was busy chatting with Delia, apparently not interested in enrolling at all.
+
+
+score: 0.578654, para: 02 18 35	Instructor Trey leaned in towards Linley, saying in a low voice, “Linley, are you concerned about revealing your ability? I know that you are a magus of the second rank.”
+
+
+score: 0.577666, para: 02 18 17	“Naturally, we wind magic practitioners will also do battle. Everyone interested in enrolling, please speak to me.” Instructor Trey smiled as he spoke, but his gaze drifted towards Linley.
+
+
+score: 0.575371, para: 02 18 42	“Bah. This kid.” After recovering, Trey couldn’t help but laugh. The nearby Delia couldn’t help but cover her mouth and giggle as well.
+
+
+score: 0.544451, para: 02 18 11	“Alright, today’s class is over for now. But before class ends, there’s something I must inform you all about.” Instructor Trey smiled as he spoke.
+
+
+score: 0.537407, para: 02 18 37	How did Instructor Trey learn about his current level of power? After all, it was hard to judge one’s abilities from external appearances.
+
+

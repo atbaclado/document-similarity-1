@@ -1,0 +1,30 @@
+source: 01 6 25	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+
+score: 0.680452, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.679752, para: 02 22 24	“Grandpa Doehring,” Linley turned to look at Doehring Cowart. “This is just the main hall of the Proulx Gallery. There is an experts’ hall up front, as well as a masters’ hall.”
+
+
+score: 0.671427, para: 02 8 32	As time went on, the people in the main hall grew more and more numerous. The magical testing event would go on for seven days, so most people didn’t see the urge to come right away at the beginning. When Linley’s turn came, the line of test-takers had already stretched out the main doors of the cathedral.
+
+
+score: 0.670335, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+
+score: 0.656729, para: 01 2 33	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+
+score: 0.656230, para: 02 4 3	“Right, today I’ll give the little Shadowmouse some cooked meat.” Linley covered a wild chicken with a cloth sack, and then happily went to the back of the ancient courtyard in the manor.
+
+
+score: 0.654852, para: 01 1 133	The amount of land the Baruch manor was built upon was actually quite large. Moss was growing on the walls, and all sorts of ivy creepers twined up the walls as well. The scars of time were very apparent on the walls. The Baruch manor located in Wushan town was the ancestral home of the Baruch clan. An ancestral home which had existed for over five thousand years and endured countless renovations continued to stand here.
+
+
+score: 0.653399, para: 01 2 62	With the candles in the hall becoming lit, the entire hall immediately became very bright. Linley could instantly see the many spirit tablets placed in the very front of the hall. That thick, dense cluster of spirit tablets spoke volumes as to the age of the Baruch clan.
+
+
+score: 0.643457, para: 01 8 15	Just from looking at this huge magical beast, Linley felt as though its power was irresistible. Linley believed that with but a swipe of its enormous tail, most likely even the sturdiest stones of the houses of Wushan town would be disintegrated.
+
+

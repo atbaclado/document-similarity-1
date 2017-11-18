@@ -1,0 +1,15 @@
+source: 02 20 79	“Linley, thank you!” Rand said, bowing, causing Yale and others to be startled. And then, Rand stared at Linley and said resolutely, “But there will come a day when I will defeat you.”
+
+
+score: 0.729191, para: 02 19 25	Yale laughed. “It really was a shame. I didn’t expect Rand [Lan’de] to become number one in the end.”
+
+
+score: 0.619811, para: 02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+
+score: 0.612434, para: 02 21 8	Yale’s arm was around Linley’s shoulders, and he whistled a little tune while delightedly peering at the nearby Rand and his bros.
+
+
+score: 0.528140, para: 02 19 54	“Hmph.” Rand glanced at the table where Linley and the others were sitting. “Juice? You guys are still drinking juice? Oh, Yale, I really feel embarassed for you. The four bros of my dorm are all drinking victory wine. You guys are drinking juice?”
+
+

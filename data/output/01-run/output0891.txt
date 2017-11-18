@@ -1,0 +1,15 @@
+source_doc: 1 22	Meditation was one of the basic underpinnings of all magus’. It was needed for both absorbing elemental essence to transform it into mageforce, and for improving one’s spiritual energy. The first time entering a meditative state was the most difficult and dangerous one, but of course, under the guidance of a Saint-level Grand Magus, Linley wouldn’t find it too difficult.
+
+
+score: 0.757216, para: 1 23	“But naturally, elemental affinity is just one part. Spiritual energy is the most important of all! After all, given enough time, mageforce will naturally strengthen. But it’s extremely difficult to improve the spiritual energy of a magus.” Doehring Cowart said solemnly.
+
+
+score: 0.750705, para: 1 23	He experienced, for the first time, the joy of absorbing elemental essence into his body, and then transforming it into mageforce.
+
+
+score: 0.728101, para: 2 9	“Remember, when engaging in the spiritual essence test, you must hold strong. Resist for as long as you can.” Doehring Cowart said solemnly. “I don’t know much about the wind-style, so you absolutely must go to a magus academy. With such strong elemental essence affinities, it would be an absolute waste for you not to train in the wind-style.”
+
+
+score: 0.725264, para: 2 8	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+

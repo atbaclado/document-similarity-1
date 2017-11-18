@@ -1,0 +1,30 @@
+source: 02 13 51	“Farewell, Uncle Hillman.”
+
+
+score: 1.000000, para: 02 23 27	“Right! Uncle Hillman.”
+
+
+score: 0.802547, para: 02 5 52	“Yes, Uncle Hillman.”
+
+
+score: 0.762714, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+
+score: 0.663805, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+
+score: 0.629687, para: 01 8 49	“Thank you, Uncle Hillman. I definitely won’t run around.” Linley was overjoyed.
+
+
+score: 0.588514, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.580116, para: 02 23 15	Hillman laughed loudly and nodded. “Right. Your father was absolutely ecstatic. He excitedly drank wine with me until midnight. Your father said that his two sons are the absolute prides of his life. One is a mighty magus, and the other is a Dragonblood Warrior. Haha…”
+
+
+score: 0.555914, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+
+score: 0.543662, para: 01 18 40	“Hillman, lead the guard squad to do some more scouting about the township. Uncle Hiri, go and get some rest.” Hogg directly instructed.
+
+

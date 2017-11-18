@@ -1,0 +1,15 @@
+source_doc: 2 3	“Young master Linley is so formidable. He caught another wild hare.” The commoners in the town grinned as they watched him pass by.
+
+
+score: 0.715539, para: 2 5	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.691990, para: 1 20	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.672639, para: 2 6	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+
+score: 0.653891, para: 2 10	“Young master Linley, congratulations on being admitted to the Ernst Institute. In the future, young master Linley will no doubt become a mighty, powerful magus.” A clan guard laughed as he toasted Linley politely.
+
+

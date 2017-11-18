@@ -1,0 +1,15 @@
+source_doc: 1 15	“Quick, take these children home!” Hillman immediately ordered.
+
+
+score: 0.817907, para: 1 1	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+
+score: 0.817907, para: 1 13	Linley immediately understood.
+
+
+score: 0.817907, para: 1 22	“Magical incantations!” Linley immediately said.
+
+
+score: 0.817907, para: 1 23	Hearing this news, Doehring Cowart was immediately ecstatic.
+
+

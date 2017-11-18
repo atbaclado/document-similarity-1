@@ -1,0 +1,15 @@
+source_doc: 2 10	He felt the shame as well.
+
+
+score: 0.783166, para: 1 19	Suddenly, in his heart, Linley felt some pity for this old man.
+
+
+score: 0.627771, para: 2 1	Linley was startled.
+
+
+score: 0.627771, para: 2 2	Linley now understood.
+
+
+score: 0.627771, para: 2 2	Linley nodded.
+
+

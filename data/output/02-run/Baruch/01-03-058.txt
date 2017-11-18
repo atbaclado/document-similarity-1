@@ -1,0 +1,20 @@
+source: 01 3 58	Even if they were willing to sell, how could the decrepit Baruch clan afford the cost?
+
+score: 0.622685, para: 02 5 6	Unfortunately, the type of family which could collect the warblade ‘Slaughterer’ was not an ordinary one, and the current Baruch clan was far too weak.
+
+score: 0.622685, para: 02 5 6	Unfortunately, the type of family which could collect the warblade ‘Slaughterer’ was not an ordinary one, and the current Baruch clan was far too weak.
+
+score: 0.622685, para: 02 5 6	Unfortunately, the type of family which could collect the warblade ‘Slaughterer’ was not an ordinary one, and the current Baruch clan was far too weak.
+
+score: 0.604259, para: 01 2 28	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+score: 0.604259, para: 01 2 28	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+score: 0.604259, para: 01 2 28	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+score: 0.587962, para: 01 2 28 Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+score: 0.586914, para: 02 11 24	In the past, when the first, second, and third generation of Baruch clan members were all Dragonblood Warriors, the clan was in its glorious ascendancy. At that period in time, it wasn’t impossible to procure the blood of a Saint-level dragon.
+
+score: 0.586914, para: 02 11 24	In the past, when the first, second, and third generation of Baruch clan members were all Dragonblood Warriors, the clan was in its glorious ascendancy. At that period in time, it wasn’t impossible to procure the blood of a Saint-level dragon.
+

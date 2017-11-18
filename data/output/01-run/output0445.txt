@@ -1,0 +1,15 @@
+source_doc: 1 11	“That spell was called Dance of the Fire Serpents?” Linley was still standing there, totally awestruck.
+
+
+score: 0.626183, para: 1 12	For whatever reason, as he lay on the bed, Linley simply couldn’t fall asleep. He tossed and turned, his mind filled with images of the Velocidragon and the ‘Dance of the Fire Serpents’ which the magus had displayed.
+
+
+score: 0.624502, para: 1 19	In Linley’s mind, the huge body of the Velocidragon, the terrifying spectacle of the Dance of the Fire Serpents, and the countless boulders falling from the sky began to play over and over again, along with the spectacle of that proud man who stood on top of the Black Dragon.
+
+
+score: 0.590336, para: 1 16	In the blink of an eye, Wharton, Linley, and Hiri were totally trapped and pressed down under the falling rubble.
+
+
+score: 0.584025, para: 1 17	“The legendary earth-style incantation of the tenth rank, a forbidden spell – the earth element ‘World Protector’. The power of this ‘World Protector’is extremely terrifying. It’s considered the most powerful offensive spell available to an earth-style magus.” Staring at the earthen giant, Hogg’s face had grown cold as he spoke.
+
+

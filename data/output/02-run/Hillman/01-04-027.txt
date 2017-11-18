@@ -1,0 +1,20 @@
+source: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+score: 0.765057, para: 01 1 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.765057, para: 01 1 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.765057, para: 01 1 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.765057, para: 01 1 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.746900, para: 01 93 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.746900, para: 01 93 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.746900, para: 01 93 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.717172, para: 01 1 55	Hillman’s face was cold and callous, but in his heart, he secretly nodded. He was still very satisfied with the performance of these six and seven year olds.
+
+score: 0.717172, para: 01 1 55	Hillman’s face was cold and callous, but in his heart, he secretly nodded. He was still very satisfied with the performance of these six and seven year olds.
+

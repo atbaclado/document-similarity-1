@@ -1,0 +1,14 @@
+source_doc: 2 11	“Makes sense. Even if someone acquires it, it would be useless.” Linley immediately began to more curiously flip through the pages of the tome and read through each section.
+
+
+score: 0.647525, para: 1 13	He had read of this in his books as well.
+
+
+score: 0.628123, para: 2 10	Linley looked suspiciously at the thick book he had just accepted. There were no words on the cover, but when he opened it, there were four big words printed on the first page – Secret Dragonblood Training Tome.
+
+score: 0.614342, para: 1 22	Linley had read many books and therefore understood this principle.
+
+
+score: 0.568854, para: 1 13	“No, not necessarily. If you have enough money, you can purchase a soul-binding scroll. When the time comes, all you have to do is to tear it apart, and it will automatically generate a soul-binding magical array. However, a soul-binding scroll is amazingly expensive,” Hogg said with a self-deprecating laugh.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 22	How would his affinity rate?
+
+
+score: 0.744521, para: 2 8	“Whoah, I, I have affinity for the wind-style as well?” Linley was stunned. He couldn’t help but turn to look at Doehring Cowart.
+
+
+score: 0.677822, para: 2 8	“Exceptional affinity for the wind element?” The nearby Doehring Cowart was shocked.
+
+
+score: 0.638382, para: 1 23	“Grandpa Doehring, why aren’t you talking? How is the strength of my affinity for earth elemental essence?” Linley said nervously.
+
+
+score: 0.538042, para: 1 1	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+

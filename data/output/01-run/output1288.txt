@@ -1,0 +1,15 @@
+source_doc: 2 7	This morning, many people were gathered around the entrance to the Cathedral of the Radiant Church. The vast majority of the people there were richly dressed noblemen. Countless carriages filled up the space in front of the Radiant Cathedral, and the various nobles chatted to each other.
+
+
+score: 0.745778, para: 2 10	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+
+
+score: 0.684088, para: 1 6	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+
+score: 0.660713, para: 1 1	The amount of land the Baruch manor was built upon was actually quite large. Moss was growing on the walls, and all sorts of ivy creepers twined up the walls as well. The scars of time were very apparent on the walls. The Baruch manor located in Wushan town was the ancestral home of the Baruch clan. An ancestral home which had existed for over five thousand years and endured countless renovations continued to stand here.
+
+
+score: 0.643793, para: 1 2	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+

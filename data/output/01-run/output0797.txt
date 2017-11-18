@@ -1,0 +1,15 @@
+source_doc: 1 20	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.746965, para: 2 7	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+
+score: 0.713512, para: 1 21	He quickly removed his shoes, then jumped onto the bed and sat down. “Grandpa Doehring, come out now. Help me test my magical aptitude.” Linley was extremely impatient. When he was eating dinner just now, all of his thoughts were turned towards this.
+
+
+score: 0.700792, para: 2 3	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.696198, para: 2 4	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+

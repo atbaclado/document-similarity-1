@@ -1,0 +1,15 @@
+source_doc: 1 6	“If these curtains weren’t ruined, no doubt they would be worth a lot of money.” Linley helplessly shook his head. He continued to inspect the room, using his stick to brush aside the layers of cobwebs as he carefully searched.
+
+
+score: 0.707784, para: 2 3	Some of the stones still showed signs of being chewed on, but despite scanning inside the entire building, he couldn’t see even the shadow of the Shadowmouse. Linley couldn’t help but feel despondent and miserable. “Grandpa Doehring, the Shadowmouse isn’t here anymore. It was just an hour. Did it leave already?”
+
+
+score: 0.673124, para: 1 22	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+
+score: 0.670037, para: 1 7	“String, string…” Linley hurriedly looked about for a thread on which he could hang the Coiling Dragon Ring. Suddenly, Linley’s gaze fell on a ruined old washcloth. His eyes lit up, and he immediately pulled a string out from within the washcloth.
+
+
+score: 0.669871, para: 1 14	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+

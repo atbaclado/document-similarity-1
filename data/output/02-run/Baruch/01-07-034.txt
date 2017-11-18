@@ -1,0 +1,20 @@
+source: 01 7 34	The kindness which the Baruch clan had showed the commoners caused them to also be filled with love and goodwill towards Linley.
+
+score: 0.664530, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+score: 0.664530, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+score: 0.664530, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+score: 0.661431, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+score: 0.661431, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+score: 0.661431, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+score: 0.661431, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+score: 0.637266, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+score: 0.637266, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+

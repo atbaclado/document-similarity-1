@@ -1,0 +1,30 @@
+source: 02 23 28	Hillman looked questioningly at Linley as he watched Linley withdraw a magicrystal card from his pockets. Hillman was shocked. “A magicrystal card?” Previously, when he was a soldier, he had seen magicrystal cards before.
+
+
+score: 0.562679, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+
+score: 0.550646, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.529330, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+
+score: 0.527433, para: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+
+score: 0.516316, para: 02 6 19	“Uncle Hillman, let’s go. Hehe, the little Shadowmouse is smart. He knows what I’m saying.” Linley said to Hillman. Hillman, who had been watching this spectacle with amazement, chuckled and then continued walking forward with Linley.
+
+
+score: 0.512002, para: 01 10 34	Hillman suddenly noticed a red gleam of excitement in Linley’s pupils. Surprised, he no longer tried to prevent Linley from watching. As Linley continued to watch the battle from afar, he saw that it was reaching an even bloodier climax.
+
+
+score: 0.511446, para: 02 13 52	Hillman and the old man both watched the children enter the Institute. Only after a long time did they depart.
+
+
+score: 0.511392, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.503863, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+

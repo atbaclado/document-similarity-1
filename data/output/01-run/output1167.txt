@@ -1,0 +1,15 @@
+source_doc: 2 5	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.758994, para: 2 4	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.689432, para: 2 4	“Oh, the magus testing and recruiting event?” Linley suddenly remembered this event.
+
+
+score: 0.671894, para: 1 7	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.646037, para: 1 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+

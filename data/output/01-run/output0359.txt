@@ -1,0 +1,15 @@
+source_doc: 1 7	In exchange for being late, he gained the Coiling Dragon Ring.
+
+
+score: 0.736144, para: 1 20	“He entered the Coiling Dragon Ring.” Linley could now clearly feel that a spirit was now residing within the Coiling Dragon Ring.
+
+
+score: 0.719061, para: 1 19	“Oh. Then that makes me the owner of the Coiling Dragon Ring.” Linley nodded.
+
+
+score: 0.715185, para: 1 19	“Gramps, can you tell me why you just appeared from within the Coiling Dragon Ring?” Linley questioned.
+
+
+score: 0.680319, para: 1 19	“Fine, fine, call it the Coiling Dragon Ring if you wish.” The old man chuckled, not wanting to debate with Linley.
+
+

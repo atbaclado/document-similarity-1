@@ -1,0 +1,20 @@
+source: 01 2 65	Suddenly, Hogg turned and focused his gaze on Linley. In a weighty voice, he said, “Linley, today, there are many things that must be done. But first, let me tell you some of the history of our Baruch clan.”
+
+score: 0.574833, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+score: 0.574833, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+score: 0.574833, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+score: 0.570349, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+score: 0.570349, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+score: 0.570349, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+score: 0.565335, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+score: 0.565335, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+score: 0.565335, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+

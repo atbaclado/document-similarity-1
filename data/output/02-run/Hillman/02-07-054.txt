@@ -1,0 +1,20 @@
+source: 02 7 54	Linley and Hillman had arrived here as well.
+
+score: 0.698113, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+score: 0.698113, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+score: 0.698113, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+score: 0.698113, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+score: 0.623702, para: 02 6 65	And with his squeaks to accompany them, Linley, Hillman, and the Shadowmouse disappeared off into the distance.02 7 6	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+score: 0.623702, para: 02 6 65	And with his squeaks to accompany them, Linley, Hillman, and the Shadowmouse disappeared off into the distance.02 7 6	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+score: 0.623702, para: 02 6 65	And with his squeaks to accompany them, Linley, Hillman, and the Shadowmouse disappeared off into the distance.02 7 6	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+score: 0.584278, para: 02 6 10	Hillman was startled.
+
+score: 0.584278, para: 02 6 31	Linley and Hillman watched, stunned.
+

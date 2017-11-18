@@ -1,0 +1,30 @@
+source: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.795141, para: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.746191, para: 01 6 24	Having made up his mind, Linley raced towards the large room.
+
+
+score: 0.661805, para: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.654495, para: 02 3 43	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.650033, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+
+score: 0.634520, para: 01 4 39	Hogg coldly nodded, and Linley quickly walked next to him.
+
+
+score: 0.629351, para: 01 7 2	When Linley had strode forward by three steps, reaching the doorway, he came to a sudden halt, because he could clearly feel that he had stepped on something hard.
+
+
+score: 0.613738, para: 01 6 19	“Nothing in this room. Next one…” Linley exited the first room and entered the second.
+
+
+score: 0.613077, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+

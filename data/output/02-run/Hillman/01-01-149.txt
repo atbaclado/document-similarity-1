@@ -1,0 +1,20 @@
+source: 01 1 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+score: 0.970041, para: 01 142 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+score: 0.970041, para: 01 142 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+score: 0.970041, para: 01 142 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+score: 0.693371, para: 01 2 4	“Today’s evening training session ends now.” Hillman smiled. “Before leaving, however, everyone needs to first congratulate this next crop of children who are about to leave Wushan and join the army.”
+
+score: 0.693371, para: 01 2 4	“Today’s evening training session ends now.” Hillman smiled. “Before leaving, however, everyone needs to first congratulate this next crop of children who are about to leave Wushan and join the army.”
+
+score: 0.693371, para: 01 2 4	“Today’s evening training session ends now.” Hillman smiled. “Before leaving, however, everyone needs to first congratulate this next crop of children who are about to leave Wushan and join the army.”
+
+score: 0.693371, para: 01 2 4	“Today’s evening training session ends now.” Hillman smiled. “Before leaving, however, everyone needs to first congratulate this next crop of children who are about to leave Wushan and join the army.”
+
+score: 0.656058, para: 01 144 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+score: 0.656058, para: 01 144 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+

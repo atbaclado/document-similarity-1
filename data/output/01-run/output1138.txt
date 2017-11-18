@@ -1,0 +1,15 @@
+source_doc: 2 4	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.758994, para: 2 5	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.708617, para: 1 22	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+
+score: 0.661751, para: 2 5	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+
+score: 0.653429, para: 1 14	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+

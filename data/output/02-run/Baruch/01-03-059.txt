@@ -1,0 +1,20 @@
+source: 01 3 59	“Father, you don’t believe me?” Raising his head, Linley looked at his father questioningly.
+
+score: 0.557387, para: 01 21 33	“Personal protection? Grandpa Doehring, you’re saying that the earth-style has the strongest personal protection spells?” Linley looked questioningly at Doehring Cowart.
+
+score: 0.554684, para: 01 5 7	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+score: 0.554684, para: 01 5 7	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+score: 0.554684, para: 01 5 7	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+score: 0.554684, para: 01 5 7	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+score: 0.553256, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+score: 0.553256, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+score: 0.553256, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+score: 0.553256, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+

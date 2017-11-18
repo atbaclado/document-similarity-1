@@ -1,0 +1,15 @@
+source_doc: 2 6	The little Shadowmouse suddenly rushed in Linley’s direction.
+
+
+score: 0.794404, para: 1 4	“Big brother!” Upon seeing Linley, the healthy-looking Wharton rushed over.
+
+
+score: 0.760480, para: 2 1	Linley suddenly understood. “So that is how it is!”
+
+
+score: 0.760480, para: 2 4	Linley suddenly understood.
+
+
+score: 0.726696, para: 1 1	“Lorry.” Hillman suddenly shouted.
+
+

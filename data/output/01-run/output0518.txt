@@ -1,0 +1,15 @@
+source_doc: 1 13	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+
+score: 0.763308, para: 1 1	“Warriors are divided into nine ranks. I, a mere warrior of the sixth rank, can easily shatter boulders and kick down a large tree! But a ninth rank warrior, even within our country of Fenlai, would be considered a top level expert. But above the ninth rank warriors are the Four Supreme Warriors. They have surpassed the ninth rank warriors and can be considered the pinnacle of warriors. They belong to the level of legendary Saint-level warriors!” Hillman’s eyes were filled with excitement. “The legendary Saint-level warriors can melt giant icebergs, make the boundless sea roar with angry waves, make tall mountains crumble, make cities with millions of people collapse, and make meteors fall from the sky! They are absolutely undefeatable, the highest possible power.”
+
+
+score: 0.757076, para: 1 12	And a magus of the eighth rank? Even if he was in the presence of a king, he would not need to kneel or show obeisance. He could just chat while staying standing. From this, one could tell how exalted a level an eighth rank magus held.
+
+
+score: 0.750406, para: 2 1	“Grandpa Doehring, then based on your words, this Shadowmouse is really amazingly fast. The Shadowmouse in front of me is slightly faster than even Uncle Hillman, but you are telling me that it is comparable to a Shadowmouse of the fourth rank. For a magical beast of the fourth rank to be faster than a warrior of the sixth rank…” Linley couldn’t help but sigh in amazement.
+
+
+score: 0.741697, para: 1 8	“At least a magus of the seventh rank. Perhaps even a magus of the eighth rank!” Roger’s fists couldn’t help but tremble as well. “I never imagined such an important individual would come to our home.”
+
+

@@ -1,0 +1,12 @@
+source: 01 1 126	Hillman smiled slightly. “Although I’m not clear about the exact strength of the Four Supreme Warriors, I know this – a Saint-level mage maestro, which is to say a mage which has attained the Saint-level, can execute forbidden magical techniques and eradicate an entire army of tens of thousands, or an entire city. Since Saint-level mages are so powerful, I expect that Saint-level warriors can’t be that much weaker.”
+
+
+score: 0.655360, para: 01 2 72	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+
+
+score: 0.585928, para: 01 2 70	“Linley, have you heard of the legendary Four Supreme Warriors of the Yulan continent?” Turning his head, Hogg looked at Linley.
+
+
+score: 0.551765, para: 01 2 71	Eyes brightening, Linley nodded. “I know. According to Uncle Hillman, the legendary Four Supreme Warriors are the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior.”
+
+

@@ -1,0 +1,20 @@
+source: 01 14 46	After saying these words, Hillman took a deep breath as he thought to himself, “What story should I tell them today?” Every day, when morning exercises were completed, Hillman would tell the children stories. This had turned into a routine.”
+
+score: 0.747454, para: 01 100 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.747454, para: 01 100 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.747454, para: 01 100 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.735419, para: 01 1 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.735419, para: 01 1 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.735419, para: 01 1 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.735419, para: 01 1 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.726161, para: 01 122 127	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+score: 0.726161, para: 01 122 127	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+

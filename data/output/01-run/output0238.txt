@@ -1,0 +1,15 @@
+source_doc: 1 4	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.678160, para: 1 5	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+
+score: 0.673642, para: 1 2	“Good!” Hillman stood ramrod straight as well. His cold gaze was filled with a military aura.
+
+
+score: 0.666287, para: 1 2	In the blink of an eye, another half year had passed. Training hard and strengthening his body, Linley passed through the gentle, warm spring, the blazing summer, and the chilly autumn. The white poplar tree next to the empty training field of Wushan would always scatter some dried leaves onto the ground whenever the wind blew. The leaves slowly whirled down, covering the entire training ground.
+
+
+score: 0.664665, para: 1 20	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+

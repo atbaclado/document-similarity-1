@@ -1,0 +1,15 @@
+source_doc: 2 3	Only Doehring Cowart was aware of this all, as he watched Linley mature.
+
+
+score: 0.849719, para: 2 8	Doehring Cowart watched with interest from the side.
+
+
+score: 0.677456, para: 2 6	“Squeak. Squeaaaaak!” The little Shadowmouse stood there, watching Linley.
+
+
+score: 0.660507, para: 2 4	Linley understood this logic.
+
+
+score: 0.660507, para: 2 9	Linley understood this as well.
+
+

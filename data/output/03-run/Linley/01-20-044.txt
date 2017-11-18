@@ -1,0 +1,30 @@
+source: 01 20 44	Hearing and seeing were two different things. When he personally witnessed all the other people at the dinner table be unaware of Grandpa Doehring’s presence, Linley felt deeply astonished.
+
+
+score: 0.643777, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.630458, para: 02 25 57	On the street, there were many people who, upon seeing Linley, began to discuss him amongst themselves. As the acknowledged genius of the Ernst Institute, no matter where he went, people would discuss him. But although Linley’s strength continued to increase, he still refused to participate in the yearly tournaments.
+
+
+score: 0.622805, para: 01 10 22	This was the first time Linley had seen a fight become so vicious and cruel. It was also the first time Linley had seen someone being eaten alive by a huge Velocidragon. The half-eaten leg, in particular, deeply buried itself in Linley’s mind.
+
+
+score: 0.621700, para: 01 13 1	At dinnertime, the three members of the Baruch clan and their housekeeper, Hiri, all shared dinner together. Little Wharton raised a cute ruckus at the dinner table, filling it with laughter. By the time dinner came to an end, the old housekeeper carried Wharton back to his room, while Linley and his father, Hogg, began to chat.
+
+
+score: 0.618286, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+
+score: 0.608135, para: 01 12 36	Upon hearing these words, Linley immediately understood. His father was happy at how he had not been terrified by the sight of the Velocidragon eating Luke alive.
+
+
+score: 0.601781, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+
+score: 0.596589, para: 02 11 31	“Linley, don’t ask too much. Honestly, I only know a little bit about our family history as well. As far as what happened four thousand years ago, there’s no way we can clearly know what happened.” Hogg laughed towards Linley.
+
+
+score: 0.594065, para: 02 4 17	It seemed as though this time, the little Shadowmouse had enjoyed his meal very much. He was so happy that he immediately began to hop up and down while squeaking at Linley, while even hugging Linley’s leg with his own front arms. Linley couldn’t help but feel pleased; this was the first time that the little Shadowmouse had acted so intimately towards him, even after eating.
+
+

@@ -1,0 +1,30 @@
+source: 02 20 75	“Cough, cough.” Rand stood up, clutching his chest.
+
+
+score: 0.663935, para: 02 19 66	With the wave of an arm, Linley slammed Rand to the floor, as though he were nothing more than a beanbag.
+
+
+score: 0.651383, para: 02 21 8	Yale’s arm was around Linley’s shoulders, and he whistled a little tune while delightedly peering at the nearby Rand and his bros.
+
+
+score: 0.633472, para: 02 19 61	“Wha, uh, uh…” Rand couldn’t make any noises come from his throat, and his eyes were filled with fear.
+
+
+score: 0.606091, para: 02 10 51	Linley stood behind him without making a sound.
+
+
+score: 0.590116, para: 02 19 60	Like a wild rabbit, he shot forward with incredible speed. Rand’s eyes only had time to widen. “You-!” Before he could even react, Linley grabbed Rand by the chest and, just based on physical strength, hoisted him in the air.
+
+
+score: 0.569702, para: 02 19 55	Seeing how Rand went on endlessly, Linley couldn’t help but begin to frown.
+
+
+score: 0.525567, para: 01 16 39	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+
+score: 0.524088, para: 02 6 64	And the little Shadowmouse, ‘Bebe’, stood happily on Linley’s shoulders and squeaked.
+
+
+score: 0.513839, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+

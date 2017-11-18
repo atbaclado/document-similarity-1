@@ -1,0 +1,20 @@
+source: 01 19 44	“Gramps, you said your name is Doehring Cowart? Can I address you as Grandpa Doehring?” Linley suddenly said.
+
+score: 0.540078, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+score: 0.540078, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+score: 0.540078, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+score: 0.540078, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+score: 0.532064, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+score: 0.532064, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+score: 0.532064, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+score: 0.532064, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+score: 0.519566, para: 01 12 12	“Hillman, take some men to assist Uncle Hiri. After finishing up, please address the issue of the commoners who lost their houses.” Hogg instructed.
+

@@ -1,0 +1,30 @@
+source: 01 16 58	Right now, there was no way for Hogg to tell if Hiri had managed to position himself in front of Linley in time, or if the falling rocks had slammed into Linley first.
+
+
+score: 0.626809, para: 01 4 37	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.594218, para: 01 4 53	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.572022, para: 01 11 54	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.570882, para: 01 17 14	“I…I’m fine.” A low, hoarse voice. Linley forced himself to lift up his head and stare at Hogg, managing a weak smile.
+
+
+score: 0.568446, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.565221, para: 01 5 3	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+
+score: 0.557223, para: 01 3 28	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.547084, para: 02 11 25	“The events of the past happened too long ago. The real secrets of that era, this book has not revealed. All I know is that because of this, the dragon race sent representatives to engage in discussions with our Baruch clan’s clanlord. After this, our descendants no longer attempted this method. Later on, when our family line weakened, even when we wanted to drink dragon’s blood, we no longer were able to.” Hogg shook his head and sighed.
+
+
+score: 0.543847, para: 01 4 42	Instances like the time when he was holding the crying Linley in his arms were extremely rare. Normally, Hogg’s attitude towards Linley could be summarized in one word: ‘Strict’. In all things, Hogg strove for perfection. He wouldn’t let Linley get away with any mistakes.
+
+

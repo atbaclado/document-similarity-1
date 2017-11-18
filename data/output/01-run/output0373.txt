@@ -1,0 +1,15 @@
+source_doc: 1 7	Not just Linley. Hillman, Roger, and Lorry all turned towards the east, their expressions growing solemn. The vibrations were growing stronger and clearer. All of the youths present could clearly feel that the regular vibrations were coming from an enormous creature headed their way.
+
+
+score: 0.697473, para: 1 15	Suddenly, the enormous Black Dragon let out a furious roar as its two huge wings began to flap vigorously. It emanated a terrifying pressure, causing everyone, Hillman included, to feel their legs grow soft and to feel as though they couldn’t breathe.
+
+
+score: 0.645529, para: 1 23	Due to his daily physical training exercises, Linley’s body was growing sturdier and sturdier. Because he often entered the meditative state and absorbed earth essence, Linley became calmer and more tranquil. Linley’s transformation caused his father Hogg and Hillman to both be amazed and overjoyed.
+
+
+score: 0.641159, para: 2 1	“Linley, the Stoneater Rat race is an extremely terrifying race, primarily because they have huge numbers, and extremely sharp teeth, far sharper than the Shadowmouse race. When large numbers of Stoneater Rats appear, even an army of a hundred thousand people cannot hope to withstand them.” Doehring Cowart sighed as he spoke.
+
+
+score: 0.639238, para: 1 16	“WHOOSH!” A huge rock nearly two meters in diameter came flying in their direction from far away, headed directly towards the warehouse. Linley immediately realized that when this giant boulder smashed into the warehouse, Wharton would either suffer serious injury, or even die!
+
+

@@ -1,0 +1,30 @@
+source: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+
+score: 0.644511, para: 01 1 102	“Today’s training ends now,” Hillman announced.
+
+
+score: 0.597902, para: 01 1 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+
+score: 0.587816, para: 01 1 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.564492, para: 01 14 26	The empty training field immediately settled down. Only the footsteps of Hillman and the other two could be heard.
+
+
+score: 0.561272, para: 01 1 101	After practicing the ‘Qi Building Stance’, the waist, back, thighs, shoulders, and other parts of the body would be harmonized. Now, almost all of the children were sitting, relaxed, on the ground. Hillman’s training program was nearly perfect in the difficulty levels he assessed on each age group.
+
+
+score: 0.536320, para: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+
+score: 0.529240, para: 01 1 45	Hillman laughed as he shook his head. “No way. In the past, when I was in the army, every day I would train like crazy, while on the battlefield, I engage in bloody close combat. Nowadays, all I’m doing is relaxing and stretching my muscles a bit in the morning. I’m not filled with as much energy as in the past.”
+
+
+score: 0.517735, para: 01 2 4	“Today’s evening training session ends now.” Hillman smiled. “Before leaving, however, everyone needs to first congratulate this next crop of children who are about to leave Wushan and join the army.”
+
+
+score: 0.513229, para: 01 1 16	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+

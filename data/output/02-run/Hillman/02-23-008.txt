@@ -1,0 +1,20 @@
+source: 02 23 8	Hillman smiled. “Linley, do you remember little Wharton’s date of birth?”
+
+score: 0.549460, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+score: 0.549460, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+score: 0.549460, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+score: 0.547053, para: 02 5 47	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+score: 0.547053, para: 02 5 47	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+score: 0.547053, para: 02 5 47	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+score: 0.542635, para: 01 1 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.542635, para: 01 1 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.542635, para: 01 1 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+

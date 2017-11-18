@@ -1,0 +1,30 @@
+source: 02 21 10	Reynolds and George were both calmly smiling as well, and were joking with Linley to the side.
+
+
+score: 0.700541, para: 02 20 43	Reynolds and George were also excited. Linley nodded as well as he calmly chuckled, “Someone wants to give us ten thousand gold? How can we refuse?”
+
+
+score: 0.620186, para: 02 15 29	Of the four bros, George was the most amiable and steadiest boy. Reynolds was the most childish one of them. Yale…was the playboy type. As for Linley, in the eyes of the other three boys, he was the most mysterious.
+
+
+score: 0.615917, para: 02 17 9	“Haha, I knew Linley definitely wouldn’t go.” Reynolds laughed loudly.
+
+
+score: 0.614767, para: 02 23 3	Yale, George, and Reynolds all smiled at Hillman, then entered the Ernst Institute.
+
+
+score: 0.579321, para: 02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+
+score: 0.546753, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.538176, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.519479, para: 02 19 43	Reynolds stared at the brown-haired youth, his mouth quirking in disdain. “And what do you think you are? You just got lucky and beat me once. Why so cocky?”
+
+
+score: 0.518244, para: 02 17 15	Knowing Linley’s temperament, Yale, Reynolds, and George all nodded.
+
+

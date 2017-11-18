@@ -1,0 +1,30 @@
+source: 01 23 42	In addition, each day, after eating dinner, Linley would spend a large amount of time in the meditative state.
+
+
+score: 0.705970, para: 02 12 27	Most of his time was spent in the meditative trance, training his spiritual essence.
+
+
+score: 0.606121, para: 02 24 34	“Of course I would feel tired. The meditative trance involves me using my spiritual essence non-stop. After totally exhausting my spiritual essence, I would then allow it to recover. It’d be strange if it wasn’t exhausting.” Linley frowned.
+
+
+score: 0.602754, para: 02 25 17	Linley continued to be a solitary figure at the Ernst Institute. The vast majority of his time each day was spend in arduous training at the back mountains.
+
+
+score: 0.580774, para: 02 2 34	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.576470, para: 02 9 4	Even the nearby nobles began to look at Linley with a new light in their eyes. For a person to have exceptional elemental affinity meant that they could generate mageforce in an extremely short period of time. The rest of the time could be spent on cultivating spiritual energy. His future prospects would therefore be unlimited.
+
+
+score: 0.569769, para: 01 20 49	“Linley, eat more slowly.” Hogg saw how fast Linley was eating and couldn’t help but laugh.
+
+
+score: 0.565863, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.563236, para: 02 20 85	“Hi, my name is Linley.” Linley didn’t have the habit of talking to strangers much. “Sorry, I’m going to go train and enter the meditative trance now.”
+
+
+score: 0.562610, para: 01 22 23	“Linley, a large amount of mageforce draws out an even larger amount of elemental essence. If such a huge amount of force is not controlled by spiritual energy…what do you think the end result would be?” Doehring Cowart stroked his white beard as he quietly watched Linley.
+
+

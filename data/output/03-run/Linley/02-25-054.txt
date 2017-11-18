@@ -1,0 +1,30 @@
+source: 02 25 54	“Linley spends every day training in the back mountains. I hear that recently, Dixie has also begun to train hard at the rear mountains. Most likely, he’s being influenced by Linley.”
+
+
+score: 0.682392, para: 02 2 34	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.617405, para: 01 16 30	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+
+score: 0.610124, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.592563, para: 02 18 52	Linley got most of his news regarding the Institute’s going-ons from his three bros, as Linley, who spent all his time training in the mountain, probably would be totally in the dark otherwise.
+
+
+score: 0.586579, para: 02 4 17	It seemed as though this time, the little Shadowmouse had enjoyed his meal very much. He was so happy that he immediately began to hop up and down while squeaking at Linley, while even hugging Linley’s leg with his own front arms. Linley couldn’t help but feel pleased; this was the first time that the little Shadowmouse had acted so intimately towards him, even after eating.
+
+
+score: 0.586124, para: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+
+score: 0.584961, para: 01 23 41	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+
+score: 0.580268, para: 02 12 25	The real reason that Linley continued his fighter training was this. “In the future, if I have the chance to drink fresh dragon’s blood, I will be able to practice according to the Secret Dragonblood Training Tome. I have to keep up my physical training. The body is like a vessel, while battle-qi is like wine. The body is extremely important. The earlier I begin building my fundamentals, the faster my improvement will be when I study the Secret Dragonblood Training Tome in the future.”
+
+
+score: 0.576898, para: 02 12 9	Linley’s lips curved up in a smile. “Grandpa Doehring, I believe you were the one who said that strong combatants must work hard every single day, and not relax for even an instant. Only long term training will produce astonishing power.”
+
+

@@ -1,0 +1,30 @@
+source: 02 7 24	“Linley, get an early night’s rest. Tomorrow morning, you will participate in the magus assessment and recruitment event.” Hillman instructed.
+
+
+score: 0.649142, para: 01 12 54	Hogg considered for a while, then said, “Linley, every year, when the army recruitment drive begins in deep autumn, in the royal capital of Fenlai City, there is a magus student recruitment testing drive. If you really wish to go, when autumn comes around, you can go take the test.”
+
+
+score: 0.644824, para: 01 1 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+
+score: 0.608615, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.592801, para: 02 5 34	Linley rubbed the little Shadowmouse’s head. “Alright, stop making a fuss. Tomorrow, I’m going to leave home and go to the capital. After the magus recruitment event is over, I’m going to be going to a magus academy. I’m afraid we won’t have many chances to meet after that.”
+
+
+score: 0.560225, para: 02 4 40	“Oh, the magus testing and recruiting event?” Linley suddenly remembered this event.
+
+
+score: 0.537762, para: 02 24 12	“It’s Dixie. I heard that yesterday at the annual magus assessment test, Dixie showed that he had already reached the requirements for the fourth rank.” A number of seventeen and eighteen year old girls said from the side.
+
+
+score: 0.534387, para: 01 17 41	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.530762, para: 02 9 28	A white-robed middle-aged man walked over. Smiling, he said, “Exceptional elemental affinity, high spiritual essence, and dual-element. Linley, our Ernst Institute would very much welcome you to join us. I don’t know if you would be willing to enter our Ernst Institute?”
+
+
+score: 0.521391, para: 02 12 25	The real reason that Linley continued his fighter training was this. “In the future, if I have the chance to drink fresh dragon’s blood, I will be able to practice according to the Secret Dragonblood Training Tome. I have to keep up my physical training. The body is like a vessel, while battle-qi is like wine. The body is extremely important. The earlier I begin building my fundamentals, the faster my improvement will be when I study the Secret Dragonblood Training Tome in the future.”
+
+

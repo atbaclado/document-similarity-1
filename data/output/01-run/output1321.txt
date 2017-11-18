@@ -1,0 +1,15 @@
+source_doc: 2 9	Linley stepped into the magical formation.
+
+
+score: 0.797788, para: 2 2	“Initiated by the magical beast?!” Linley was stunned.
+
+
+score: 0.775699, para: 1 8	“Uncle Lorry, what is that? Is that a magical beast?” Linley was the first to ask.
+
+
+score: 0.708189, para: 1 23	“A magical beast? Shadowmouse? It is so big! How can it be an infant?” Linley stared at Doehring Cowart in surprise.
+
+
+score: 0.658201, para: 1 7	When Linley had strode forward by three steps, reaching the doorway, he came to a sudden halt, because he could clearly feel that he had stepped on something hard.
+
+

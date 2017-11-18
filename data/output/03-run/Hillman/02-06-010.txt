@@ -1,0 +1,30 @@
+source: 02 6 10	Hillman was startled.
+
+
+score: 0.831853, para: 01 1 113	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+
+score: 0.631346, para: 02 7 54	Linley and Hillman had arrived here as well.
+
+
+score: 0.625398, para: 01 5 17	Hillman said coldly, “Wushan town is my home, sire.”
+
+
+score: 0.619252, para: 01 8 47	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.595110, para: 02 5 52	“Yes, Uncle Hillman.”
+
+
+score: 0.574296, para: 01 1 81	“Lorry.” Hillman suddenly shouted.
+
+
+score: 0.550810, para: 01 1 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+
+score: 0.530856, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+
+score: 0.520552, para: 01 1 112	Hillman pointed at a mountain to the northeast.
+
+

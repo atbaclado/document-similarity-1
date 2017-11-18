@@ -1,0 +1,30 @@
+source: 02 24 7	Over the past few days, he would often run into people discussing him. Since he had defeated Rand, the victor of the first grade tournament, everyone had tacitly agreed that he was the number one expert amongst first graders.
+
+
+score: 0.660644, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+
+
+score: 0.621761, para: 02 25 57	On the street, there were many people who, upon seeing Linley, began to discuss him amongst themselves. As the acknowledged genius of the Ernst Institute, no matter where he went, people would discuss him. But although Linley’s strength continued to increase, he still refused to participate in the yearly tournaments.
+
+
+score: 0.593068, para: 02 19 33	Reynolds nodded as well. “I also don’t like him. Our school’s number one genius, the third grader Dixie, won the third grade tournament. Look at how composed he was! The difference between the two is too huge. What’s more, the strongest amongst us first graders isn’t Rand.”
+
+
+score: 0.543503, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.541004, para: 02 20 52	“Today, I am going to engage in a magical duel with this kid Linley, with the loser paying ten thousand gold coins and having to avoid the other in the future. Everyone, please be my witnesses.” Rand said. He enjoyed the feeling of being watched by many. He didn’t suffer from any stage fright at all.
+
+
+score: 0.537174, para: 01 4 13	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.536759, para: 02 18 22	Trey smiled and nodded. “Linley, this yearly tournament is an excellent opportunity to train one’s self. I expect all of the elites of the first grade students will attend. Why aren’t you enrolling? This is a rare opportunity.”
+
+
+score: 0.533190, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+
+score: 0.531074, para: 02 20 78	Even if one was talented, if one wasn’t strong enough, he would still be defeated by others!
+
+

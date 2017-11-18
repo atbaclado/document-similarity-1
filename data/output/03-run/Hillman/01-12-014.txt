@@ -1,0 +1,30 @@
+source: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+
+score: 0.637163, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+
+score: 0.575068, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+
+
+score: 0.527433, para: 02 23 28	Hillman looked questioningly at Linley as he watched Linley withdraw a magicrystal card from his pockets. Hillman was shocked. “A magicrystal card?” Previously, when he was a soldier, he had seen magicrystal cards before.
+
+
+score: 0.522065, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+
+score: 0.520484, para: 01 14 49	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+
+score: 0.506384, para: 01 17 43	“Hillman, in a little while, accompany me in inspecting the situation of the residents of Wushan township.” Hogg said, and then looked at Hiri. “Uncle Hiri, after these two Saint-level combatants depart, take Linley home to change his clothes and make sure he gets some rest.”
+
+
+score: 0.505285, para: 02 5 46	“Hillman, I entrust Linley to you.” Hogg looked at the nearby Hillman.
+
+
+score: 0.504231, para: 02 6 13	Hillman looked at Linley with shock. “Linley, are you saying that you’ve been raising, raising a magical beast?”
+
+
+score: 0.500952, para: 02 10 5	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+

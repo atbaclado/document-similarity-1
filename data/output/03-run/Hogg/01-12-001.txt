@@ -1,0 +1,30 @@
+source: 01 12 1	Only after seeing the magical beast of the seventh rank, the Velocidragon, and its mysterious magus master depart, did Hogg calm down.
+
+
+score: 0.720879, para: 01 13 35	Seeing the expression on Linley’s face, Hogg couldn’t help but laugh. “There’s only two ways to acquire a magical beast companion. The first is to make the magical beast willingly subordinate himself to you and serve you. The second way is to use a soul-binding magical array to enslave the magical beast.”
+
+
+score: 0.708950, para: 02 10 26	Hogg seemed to have been thunderstruck. He stared dumbly for a long moment. “You, you subdued and tamed this magical beast Shadowmouse?”
+
+
+score: 0.690455, para: 01 13 38	“As for the second method, it is extremely complicated to set up a soul-binding magical array. Only a magus of the seventh rank, at the very least, could set up such an array.” Hogg said in a composed voice.
+
+
+score: 0.671428, para: 01 13 10	“Let’s not discuss Saint-level magi for now. Even a magus of the eighth or ninth rank would be capable of using spells which contain shocking power and are able to change the course of a battle. This is why magi have such a high social standing.” Hogg said with a light chuckle.
+
+
+score: 0.668805, para: 01 13 33	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+
+score: 0.667455, para: 01 13 3	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+
+score: 0.655188, para: 01 11 51	Hearing the words of the mysterious magus, Hogg felt a sense of relief.
+
+
+score: 0.639779, para: 01 13 20	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.628024, para: 01 13 36	“The requirements for the former are very difficult. For a magical beast to willingly subordinate himself to you, perhaps the only way is to defeat the magical beast in direct combat. Only then would he willingly follow you. For example, if you wanted to subdue a Velocidragon, you would first have to be able to defeat that Velocidragon in battle.” His father’s words rendered Linley speechless.
+
+

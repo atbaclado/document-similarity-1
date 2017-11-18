@@ -1,0 +1,15 @@
+source_doc: 1 12	“Right. So, we should all celebrate the fact that not a single person from Wushan town perished today.” Hogg laughed.
+
+
+score: 0.619725, para: 1 1	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+
+score: 0.612669, para: 1 5	Hillman said coldly, “Wushan town is my home, sire.”
+
+
+score: 0.595132, para: 1 20	Previously, Grandpa Doehring had said that he had died long ago, and only his spirit now remained.
+
+
+score: 0.591013, para: 1 18	Hillman let out a pain-filled sigh. “We just ran some calculations. Over three hundred people died, and a thousand were injured.” The entire township only had a population of five thousand. This meant the casualty ratio was about 20%! And this was for those who lived in stone houses. This really was a diaster.
+
+

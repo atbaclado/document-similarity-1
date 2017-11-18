@@ -1,0 +1,30 @@
+source: 01 21 10	“Grandpa Doehring, I heard that fire-style elemental attacks are the most powerful? And that darkness-style elemental attacks are the most unpredictable? How could the earth style be the mightiest?” Linley frowned.
+
+
+score: 0.666611, para: 01 22 17	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+
+score: 0.660763, para: 02 8 46	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+
+score: 0.646809, para: 01 23 9	“Grandpa Doehring, why aren’t you talking? How is the strength of my affinity for earth elemental essence?” Linley said nervously.
+
+
+score: 0.641419, para: 02 8 47	“Wind elemental essence?” Linley was stunned. “The first time you taught me to process elemental essence, you told me to not be distracted, so although I did notice some green-colored specks of light around me, I didn’t pay any attention to them. But later on, when I began to absorb earth elemental essence, I would be surrounded by earth essence and the green specks would no longer appear.
+
+
+score: 0.640726, para: 01 13 20	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.631196, para: 02 8 40	“Age, eight. Elemental essence affinities – Earth and Wind, affinity level of exceptional for both! Fire affinity, average.” That bald elder felt his heart thumping wildly. Most magi had average elemental essence affinity. Even high elemental essence affinities were quite rare, and as for exceptional affinity…exceptional affinity was ridiculously rare!
+
+
+score: 0.614111, para: 01 22 16	“Haha. Of course. Linley, did you think that a powerful magus could simply rely on the elemental essence already in his body? Impossible! Let’s look at forbidden-level magical spells. The mageforce in the body of a Saint-level magus can only provide 1% of the amount of essence needed. The other 99% can only be provided by natural, elemental essence.”
+
+
+score: 0.600173, para: 02 13 36	Exceptional elemental essence affinity was already extremely rare, but Linley was not only dual-element, but had exceptional affinity for both the wind and the earth elemental essences. This was a true talent, one rather more formidable than even himself. After all…dual-element magi were extremely powerful.
+
+
+score: 0.595217, para: 01 8 28	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+

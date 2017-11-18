@@ -1,0 +1,18 @@
+source: 01 23 14	Linley took a deep breath and nodded.
+
+
+score: 0.816706, para: 02 22 18	Linley’s breath stopped.
+
+
+score: 0.712591, para: 02 21 48	Linley sucked in a breath of cold air.
+
+
+score: 0.662737, para: 01 22 37	Linley took a deep breath.
+
+
+score: 0.528474, para: 01 3 28	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.526758, para: 02 11 49	“Fresh dragon’s blood and Blueheart Grass…” Linley’s eyes shone with excitement. “In the future, when I am powerful enough and become a magus of the ninth rank or even higher, I will use fresh dragon’s blood and Blueheart Grass to let little Wharton become a Dragonblood Warrior.”
+
+

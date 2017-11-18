@@ -1,0 +1,15 @@
+source_doc: 1 12	Linley couldn’t prevent a look of joy from appearing on his face.
+
+
+score: 0.648060, para: 1 10	Hillman suddenly noticed a red gleam of excitement in Linley’s pupils. Surprised, he no longer tried to prevent Linley from watching. As Linley continued to watch the battle from afar, he saw that it was reaching an even bloodier climax.
+
+
+score: 0.640013, para: 2 3	“Linley, looks like things are progressing smoothly. He didn’t run away immediately upon seeing you, which means that he doesn’t feel much hostility towards you.” Upon seeing this, Doehring Cowart secretly felt joy for Linley. Linley really was lucky to have met such a powerful juvenile magical beast.
+
+
+score: 0.614782, para: 1 19	“Right.” Seeing that Linley understood, the old man couldn’t help but smile and nod.
+
+
+score: 0.611311, para: 1 19	A look of excitement suddenly appeared in Linley’s eyes. “Grandpa Doehring, just now, you said that you are a Saint-level Grand Magus. Then, can you teach me how to use magic?” Linley’s heart was frantically pounding. The person in front of him was a five thousand year old Saint-level Grand Magus.
+
+

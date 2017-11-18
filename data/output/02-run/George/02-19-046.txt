@@ -1,0 +1,20 @@
+source: 02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+score: 0.602250, para: 02 20 15	George had just been yelled at by Rand, so right now, he was in no mood to give Rand any face either. “Rand, let me tell you something. Know your own limits. Many of the experts in our school simply don’t deign to participate in the yearly tournament. Don’t really believe that you are something special.”
+
+score: 0.602250, para: 02 20 15	George had just been yelled at by Rand, so right now, he was in no mood to give Rand any face either. “Rand, let me tell you something. Know your own limits. Many of the experts in our school simply don’t deign to participate in the yearly tournament. Don’t really believe that you are something special.”
+
+score: 0.602250, para: 02 20 15	George had just been yelled at by Rand, so right now, he was in no mood to give Rand any face either. “Rand, let me tell you something. Know your own limits. Many of the experts in our school simply don’t deign to participate in the yearly tournament. Don’t really believe that you are something special.”
+
+score: 0.575676, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+score: 0.575676, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+score: 0.575676, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+score: 0.573821, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+score: 0.573821, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+score: 0.573821, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+

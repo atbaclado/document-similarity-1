@@ -1,0 +1,30 @@
+source: 02 24 67	Doehring Cowart suddenly laughed. “But my stonesculpting method is totally different from that of others. This is because my stonesculpting method uses only a single tool – the straight chisel! This is why I have named my sculpting method, the ‘Straight Chisel School’!”
+
+
+score: 0.582662, para: 02 2 25	“This method is clumsy, but very safe.” Doehring Cowart said with a smile.
+
+
+score: 0.550135, para: 02 25 75	Doehring Cowart happily nodded. “Right. Starting today, after you finish a stone sculpture, you don’t need to destroy it. They are worthy of remaining in this world. Naturally, if you wish, you can deliver your sculptures to the Proulx Gallery to sell them and thus begin to build up a reputation for our Straight Chisel School. At the same time, you can make a bit of gold for yourself.”
+
+
+score: 0.543054, para: 02 2 11	No wonder there was no need for setting up a soul-binding magical formation. This bond was initiated by the magical beast itself. Doehring Cowart continued, “Every single magical beast, upon birth, has the ability to initiate a ‘bond of equals’, but in their entire life, a magical beast may only enter this bond a single time. It isn’t like the soul-binding master-servant relationship, where once the master dissolves the relationship, someone else can use another soul-binding technique to tame the beast again.”
+
+
+score: 0.538283, para: 01 21 34	Doehring Cowart laughed as he said, “At the earliest levels, earth-style magi have access to simple spells such as a shield of earth, or a wall of earth. Upon becoming a magus of the fifth rank, you will gain access to the ‘Earthguard’ spell, which will continuously grow in power along with you.”
+
+
+score: 0.535209, para: 02 11 46	Doehring Cowart confidently nodded. “Of course. In the past, in the Pouant Empire, when a princess acquired a serious disease, in the end, the only method of curing her was a medicine that included a mixture of fresh dragon’s blood and Blueheart Grass. As a matter of fact, I was the one who personally caught a Saint-level dragon.”
+
+
+score: 0.530129, para: 02 11 16	Hogg, of course, couldn’t discover Doehring Cowart’s existence at all. Hogg laughed bitterly at Linley. “Linley, did you see that? Based on our ancestor’s method, the Dragonblood is lurking hidden within all of our veins. To call it forth, there are just two methods. But the second method requires one to drink the blood of a living dragon. How can that be an easy task? What’s more…Linley, flip to the back and take a look.”
+
+
+score: 0.522621, para: 01 23 20	“I am the spirit of the Coiling Dragon Ring, while you are the master of the Coiling Dragon Ring. I am totally capable of sensing the strength of your spirit! There’s no need to test it at all. I can tell you right now!” Doehring Cowart smiled at Linley.
+
+
+score: 0.522255, para: 02 2 1	“Linley, don’t be discouraged. I only meant to say that there is no way for you to forcibly subdue him, I didn’t say that it is impossible to tame him at all.” Doehring Cowart laughed self-indulgently. “If he was an adult Shadowmouse, I probably wouldn’t be able to help, but…he’s just a baby Shadowmouse. As a Saint-level Grand Magus, I have some methods which can be effective in dealing with a baby Shadowmouse. In addition, there is no need for a soul-binding magical formation.”
+
+
+score: 0.512862, para: 02 11 39	Doehring Cowart was so old that he had become as crafty as a fox. Stroking his white beard, he said in a self-satisfied manner, “Linley, the answer is simple. Based on what I know, the dragon race is extremely proud, and also extremely large and powerful! I wager that drinking the blood of a live dragon is probably an effective method, but your clan came under tremendous pressure from the dragon clan, and therefore altered the contents of this book.”
+
+

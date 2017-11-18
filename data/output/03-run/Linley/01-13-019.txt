@@ -1,0 +1,30 @@
+source: 01 13 19	Linley had always considered it to be a fact of life that powerful warriors and magi could live for three or four hundred years. He had never considered the reason.
+
+
+score: 0.707148, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.656080, para: 01 2 72	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+
+
+score: 0.646906, para: 01 8 28	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.646471, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.619706, para: 01 3 14	Beside him, Hogg said in a low voice, “The first three generations of the Baruch family were all Dragonblood Warriors. Upon becoming a Dragonblood Warrior, one’s life expectancy would dramatically increase. The second generation Dragonblood Warrior didn’t get married or have children until after he was seven hundred years old.”
+
+
+score: 0.618483, para: 01 12 22	Again and again, the terrifying power of the ‘Dance of the Fire Serpents’ swam about in his mind’s eye. Those seven huge fire serpents and the tempest of flame they generated repeated in his mind over and over again, as well as how they instantly turned everything around them to ash, including the powerful warriors and magi of the small adventuring group.
+
+
+score: 0.618478, para: 01 5 42	“Linley, do you know that amongst the hundreds of millions of people in the Holy Union, there are at least several million who have studied sculpting. But in the entire Holy Union, the number of true masters can be counted on one hand. In addition, if you don’t have a good instructor, you simply cannot succeed on your own.”
+
+
+score: 0.606610, para: 02 17 34	“Magi? Perhaps a warrior of the eighth rank would be able to catch the little Shadowmouse, but only a Saint-level magus would be able to do the same.” Linley knew very well how strong the bodies of most magi were.
+
+
+score: 0.605840, para: 02 4 49	“No.” Doehring Cowart said seriously. “I haven’t interacted with the Yulan continent for over five thousand years. Five thousand years, Linley! You must understand that many magi in the world have been continuously researching and developing new spells during this time period. Who knows how many new spells have been developed in the interim.”
+
+

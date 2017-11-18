@@ -1,0 +1,30 @@
+source: 02 2 38	By this point in time, Linley’s body was comparable to the average 15-16 year old in Wushan township, and possessed the strength of a warrior of the first rank.
+
+
+score: 0.763066, para: 01 13 26	Hogg shook his head. “Can’t you think this through yourself? Magi only have weak bodies in comparison to warriors of the same rank, and not in absolute terms. For example, a magi of the eighth rank might have the same physical strength of a warrior of the second or third rank, even if he never engaged in any physical training. But of course, compared to a warrior of the eighth rank, his body would be very weak indeed!”
+
+
+score: 0.709560, para: 01 4 13	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.664093, para: 01 13 13	“Oh, right. Father, I read in one of the books that compared to a warrior, a magi’s physical strength is much weaker. But just then, I watched that magus jump down from the back of the Velocidragon with ease. How could his body be physically weak?” Linley pursued.
+
+
+score: 0.649111, para: 02 1 28	“Grandpa Doehring, then based on your words, this Shadowmouse is really amazingly fast. The Shadowmouse in front of me is slightly faster than even Uncle Hillman, but you are telling me that it is comparable to a Shadowmouse of the fourth rank. For a magical beast of the fourth rank to be faster than a warrior of the sixth rank…” Linley couldn’t help but sigh in amazement.
+
+
+score: 0.622846, para: 02 20 1	By now, Linley had nearly reached the peak of the second rank for warriors. Given that the strength of an ordinary warrior of the first rank was enough to raise a hundred pounds, a warrior of the second rank could casually throw about hundred pound objects.
+
+
+score: 0.617598, para: 02 25 45	By now, Linley was 1.8 meters tall and gave off a very steady, stable air. Earth and wind elemental essences had continuously nourished his body. Combined with Linley’s nonstop training, and the advantages provided by his Dragonblood Warrior heritage, Linley had already become a warrior of the fourth rank.
+
+
+score: 0.608571, para: 02 17 34	“Magi? Perhaps a warrior of the eighth rank would be able to catch the little Shadowmouse, but only a Saint-level magus would be able to do the same.” Linley knew very well how strong the bodies of most magi were.
+
+
+score: 0.606346, para: 01 4 17	Linley growled to himself, “I’m stronger than everyone else now, only because of the Dragonblood in my veins. But since I can’t practice battle qi, my only options are to work hard, and to work harder! Since great grandfather was able to become a warrior of the seventh rank, then I shall…I shall become a warrior of the eighth rank. Or even the ninth rank! Nothing is impossible!”
+
+
+score: 0.606337, para: 01 13 3	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 18	The green-robed man’s face was ashen white as he stared at the gray-robed man, whose face had also turned white. “Now, nobody has it. Rudi, I’ve been injured, but if you want to kill me, that’s still going to be quite hard to accomplish!” With a cold laugh, the green-robed man transformed into a beam of green light as he flew off at a fast speed into the northeastern skies.
+
+
+score: 0.741768, para: 2 7	“Whew. It’s been quite a while since I’ve been in a large city.” A hazy white light shone out from the Coiling Dragon Ring, transforming into a white-bearded old man. Doehring Cowart and Linley stood side by side as they stared at the street below.
+
+
+score: 0.732972, para: 1 8	With a low-throated growl, white steam erupted from the nostrils of the Velocidragon, carrying with it the stench of sulfur. Those diamond-like eyes, nearly the size of a lantern, were also, strangely enough, red as well. The huge head of the Velocidragon turned towards Linley and the children. It’s cold gaze terrified all of the children, freezing them in their tracks.
+
+
+score: 0.728487, para: 1 15	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+
+score: 0.717620, para: 1 2	In the blink of an eye, another half year had passed. Training hard and strengthening his body, Linley passed through the gentle, warm spring, the blazing summer, and the chilly autumn. The white poplar tree next to the empty training field of Wushan would always scatter some dried leaves onto the ground whenever the wind blew. The leaves slowly whirled down, covering the entire training ground.
+
+

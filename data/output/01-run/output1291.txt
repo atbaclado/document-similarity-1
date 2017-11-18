@@ -1,0 +1,15 @@
+source_doc: 2 7	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+
+score: 0.647761, para: 2 9	Every single student who enrolled into the Ernst Institute could be described as a genius!
+
+
+score: 0.587938, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.571502, para: 2 9	This was a simple demonstration of the status which an Ernst Institute student held!
+
+
+score: 0.569058, para: 1 20	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+

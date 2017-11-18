@@ -1,0 +1,15 @@
+source_doc: 1 1	Hillman continued coldly, “Let me tell you all, when a warrior practices his battle qi, the battle qi is stored in a fist-sized location directly beneath the navel. You should understand that this is part of the triangle I was talking about. I expect you all now should understand the importance of strengthening the triangle region! This is your core. If it fails, then your body fails, no matter how strong the other parts of it might be.”
+
+
+score: 0.696980, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.684494, para: 1 13	“The reason why powerful magi can live so long is because when magi absorb natural elemental energy into their body to generate pure mageforce, when the elemental energy flows through their body, it will naturally refine their apertures, their joints, and their flesh, making their bodies stronger and stronger. With a stronger body, naturally they will live longer. By the same logic, when warriors cultivate their battle-qi, they also absorb natural energy, which flows through their body and strengthens it. The more powerful a warrior is, the stronger his body will be. Naturally, he will live a long life.” Hogg explained everything in detail.
+
+
+score: 0.679914, para: 1 21	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+
+score: 0.678537, para: 1 22	“If you have no instructor? No matter how much mageforce you have or how high your spiritual energy is, you won’t be able to execute a single spell!” Doehring Cowart smiled faintly. “The profound secrets of every magical spell lies in how to control mageforce and elemental essence to form the spell.”
+
+

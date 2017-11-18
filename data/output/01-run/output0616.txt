@@ -1,0 +1,15 @@
+source_doc: 1 15	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.780121, para: 1 16	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+
+score: 0.713702, para: 1 1	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.698892, para: 2 9	“Squeaaaaak!” After exiting the cathedral, the little Shadowmouse shouted out, sensing Linley’s excitement.
+
+
+score: 0.661489, para: 1 14	“Tell’m, Linley! Was I lying? Tell’m what happened!” Hadley rushed towards Linley, tugging Linley’s hand and secretly winking towards Linley.
+
+

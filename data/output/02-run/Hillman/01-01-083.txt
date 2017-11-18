@@ -1,0 +1,20 @@
+source: 01 1 83	Hillman commanded, “Tomorrow, prepare some special dyes. When they are practicing their waist strength, put a branch under all of their waists, and dye the branches. If any of them slack off and let their waists touch the branch, their body will be dyed as well. Their training regime will double in difficulty.”
+
+score: 0.992629, para: 01 83 83	Hillman commanded, “Tomorrow, prepare some special dyes. When they are practicing their waist strength, put a branch under all of their waists, and dye the branches. If any of them slack off and let their waists touch the branch, their body will be dyed as well. Their training regime will double in difficulty.”
+
+score: 0.992629, para: 01 83 83	Hillman commanded, “Tomorrow, prepare some special dyes. When they are practicing their waist strength, put a branch under all of their waists, and dye the branches. If any of them slack off and let their waists touch the branch, their body will be dyed as well. Their training regime will double in difficulty.”
+
+score: 0.992629, para: 01 83 83	Hillman commanded, “Tomorrow, prepare some special dyes. When they are practicing their waist strength, put a branch under all of their waists, and dye the branches. If any of them slack off and let their waists touch the branch, their body will be dyed as well. Their training regime will double in difficulty.”
+
+score: 0.620826, para: 01 144 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+score: 0.620826, para: 01 144 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+score: 0.620826, para: 01 144 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+score: 0.604570, para: 01 6 16	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+score: 0.604570, para: 01 6 16	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+score: 0.604570, para: 01 6 16	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+

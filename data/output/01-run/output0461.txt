@@ -1,0 +1,15 @@
+source_doc: 1 11	Hogg and the other residents of Wushan township simply watched quietly from afar, not daring to make a sound, for fear of angering this powerful, mysterious magus.
+
+
+score: 0.685533, para: 1 15	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+
+score: 0.632959, para: 1 12	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+
+score: 0.623957, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.619118, para: 1 14	Just like every other day, the empty ground east of Wushan township was filled with youths. Hillman and the other two teachers had not yet arrived, and so all the children were noisily and energetically chatting together. Naturally, the topic of their conversation was yesterday’s shocking battle.
+
+

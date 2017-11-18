@@ -1,0 +1,15 @@
+source_doc: 2 7	Glancing at the group of nobles, Linley chuckled quietly. “Uncle Hillman, I won’t pay any mind to their likes.” Under the tutelage of his father Hogg, Linley wouldn’t pay too much heed to that group of self-centered, arrogant nobles.
+
+
+score: 0.674311, para: 1 5	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+
+score: 0.632135, para: 1 20	Linley’s heart was immediately filled with joy. But as he engaged in conversation with Doehring Cowart, he didn’t pay attention to where he walked, and he tripped over the doorway. Uncle Hiri, walking ahead of him, turned and laughed. “Young master Linley, watch where you walk.”
+
+
+score: 0.592454, para: 1 1	The other man, Roger (Luo’jie), also walked over. Usually, when the children practiced the ‘Qi Building Stance’, it was time for the three of them to relax and freely chat, while paying attention to any child who decided to slack off.
+
+
+score: 0.587125, para: 1 12	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+

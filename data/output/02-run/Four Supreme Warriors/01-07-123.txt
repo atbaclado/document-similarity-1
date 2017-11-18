@@ -1,0 +1,20 @@
+source: 01 7 123	“Oh, Captain, how do you know about the power of Saint-level warriors, or the Four Supreme Warriors?” Lorry suddenly remembered to ask.
+
+score: 0.984687, para: 01 1 123	“Oh, Captain, how do you know about the power of Saint-level warriors, or the Four Supreme Warriors?” Lorry suddenly remembered to ask.
+
+score: 0.984687, para: 01 1 123	“Oh, Captain, how do you know about the power of Saint-level warriors, or the Four Supreme Warriors?” Lorry suddenly remembered to ask.
+
+score: 0.984687, para: 01 1 123	“Oh, Captain, how do you know about the power of Saint-level warriors, or the Four Supreme Warriors?” Lorry suddenly remembered to ask.
+
+score: 0.984687, para: 01 1 123	“Oh, Captain, how do you know about the power of Saint-level warriors, or the Four Supreme Warriors?” Lorry suddenly remembered to ask.
+
+score: 0.615421, para: 01 1 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+score: 0.615421, para: 01 1 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+score: 0.613138, para: 01 0 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+score: 0.613138, para: 01 0 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+score: 0.611795, para: 01 2 70	“Linley, have you heard of the legendary Four Supreme Warriors of the Yulan continent?” Turning his head, Hogg looked at Linley.
+

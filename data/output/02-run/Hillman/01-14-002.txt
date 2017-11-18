@@ -1,0 +1,20 @@
+source: 01 14 2	Just like every other day, the empty ground east of Wushan township was filled with youths. Hillman and the other two teachers had not yet arrived, and so all the children were noisily and energetically chatting together. Naturally, the topic of their conversation was yesterday’s shocking battle.
+
+score: 0.619416, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+score: 0.619416, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+score: 0.619416, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+score: 0.619189, para: 01 4 1	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+score: 0.619189, para: 01 4 1	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+score: 0.619189, para: 01 4 1	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+score: 0.619189, para: 01 4 1	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+score: 0.601166, para: 01 15 41	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+score: 0.601166, para: 01 15 41	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+

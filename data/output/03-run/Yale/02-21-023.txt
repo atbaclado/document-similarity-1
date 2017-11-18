@@ -1,0 +1,30 @@
+source: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.716625, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.687187, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.644915, para: 02 14 20	Staring at his two dormmates, Yale became momentarily speechless as well. Besides Linley, the ghostly form of Doehring Cowart was holding his belly as he laughed uproariously. This made Linley ask him curiously, “Grandpa Doehring, why are you laughing?”
+
+
+score: 0.637790, para: 02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+
+score: 0.631251, para: 02 14 18	“What does ‘losing virginity’ mean?” Reynolds looked questioningly at Yale.
+
+
+score: 0.630880, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.628717, para: 02 20 37	“Haha, don’t have the balls?” Yale pulled out a magicard, waving it around as he spoke.
+
+
+score: 0.607736, para: 02 22 45	“Second bro, third bro, the two of you, ugh. I planned for us to have a good time tonight in Fenlai City, but you…ugh, you guys are so thin-skinned. I started having fun in those places when I was six years old.” Yale was still unhappily grumbling nonstop.
+
+
+score: 0.602373, para: 02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+

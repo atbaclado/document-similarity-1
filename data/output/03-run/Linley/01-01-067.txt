@@ -1,0 +1,30 @@
+source: 01 1 67	“Well done. You acted like a man.” Hillman patted Linley on the head. Immediately, the hair on Linley’s head became tousled like windblown grass.
+
+
+score: 0.619863, para: 01 4 32	“That’s enough, Wharton. My entire body is covered with sweat. Let me wash myself first.” Linley patted Wharton on the face and laughed.
+
+
+score: 0.612022, para: 02 6 4	Just as Linley was walking, he suddenly discovered that his legs had been hugged from behind. Lowering his head, he saw that it was the little Shadowmouse. The little Shadowmouse was standing up on his hind legs, his two forelegs tightly clenched around Linley. He stared at Linley with two quavering, pitiable eyes, as though he were about to cry.
+
+
+score: 0.608259, para: 01 17 18	“Wharton? Why were you at the doorway earlier?” Linley rubbed his little brother’s head and said in a reproving tone.
+
+
+score: 0.604150, para: 02 8 39	The bald elder quivered as he stared at the piece of paper in his hands. It was written clearly on top that Linley was eight years old.
+
+
+score: 0.594746, para: 02 12 41	Hogg’s eyes began to shine, and he patted Linley on the shoulder with a mighty clap.
+
+
+score: 0.584207, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.563137, para: 01 7 24	“String, string…” Linley hurriedly looked about for a thread on which he could hang the Coiling Dragon Ring. Suddenly, Linley’s gaze fell on a ruined old washcloth. His eyes lit up, and he immediately pulled a string out from within the washcloth.
+
+
+score: 0.562057, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.561919, para: 01 17 7	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+

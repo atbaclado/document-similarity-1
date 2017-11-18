@@ -1,0 +1,30 @@
+source: 01 14 25	“Uncle Hillman is coming.” Linley saw Hillman, Lorry, and Roger walking towards them from afar, and immediately spoke up. Immediately, all of the children calmed down and in a very orderly fashion, lined up into three groups.
+
+
+score: 0.683781, para: 01 1 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+
+score: 0.641903, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.640962, para: 01 15 33	Lorry and Roger immediately turned around and lifted up the children who were slow runners. They carried two in each arm and two on their backs as well. Hillman joined them as well, quickly beginning to pick up child after child.
+
+
+score: 0.626688, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.610465, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+
+score: 0.603156, para: 01 10 31	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.599917, para: 01 1 19	“Remember, focus your concentration, maintain a calm mind, and breath naturally!” Hillman said coldly as he walked amidst the children.
+
+
+score: 0.598831, para: 01 8 42	Linley gritted his teeth. “Uncle Hillman!” Linley was also worried for Uncle Hillman, as well as the citizens of Wushan town. He also ran in that direction. At this moment, Lorry and Roger were both panic-stricken at the thought of the Velocidragon, and didn’t notice Linley following behind them.
+
+
+score: 0.597968, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+

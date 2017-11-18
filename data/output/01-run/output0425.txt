@@ -1,0 +1,15 @@
+source_doc: 1 10	His belly was ripped open, and his intestines had been shattered. His skull had been crushed, and half his leg had dropped to the ground!
+
+
+score: 0.650981, para: 1 3	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.648759, para: 2 3	Linley immediately ran over and grabbed the rabbit by the throat with one hand. CRACK! The rabbit, previously struggling in agony, twitched twice, then went still. Ever since watching those two battles half a year ago, the ‘bloodthirsty’ nature of the Dragonblood in Linley’s veins had been in full sway.
+
+
+score: 0.645684, para: 1 1	Linley’s legs were trembling. Although his willpower was strong, his leg muscles were strained to their utmost and were beginning to tremble uncontrollably. He finally collapsed and sat down.
+
+
+score: 0.634649, para: 1 20	Linley mentally nodded as he grabbed a roasted leg of mutton and chewed on it.
+
+

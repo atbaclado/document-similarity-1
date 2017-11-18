@@ -1,0 +1,15 @@
+source_doc: 2 4	“Right, today I’ll give the little Shadowmouse some cooked meat.” Linley covered a wild chicken with a cloth sack, and then happily went to the back of the ancient courtyard in the manor.
+
+
+score: 0.694548, para: 2 3	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.673762, para: 2 3	The next afternoon, Linley killed another wild hare as well as a wild chicken. He gave the wild hare to Uncle Hiri to prepare for dinner, and then tossed the wild chicken in the exact same location as he had tossed the hare; at the doorway to that courtyard.
+
+
+score: 0.668927, para: 1 2	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+
+score: 0.667133, para: 2 3	Linley self-confidently said, “I often have to coax little Wharton. Lemme tell ya, if you want to give a kid something, you can’t give them something too good, right off the bat. Otherwise, in the future, they’ll expect something really good every single time, or something even better. Right now, the Shadowmouse is chewing on rocks. If I give him some raw meat, he’ll be really happy. I’ll give him raw meat for seven or eight days, and then I’ll give him cooked meat. That will make him even happier.”
+
+

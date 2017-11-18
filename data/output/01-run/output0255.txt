@@ -1,0 +1,15 @@
+source_doc: 1 4	Although his father’s words were simple, Linley clearly understood the deeper meaning.
+
+
+score: 0.699567, para: 2 9	Linley understood this as well.
+
+
+score: 0.681038, para: 1 9	Listening to the conversation from far away, Linley, by Hillman’s side, now understood everything.
+
+
+score: 0.630349, para: 1 11	Hearing the words of the mysterious magus, Hogg felt a sense of relief.
+
+
+score: 0.622593, para: 1 22	Linley had read many books and therefore understood this principle.
+
+

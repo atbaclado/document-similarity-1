@@ -1,0 +1,15 @@
+source_doc: 1 1	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.688386, para: 1 13	“Oh, right. Father, I read in one of the books that compared to a warrior, a magi’s physical strength is much weaker. But just then, I watched that magus jump down from the back of the Velocidragon with ease. How could his body be physically weak?” Linley pursued.
+
+
+score: 0.676028, para: 1 4	“That feels wonderful.” Flat on the floor, his entire body relaxed, Linley could clearly feel how numb his entire body was. All the muscles on his body, after undergoing that training, were slowly growing. Although the growth wouldn’t be noticeable from just one or two exercises, after a long period of time, the effects would be pronounced.
+
+
+score: 0.673709, para: 1 17	Hogg’s body trembled. Only then did he regain his usual faculties. “Linley.” Hogg charged violently towards the warehouse at an astonishing speed. Seeing this, Hillman guessed what had happened and immediately followed Hogg.
+
+
+score: 0.672747, para: 2 2	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+

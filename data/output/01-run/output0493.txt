@@ -1,0 +1,15 @@
+source_doc: 1 12	Linley scrambled to his feet. Raising his head, he saw that it was his father, Hogg. At the moment, a smiling, praising look was on Hogg’s face as he watched Linley.
+
+
+score: 0.697815, para: 2 6	“Squeak. Squeaaaaak!” The little Shadowmouse stood there, watching Linley.
+
+
+score: 0.676228, para: 2 6	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+
+score: 0.673399, para: 2 6	Hillman looked at Linley with shock. “Linley, are you saying that you’ve been raising, raising a magical beast?”
+
+
+score: 0.658634, para: 1 3	“Father, you don’t believe me?” Raising his head, Linley looked at his father questioningly.
+
+

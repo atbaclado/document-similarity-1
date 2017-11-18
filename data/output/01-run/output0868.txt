@@ -1,0 +1,15 @@
+source_doc: 1 22	Doehring Cowart smiled and nodded. “Right. Therefore, the ‘mageforce’ of a magus is extremely important. If he doesn’t have enough mageforce, he will not be able to cast a spell.”
+
+
+score: 0.698506, para: 1 11	“Just then…just then, was he the one who cast the ‘Dance of the Fire Serpents’?” Linley really found it a little hard to believe. A person who seemed a full size smaller than Uncle Hillman was actually able to cast such an apocalyptic spell.
+
+
+score: 0.685332, para: 1 21	“Linley…in the entire world, isn’t it true that most battles and most magi are on the earth? And when used while standing on the earth, earth-style magic is extremely effective.” A smile was on Doehring Cowart’s face. “As you stand firmly on the boundless earth, an earth-style magus will have an extremely effective assistant.”
+
+
+score: 0.667194, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.640236, para: 2 10	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+

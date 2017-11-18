@@ -1,0 +1,30 @@
+source: 01 2 26	“Linley, your father, Lord Hogg, has some extremely important business with you. Don’t go off playing with the other kids. Come home with me.” Hillman walked to Linley’s side. Gazing at him, Hillman felt very proud.
+
+
+score: 0.650341, para: 01 20 24	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.643463, para: 02 4 4	Doehring Cowart was walking by Linley’s side as well, but aside from Linley, no one else could see him. Doehring Cowart was smiling so widely that his white whiskers were leaning horizontal. “Linley, over these past nine days, the little Shadowmouse has lost all fear of you. Today, you are even giving him cooked meat. He’s going to be extremely excited and will become even closer to you.”
+
+
+score: 0.643028, para: 02 6 19	“Uncle Hillman, let’s go. Hehe, the little Shadowmouse is smart. He knows what I’m saying.” Linley said to Hillman. Hillman, who had been watching this spectacle with amazement, chuckled and then continued walking forward with Linley.
+
+
+score: 0.639235, para: 02 3 49	“The Shadowmouse is actually here staring at me.” Linley chuckled as he saw that Shadowmouse inside the courtyard watch him approach.
+
+
+score: 0.638811, para: 02 12 48	Ever since he was born, Linley had never left home for an extended period of time, but this time, he would be gone for extremely long. At this moment, the little Shadowmouse, ‘Bebe’, was obediently perched on Linley’s shoulders, not making a sound, as if he sensed Linley’s thoughts. The nearby Doehring Cowart, in spirit form, also looked encouragingly at Linley.
+
+
+score: 0.637219, para: 02 12 8	Doehring Cowart, wearing a moon-white robe, was seated cross-legged next to him, a smile on his face as he enjoyed the surrounding scenery. Seeing Linley awaken, he laughed. “Linley, tomorrow you are heading to the Ernst Institute, yet you are still hard at work today?”
+
+
+score: 0.636199, para: 02 12 20	“It’s getting late. I’ll need to start warrior training soon.” Linley stood up and grabbed the dead hare as he began heading down the mountain. Doehring Cowart flew by his side, unhappily saying, “Linley, in the future, you will be a magus. Why are you still engaging in warrior training?”
+
+
+score: 0.629696, para: 02 6 38	Standing on this quiet road leading out of Wushan township, Linley and the little Shadowmouse stared at each other, engaging in their first communication.
+
+
+score: 0.626749, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+

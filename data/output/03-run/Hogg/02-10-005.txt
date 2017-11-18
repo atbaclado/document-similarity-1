@@ -1,0 +1,30 @@
+source: 02 10 5	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+
+score: 0.620195, para: 02 4 58	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.611147, para: 01 17 7	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+
+score: 0.582906, para: 01 17 45	Hogg turned back to look at Linley, who was enraptured watching the exciting battle between two Saint-level combatants. Laughing, he said, “Oh, Linley, you little rascal. Even though you are injured, you still want to watch Saint-level combatants fight. Fortunately, given that the Saint-level magus has unleashed the ‘World Protector’, this battle is about to come to a close soon.”
+
+
+score: 0.582041, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.579139, para: 01 5 10	A middle aged man with long, golden hair and a nobleman’s aura strode into the hall by Hogg’s side. Linley immediately was able to guess that this middle-aged man must be ‘Philip’.
+
+
+score: 0.574600, para: 01 12 3	Hogg stared in all directions, seeing how so many houses had been reduced to rubble.
+
+
+score: 0.573819, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.572891, para: 01 3 32	Raising his head, Linley stared at his father, feeling extremely agitated. “Is the density of dragonblood in my veins sufficient? Why has father stared at the Dragonblood Needle for so long?” Linley had a bad premonition…
+
+
+score: 0.571688, para: 01 20 52	The earlier events of the morning had left a lasting impression on Hogg. There was a moment when he even thought Linley had been crushed to death. After experiencing such an event, Hogg’s attitude towards Linley clearly had improved substantially.
+
+

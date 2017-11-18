@@ -1,0 +1,30 @@
+source: 01 3 28	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.688045, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.660029, para: 01 17 7	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+
+score: 0.619376, para: 01 17 33	After taking a deep breath, Hogg looked at Hillman. “Right, Hillman, you were just saying that Wushan township was in bad shape. How bad of a shape is it in?”
+
+
+score: 0.614014, para: 01 4 53	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.612483, para: 01 4 37	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.607465, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.604077, para: 01 5 10	A middle aged man with long, golden hair and a nobleman’s aura strode into the hall by Hogg’s side. Linley immediately was able to guess that this middle-aged man must be ‘Philip’.
+
+
+score: 0.578080, para: 01 11 41	Hogg turned towards the magus, his heart filled with ruefulness. “He’s actually a magus of the eighth rank. And a dual-element magus! Perhaps the entire kingdom of Fenlai has only a handful of people more powerful than him. Someone like him actually came to our little town…”
+
+
+score: 0.576096, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+

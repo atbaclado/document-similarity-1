@@ -1,0 +1,24 @@
+source: 02 15 48	“Of course. On the long road from the O’Brien Empire to the Ernst Institute, Grandpa Lomu had already begun to teach me magic.” Reynolds said proudly.
+
+
+score: 0.569941, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+
+
+score: 0.565121, para: 02 14 47	But despite this, the Yulan Empire was still the most economically powerful of the empires, and it was also filled with magi. The magus academy of the Yulan Empire was second only to the Ernst Institute.
+
+
+score: 0.557950, para: 02 13 47	Reynolds said unhappily, “Okay, Grandpa Lomu [Lu’mu], you can go back now. I’ve already arrived at the Ernst Institute.”
+
+
+score: 0.546675, para: 02 25 3	Linley sat there alone in the mountains behind the Ernst Institute. Under the tutelage of Doehring Cowart, he began to study the art of stonesculpting. As he began to understand more and more about this art, Linley also began to understand why in the later stages, the Straight Chisel School could assist in improving one’s spiritual essence.
+
+
+score: 0.543452, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+
+score: 0.523352, para: 02 14 49	George smiled. “Although the magus academies of the Yulan Empire are very good, they are still a bit weaker than the Ernst Institute. If you’re going to go to school, you should go to the best. Although the journey was a bit long, it could be considered a form of training as well.”
+
+
+score: 0.520872, para: 02 18 56	Yale pursed his lips. “Punk, you became a magus of the first rank on the road from the O’Brien Empire to the Ernst Institute. I wager that by now, you aren’t too off from becoming the magus of the second rank. That really is unfair.”
+
+

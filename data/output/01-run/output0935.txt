@@ -1,0 +1,15 @@
+source_doc: 1 23	Filled. His time was absolutely filled.
+
+
+score: 0.666564, para: 2 6	Hillman felt totally bewildered. “You…you don’t have a soul-binding scroll, how…how did you?”
+
+
+score: 0.660493, para: 2 11	Upon seeing this part, Linley was utterly speechless.
+
+
+score: 0.637341, para: 1 4	This was the real Hogg.
+
+
+score: 0.636483, para: 1 12	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+

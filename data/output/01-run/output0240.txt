@@ -1,0 +1,15 @@
+source_doc: 1 4	Hogg coldly nodded, and Linley quickly walked next to him.
+
+
+score: 0.751534, para: 1 1	“All of you, stand firm!” Hillman coldly harrumphed.
+
+
+score: 0.683699, para: 1 11	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.681178, para: 2 3	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.670552, para: 1 18	Hogg’s eyes brightened. Turning, he saw Hillman striding quickly into the manor.
+
+

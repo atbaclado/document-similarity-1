@@ -1,0 +1,20 @@
+source: 01 18 30	Hogg’s eyes brightened. Turning, he saw Hillman striding quickly into the manor.
+
+score: 0.717938, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+score: 0.717938, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+score: 0.717938, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+score: 0.659654, para: 01 107 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+score: 0.659654, para: 01 107 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+score: 0.659654, para: 01 107 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+score: 0.655663, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”02 10 3	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+score: 0.655663, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”02 10 3	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+score: 0.655663, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”02 10 3	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+

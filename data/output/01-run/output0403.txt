@@ -1,0 +1,15 @@
+source_doc: 1 8	“Why did you come?” Hillman reprimanded in a severe tone.
+
+
+score: 0.514944, para: 1 15	Linley directly charged into his own residence.
+
+
+score: 0.481922, para: 1 13	Linley slapped himself on the head, then laughed, somewhat embarassed.
+
+
+score: 0.475356, para: 1 12	Hogg looked at the serious expression on his eight year old boy’s face. By all rights, a young child being so serious was an amusing thing. But Hogg did not laugh.
+
+
+score: 0.468319, para: 1 19	“Linley, a fine name.” The old man smiled.
+
+

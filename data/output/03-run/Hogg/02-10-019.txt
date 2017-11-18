@@ -1,0 +1,30 @@
+source: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+
+score: 0.671653, para: 02 5 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+
+score: 0.638152, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+
+score: 0.636322, para: 01 12 35	“Not bad, not bad,” Hogg said proudly as he looked at Linley. “You really are a scion of our Dragonblood Warrior clan. You have our superior qualities. If a descendant of the Dragonblood Warriors were to be terrified of death, terrified of blood, of slaughter, then it would be an absolute joke.”
+
+
+score: 0.605760, para: 01 17 32	Just then, when he saw Linley charge over to protect Wharton, Hogg had truly been scared silly. He had truly been terrified that his sons would’ve died, just like that.
+
+
+score: 0.599087, para: 01 3 40	“Linley, at this point in time, the Baruch family just consists of you, me, and your little brother. I don’t have any extravagant hopes. I’ve never dared to dream of becoming a Dragonblood Warrior.” Hogg laughed at himself satirically. How could becoming a Dragonblood Warrior be an easy task?
+
+
+score: 0.594679, para: 02 11 25	“The events of the past happened too long ago. The real secrets of that era, this book has not revealed. All I know is that because of this, the dragon race sent representatives to engage in discussions with our Baruch clan’s clanlord. After this, our descendants no longer attempted this method. Later on, when our family line weakened, even when we wanted to drink dragon’s blood, we no longer were able to.” Hogg shook his head and sighed.
+
+
+score: 0.584534, para: 02 4 36	“Looks like it is time for me to confess.” Linley said to himself, then looked at Hogg and nodded. “Father, recently I discovered a cute animal living in our back courtyard, an extremely cute animal. So I often bring him some food.”
+
+
+score: 0.578412, para: 01 3 45	Hogg proudly said, “Our ancestral heirloom – the warblade, “Slaughterer”. This was the weapon used by the very first leader of the Baruch clan, the very first Dragonblood Warrior of the Yulan continent. Alas…his descendants were unfilial. Six hundred years ago, because of poverty, a descendant who loved luxury actually sold our ancestral weapon for money.”
+
+
+score: 0.569915, para: 01 4 42	Instances like the time when he was holding the crying Linley in his arms were extremely rare. Normally, Hogg’s attitude towards Linley could be summarized in one word: ‘Strict’. In all things, Hogg strove for perfection. He wouldn’t let Linley get away with any mistakes.
+
+

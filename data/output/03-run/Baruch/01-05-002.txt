@@ -1,0 +1,30 @@
+source: 01 5 2	“Is Hogg at home?” A clear voice rang out. The Baruch manor had no guards, so clearly, this person had already arrived within the manor grounds.
+
+
+score: 0.653752, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+
+score: 0.624791, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+
+score: 0.579870, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.557014, para: 01 12 19	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+
+score: 0.535870, para: 02 10 40	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+
+
+score: 0.519152, para: 01 6 6	The ancient Baruch mansion had five thousand years of history.
+
+
+score: 0.513996, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.511512, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.504961, para: 01 7 30	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+

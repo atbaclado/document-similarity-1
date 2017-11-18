@@ -1,0 +1,30 @@
+source: 01 4 11	Linley was on extremely good terms with the other kids. Although Linley was the child of a noble house, he was extremely kind to the children of commoners, and often helped them train as well.
+
+
+score: 0.655122, para: 01 1 92	All of the commoners were extremely eager to learn battle qi. Even Linley, this scion of a noble house, was extremely eager.
+
+
+score: 0.609099, para: 01 14 13	In the eyes of the children of Wushan township, Linley had some stature amongst them. First of all, he was the heir to the Baruch clan, and secondly, as an eight year old child, Linley could match the thirteen and fourteen year olds in training. In the wartorn land of the Yulan continent, Linley’s prowess caused all of the children of Wushan township to admire him.
+
+
+score: 0.607945, para: 01 2 39	No mother, no grandparents. Although he had his father and the family caretaker to take care of him, Linley, who had matured early, was extremely loving and protective towards his little brother. In Linley’s eyes, as the big brother, it was his job to take care of his little brother.
+
+
+score: 0.604441, para: 02 9 37	Linley also felt extremely excited, but his head was extremely clear, and he also looked very calm on the outside. Linley knew very well that upon becoming a member of the Ernst Institute, and with the guidance of Doehring Cowart, in just a few decades, it would not be too difficult to become a magus of the seventh or eighth ranks.
+
+
+score: 0.600697, para: 01 3 25	“If I fail, I guess father will be extremely disappointed.” Linley couldn’t help but think. Having grown up with his father and his younger brother, Linley didn’t want to disappoint his father. But the density of dragonblood in his veins wasn’t something he could decide.
+
+
+score: 0.590910, para: 02 9 4	Even the nearby nobles began to look at Linley with a new light in their eyes. For a person to have exceptional elemental affinity meant that they could generate mageforce in an extremely short period of time. The rest of the time could be spent on cultivating spiritual energy. His future prospects would therefore be unlimited.
+
+
+score: 0.589538, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.582192, para: 02 7 41	“However, right now my power is very weak.” Linley couldn’t help but recollect how, when he had first entered Fenlai City, those noble ladies had looked down upon him. In the eyes of those upper class people, he was nothing more than an impoverished little country bumpkin.
+
+
+score: 0.579175, para: 01 3 13	“My clan, is actually the clan of the Dragonblood Warriors?” Linley was extremely excited.
+
+

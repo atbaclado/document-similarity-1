@@ -1,0 +1,15 @@
+source_doc: 2 5	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+
+score: 0.763709, para: 2 4	“Squeeaaaak!” The little Shadowmouse looked at Linley with its innocent black eyes and began to squeak with impatience, as though telling Linley to hurry up and give him the food already.
+
+
+score: 0.760875, para: 2 4	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.744984, para: 2 6	Looking down, he saw that it was actually the little Shadowmouse. At the moment, the little Shadowmouse was staring up at Linley with its pitiable, sad little eyes. Linley rubbed his leg, and noticed that he was actually bleeding. He couldn’t help but grow unhappy. But seeing how sad the little Shadowmouse was, he couldn’t grow angry at him.
+
+
+score: 0.738277, para: 2 3	Linley self-confidently said, “I often have to coax little Wharton. Lemme tell ya, if you want to give a kid something, you can’t give them something too good, right off the bat. Otherwise, in the future, they’ll expect something really good every single time, or something even better. Right now, the Shadowmouse is chewing on rocks. If I give him some raw meat, he’ll be really happy. I’ll give him raw meat for seven or eight days, and then I’ll give him cooked meat. That will make him even happier.”
+
+

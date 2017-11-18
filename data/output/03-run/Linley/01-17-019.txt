@@ -1,0 +1,6 @@
+source: 01 17 19	Wharton also knew that he had made a mistake. Lowering his head, he said, “Big brother, I’m sorry.”
+
+
+score: 0.615973, para: 02 3 13	“I read about this as well in a book regarding raising monkeys. ‘Saying three in the morning and then raising to four in the afternoon’ is much more effective than ‘saying four in the morning and then lowering to three in the afternoon’. Linley grinned.
+
+

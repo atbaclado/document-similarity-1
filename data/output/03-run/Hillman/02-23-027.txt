@@ -1,0 +1,30 @@
+source: 02 23 27	“Right! Uncle Hillman.”
+
+
+score: 1.000000, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+
+score: 0.802547, para: 02 5 52	“Yes, Uncle Hillman.”
+
+
+score: 0.762714, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+
+score: 0.629687, para: 01 8 49	“Thank you, Uncle Hillman. I definitely won’t run around.” Linley was overjoyed.
+
+
+score: 0.588514, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.543662, para: 01 18 40	“Hillman, lead the guard squad to do some more scouting about the township. Uncle Hiri, go and get some rest.” Hogg directly instructed.
+
+
+score: 0.542498, para: 01 7 35	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.538254, para: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+
+score: 0.532309, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+

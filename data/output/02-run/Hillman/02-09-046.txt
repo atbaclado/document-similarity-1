@@ -1,0 +1,20 @@
+source: 02 9 46	“Uncle Hillman, let’s go.” Linley placed the red envelope into his clothes, and then left the main hall with Hillman.
+
+score: 0.571273, para: 02 23 30	Linley tugged Hillman and said, “I won this magicrystal card from a rich kid who lost a magic duel with me. Let’s go to the Golden Bank of the Four Empires.” Right now, the guards at the Ernst Institute’s entrance no longer attempted to bar Hillman’s passage, because they recognized Linley, who had left earlier this morning.
+
+score: 0.571273, para: 02 23 30	Linley tugged Hillman and said, “I won this magicrystal card from a rich kid who lost a magic duel with me. Let’s go to the Golden Bank of the Four Empires.” Right now, the guards at the Ernst Institute’s entrance no longer attempted to bar Hillman’s passage, because they recognized Linley, who had left earlier this morning.
+
+score: 0.571273, para: 02 23 30	Linley tugged Hillman and said, “I won this magicrystal card from a rich kid who lost a magic duel with me. Let’s go to the Golden Bank of the Four Empires.” Right now, the guards at the Ernst Institute’s entrance no longer attempted to bar Hillman’s passage, because they recognized Linley, who had left earlier this morning.
+
+score: 0.560207, para: 01 5 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+score: 0.560207, para: 01 5 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+score: 0.560207, para: 01 5 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+score: 0.560207, para: 01 5 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+score: 0.546192, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+score: 0.546192, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+

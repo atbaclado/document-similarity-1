@@ -1,0 +1,15 @@
+source_doc: 1 6	“Time to search the walls and the curtains. Oi. Last, best hope.” Linley grimaced as he scanned the surroundings. “Clan elders, I really hope you guys left one or two things behind for me to find. Even if it is just a small thing.”
+
+
+score: 0.695554, para: 2 3	Some of the stones still showed signs of being chewed on, but despite scanning inside the entire building, he couldn’t see even the shadow of the Shadowmouse. Linley couldn’t help but feel despondent and miserable. “Grandpa Doehring, the Shadowmouse isn’t here anymore. It was just an hour. Did it leave already?”
+
+
+score: 0.695114, para: 2 10	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.668702, para: 1 7	“Just now, I searched the ground and didn’t see a single rock. This must have come from the shattered drawers.” Thinking about the collapsed drawers, Linley couldn’t help but feel angry, and he viciously stomped on the piece of ‘shattered wood’ beneath his feet.
+
+
+score: 0.667121, para: 1 20	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+

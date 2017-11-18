@@ -1,0 +1,30 @@
+source: 01 1 118	After a short period of time, the stunned children returned to their homes. Hillman, Roger, and Lorry were the last to leave. Watching the children depart in clusters of three or five, a smile appeared on Hillman’s face.
+
+
+score: 0.669866, para: 02 13 52	Hillman and the old man both watched the children enter the Institute. Only after a long time did they depart.
+
+
+score: 0.664653, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+
+score: 0.656058, para: 01 7 35	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.653552, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.640160, para: 01 14 49	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+
+score: 0.628509, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+
+score: 0.626433, para: 01 8 40	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+
+score: 0.622303, para: 01 15 29	Only now did the rest of the children awaken from their stupor. Although they didn’t understand why Hillman was pushing them to go back to their homes and wanted to continue watching the Saint-level combatants, Hillman’s awe-inspiring presence was still enough to send all of the children running speedily for their homes.
+
+
+score: 0.618115, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+

@@ -1,0 +1,30 @@
+source: 01 20 23	“No-, nothing.” Linley immediately crawled out of bed. “Uncle Hiri, let’s go eat dinner.”
+
+
+score: 0.682069, para: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+
+score: 0.681709, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.637447, para: 01 21 2	He quickly removed his shoes, then jumped onto the bed and sat down. “Grandpa Doehring, come out now. Help me test my magical aptitude.” Linley was extremely impatient. When he was eating dinner just now, all of his thoughts were turned towards this.
+
+
+score: 0.636204, para: 02 7 22	Linley and Hillman were staying in the same room. There were two beds in this room. Immediately upon entering, the little Shadowmouse, Bebe, leapt out from within Linley’s clothes and immediately began circling around Linley while squeaking loudly.
+
+
+score: 0.626187, para: 02 3 45	Linley nodded slightly. He quickly arrived at the doorway, and saw that at the doorway, there was some rabbit fur splattered with blood. But the rabbit’s flesh and bones were all gone. Seeing this, Linley’s eyes immediately shone.
+
+
+score: 0.615048, para: 01 7 20	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.604634, para: 01 23 62	His ears twitched as he turned and stared towards a far-off building. “I heard something?” He immediately stealthily walked in that direction. His footsteps made almost no sound. Normally, just while walking ordinarily, he could mask his footsteps. Now that he was intentionally trying to hide them, he made even less noise.
+
+
+score: 0.603541, para: 02 3 36	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.602765, para: 02 6 24	Hillman wasn’t even given enough time to react. That blur suddenly landed next to Linley’s legs, and immediately chomped down on Linley’s right leg.
+
+

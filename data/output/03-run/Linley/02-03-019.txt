@@ -1,0 +1,30 @@
+source: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.778939, para: 02 13 49	Linley smiled and nodded.
+
+
+score: 0.728783, para: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.703080, para: 02 18 40	Linley stood up unhappily, and then politely paid his respects. “Farewell, instructor.”
+
+
+score: 0.695209, para: 01 4 39	Hogg coldly nodded, and Linley quickly walked next to him.
+
+
+score: 0.686807, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+
+score: 0.674538, para: 02 4 29	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.671606, para: 02 6 45	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+
+score: 0.667853, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.661805, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+

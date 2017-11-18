@@ -1,0 +1,15 @@
+source_doc: 1 14	Based on each squad’s ability, Hillman assigned different exercises. Under the guidance of the three adults, each child studiously completed each exercise. Today, the training atmosphere was totally different. Almost none of the children complained of being tired.
+
+
+score: 0.676313, para: 1 1	After practicing the ‘Qi Building Stance’, the waist, back, thighs, shoulders, and other parts of the body would be harmonized. Now, almost all of the children were sitting, relaxed, on the ground. Hillman’s training program was nearly perfect in the difficulty levels he assessed on each age group.
+
+
+score: 0.635812, para: 1 1	The other man, Roger (Luo’jie), also walked over. Usually, when the children practiced the ‘Qi Building Stance’, it was time for the three of them to relax and freely chat, while paying attention to any child who decided to slack off.
+
+
+score: 0.615377, para: 1 2	A hundred and twenty six children, all age seventeen, respectfully bowed towards Hillman. These youngsters normally did not attend training. They had all become adults, and had their own jobs to do. But since they had all been trained by Hillman since they were toddlers, they all considered Hillman to have been their benevolent master.
+
+
+score: 0.613385, para: 1 4	Linley was on extremely good terms with the other kids. Although Linley was the child of a noble house, he was extremely kind to the children of commoners, and often helped them train as well.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 5	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+
+score: 0.675246, para: 1 2	Hillman stared at the children, and said in a clear voice, “Brats, listen up! You are all men of Wushan town. The men of Wushan town must straighten their chests and welcome any challenges, and accept no fear. Am I understood?”
+
+
+score: 0.674311, para: 2 7	Glancing at the group of nobles, Linley chuckled quietly. “Uncle Hillman, I won’t pay any mind to their likes.” Under the tutelage of his father Hogg, Linley wouldn’t pay too much heed to that group of self-centered, arrogant nobles.
+
+
+score: 0.668465, para: 2 4	“Squeeaaaak!” The little Shadowmouse looked at Linley with its innocent black eyes and began to squeak with impatience, as though telling Linley to hurry up and give him the food already.
+
+
+score: 0.661352, para: 1 20	Seeing Linley constantly glance at the corner of his bed, Uncle Hiri asked curiously, “Young master Linley, why are you staring at the side of your bed? Did you drop something? I can help you look for it.”
+
+

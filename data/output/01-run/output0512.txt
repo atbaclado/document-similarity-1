@@ -1,0 +1,15 @@
+source_doc: 1 12	“Father, so long as there is any hope, I will persevere.” A solemn look was on Linley’s face.
+
+
+score: 0.603922, para: 1 13	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.589689, para: 1 1	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+
+score: 0.579043, para: 1 19	“Original name? What do you mean, original name?” Linley looked questioningly at the old man.
+
+
+score: 0.572716, para: 2 1	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+

@@ -1,0 +1,18 @@
+source: 02 7 52	The Holy Emperor of the Radiant Church had an extremely high status. He had the authority to depose any of the kings of the various kingdoms! This is why in Fenlai City, the tallest building was the Cathedral of the Radiant Church.
+
+
+score: 0.761615, para: 02 5 8	“What is it, Grandpa Doehring?” Linley asked questioningly. “I bet all of the hundreds of millions of citizens in the six kingdoms and fifteen dukedoms of the Holy Union know about the legendary Holy Emperor Ernst of the Radiant Church.” Linley, also, knew much about the affairs and history of the legendary Holy Emperor Ernst.
+
+
+score: 0.724144, para: 02 5 13	That’s right. In the past, when the Pouant Empire was still unified, the Radiant Church, the Cult of Shadows, and even the Pavilion of Divinities all had many churches within the empire. But all of those churches were under the control of the Pouant Empire.
+
+
+score: 0.670843, para: 01 4 45	“West of the ‘Mountain Range of Magical Beasts’, there are twelve kingdoms and thirty-two duchies. Within these kingdoms and dukedoms, there are two major divisions. The first is the Holy Union, with the kingdom of Fenlai being the principal kingdom. The second is the Dark Alliance, with the kingdom of Heishi being the principal kingdom. These two alliances are opposed to each other and constantly battle because one is controlled by the Radiant Church, while the other belongs to the Cult of Shadows.”
+
+
+score: 0.611051, para: 01 4 58	“At the far northern end, the Holy Union shares a border with the O’Brien Empire. While at the southern end, the Dark Alliance intersects with the Yulan Empire. Under the guidance of the Radiant Church, the unity of our Holy Union isn’t one whit inferior to that of the empires.”
+
+
+score: 0.574831, para: 02 5 9	He had dramatically raised the profile of the Radiant Church, and single-handedly created the Holy Union.
+
+

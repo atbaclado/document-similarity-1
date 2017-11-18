@@ -1,0 +1,30 @@
+source: 01 6 5	“The ancestral hall is cleaned every month. Frankly speaking, in just a month, the ancestral hall won’t get too dirty. All I have to do is just casually wipe it down. I have almost an hour before training starts. What should I do?” Bored, Linley looked around in all directions.
+
+
+score: 0.703350, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.687275, para: 01 1 133	The amount of land the Baruch manor was built upon was actually quite large. Moss was growing on the walls, and all sorts of ivy creepers twined up the walls as well. The scars of time were very apparent on the walls. The Baruch manor located in Wushan town was the ancestral home of the Baruch clan. An ancestral home which had existed for over five thousand years and endured countless renovations continued to stand here.
+
+
+score: 0.686897, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.668859, para: 01 2 43	Counting on his fingers, little Wharton said, “First I used the rags to wipe the floors, then the toilet chamber pots, and lastly I wiped….wiped….right, I wiped the plates!” He looked excitedly at Linley, awaiting Linley’s praise.
+
+
+score: 0.663109, para: 01 2 60	The cold wind blowing, Linley couldn’t help but shiver. But Linley didn’t make a sound, because he could feel that something was different today. Following his father, Linley entered the ancestral hall as well.
+
+
+score: 0.656805, para: 01 23 58	“Whew. All done cleaning. Time to go do some more magical training. Yesterday I actually managed to successfully execute the ‘Earth Tremor’ technique. That was wonderful.” Right now, Linley was in an extremely good mood. He quickly strode out of the ancestral hall and closed the door.
+
+
+score: 0.655569, para: 02 5 4	“Our ancestral heirloom. For our ancestral heirloom to be lost to us is a humiliation that must be washed away.” Linley could also feel his heart grow heavy.
+
+
+score: 0.628581, para: 01 7 20	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.615230, para: 01 7 30	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+

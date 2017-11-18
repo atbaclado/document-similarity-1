@@ -1,0 +1,20 @@
+source: 01 1 46	All of the children stared worshipfully at Hillman.
+
+score: 0.928981, para: 01 50 46	All of the children stared worshipfully at Hillman.
+
+score: 0.928981, para: 01 50 46	All of the children stared worshipfully at Hillman.
+
+score: 0.928981, para: 01 50 46	All of the children stared worshipfully at Hillman.
+
+score: 0.733577, para: 01 92 91	Upon hearing these words, all of the youths, including the youngest children resting off to the side, stared at Hillman with wide eyes.
+
+score: 0.733577, para: 01 92 91	Upon hearing these words, all of the youths, including the youngest children resting off to the side, stared at Hillman with wide eyes.
+
+score: 0.733577, para: 01 92 91	Upon hearing these words, all of the youths, including the youngest children resting off to the side, stared at Hillman with wide eyes.
+
+score: 0.682985, para: 01 4 11	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+
+score: 0.682985, para: 01 4 11	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+
+score: 0.682985, para: 01 4 11	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+

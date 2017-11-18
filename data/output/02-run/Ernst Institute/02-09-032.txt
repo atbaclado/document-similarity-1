@@ -1,0 +1,20 @@
+source: 02 9 32	That represented that immediately upon graduation, even if he was just an average student, he could easily become an earl in any of the nearby kingdoms. If he was a superior student, even the four great empires would sincerely welcome him to join them.
+
+score: 0.575642, para: 02 17 26	At the Ernst Institute, there were indeed quite a few people who had magical beasts. Aside from the magi who had been invited to come to the Institute, some fifth and sixth grade students were able to buy soulbinding formation scrolls and had managed to tame some magical beasts to serve as their mounts.
+
+score: 0.575642, para: 02 17 26	At the Ernst Institute, there were indeed quite a few people who had magical beasts. Aside from the magi who had been invited to come to the Institute, some fifth and sixth grade students were able to buy soulbinding formation scrolls and had managed to tame some magical beasts to serve as their mounts.
+
+score: 0.575642, para: 02 17 26	At the Ernst Institute, there were indeed quite a few people who had magical beasts. Aside from the magi who had been invited to come to the Institute, some fifth and sixth grade students were able to buy soulbinding formation scrolls and had managed to tame some magical beasts to serve as their mounts.
+
+score: 0.572897, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+score: 0.572897, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+score: 0.572897, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+score: 0.566264, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”02 7 56	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+score: 0.566264, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”02 7 56	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+score: 0.566264, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”02 7 56	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+

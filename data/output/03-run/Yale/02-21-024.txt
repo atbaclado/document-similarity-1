@@ -1,0 +1,30 @@
+source: 02 21 24	“There they are.” Yale suddenly shouted loudly.
+
+
+score: 0.741180, para: 02 20 3	“Yeah!” Yale suddenly shouted loudly, his face filled with excitement. “That felt so good. Third bro, I didn’t expect you to be as strong as that!”
+
+
+score: 0.621245, para: 02 20 37	“Haha, don’t have the balls?” Yale pulled out a magicard, waving it around as he spoke.
+
+
+score: 0.576196, para: 02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+
+score: 0.563239, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.541284, para: 02 14 20	Staring at his two dormmates, Yale became momentarily speechless as well. Besides Linley, the ghostly form of Doehring Cowart was holding his belly as he laughed uproariously. This made Linley ask him curiously, “Grandpa Doehring, why are you laughing?”
+
+
+score: 0.540183, para: 02 19 37	Linley and Yale turned their heads. Four youths in the same hotel were making their way down from the second floor. Their leader, a golden-haired youth, stared at Linley’s group coldly.
+
+
+score: 0.519577, para: 02 15 9	“Magical beast, it’s a magical beast! I’ve seen them in books.” Yale suddenly shouted.
+
+
+score: 0.518947, para: 02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+
+score: 0.506691, para: 02 20 86	After speaking, Linley glanced expressively at his three bros. Yale and the others knew what he was thinking, and immediately, the four bros ignored everyone around them and departed, leaving behind that young lady, Danni, who frowned unhappily.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 7	Early next morning, on East Fenlai City’s Greenleaf Road. One of Fenlai City’s principal roads, the buildings constructed on each side of Greenleaf Road were lavishly made and decorated. Some of those buildings were actually owned by the kingdom. And the tallest building of them all? It was the Cathedral of the Radiant Church.
+
+
+score: 0.632813, para: 1 1	The amount of land the Baruch manor was built upon was actually quite large. Moss was growing on the walls, and all sorts of ivy creepers twined up the walls as well. The scars of time were very apparent on the walls. The Baruch manor located in Wushan town was the ancestral home of the Baruch clan. An ancestral home which had existed for over five thousand years and endured countless renovations continued to stand here.
+
+
+score: 0.560766, para: 1 8	Just from looking at this huge magical beast, Linley felt as though its power was irresistible. Linley believed that with but a swipe of its enormous tail, most likely even the sturdiest stones of the houses of Wushan town would be disintegrated.
+
+
+score: 0.555192, para: 1 6	“Heeeeey…” Seeing the decrepit architecture, Linley’s eyes slowly brightened. “Lots of places in the back courtyard haven’t been visited in over a century. I wonder if there’s any ancient, valuable items there?”
+
+
+score: 0.553567, para: 1 6	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+

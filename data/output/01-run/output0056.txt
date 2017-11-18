@@ -1,0 +1,14 @@
+source_doc: 1 1	Upon hearing these words, all of the youths, including the youngest children resting off to the side, stared at Hillman with wide eyes.
+
+
+score: 0.774714, para: 1 14	All the children were staring at Hadley with wide eyes.
+
+
+score: 0.721635, para: 2 6	Linley stared at the little Shadowmouse.
+
+
+score: 0.718260, para: 1 6	He stared up at the sky.
+
+
+score: 0.690849, para: 1 7	Linley widened his eyes and stared east…
+

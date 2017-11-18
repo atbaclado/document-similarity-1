@@ -1,0 +1,30 @@
+source: 01 6 24	Having made up his mind, Linley raced towards the large room.
+
+
+score: 0.746191, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.642208, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+
+score: 0.607422, para: 01 7 2	When Linley had strode forward by three steps, reaching the doorway, he came to a sudden halt, because he could clearly feel that he had stepped on something hard.
+
+
+score: 0.588287, para: 01 2 58	Exiting the guest hall, Hogg, Linley, and Uncle Hiri, who still held Wharton, followed the blue stone path towards the back manor.
+
+
+score: 0.577885, para: 01 7 41	Just as Linley began jogging towards his usual position in the team, suddenly…
+
+
+score: 0.558219, para: 02 4 1	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+
+score: 0.554083, para: 02 1 23	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+
+score: 0.541499, para: 02 3 43	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.541147, para: 01 3 5	Hogg led Linley towards the area behind the many spirit tablets. Lifting him up, Hogg said, “Take a close look at those characters behind.”
+
+

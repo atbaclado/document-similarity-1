@@ -1,0 +1,15 @@
+source_doc: 1 6	“According to the books I’ve read, it is quite common for walls to contain hidden levers or passages.” Linley carefully rapped the walls, listening to the sounds.
+
+
+score: 0.592059, para: 2 3	“Crunch, crunch.” That familiar, soft crunching sound could be heard once again. Linley’s eyes brightened, and he immediately turned and headed towards an ancient courtyard nearby. Arriving at the entryway, he clearly saw the black Shadowmouse chewing on stones in one spot, unmoving. He seemed almost like a sculptor, as he chewed each rock into surprising, bizarre shapes.
+
+
+score: 0.589083, para: 2 11	Hogg, of course, couldn’t discover Doehring Cowart’s existence at all. Hogg laughed bitterly at Linley. “Linley, did you see that? Based on our ancestor’s method, the Dragonblood is lurking hidden within all of our veins. To call it forth, there are just two methods. But the second method requires one to drink the blood of a living dragon. How can that be an easy task? What’s more…Linley, flip to the back and take a look.”
+
+
+score: 0.573512, para: 1 15	Hillman and the others were hundreds of meters away from the Black Dragon. No matter how sharp their ears were, there was no way for them to hear the words being exchanged by the two parties.
+
+
+score: 0.563580, para: 1 23	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+

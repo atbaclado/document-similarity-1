@@ -1,0 +1,15 @@
+source_doc: 2 7	There were some commoners amongst the hundreds of people crowding the square, and some countryside nobles such as Linley. Usually, those nobles from small countryside noble families were also looked down upon. The nobles of the capital were an arrogant lot who generally looked down on people.
+
+
+score: 0.737941, para: 2 9	Despite being packed, everyone in the main hall, from the commoners to the nobles, all discreetly made way for him to move through. Even those nobles who had previously scorned Linley as a country bumpkin were all now smiling at him in a friendly manner. Their attitudes were amazingly good.
+
+
+score: 0.651176, para: 1 4	As a member of a noble house, Linley’s education began from a young age. The five-thousand year old Baruch clan was even stricter regarding educational matters than even the royal families of most kingdoms were.
+
+
+score: 0.644216, para: 1 2	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+
+score: 0.642143, para: 1 12	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+

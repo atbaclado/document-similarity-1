@@ -1,0 +1,15 @@
+source_doc: 2 4	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+
+score: 0.717115, para: 2 6	The little Shadowmouse suddenly rushed in Linley’s direction.
+
+
+score: 0.712046, para: 2 6	But the little Shadowmouse was even faster, and in the blink of an eye, scurried on top of Linley’s shoulder.
+
+
+score: 0.709931, para: 2 5	“I don’t know how much time I will have to spend in a magus academy, or how many years I will be there for. Will we ever meet again?” Linley stroked the little Shadowmouse’s fur, somewhat unwilling to part from it. After playing with the little Shadowmouse for the past month, he had really come to care for the cute little Shadowmouse.
+
+
+score: 0.709127, para: 2 10	“Father.” Linley was afraid that his father would strike, so he hurriedly said, “The little Shadowmouse and I have already entered a soulbinding pact.”
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 9	At this point in time, all of the magus recruiters charged forth. “Hello, Linley. I come from the Lander [Lan’de] Magus Academy. Our Lander Magus Academy sincerely would like to admit you into our school. As long as you enroll with us, your entire tuition will be free, and every year we will even provide you with a thousand gold coins for living expenses. We will also invite an especially skilled magus teacher to personally train you.”
+
+
+score: 0.685319, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.651198, para: 2 5	“The Ernst Institute is the number one magus academy in the world. All of the graduates of the Ernst Institute are at least magi of the sixth rank, and there’s even many who are of the seventh rank! If our Baruch clan was able to produce a magus of the seventh rank, we at least would stand a chance of recovering our ancestral heirloom.”
+
+
+score: 0.647348, para: 2 5	Linley rubbed the little Shadowmouse’s head. “Alright, stop making a fuss. Tomorrow, I’m going to leave home and go to the capital. After the magus recruitment event is over, I’m going to be going to a magus academy. I’m afraid we won’t have many chances to meet after that.”
+
+
+score: 0.636256, para: 2 4	Linley’s words died unspoken on his lips. At the same time, he suspiciously asked, “Grandpa Doehring, I have you to teach me, right? With you teaching me, why would I need to go to a magus academy? Isn’t that a waste of family resources?”
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 14	“Great.” Hillman’s facial expression suddenly turned serious. “That huge creature is known as a Velocidragon. The magus on top of the Velocidragon is incredibly powerful. But everyone should know one thing!”
+
+
+score: 0.726971, para: 1 8	“A magical beast of the seventh rank. Velocidragon*!” Hillman’s facial expression contorted, while Lorry and Roger, by his side, felt their legs grow weak.
+
+
+score: 0.690885, para: 1 21	“Linley…in the entire world, isn’t it true that most battles and most magi are on the earth? And when used while standing on the earth, earth-style magic is extremely effective.” A smile was on Doehring Cowart’s face. “As you stand firmly on the boundless earth, an earth-style magus will have an extremely effective assistant.”
+
+
+score: 0.689405, para: 1 18	Linley’s eyes suddenly turned round. “You…you are a Saint-level magus instructor?”
+
+
+score: 0.671476, para: 2 11	Doehring Cowart was so old that he had become as crafty as a fox. Stroking his white beard, he said in a self-satisfied manner, “Linley, the answer is simple. Based on what I know, the dragon race is extremely proud, and also extremely large and powerful! I wager that drinking the blood of a live dragon is probably an effective method, but your clan came under tremendous pressure from the dragon clan, and therefore altered the contents of this book.”
+
+

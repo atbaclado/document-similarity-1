@@ -1,0 +1,15 @@
+source_doc: 2 7	The entire city of Fenlai was divided into two parts; East Fenlai City, and West Fenlai City. East Fenlai City was governed by the King of Fenlai, while West Fenlai City was managed by the Radiant Church. Because Fenlai City was both the kingdom’s capital as well as the Holy Capital, the opulence of Fenlai City could be matched by extremely few cities in the entire Yulan continent.
+
+
+score: 0.632877, para: 2 5	Hogg stood there, straight as a ramrod. Staring directly at Linley, he said, “Linley, Wushan township is located fairly close to the capital, just ninety or so kilometers away. You should be able to make it to the capital before nightfall. Remember, when you reach the capital, don’t cause any trouble. There are too many rich and powerful people in the capital.”
+
+
+score: 0.623496, para: 1 15	While running as fast as he could, Linley’s mind returned to the Black Dragon, its gray-robed rider, and the green-robed man. He couldn’t help but turn once again and look back at the eastern sky. Since all the buildings in the small town were fairly low in height, he could clearly see for hundreds of meters.
+
+
+score: 0.609845, para: 1 12	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+
+score: 0.596862, para: 1 1	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+

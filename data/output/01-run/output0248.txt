@@ -1,0 +1,14 @@
+source_doc: 1 4	Linley was about to immediately continue, but Hogg cut him off. “Let me ask you, within our Holy Union, how many kingdoms and duchies are there?”
+
+
+score: 0.688089, para: 2 5	“What is it, Grandpa Doehring?” Linley asked questioningly. “I bet all of the hundreds of millions of citizens in the six kingdoms and fifteen dukedoms of the Holy Union know about the legendary Holy Emperor Ernst of the Radiant Church.” Linley, also, knew much about the affairs and history of the legendary Holy Emperor Ernst.
+
+
+score: 0.645693, para: 2 5	“Grandpa Doehring, you knew Holy Emperor Ernst?” Linley was somewhat surprised.
+
+
+score: 0.619766, para: 1 2	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+
+score: 0.604527, para: 2 7	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+

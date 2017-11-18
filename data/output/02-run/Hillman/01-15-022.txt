@@ -1,0 +1,16 @@
+source: 01 15 22	Hillman paused. He mumbled the words, “Rudi? Rudi?”
+
+score: 0.549382, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+score: 0.549382, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+score: 0.549382, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+score: 0.520153, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+score: 0.520153, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+score: 0.520153, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+score: 0.520153, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+

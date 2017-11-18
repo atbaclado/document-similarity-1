@@ -1,0 +1,30 @@
+source: 02 1 20	Doehring Cowart frowned as he spoke. “The Stoneater Rat is famed for its toughness and its sharp teeth, while the Shadowmouse is famed for its speed and its sharp teeth! Speed is thus a very good way to determine the strength of any particular Shadowmouse.”
+
+
+score: 0.587897, para: 02 2 37	A vigorous, nimble shadow could be seen piercing through the mountain forests. Linley ran silently but nimbly and fast. After having absorbed earth essence for half a year, Linley didn’t just possess mageforce; his physical strength had been raised as well.
+
+
+score: 0.583420, para: 02 10 28	Hogg naturally knew very well that Linley’s physical strength was very weak. And even the weakest Shadowmouse was of the third rank of power. And in addition, there was no way for Linley to set up a soulbinding magical formation, so that couldn’t have happened at all.
+
+
+score: 0.575984, para: 02 17 52	“Yeah, not bad.” Doehring Cowart’s eyes lit up. “To be able to control five stones at once with such impressive speed shows that you do, in fact, have the power of a magus of the second rank.” Doehring Cowart was very much satisfied with Linley’s performance.
+
+
+score: 0.563651, para: 01 4 13	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.559816, para: 02 2 38	By this point in time, Linley’s body was comparable to the average 15-16 year old in Wushan township, and possessed the strength of a warrior of the first rank.
+
+
+score: 0.556021, para: 01 8 27	The Velocidragon’s huge body, hard scales, sharp claws, and powerful tail served to create a terrifying appearance. Linley believed….a single Velocidragon could most likely annihilate the entire Wushan township.
+
+
+score: 0.555459, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.550122, para: 02 12 9	Linley’s lips curved up in a smile. “Grandpa Doehring, I believe you were the one who said that strong combatants must work hard every single day, and not relax for even an instant. Only long term training will produce astonishing power.”
+
+
+score: 0.549547, para: 02 25 10	One could use an earth-style magus’ unique connection to the earth to understand a stone’s essence. But wrist strength had to be trained. As a magus of the second rank, Linley’s wrist strength was not bad, but it was only enough to carve some smaller pieces. If he wanted to carve anything large, his wrist strength would not be enough.
+
+

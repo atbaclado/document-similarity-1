@@ -1,0 +1,20 @@
+source: 01 2 28	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+score: 0.658178, para: 01 4 34	As a member of a noble house, Linley’s education began from a young age. The five-thousand year old Baruch clan was even stricter regarding educational matters than even the royal families of most kingdoms were.
+
+score: 0.658178, para: 01 4 34	As a member of a noble house, Linley’s education began from a young age. The five-thousand year old Baruch clan was even stricter regarding educational matters than even the royal families of most kingdoms were.
+
+score: 0.658178, para: 01 4 34	As a member of a noble house, Linley’s education began from a young age. The five-thousand year old Baruch clan was even stricter regarding educational matters than even the royal families of most kingdoms were.
+
+score: 0.658178, para: 01 4 34	As a member of a noble house, Linley’s education began from a young age. The five-thousand year old Baruch clan was even stricter regarding educational matters than even the royal families of most kingdoms were.
+
+score: 0.641563, para: 02 5 20	As dinner progressed, the conversation amongst the Baruch clan manors was quite cheerful.
+
+score: 0.641563, para: 02 5 20	As dinner progressed, the conversation amongst the Baruch clan manors was quite cheerful.
+
+score: 0.641563, para: 02 5 20	As dinner progressed, the conversation amongst the Baruch clan manors was quite cheerful.
+
+score: 0.639962, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.639962, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+

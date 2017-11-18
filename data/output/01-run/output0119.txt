@@ -1,0 +1,14 @@
+source_doc: 1 2	Linley was exceedingly smart. Under the tutelage of his father, Hogg, since a young age, he had learned many words and could read most books.
+
+
+score: 0.619125, para: 2 10	Linley looked suspiciously at the thick book he had just accepted. There were no words on the cover, but when he opened it, there were four big words printed on the first page – Secret Dragonblood Training Tome.
+
+score: 0.610498, para: 2 11	“Drink the blood of a living dragon, and a Saint-level one at that? Linley, your ancestors really were extremely formidable.” Doehring Cowart had appeared by Linley’s side and was reading the Tome as well. Seeing the introductory paragraphs, he couldn’t help but feel shocked as well.
+
+
+score: 0.609868, para: 1 4	Linley remembered his father’s words very clearly.
+
+
+score: 0.602657, para: 1 3	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 8	And then the mysterious, violet-robed man didn’t say anything else. After gazing at Linley and the rest of the group with its cold eyes, the Velocidragon continued forward, two more lines of smoke appearing from its nostrils. Seeing the Velocidragon go in the direction of the township, the expression on Hillman’s face changed.
+
+
+score: 0.665810, para: 1 1	A hint of a smile played at Hillman’s lips. He then moved to the front and took off his shirt. The lines running across the powerful muscles on his body made the eyes pop out of all of the kids. Even the children in the middle group and southern group couldn’t help but stare at him, admiring his physique.
+
+
+score: 0.664920, para: 1 18	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+
+score: 0.647528, para: 2 6	“Uncle Hillman, let’s go. Hehe, the little Shadowmouse is smart. He knows what I’m saying.” Linley said to Hillman. Hillman, who had been watching this spectacle with amazement, chuckled and then continued walking forward with Linley.
+
+
+score: 0.643290, para: 2 7	“Whew. It’s been quite a while since I’ve been in a large city.” A hazy white light shone out from the Coiling Dragon Ring, transforming into a white-bearded old man. Doehring Cowart and Linley stood side by side as they stared at the street below.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 19	“In year 4280 of the Yulan calendar, I encountered an old foe of mine, a Saint-level Grand Magus named Hamelin [Ha’mu’lin], and the two of us began to fight. I didn’t expect yet a second Saint-level combatant to ambush me and sneak attack me. In the end, I was defeated, and my body was destroyed. I didn’t wish for my spirit to be captured and tortured by my enemy, Hamelin, so I sealed myself within this Worldri-, ahem, this Coiling Dragon Ring.” The old man explained what had happened in the past.
+
+
+score: 0.729346, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.702639, para: 1 21	Linley suddenly remembered the two Saint-level combatants who were fighting in the sky. He remembered how the green-robed man had landed that huge hazy sword-tip attack on the gray-robed man, whose robe shattered and revealed a diamond-like armor beneath it.
+
+
+score: 0.698670, para: 1 13	“The requirements for the former are very difficult. For a magical beast to willingly subordinate himself to you, perhaps the only way is to defeat the magical beast in direct combat. Only then would he willingly follow you. For example, if you wanted to subdue a Velocidragon, you would first have to be able to defeat that Velocidragon in battle.” His father’s words rendered Linley speechless.
+
+
+score: 0.686748, para: 1 14	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+

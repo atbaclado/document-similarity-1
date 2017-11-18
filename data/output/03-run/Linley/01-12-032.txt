@@ -1,0 +1,30 @@
+source: 01 12 32	Linley scrambled to his feet. Raising his head, he saw that it was his father, Hogg. At the moment, a smiling, praising look was on Hogg’s face as he watched Linley.
+
+
+score: 0.637672, para: 02 3 36	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.624502, para: 02 6 45	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+
+score: 0.614569, para: 02 6 18	“Squeak. Squeaaaaak!” The little Shadowmouse stood there, watching Linley.
+
+
+score: 0.605822, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.603938, para: 01 3 59	“Father, you don’t believe me?” Raising his head, Linley looked at his father questioningly.
+
+
+score: 0.596965, para: 02 6 13	Hillman looked at Linley with shock. “Linley, are you saying that you’ve been raising, raising a magical beast?”
+
+
+score: 0.592455, para: 02 6 19	“Uncle Hillman, let’s go. Hehe, the little Shadowmouse is smart. He knows what I’m saying.” Linley said to Hillman. Hillman, who had been watching this spectacle with amazement, chuckled and then continued walking forward with Linley.
+
+
+score: 0.588487, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.587321, para: 01 16 48	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+

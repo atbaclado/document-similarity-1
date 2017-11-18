@@ -1,0 +1,14 @@
+source_doc: 2 5	“Ernst? The legendary Holy Emperor of the Radiant Church?” The nearby Doehring Cowart started.
+
+
+score: 0.807559, para: 2 7	The Holy Emperor of the Radiant Church had an extremely high status. He had the authority to depose any of the kings of the various kingdoms! This is why in Fenlai City, the tallest building was the Cathedral of the Radiant Church.
+
+
+score: 0.725628, para: 2 4	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+
+score: 0.646238, para: 2 7	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.639077, para: 1 4	“Linley, you must remember, we are currently living within the Holy Union. You must know everything about the Holy Union!” Hogg coldly looked at his son. “In the entire Yulan continent, the most important entities are the four empires and the two alliances.”
+
+

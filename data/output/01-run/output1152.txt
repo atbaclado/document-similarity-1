@@ -1,0 +1,15 @@
+source_doc: 2 5	Unfortunately, the type of family which could collect the warblade ‘Slaughterer’ was not an ordinary one, and the current Baruch clan was far too weak.
+
+
+score: 0.714236, para: 2 10	Wushan township. The Baruch clan manor.
+
+
+score: 0.706808, para: 2 11	In the past, when the first, second, and third generation of Baruch clan members were all Dragonblood Warriors, the clan was in its glorious ascendancy. At that period in time, it wasn’t impossible to procure the blood of a Saint-level dragon.
+
+
+score: 0.699380, para: 1 2	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+
+score: 0.697434, para: 1 1	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+

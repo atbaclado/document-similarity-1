@@ -1,0 +1,14 @@
+source_doc: 1 3	“Hold it.” Holding the translucent Dragonblood Needle, Hogg lightly pricked Linley’s ring finger with it, easily piercing the skin. Linley felt a piercing pain, and the translucent needle immediately turned crimson as well.
+
+
+score: 0.697983, para: 1 17	Since his head was injured, the so-called ‘Coiling Dragon’ ring he wore underneath his clothes had also been stained by blood. But the blood on the Coiling Dragon ring seemed to have disappeared, like water into an endless ocean, as the strange black material slowly absorbed it all.
+
+
+score: 0.669337, para: 1 17	But since it was being worn underneath his clothes, no one could possibly notice the faint light coming off from the surface of the Coiling Dragon ring.
+
+score: 0.659235, para: 1 23	He saw a 20-centimeter long black mouse chewing on a piece of stone rubble. And then, in the blink of an eye, the black mouse appeared tens of meters away in a different direction, and began to nibble on a piece of blue tile. The black mouse’s fur appeared very soft. Its eyes were guileless, and its paws were furry. In a word, it looked very cute.
+
+
+score: 0.656882, para: 1 7	“Hm, this ring is really thick. There’s no way to wear it on my finger without it slipping off. I’ll string it through with silk and wear it around my neck.” Linley’s eyes brightened.
+
+

@@ -1,0 +1,30 @@
+source: 01 9 12	Listening to the conversation from far away, Linley, by Hillman’s side, now understood everything.
+
+
+score: 0.739326, para: 02 4 24	Linley understood this logic.
+
+
+score: 0.651301, para: 01 4 57	Although his father’s words were simple, Linley clearly understood the deeper meaning.
+
+
+score: 0.614226, para: 02 24 19	Linley understood this in his heart.
+
+
+score: 0.550057, para: 01 20 31	Linley’s heart was immediately filled with joy. But as he engaged in conversation with Doehring Cowart, he didn’t pay attention to where he walked, and he tripped over the doorway. Uncle Hiri, walking ahead of him, turned and laughed. “Young master Linley, watch where you walk.”
+
+
+score: 0.549658, para: 01 14 17	Linley couldn’t help but feel helpless. How was it that Hadley’s nonsense roped him into this conversation as well?
+
+
+score: 0.530208, para: 01 4 16	Linley remembered his father’s words very clearly.
+
+
+score: 0.523281, para: 02 4 57	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+
+score: 0.521319, para: 02 2 3	“Grandpa Doehring, quick, tell me, what’s your plan?” Linley excitedly spoke to him mentally.
+
+
+score: 0.515860, para: 02 3 33	Linley smiled at the Shadowmouse, then tossed the wild hare in front of the doorway. Perhaps the Shadowmouse couldn’t understand human speech, but Linley understood that an intelligent magical beast should be able to understand the meaning of a smile.
+
+

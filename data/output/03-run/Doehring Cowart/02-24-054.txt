@@ -1,0 +1,30 @@
+source: 02 24 54	“Written, recorded history goes back only a few tens of thousands of years at most. In the long ages before then, before the writing system had even been invented, stonesculpting had already existed.” Doehring Cowart said with a sigh. “Hundreds of thousands of years, or even millions of years ago, our ancestors would record their memories and their visions in sculptures. This is the most ancient method of recording culture and history.”
+
+
+score: 0.602340, para: 02 7 32	Doehring Cowart sighed emotionally, “You haven’t been here very long. You don’t know much about how large cities like this work. This place will have countless lavish places to spend money, like large auctions, where some magnates would spend even hundreds of thousands of gold coins, or perhaps even millions of gold coins to purchase just a single item.”
+
+
+score: 0.599586, para: 02 2 6	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.570358, para: 02 4 49	“No.” Doehring Cowart said seriously. “I haven’t interacted with the Yulan continent for over five thousand years. Five thousand years, Linley! You must understand that many magi in the world have been continuously researching and developing new spells during this time period. Who knows how many new spells have been developed in the interim.”
+
+
+score: 0.556010, para: 01 22 31	“What’s the point of having mageforce, if you don’t know exactly how to shape it into a magical spell?” Doehring Cowart let out a long sigh. “The world of magic is an extremely complicated one. Magical research is very difficult and dangerous. But due to intra-empire struggles, countless magi engage in the research of new types of spells.”
+
+
+score: 0.550118, para: 02 8 18	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+
+score: 0.546610, para: 02 16 22	Doehring Cowart laughed self-confidently. Stroking his white beard, he said, “Naturally. A Saint-level Grand Magus’ understanding of magic is far greater than that of a magus of the eighth or ninth rank. The Saint-level is a totally new realm of existence. Naturally, my teachings regarding magic are more profound and point more directly to the underlying nature of magic.”
+
+
+score: 0.541594, para: 02 11 47	“I remember the master physician who provided the prescription saying that everything in this world has its equal and opposite. For every single ingredient, there was another that would match with it. In that era, the only person who knew how to mix fresh dragon’s blood with Blueheart Grass was that old physician. Since six thousand years have gone by, no doubt no one knows it any longer.” Doehring Cowart said calmly.
+
+
+score: 0.536431, para: 02 2 15	“Adult magical beasts have very high intelligence, so if you want to move the heart of an adult magical beast and make it view you as family, it is almost impossible.” Doehring Cowart sighed. “But juveniles are different. It is much like how human babies have low intelligence and can easily be tricked into liking you by, say, giving them some tasty food. The intelligence of magical beast babies is even lower. As long as you often feed him, he will like you. Then, spend some time playing with him. In a short period of time, this magical beast will come to adore you. This is especially true for an infant magical beast who has been separated from his community. Those are even easier to tame.”
+
+
+score: 0.533645, para: 01 21 30	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+

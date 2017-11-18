@@ -1,0 +1,15 @@
+source_doc: 1 8	Hillman helplessly shook his head. He knew how stubborn Linley could be, and how hard it was to force him to change his mind. “Fine. Then stay behind me, do not go too far. As long as you stay next to me, I am confident that I can protect you.”
+
+
+score: 0.685434, para: 1 22	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+
+score: 0.668166, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.667430, para: 1 14	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.662353, para: 2 3	Some of the stones still showed signs of being chewed on, but despite scanning inside the entire building, he couldn’t see even the shadow of the Shadowmouse. Linley couldn’t help but feel despondent and miserable. “Grandpa Doehring, the Shadowmouse isn’t here anymore. It was just an hour. Did it leave already?”
+
+

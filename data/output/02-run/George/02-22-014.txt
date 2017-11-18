@@ -1,0 +1,8 @@
+source: 02 22 14	Yale, Reynolds, George, and Linley viewed one stone sculpture after another, and in their hearts they felt as though these sculptures truly were incomparably beautiful.
+
+score: 0.556737, para: 02 21 47	George laughed confidently. “In the history of sculpture, from the beginning til now, there have been countless stone sculptures made. Of the top ten sculptures, any one of them would be worth a million gold coins. And of those top ten sculptures, three were made by Grandmaster Proulx. He can be considered the number one person in the history of stonesculpting!”
+
+score: 0.556737, para: 02 21 47	George laughed confidently. “In the history of sculpture, from the beginning til now, there have been countless stone sculptures made. Of the top ten sculptures, any one of them would be worth a million gold coins. And of those top ten sculptures, three were made by Grandmaster Proulx. He can be considered the number one person in the history of stonesculpting!”
+
+score: 0.556737, para: 02 21 47	George laughed confidently. “In the history of sculpture, from the beginning til now, there have been countless stone sculptures made. Of the top ten sculptures, any one of them would be worth a million gold coins. And of those top ten sculptures, three were made by Grandmaster Proulx. He can be considered the number one person in the history of stonesculpting!”
+

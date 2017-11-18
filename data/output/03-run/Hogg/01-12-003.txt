@@ -1,0 +1,30 @@
+source: 01 12 3	Hogg stared in all directions, seeing how so many houses had been reduced to rubble.
+
+
+score: 0.631009, para: 01 3 32	Raising his head, Linley stared at his father, feeling extremely agitated. “Is the density of dragonblood in my veins sufficient? Why has father stared at the Dragonblood Needle for so long?” Linley had a bad premonition…
+
+
+score: 0.577377, para: 01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+
+
+score: 0.577117, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.574600, para: 02 10 5	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+
+score: 0.570400, para: 01 17 7	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+
+score: 0.562906, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+
+score: 0.541937, para: 01 17 15	At this moment, upon seeing Linley’s smile, Hogg’s tears came spilling out.
+
+
+score: 0.539081, para: 01 5 41	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+
+score: 0.538337, para: 01 2 53	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+

@@ -1,0 +1,20 @@
+source: 01 1 55	Hillman’s face was cold and callous, but in his heart, he secretly nodded. He was still very satisfied with the performance of these six and seven year olds.
+
+score: 0.969391, para: 01 58 55	Hillman’s face was cold and callous, but in his heart, he secretly nodded. He was still very satisfied with the performance of these six and seven year olds.
+
+score: 0.969391, para: 01 58 55	Hillman’s face was cold and callous, but in his heart, he secretly nodded. He was still very satisfied with the performance of these six and seven year olds.
+
+score: 0.969391, para: 01 58 55	Hillman’s face was cold and callous, but in his heart, he secretly nodded. He was still very satisfied with the performance of these six and seven year olds.
+
+score: 0.717172, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+score: 0.717172, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+score: 0.717172, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+score: 0.717172, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+score: 0.633978, para: 01 66 62	“Good kid!” Hillman secretly praised. Despite being just six years old, he could maintain the ‘Qi Building Stance’ for as long as the ten year old kids.
+
+score: 0.633978, para: 01 66 62	“Good kid!” Hillman secretly praised. Despite being just six years old, he could maintain the ‘Qi Building Stance’ for as long as the ten year old kids.
+

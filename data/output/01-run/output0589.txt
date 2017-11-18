@@ -1,0 +1,15 @@
+source_doc: 1 14	This exercise could not only train his palm strength, it could also improve his finger strength and his elbow strength. This method was simple and effective.
+
+
+score: 0.622857, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.609550, para: 1 4	A very simple yet very effective training exercise. If a person could reach the level of being able to maintain this pose for an hour, then his body would no longer fear ordinary swords or sabres.
+
+
+score: 0.570988, para: 1 1	“The waist and the thighs form a triangular region.” Hillman gestured with his hands to show the area he was describing. “This area is a person’s nucleus. Speed and power all come from this triangular nucleus, making this region extremely important.”
+
+
+score: 0.570166, para: 1 22	“Come, let’s begin the test of the strength of your elemental affinities. Sit down with legs crossed, close your eyes, and enter a meditative state.” Doehring Cowart said gently.
+
+

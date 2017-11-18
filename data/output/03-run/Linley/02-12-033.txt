@@ -1,0 +1,30 @@
+source: 02 12 33	“Linley, today you are going to go to the Ernst Institute and formally become an Ernst Institute student. When you graduate from the Ernst Institute, you will be a powerful magus! Before you depart, as your father, I want to say to you…” On this last day, Hogg had a belly full of things he wanted to speak to Linley.
+
+
+score: 0.644823, para: 02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+
+score: 0.644751, para: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+
+score: 0.598125, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+
+score: 0.597527, para: 02 9 20	At this point in time, all of the magus recruiters charged forth. “Hello, Linley. I come from the Lander [Lan’de] Magus Academy. Our Lander Magus Academy sincerely would like to admit you into our school. As long as you enroll with us, your entire tuition will be free, and every year we will even provide you with a thousand gold coins for living expenses. We will also invite an especially skilled magus teacher to personally train you.”
+
+
+score: 0.585184, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.565575, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.543821, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.
+
+
+score: 0.540762, para: 02 9 26	“Linley. Our Ernst Institute would sincerely like to invite you to become one of our students.” From far away, another voice sounded out, and when it did, the entire hall went silent. Even the bald elder stopped speaking.
+
+
+score: 0.537833, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+

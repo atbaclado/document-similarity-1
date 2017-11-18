@@ -1,0 +1,30 @@
+source: 01 2 36	“Wharton, you can do it!” Linley encouraged him.
+
+
+score: 0.664335, para: 01 4 2	“Well done, Linley! Hold it, hold it!” Hillman encouraged from the side.
+
+
+score: 0.660074, para: 01 8 47	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.621407, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.621407, para: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.621407, para: 02 5 23	Linley nodded.
+
+
+score: 0.619038, para: 01 4 36	Wharton was only a child, while Linley was much more mature.
+
+
+score: 0.619038, para: 01 4 43	“Yes, father.” Linley said calmly.
+
+
+score: 0.619038, para: 01 4 56	Linley nodded.
+
+
+score: 0.619038, para: 01 4 59	Listening to his father’s words, Linley agreed.
+
+

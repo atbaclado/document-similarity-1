@@ -1,0 +1,24 @@
+source: 01 2 46	“Young master Linley, your father is looking for you. Let me carry young master Wharton.” A brandy-nosed old man walked over. This brandy-nosed old man was the Baruch clan’s housekeeper, Hiri (Xi’li). In the entire manor, aside from the housekeeper, there wasn’t even a serving girl.
+
+
+score: 0.644415, para: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+
+score: 0.598005, para: 01 16 45	“Young master Linley?” Seeing how Linley was acting, Hiri couldn’t help but feel shocked.
+
+
+score: 0.576005, para: 01 20 17	“Creaaak.” The bedroom door swung open, and Housekeeper Hiri stuck his head inside. Seeing that Linley was awake, he couldn’t help but smile. “Young master Linley, I didn’t expect that you would have already awoken. How do you feel, young master?”
+
+
+score: 0.557017, para: 01 12 16	“My lord, young master Linley has already went home.” Hiri said from the side. “Although, when he left, he seemed to be in a daze. No clue what he was thinking about.”
+
+
+score: 0.542366, para: 01 17 28	“Young master Linley, you actually lost quite a bit of blood. If you lose too much, you could die.” Housekeeper Hiri immediately retrieved some white gauze from within the warehouse and wrapped it around the injury on Linley’s head.
+
+
+score: 0.507635, para: 01 18 22	Hiri chuckled. “Lord, please be at ease. I’ve already washed and cleaned young master Linley’s wounds, then re-bandaged them. I’ve made him eat a big meal, and then change his clothes and go to bed. By the time he wakes up, he’ll be much better.”
+
+
+score: 0.507595, para: 01 20 21	“Oh. Got it.” Linley snuck another peek at Doehring Cowart, his heart filled with questions. “What’s going on. From Uncle Hiri’s expression, it seems as though he can’t see Grandpa Doehring at all.”
+
+

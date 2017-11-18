@@ -1,0 +1,30 @@
+source: 01 15 28	“Quick, let’s move. Don’t stand there in a daze, move!” Hillman shouted loudly while shoving some children away.
+
+
+score: 0.590677, para: 01 1 60	“This must be Linley’s [Lin’lei] first day at training. Who would’ve thought he’d be so formidable?” Lorry said, amazed. Next time him, Roger and Hillman also noticed. Looking in that direction, they saw that to the north, a single brown haired boy was still holding firm. His lips tightened, the boy stared determinedly in front, both fists tightly clenched so hard that his fists were white.
+
+
+score: 0.560881, para: 02 23 15	Hillman laughed loudly and nodded. “Right. Your father was absolutely ecstatic. He excitedly drank wine with me until midnight. Your father said that his two sons are the absolute prides of his life. One is a mighty magus, and the other is a Dragonblood Warrior. Haha…”
+
+
+score: 0.559164, para: 01 1 46	All of the children stared worshipfully at Hillman.
+
+
+score: 0.555032, para: 01 14 25	“Uncle Hillman is coming.” Linley saw Hillman, Lorry, and Roger walking towards them from afar, and immediately spoke up. Immediately, all of the children calmed down and in a very orderly fashion, lined up into three groups.
+
+
+score: 0.550598, para: 01 14 2	Just like every other day, the empty ground east of Wushan township was filled with youths. Hillman and the other two teachers had not yet arrived, and so all the children were noisily and energetically chatting together. Naturally, the topic of their conversation was yesterday’s shocking battle.
+
+
+score: 0.544980, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+
+score: 0.539069, para: 01 14 27	Hillman and the other two walked to the front of the three groups, facing the children. Hillman smiled and directly addressed what was on everyone’s mind. “Everyone should know about what happened yesterday, right?”
+
+
+score: 0.532323, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.523971, para: 01 17 34	“I can’t say with exact precision as to how bad the condition is,” Hillman said, his face grim. “But from what I could see, some people must have died, and many were injured or even crippled! This catastrophe came simply too quickly. Even though I shouted for everyone to hide, many people didn’t have the chance to barricade themselves in their cellars.”
+
+

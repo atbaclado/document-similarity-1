@@ -1,0 +1,30 @@
+source: 02 5 2	While speaking, Hogg looked at Linley eagerly.
+
+
+score: 0.723973, para: 01 4 48	“Just this?” Hogg frowned.
+
+
+score: 0.652336, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.642650, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+
+score: 0.642387, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.587609, para: 02 4 36	“Looks like it is time for me to confess.” Linley said to himself, then looked at Hogg and nodded. “Father, recently I discovered a cute animal living in our back courtyard, an extremely cute animal. So I often bring him some food.”
+
+
+score: 0.582172, para: 01 2 70	“Linley, have you heard of the legendary Four Supreme Warriors of the Yulan continent?” Turning his head, Hogg looked at Linley.
+
+
+score: 0.578215, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.576587, para: 02 4 59	Upon hearing these words, Hogg finally smiled.
+
+
+score: 0.569558, para: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+

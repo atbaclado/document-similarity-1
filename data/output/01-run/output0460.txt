@@ -1,0 +1,15 @@
+source_doc: 1 11	The mysterious magus suddenly leapt down directly from the back of the Velocidragon. He was at least two stories up, but he descended easily with a single jump.
+
+
+score: 0.650721, para: 1 18	“Ting!” The glow surrounding the Coiling Dragon ring suddenly began to contract rapidly, and then a single ray of hazy light flew out from within the ring. Descending next to Linley’s bed, it transformed into a person’s image.
+
+
+score: 0.649947, para: 2 10	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+
+score: 0.641397, para: 1 14	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.637924, para: 1 17	Linley stared at this battle in awe. “This earthen giant must have been conjured by the magic of the gray-robed magus.” Linley could easily come to this conclusion, since the gray-robed magus was a mighty magus, after all.
+
+

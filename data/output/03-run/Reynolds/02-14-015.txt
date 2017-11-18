@@ -1,0 +1,15 @@
+source: 02 14 15	“I’m eight years old. How about you, Yale?” Reynolds clearly was very open-minded.
+
+
+score: 0.687273, para: 02 13 23	“Coming.” Reynolds went to take the test.
+
+
+score: 0.687273, para: 02 22 46	“Right on, right on,” Reynolds said from the side.
+
+
+score: 0.528022, para: 02 18 55	“Haha, I’m definitely attending,” Reynolds said confidently.
+
+
+score: 0.520319, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+

@@ -1,0 +1,30 @@
+source: 02 10 49	Late night, the Baruch family ancestral hall. Only Linley and his father were present.
+
+
+score: 0.757416, para: 01 1 63	Linley, full name Linley Baruch, was the eldest son and heir to the Baruch clan, which ruled over the Wushan town. The Baruch clan was an extremely old clan. Once, it was extremely prosperous, but after thousands of years, it had only three members remaining. The clan leader, Hogg [Huo’ge] Baruch, and his two sons. The elder son was Linley Baruch, six years old. The younger son, Wharton [Wo’dun] Baruch, was just two years old. As for his wife, when she gave birth to the younger son, she died in the midst of childbirth. Linley’s grandfather also was dead, having lost his life in battle.
+
+
+score: 0.745017, para: 01 2 54	“Linley, come with me. Let’s go to the ancestral hall. Uncle Hiri, you know about the matters of my clan, so you can come as well.” Hogg smiled.
+
+
+score: 0.672806, para: 02 5 4	“Our ancestral heirloom. For our ancestral heirloom to be lost to us is a humiliation that must be washed away.” Linley could also feel his heart grow heavy.
+
+
+score: 0.651316, para: 01 2 55	“The ancestral hall?” Linley was astonished.
+
+
+score: 0.650147, para: 01 5 40	“If I can become a master sculptor, then…then father will no longer have to sell our family possessions.” This is what Linley was thinking.
+
+
+score: 0.624726, para: 01 3 42	Linley rarely saw his father speak to him in such a manner. Normally, his father was always very strict and unyielding.
+
+
+score: 0.608764, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+
+score: 0.604285, para: 01 3 44	“Our ancestral heirloom? What’s that? Why have I never heard about it?” Linley asked curiously.
+
+
+score: 0.589768, para: 01 6 16	Linley very much enjoyed this feeling of searching for treasures in the ancient room. But he had forgotten something. If he could come up with this idea, wouldn’t his father, his grandfather, and the other elders of the Baruch clan also have thought of this?
+
+

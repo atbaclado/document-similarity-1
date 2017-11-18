@@ -1,0 +1,30 @@
+source: 01 2 50	This desk clock can be considered a high quality object. Generally, only wealthy or noble families had such a clock. At this moment, Linley’s father was seated next to the fireplace. The flames in the fireplace burned, constantly crackling and popping.
+
+
+score: 0.689624, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.634280, para: 01 6 25	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+
+score: 0.579939, para: 01 20 44	Hearing and seeing were two different things. When he personally witnessed all the other people at the dinner table be unaware of Grandpa Doehring’s presence, Linley felt deeply astonished.
+
+
+score: 0.575986, para: 02 21 27	Doehring Cowart was seated next to Linley, enjoying the sun. Upon seeing the cavalry division, his eyes lit up as well. Very shortly, the four carriages and hundreds of riders arrived at the main gate. Three magi came out to greet them at the gate.
+
+
+score: 0.575975, para: 02 4 33	Within the Baruch clan’s living room, candlelight flickered from within as Linley and his family, along with Housekeeper Hiri, were enjoying supper together on the long dining table.
+
+
+score: 0.575966, para: 01 20 31	Linley’s heart was immediately filled with joy. But as he engaged in conversation with Doehring Cowart, he didn’t pay attention to where he walked, and he tripped over the doorway. Uncle Hiri, walking ahead of him, turned and laughed. “Young master Linley, watch where you walk.”
+
+
+score: 0.575885, para: 01 16 52	“Young master-“ Housekeeper Hiri’s eyes immediately turned red. The battle-qi in his body exploded, and like a bolt of red lightning, he flew towards them. Using his own body as a protective barrier, he also used his two hands to push at a huge piece of the falling roof which was going to fall on Linley’s body. Hiri and that collapsing ceiling arrived next to Linley at almost the same time.
+
+
+score: 0.575754, para: 01 11 30	“Just then…just then, was he the one who cast the ‘Dance of the Fire Serpents’?” Linley really found it a little hard to believe. A person who seemed a full size smaller than Uncle Hillman was actually able to cast such an apocalyptic spell.
+
+
+score: 0.574652, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+

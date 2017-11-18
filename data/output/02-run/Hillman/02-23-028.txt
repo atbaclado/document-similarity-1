@@ -1,0 +1,20 @@
+source: 02 23 28	Hillman looked questioningly at Linley as he watched Linley withdraw a magicrystal card from his pockets. Hillman was shocked. “A magicrystal card?” Previously, when he was a soldier, he had seen magicrystal cards before.
+
+score: 0.562679, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+score: 0.562679, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+score: 0.562679, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+score: 0.562679, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+score: 0.550646, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.550646, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.550646, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.550646, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.527433, para: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+

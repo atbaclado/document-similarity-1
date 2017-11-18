@@ -1,0 +1,27 @@
+source: 02 16 18	Linley and the group of students just listened quietly. Next to Linley, Doehring Cowart appeared as well.
+
+
+score: 0.677177, para: 01 14 19	All of the children listened quietly to Linley.
+
+
+score: 0.594286, para: 02 17 69	Linley already knew how to cast spells, so of course when the instructors told the other students to give it a try, he would just stand and watch.
+
+
+score: 0.556904, para: 02 18 10	The two sat together and chatted. Time passed quite quickly, and before they realized it, class had started. Instructor Trey energetically explained in front, and Linley sat beneath him, listening intently. But Delia, every so often, would sneak a peek at Linley.
+
+
+score: 0.541142, para: 02 13 30	Linley chuckled when he heard this.
+
+
+score: 0.526426, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.524169, para: 02 9 26	“Linley. Our Ernst Institute would sincerely like to invite you to become one of our students.” From far away, another voice sounded out, and when it did, the entire hall went silent. Even the bald elder stopped speaking.
+
+
+score: 0.511634, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+
+
+score: 0.503586, para: 02 24 44	“Oh ho, so no one’s ever heard of you?” Linley began to chortle.
+
+

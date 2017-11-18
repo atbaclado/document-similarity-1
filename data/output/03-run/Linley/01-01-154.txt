@@ -1,0 +1,30 @@
+source: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+
+score: 0.702325, para: 01 7 40	The youngsters nearby couldn’t help but stick out their tongues. He was just late by a short amount of time, but was punished with double duty training. Today, Linley probably wouldn’t have any time to go home and eat dinner.
+
+
+score: 0.670697, para: 02 19 14	The yearly tournament went on for a bit over a month, which naturally was the wildest, most rowdy month each year at the Ernst Institute. During this frenetic period, Linley would only occasionally watch the battles of the fifth and sixth grade students. All of the rest of his time, he would quietly train by himself.
+
+
+score: 0.666578, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.664737, para: 02 24 11	Dixie was nine years old as well, and in fact was actually a month younger than Linley. But this nine year old child had already become a magus of the third rank. Although it became harder and harder to progress in the higher ranks, a nine-year old magus of the third rank was still very astonishing.
+
+
+score: 0.660462, para: 02 25 44	Wearing a sky-blue robe, Linley was walking on a road within the Ernst Institute. On Linley’s shoulders, the little Shadowmouse ‘Bebe’ continued to stand. Although six or seven years had passed, Bebe’s body hadn’t changed in the slightest.
+
+
+score: 0.659345, para: 02 8 32	As time went on, the people in the main hall grew more and more numerous. The magical testing event would go on for seven days, so most people didn’t see the urge to come right away at the beginning. When Linley’s turn came, the line of test-takers had already stretched out the main doors of the cathedral.
+
+
+score: 0.653170, para: 01 4 13	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.647608, para: 02 2 34	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.645463, para: 01 4 17	Linley growled to himself, “I’m stronger than everyone else now, only because of the Dragonblood in my veins. But since I can’t practice battle qi, my only options are to work hard, and to work harder! Since great grandfather was able to become a warrior of the seventh rank, then I shall…I shall become a warrior of the eighth rank. Or even the ninth rank! Nothing is impossible!”
+
+

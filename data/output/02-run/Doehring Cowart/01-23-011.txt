@@ -1,0 +1,20 @@
+source: 01 23 11	“Good. Extremely good. Your affinity for earth elemental essence is extremely high.” Doehring Cowart’s face was wreathed in smiles. “Based on what I know, only perhaps one in a thousand magi would have as strong an affinity for earth elemental essence as you. Truly.”
+
+score: 0.786051, para: 01 22 17	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+score: 0.786051, para: 01 22 17	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+score: 0.786051, para: 01 22 17	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+score: 0.786051, para: 01 22 17	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+score: 0.756184, para: 02 8 46	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+score: 0.756184, para: 02 8 46	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+score: 0.756184, para: 02 8 46	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+score: 0.739328, para: 01 21 30	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+score: 0.739328, para: 01 21 30	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+

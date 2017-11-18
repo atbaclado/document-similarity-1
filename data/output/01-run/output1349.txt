@@ -1,0 +1,15 @@
+source_doc: 2 9	“Thank you.” Linley accepted the envelope.
+
+
+score: 1.000000, para: 2 10	“Lord Hogg, the Ernst Institute! It’s the Ernst Institute! Linley was accepted by the Ernst Institute!” Hillman said excitedly.
+
+
+score: 0.680948, para: 2 1	Linley also agreed with Doehring Cowart’s words.
+
+
+score: 0.666062, para: 2 4	Linley understood this logic.
+
+
+score: 0.656950, para: 2 1	Linley was startled.
+
+

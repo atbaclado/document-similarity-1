@@ -1,0 +1,30 @@
+source: 01 19 44	“Gramps, you said your name is Doehring Cowart? Can I address you as Grandpa Doehring?” Linley suddenly said.
+
+
+score: 0.645073, para: 02 24 42	“You were that good? How come I’ve never heard of your name amongst the other grandmaster sculptors, then, Grandpa Doehring?” Linley said suspiciously.
+
+
+score: 0.626706, para: 02 13 16	“My name is Linley. I’m from Fenlai Kingdom.” Linley courteously said to the boy called Reynolds.
+
+
+score: 0.585390, para: 02 15 47	“Reynolds, your Grandpa Lomu is a magus?” Linley asked, somewhat surprised.
+
+
+score: 0.581818, para: 01 21 11	The formerly amiable Grandpa Doehring suddenly turned angry as he grumbled, “Linley, let me tell you that when it comes to attack power, each elemental style has its strengths!”
+
+
+score: 0.562265, para: 02 20 84	“Hi Linley, my name is Danni [Dan’ni], a water magus of the first rank. I’m glad to meet you.” Immediately, a golden-haired girl with a tall, slender figure walked over and said to Linley with a smile.
+
+
+score: 0.556839, para: 01 20 21	“Oh. Got it.” Linley snuck another peek at Doehring Cowart, his heart filled with questions. “What’s going on. From Uncle Hiri’s expression, it seems as though he can’t see Grandpa Doehring at all.”
+
+
+score: 0.553995, para: 01 1 63	Linley, full name Linley Baruch, was the eldest son and heir to the Baruch clan, which ruled over the Wushan town. The Baruch clan was an extremely old clan. Once, it was extremely prosperous, but after thousands of years, it had only three members remaining. The clan leader, Hogg [Huo’ge] Baruch, and his two sons. The elder son was Linley Baruch, six years old. The younger son, Wharton [Wo’dun] Baruch, was just two years old. As for his wife, when she gave birth to the younger son, she died in the midst of childbirth. Linley’s grandfather also was dead, having lost his life in battle.
+
+
+score: 0.549528, para: 01 21 22	He could tell that Grandpa Doehring was exclusively talking about wide-range, castatrophe-level magic.
+
+
+score: 0.544944, para: 02 9 3	“Please enter the magical formation.” The bald elder actually used the word ‘please’ in addressing Linley.
+
+

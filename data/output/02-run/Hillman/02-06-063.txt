@@ -1,0 +1,20 @@
+source: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+score: 0.642504, para: 01 1 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.642504, para: 01 1 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.642504, para: 01 1 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.642504, para: 01 1 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.641847, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+score: 0.641847, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+score: 0.641847, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+score: 0.634738, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+score: 0.634738, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+

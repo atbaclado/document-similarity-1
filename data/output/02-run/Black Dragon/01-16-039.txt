@@ -1,0 +1,18 @@
+source: 01 16 39	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+score: 0.548155, para: 01 18 7	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+score: 0.548155, para: 01 18 7	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+score: 0.548155, para: 01 18 7	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+score: 0.548155, para: 01 18 7	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+score: 0.542600, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.542600, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.542600, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.542600, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+

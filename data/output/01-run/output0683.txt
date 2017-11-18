@@ -1,0 +1,15 @@
+source_doc: 1 17	After taking a deep breath, Hogg looked at Hillman. “Right, Hillman, you were just saying that Wushan township was in bad shape. How bad of a shape is it in?”
+
+
+score: 0.652003, para: 1 3	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.636325, para: 1 21	“Personal protection? Grandpa Doehring, you’re saying that the earth-style has the strongest personal protection spells?” Linley looked questioningly at Doehring Cowart.
+
+
+score: 0.618712, para: 2 4	Doehring Cowart was walking by Linley’s side as well, but aside from Linley, no one else could see him. Doehring Cowart was smiling so widely that his white whiskers were leaning horizontal. “Linley, over these past nine days, the little Shadowmouse has lost all fear of you. Today, you are even giving him cooked meat. He’s going to be extremely excited and will become even closer to you.”
+
+
+score: 0.617920, para: 1 18	Hogg nodded. Smiling wryly, he said, “Uncle Hiri, most of the people in Wushan township aren’t like us. Wushan township’s men won’t be too bad off, as most of them are warriors of the first or second rank, but the women aren’t. For so many boulders to come raining from the skies non-stop, it would be hard for them to block any at all!”
+
+

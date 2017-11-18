@@ -1,0 +1,20 @@
+source: 01 1 22	Hillman said to the two other middle aged men, “The two of you, take charge of the south group and the middle group. I will go take care of the youngest children.”
+
+score: 0.971063, para: 01 11 22	Hillman said to the two other middle aged men, “The two of you, take charge of the south group and the middle group. I will go take care of the youngest children.”
+
+score: 0.971063, para: 01 11 22	Hillman said to the two other middle aged men, “The two of you, take charge of the south group and the middle group. I will go take care of the youngest children.”
+
+score: 0.971063, para: 01 11 22	Hillman said to the two other middle aged men, “The two of you, take charge of the south group and the middle group. I will go take care of the youngest children.”
+
+score: 0.598284, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+score: 0.598284, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+score: 0.598284, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+score: 0.598284, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+score: 0.548757, para: 01 147 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+score: 0.548757, para: 01 147 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+

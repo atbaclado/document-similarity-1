@@ -1,0 +1,30 @@
+source: 01 1 120	Roger and Lorry also gazed at the group of children. On the continent, virtually all of the children of commoners had to train hard from an early age. Seeing the kids, Roger and Lorry reminisced back to their own youth.
+
+
+score: 0.736829, para: 01 8 45	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+
+score: 0.720693, para: 01 8 40	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+
+score: 0.715644, para: 01 8 46	“Linley, why did you…” Lorry and Roger didn’t know what to say.
+
+
+score: 0.710001, para: 01 8 42	Linley gritted his teeth. “Uncle Hillman!” Linley was also worried for Uncle Hillman, as well as the citizens of Wushan town. He also ran in that direction. At this moment, Lorry and Roger were both panic-stricken at the thought of the Velocidragon, and didn’t notice Linley following behind them.
+
+
+score: 0.674132, para: 01 15 32	“Understood, Captain!” Lorry and Roger totally understood what their captain was thinking.
+
+
+score: 0.664315, para: 01 14 49	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+
+score: 0.632194, para: 01 8 41	“All of you, stay here.” Lorry and Roger, although terrified, still raced towards the center of the town.
+
+
+score: 0.599715, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.577525, para: 01 8 3	“A magical beast of the seventh rank. Velocidragon*!” Hillman’s facial expression contorted, while Lorry and Roger, by his side, felt their legs grow weak.
+
+

@@ -1,0 +1,20 @@
+source: 02 17 7	George loved to participate in student unions and fellowships, and he was excellent in ferreting out news and making new friends. Although he had only been in school for half a year, amongst the first grade students of the Ernst Institute, George had become a mover and a shaker.
+
+score: 0.690814, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.690814, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.690814, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.677417, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.677417, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.677417, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.615012, para: 02 19 32	This was why the large majority of students at the Ernst Institute were high-level magi. The higher one’s grade was, the fiercer the competition was.
+
+score: 0.615012, para: 02 19 32	This was why the large majority of students at the Ernst Institute were high-level magi. The higher one’s grade was, the fiercer the competition was.
+
+score: 0.615012, para: 02 19 32	This was why the large majority of students at the Ernst Institute were high-level magi. The higher one’s grade was, the fiercer the competition was.
+

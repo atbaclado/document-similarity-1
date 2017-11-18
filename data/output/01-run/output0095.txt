@@ -1,0 +1,15 @@
+source_doc: 1 1	Following this, Linley sucked in a deep breath. Raising his head to look at Hillman, his voice filled with eagerness, he said, “Uncle Hillman, are Saint-level warriors really that powerful? Then what about me? Is it possible that I will become a Saint-level warrior?” In Linley’s heart, there was a desire which all children possess.
+
+
+score: 0.696315, para: 2 10	Hogg took a deep breath, then looked at Linley, his eyes filled with boundless excitement. “Good, good.”
+
+
+score: 0.671862, para: 1 17	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+
+score: 0.671486, para: 1 11	“Louisa [Lu’yi’sha]!” The red-haired warrior howled angrily, his voice filled with anguish.
+
+
+score: 0.661496, para: 1 15	Only now did the rest of the children awaken from their stupor. Although they didn’t understand why Hillman was pushing them to go back to their homes and wanted to continue watching the Saint-level combatants, Hillman’s awe-inspiring presence was still enough to send all of the children running speedily for their homes.
+
+

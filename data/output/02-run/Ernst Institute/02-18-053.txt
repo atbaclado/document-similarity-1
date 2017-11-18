@@ -1,0 +1,20 @@
+source: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.690814, para: 02 17 7	George loved to participate in student unions and fellowships, and he was excellent in ferreting out news and making new friends. Although he had only been in school for half a year, amongst the first grade students of the Ernst Institute, George had become a mover and a shaker.
+
+score: 0.690814, para: 02 17 7	George loved to participate in student unions and fellowships, and he was excellent in ferreting out news and making new friends. Although he had only been in school for half a year, amongst the first grade students of the Ernst Institute, George had become a mover and a shaker.
+
+score: 0.690814, para: 02 17 7	George loved to participate in student unions and fellowships, and he was excellent in ferreting out news and making new friends. Although he had only been in school for half a year, amongst the first grade students of the Ernst Institute, George had become a mover and a shaker.
+
+score: 0.687632, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.687632, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.687632, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.685434, para: 02 13 4	Restaurants, clothing stores, bars, and other sorts of service industries were all located on the campus itself. It could be said that the students of the Ernst Institute spent their entire lives within the campus.
+
+score: 0.685434, para: 02 13 4	Restaurants, clothing stores, bars, and other sorts of service industries were all located on the campus itself. It could be said that the students of the Ernst Institute spent their entire lives within the campus.
+
+score: 0.685434, para: 02 13 4	Restaurants, clothing stores, bars, and other sorts of service industries were all located on the campus itself. It could be said that the students of the Ernst Institute spent their entire lives within the campus.
+

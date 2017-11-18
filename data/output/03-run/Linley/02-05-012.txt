@@ -1,0 +1,30 @@
+source: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.952939, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+
+score: 0.952939, para: 02 6 28	“I’m fine,” Linley chuckled.
+
+
+score: 0.952939, para: 02 6 31	Linley and Hillman watched, stunned.
+
+
+score: 0.952939, para: 02 6 57	Could it be that Linley had just been hexed?
+
+
+score: 0.952939, para: 02 6 60	“You…tamed him?” Hillman was stunned.
+
+
+score: 0.944467, para: 01 4 36	Wharton was only a child, while Linley was much more mature.
+
+
+score: 0.944467, para: 01 4 43	“Yes, father.” Linley said calmly.
+
+
+score: 0.944467, para: 01 4 56	Linley nodded.
+
+
+score: 0.944467, para: 01 4 59	Listening to his father’s words, Linley agreed.
+
+

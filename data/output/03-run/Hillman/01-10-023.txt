@@ -1,0 +1,30 @@
+source: 01 10 23	Hillman, Roger, and Lorry exchanged troubled glances as they watched Linley.
+
+
+score: 0.628379, para: 01 1 150	Hillman, Roger, and Lorry all stared at Linley in surprise.
+
+
+score: 0.596491, para: 01 14 49	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+
+score: 0.586351, para: 01 1 118	After a short period of time, the stunned children returned to their homes. Hillman, Roger, and Lorry were the last to leave. Watching the children depart in clusters of three or five, a smile appeared on Hillman’s face.
+
+
+score: 0.583965, para: 01 8 45	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+
+score: 0.532632, para: 01 1 84	“Yes, Captain.” Lorry acknowledged the order. He couldn’t help but let his lips tug up in a smile. He secretly laughed, “The Captain is always filled with so many devilish ideas. Those punks are really gonna get it now.”
+
+
+score: 0.532240, para: 01 15 15	Hillman and the others were hundreds of meters away from the Black Dragon. No matter how sharp their ears were, there was no way for them to hear the words being exchanged by the two parties.
+
+
+score: 0.527706, para: 01 8 40	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+
+score: 0.526746, para: 01 1 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+
+score: 0.515755, para: 01 1 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+

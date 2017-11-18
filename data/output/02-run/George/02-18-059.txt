@@ -1,0 +1,20 @@
+source: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+score: 0.698703, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+score: 0.698703, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+score: 0.698703, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+score: 0.683311, para: 02 19 29	George laughed and nodded. “Right, him. He has very high talent. Even before training, his spiritual essence had reached the level of a magus of the second rank. All he did this year was accumulate sufficient mageforce. It isn’t too hard for someone with the power of a magus of the second rank to become number one in the tournament amongst first grade students.”
+
+score: 0.683311, para: 02 19 29	George laughed and nodded. “Right, him. He has very high talent. Even before training, his spiritual essence had reached the level of a magus of the second rank. All he did this year was accumulate sufficient mageforce. It isn’t too hard for someone with the power of a magus of the second rank to become number one in the tournament amongst first grade students.”
+
+score: 0.683311, para: 02 19 29	George laughed and nodded. “Right, him. He has very high talent. Even before training, his spiritual essence had reached the level of a magus of the second rank. All he did this year was accumulate sufficient mageforce. It isn’t too hard for someone with the power of a magus of the second rank to become number one in the tournament amongst first grade students.”
+
+score: 0.650760, para: 02 14 54	Yale pursed his lips. “That’s very normal. Which student in the Ernst Institute is weak? Myself, my elemental affinity and spiritual essence are both high level, putting me towards the bottom of the pack of our one hundred. If it wasn’t for the fact that my old man has a special relationship with the Radiant Church, I probably wouldn’t even be able to make it in.”
+
+score: 0.650760, para: 02 14 54	Yale pursed his lips. “That’s very normal. Which student in the Ernst Institute is weak? Myself, my elemental affinity and spiritual essence are both high level, putting me towards the bottom of the pack of our one hundred. If it wasn’t for the fact that my old man has a special relationship with the Radiant Church, I probably wouldn’t even be able to make it in.”
+
+score: 0.650760, para: 02 14 54	Yale pursed his lips. “That’s very normal. Which student in the Ernst Institute is weak? Myself, my elemental affinity and spiritual essence are both high level, putting me towards the bottom of the pack of our one hundred. If it wasn’t for the fact that my old man has a special relationship with the Radiant Church, I probably wouldn’t even be able to make it in.”
+

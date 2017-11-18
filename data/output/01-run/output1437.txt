@@ -1,0 +1,15 @@
+source_doc: 2 11	“Grandpa Doehring, what do you think. If no one has ever succeeded using this method, how could it have been discovered?” Linley simply couldn’t understand the logic.
+
+
+score: 0.670295, para: 2 3	The older one got, the craftier one got. How could he fail to understand this logic? It was the same method he had used in dealing with subordinates. First, giving them just a little taste, and then giving them more later. If you gave them too much too early, it would be hard to satisfy their urges in the future.
+
+
+score: 0.618435, para: 1 13	How could he not have realized this simple logic? His thoughts really had been too rigid.
+
+
+score: 0.615131, para: 2 10	Upon hearing that Linley had been admitted to the Ernst Institute, everyone present had become excited. One could easily understand that entering the Ernst Institute meant entering a certain destiny. In the future, Linley definitely would not be constrained by tiny little Wushan township.
+
+
+score: 0.610333, para: 1 1	“Saint-level warriors?” While walking, Linley was still thinking about that. “In the future, will I be able to become a Saint-level warrior?”
+
+

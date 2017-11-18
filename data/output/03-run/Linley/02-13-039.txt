@@ -1,0 +1,30 @@
+source: 02 13 39	Linley and Reynolds accepted their Ernst Institute student ID’s, then acquired their residence keys. At the Ernst Institute, all students, regardless of wealth and economic background, had to live together. Tuition fees and residence fees were totally waived.
+
+
+score: 0.603575, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.
+
+
+score: 0.600738, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.579755, para: 02 9 20	At this point in time, all of the magus recruiters charged forth. “Hello, Linley. I come from the Lander [Lan’de] Magus Academy. Our Lander Magus Academy sincerely would like to admit you into our school. As long as you enroll with us, your entire tuition will be free, and every year we will even provide you with a thousand gold coins for living expenses. We will also invite an especially skilled magus teacher to personally train you.”
+
+
+score: 0.565865, para: 02 21 7	“With these ten thousand gold coins, my living expenses at the Ernst Institute will be more than sufficiently covered, with lots left over. I can help father as well.” Linley felt very happy.
+
+
+score: 0.550742, para: 02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+
+score: 0.543123, para: 01 5 7	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+
+score: 0.533787, para: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+
+score: 0.532578, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.528857, para: 01 1 134	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+

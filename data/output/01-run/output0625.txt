@@ -1,0 +1,15 @@
+source_doc: 1 15	“Yes, father!” Linley repeatedly nodded, and immediately ran in the direction of the storage room.
+
+
+score: 0.695850, para: 1 16	“Yes, father!” Linley was startled awake. He immediately clambered to his feet and began running in the direction of the warehouse again.
+
+
+score: 0.613545, para: 1 16	He no longer paid any attention to the raining stones, nor did he try to avoid them. He ran directly towards the warehouse in a straight line.
+
+
+score: 0.610190, para: 2 3	Doehring Cowart immediately understood.
+
+
+score: 0.610190, para: 2 11	Linley immediately understood.
+
+

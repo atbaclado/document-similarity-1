@@ -1,0 +1,12 @@
+source: 02 5 43	The next day, after lunch. The Baruch family’s front courtyard.
+
+
+score: 0.595303, para: 01 2 33	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+
+score: 0.526460, para: 01 2 56	The members of the Baruch clan only stayed in the front side of the manor. The areas in the far back, virtually no one went there to clean. Only the ancestral hall in the back did they ever visit, once a month, to clean.
+
+
+score: 0.500208, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+

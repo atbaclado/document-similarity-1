@@ -1,0 +1,15 @@
+source_doc: 2 2	“Young master Linley, headed to the back mountain again?” Uncle Hiri, broom in hand, was dusting the floor. He saw Linley and smiled at him.
+
+
+score: 0.668581, para: 1 20	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.666389, para: 1 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+
+score: 0.650633, para: 2 3	“Young master Linley is so formidable. He caught another wild hare.” The commoners in the town grinned as they watched him pass by.
+
+
+score: 0.637643, para: 1 12	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+

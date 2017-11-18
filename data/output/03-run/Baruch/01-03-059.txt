@@ -1,0 +1,21 @@
+source: 01 3 59	“Father, you don’t believe me?” Raising his head, Linley looked at his father questioningly.
+
+
+score: 0.554684, para: 01 5 7	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+
+score: 0.553256, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.552005, para: 01 2 46	“Young master Linley, your father is looking for you. Let me carry young master Wharton.” A brandy-nosed old man walked over. This brandy-nosed old man was the Baruch clan’s housekeeper, Hiri (Xi’li). In the entire manor, aside from the housekeeper, there wasn’t even a serving girl.
+
+
+score: 0.533895, para: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+
+score: 0.504049, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.502610, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+

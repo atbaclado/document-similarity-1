@@ -1,0 +1,20 @@
+source: 01 2 65	Suddenly, Hogg turned and focused his gaze on Linley. In a weighty voice, he said, “Linley, today, there are many things that must be done. But first, let me tell you some of the history of our Baruch clan.”
+
+score: 0.568119, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+score: 0.568119, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+score: 0.568119, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+score: 0.561691, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.553459, para: 01 14 7	Hadley turned to stare at the thirteen year old youth. His eyes widening, he said, “Faura [Fu’la], you don’t believe me? When have I, Hadley, ever tricked anyone?”
+
+score: 0.553459, para: 01 14 7	Hadley turned to stare at the thirteen year old youth. His eyes widening, he said, “Faura [Fu’la], you don’t believe me? When have I, Hadley, ever tricked anyone?”
+
+score: 0.553459, para: 01 14 7	Hadley turned to stare at the thirteen year old youth. His eyes widening, he said, “Faura [Fu’la], you don’t believe me? When have I, Hadley, ever tricked anyone?”
+
+score: 0.553459, para: 01 14 7	Hadley turned to stare at the thirteen year old youth. His eyes widening, he said, “Faura [Fu’la], you don’t believe me? When have I, Hadley, ever tricked anyone?”
+
+score: 0.521604, para: 01 1 25	“Crap, the Head Monster is coming!” A golden-haired child with large, bright eyes named Hadley (Ha’de’li) said in a low voice.
+

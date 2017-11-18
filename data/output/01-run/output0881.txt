@@ -1,0 +1,15 @@
+source_doc: 1 22	Linley had read many books and therefore understood this principle.
+
+
+score: 0.913910, para: 1 13	He had read of this in his books as well.
+
+
+score: 0.687331, para: 2 4	Linley understood this logic.
+
+
+score: 0.687331, para: 2 9	Linley understood this as well.
+
+
+score: 0.622593, para: 1 4	Although his father’s words were simple, Linley clearly understood the deeper meaning.
+
+

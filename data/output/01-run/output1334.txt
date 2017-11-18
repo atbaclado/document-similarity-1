@@ -1,0 +1,15 @@
+source_doc: 2 9	“Linley. Our Ernst Institute would sincerely like to invite you to become one of our students.” From far away, another voice sounded out, and when it did, the entire hall went silent. Even the bald elder stopped speaking.
+
+
+score: 0.654473, para: 1 11	“Big brother Kerry [Kai’lai]! Save us!” The desolate cry of a female magus sounded out, filled with pain, from within the middle of the fire serpent.
+
+
+score: 0.649427, para: 1 23	“Linley, can you feel it?” Doehring Cowart’s voice gently sounded in Linley’s mind.
+
+
+score: 0.635978, para: 1 8	“Lord Magus, this is indeed Wushan town. Is there anything we can help you with, Lord Magus?” Hillman’s voice rang out.
+
+
+score: 0.627649, para: 1 20	“I hear you.” Doehring Cowart’s voice rang out in Linley’s mind as well.
+
+

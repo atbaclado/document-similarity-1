@@ -1,0 +1,15 @@
+source_doc: 1 4	Wharton hmphed. “I know that as soon as you wash up, you’ll go take lessons from father.”
+
+
+score: 0.563239, para: 1 18	Hiri chuckled. “Lord, please be at ease. I’ve already washed and cleaned young master Linley’s wounds, then re-bandaged them. I’ve made him eat a big meal, and then change his clothes and go to bed. By the time he wakes up, he’ll be much better.”
+
+
+score: 0.542062, para: 1 7	Using the least amount of time possible, Linley washed himself clean, then hurriedly put on his training clothes.
+
+
+score: 0.539766, para: 1 23	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+
+score: 0.539038, para: 1 5	“Father, I want to learn to be a sculptor!” Linley suddenly said.
+
+

@@ -1,0 +1,14 @@
+source_doc: 1 23	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+
+score: 0.709632, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.704447, para: 2 3	“There’s no way that tiny little Wushan township is big enough for Linley.” Watching Linley enter the meditative trance to practice magic, Doehring Cowart felt a hint of excitement. “Sooner or later, he will bring an adult Violet Shadowmouse and step onto the endlessly broad stage that is the world of the Yulan continent.”
+
+score: 0.703807, para: 1 22	Meditation was one of the basic underpinnings of all magus’. It was needed for both absorbing elemental essence to transform it into mageforce, and for improving one’s spiritual energy. The first time entering a meditative state was the most difficult and dangerous one, but of course, under the guidance of a Saint-level Grand Magus, Linley wouldn’t find it too difficult.
+
+
+score: 0.683412, para: 1 22	“Come, let’s begin the test of the strength of your elemental affinities. Sit down with legs crossed, close your eyes, and enter a meditative state.” Doehring Cowart said gently.
+
+

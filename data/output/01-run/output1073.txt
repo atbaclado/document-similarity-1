@@ -1,0 +1,15 @@
+source_doc: 2 3	“Don’t rush it, don’t rush it.” Linley kept on telling himself, and then forced himself to slowly walk away.
+
+
+score: 0.659586, para: 2 6	Seeing Linley and Hillman slowly disappear, the little Shadowmouse still stayed there, unmoving.
+
+
+score: 0.659396, para: 2 6	The little Shadowmouse suddenly rushed in Linley’s direction.
+
+
+score: 0.644887, para: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.638031, para: 2 8	“Bebe, stick with Uncle Hillman for now. I’m going to take the test.” Linley mentally instructed the little Shadowmouse, who somewhat unwillingly shuffled around a bit under Linley’s clothes. But after multiple requests from Linley, the little Shadowmouse directly scurried into Hillman’s clothes.
+
+

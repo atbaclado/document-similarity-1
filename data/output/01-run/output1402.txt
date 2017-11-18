@@ -1,0 +1,15 @@
+source_doc: 2 10	Linley stood behind him without making a sound.
+
+
+score: 1.000000, para: 2 3	Linley stood at the doorway.
+
+
+score: 0.972584, para: 1 17	Housekeeper Hiri stood up from within the rubble.
+
+
+score: 0.763040, para: 2 6	“Squeak. Squeaaaaak!” The little Shadowmouse stood there, watching Linley.
+
+
+score: 0.756893, para: 1 14	A number of slightly older children stood on Faura’s side.
+
+

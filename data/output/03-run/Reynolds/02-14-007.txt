@@ -1,0 +1,12 @@
+source: 02 14 7	“What do you mean, you just barely qualify as a member of the Holy Union?” Reynolds mumbled, and then said, “My name is Reynolds. I’m from the O’Brien Empire.”
+
+
+score: 0.584291, para: 02 13 29	“But the Ernst Institute does show some favoritism to the Holy Union. They accept fifty students from the Holy Union, and only fifty more total from the other Four Great Empires. It is so unfair.” Reynolds sighed.
+
+
+score: 0.528446, para: 02 13 33	Reynolds wrinkled his little nose. “This fellow called Linley is from the Holy Union. He no doubt had a much easier time being accepted than me. I bet he isn’t as talented as I am.” Reynolds was extremely confident.
+
+
+score: 0.510301, para: 02 19 24	“I’m pissed just thinking about this year’s competition. It was so close! I was so close to entering the semifinals. Maybe I would’ve been able to enter the top three.” Reynolds was extremely dissatisfied. Reynolds was the youngest of the four, and also the proudest of them.
+
+

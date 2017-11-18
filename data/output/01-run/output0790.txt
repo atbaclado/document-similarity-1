@@ -1,0 +1,15 @@
+source_doc: 1 20	Unlike in the past, Linley had now soulbound the ring with his own blood, giving him a deeper level of understanding.
+
+
+score: 0.620292, para: 1 22	Linley took a deep breath.
+
+
+score: 0.603241, para: 1 7	The eight-year old Linley’s hands, after all, were much smaller than the hands of an adult. There was no way he could wear the ring on his fingers.
+
+
+score: 0.596346, para: 1 4	Although his father’s words were simple, Linley clearly understood the deeper meaning.
+
+
+score: 0.575067, para: 1 7	Linley laughed to himself, “The carving skill for this ring is really terrible. I bet even an average carver could make something more attractive. Alas, what a waste. This black ring doesn’t even have a single diamond on it, much less any valuable magic crystals.”
+
+

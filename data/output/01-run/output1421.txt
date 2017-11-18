@@ -1,0 +1,15 @@
+source_doc: 2 11	Upon seeing this part, Linley was utterly speechless.
+
+
+score: 0.782972, para: 2 6	Hillman felt totally bewildered. “You…you don’t have a soul-binding scroll, how…how did you?”
+
+
+score: 0.660493, para: 1 23	Filled. His time was absolutely filled.
+
+
+score: 0.645637, para: 2 10	Hogg only felt that his own son seemed to have dramatically changed, totally changed!
+
+
+score: 0.645216, para: 1 16	“How is that possible?!” Linley was truly scared silly.
+
+

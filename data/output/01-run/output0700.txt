@@ -1,0 +1,15 @@
+source_doc: 1 18	“Dillon, you-!” The gray-robed man pointed angrily at the green-robed man, but couldn’t say anything.
+
+
+score: 0.633340, para: 2 4	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.618601, para: 2 11	Linley immediately laughed as well.
+
+
+score: 0.589238, para: 1 4	Hogg coldly nodded, and Linley quickly walked next to him.
+
+
+score: 0.588395, para: 1 13	Linley quietly nodded.
+
+

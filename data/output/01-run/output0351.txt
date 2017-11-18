@@ -1,0 +1,15 @@
+source_doc: 1 7	“Now, what name should I choose for this black ring? Earthworm Ring? No way, that sounds terrible.” Linley mumbled for a few moments, then his eyes lit up. “Haha, that sinuous object can also be considered a ‘dragon’, right? A dragon curled around the ring…then let’s call it, the Coiling Dragon Ring!” Although in his heart, Linley felt like the carving looked more like an earthworm, but he still chose the name ‘Coiling Dragon Ring’ for it.
+
+
+score: 0.783693, para: 1 23	Doehring Cowart flew out from within the Coiling Dragon Ring. Standing next to Linley, he looked at the black mouse with some surprise. “A magical beast, a Shadowmouse? And judging by its size, a Shadowmouse infant.”
+
+
+score: 0.763439, para: 1 19	“The Coiling Dragon Ring is an extremely amazing object. It doesn’t appear to emanate any magical aura, but in usefulness it can even compare with Divine artifacts. When I sealed my soul within the ring, Hamelin and the other searched a long time for me, but weren’t able to find me. This, too, is thanks to the Coiling Dragon Ring.” The old man smiled as he spoke.
+
+
+score: 0.757451, para: 1 19	“Oh, gramps, you chose the name for it yourself as well. But now it belongs to me, and I named it the Coiling Dragon Ring.” Linley was quite stubborn.
+
+
+score: 0.756003, para: 1 19	“Gramps, can you tell me why you just appeared from within the Coiling Dragon Ring?” Linley questioned.
+
+

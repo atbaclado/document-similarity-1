@@ -1,0 +1,15 @@
+source_doc: 1 17	Linley straightened his body and sat up. His clothes were covered with blood, as was his face and his hair. When the stone had struck him, it had caused a great deal of blood loss. At the moment, Linley also felt slightly woozy. Still staring at his father, Linley said in a weak, low voice, “Father, you are crying.”
+
+
+score: 0.738549, para: 1 19	Linley frowned while mumbling, “Dripping blood onto the ring?” Frowning as he tried to recollect when that had happened, Linley suddenly remembered that when the rock had cut his head open, fresh blood had suffused his clothes and his chest. Most likely, it was around then that the blood had dripped onto the ring.
+
+
+score: 0.736751, para: 1 10	Ground beneath the Velocidragon’s saw-like teeth, Luke’s entire body was turned into mincemeat. Half of one bloody leg escaped the Velocidragon’s mouth and fell down to the ground. Gleaming white bone could be seen protruding from the bloody half-leg.
+
+
+score: 0.719586, para: 1 4	Right now, Linley was only wearing trousers. His upper body was covered with sweat, and his body, as taut as a drawn bowstring, was lying on the ground. His hands were pressed fiercely to the ground, as straight as tree trunks, while the rest of his body was motionless. He was supporting himself from a push-up position, with just his hands and the tips of his toes! His entire body was taut!
+
+
+score: 0.713029, para: 1 7	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+

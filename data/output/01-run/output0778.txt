@@ -1,0 +1,14 @@
+source_doc: 1 20	Footsteps could be heard from outside the door. Hearing them, Linley immediately grew nervous. He quickly said to Doehring Cowart, “Grandpa Doehring, quick, hide. Someone is coming.” If this five-thousand year old Saint-level Grand Magus of the bygone Pouant Empire was discovered, it could be disastrous.
+
+
+score: 0.659693, para: 1 19	Linley felt as though his entire mind had been turned muddy. This old grandpa had suddenly appeared out of nowhere, and claimed that he was a Grand Magus from the era of the Pouant Empire, which had been destroyed five thousand years ago. What could be more ridiculous than this?
+
+
+score: 0.622215, para: 1 18	“No way. Gramps, you just said you are from the Pouant Empire. The Pouant Empire that was eradicated over five thousand years ago?” Linley was quite familiar with the history of the world, and he knew very well that the Pouant Empire had ceased to exist before his own clan had even came to be. In the modern era, the Pouant Empire was not one of the four great empires of the world.
+
+score: 0.620318, para: 1 23	“Good. Starting tomorrow, I will begin to instruct you.” Doehring Cowart looked at Linley, his eyes gleaming. Right now, Doehring Cowart’s body was once more emanating the self-confidence and pride which a Saint-level Grand Magus possessed!
+
+
+score: 0.619124, para: 2 2	Linley’s calm mind immediately grew agitated again, and he turned to look at Doehring Cowart with shining eyes.
+
+

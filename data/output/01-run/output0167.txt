@@ -1,0 +1,14 @@
+source_doc: 1 3	“Ryan [Rui’en] Baruch, the second Dragonblood Warrior of the Yulan continent. In the year 4690 of the Yulan calendar, in the Mountain Range of Magical Beasts, he defeated and subdued a Saint-level Golden Dragon, and became known as the Golden Dragonrider Saint! In the year 4697…”
+
+
+score: 0.656588, para: 1 23	Aside from the Vampiric Iron Bull, the Griffin, the Velocidragon, and the Black Dragon magical beasts he had seen, this was the first time Linley had seen any other magical beasts. This adorable black mouse was actually a magical beast? A magical beast, with magical abilities?
+
+score: 0.650357, para: 1 13	Linley wanted a magical beast of his own as well, such as a powerful Velocidragon.
+
+
+score: 0.649066, para: 2 2	“Initiated by the magical beast?!” Linley was stunned.
+
+
+score: 0.646906, para: 2 6	Next to them, Hillman turned his head towards them. Upon seeing the little Shadowmouse, he was shocked. “A magical beast! Is it a Stoneater Rat?” Hillman didn’t know too much about the various types of magical beasts, but there once was an entire army which had been devoured by Stoneater Rats, so most soldiers knew and feared rat-type magical beasts.
+
+

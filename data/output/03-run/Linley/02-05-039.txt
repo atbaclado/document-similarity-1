@@ -1,0 +1,30 @@
+source: 02 5 39	“You don’t even know what I’m saying,” Linley shook his head helplessly.
+
+
+score: 0.818667, para: 01 12 51	Linley shook his head.
+
+
+score: 0.738042, para: 02 14 58	Linley and Reynolds both shook their heads.
+
+
+score: 0.695754, para: 02 12 17	“I have no idea either.” Linley shook his head.
+
+
+score: 0.600110, para: 01 1 153	Linley raised his small head proudly. Self-confidently, he smiled. “Uncle Hillman, you just wait and see.”
+
+
+score: 0.598759, para: 02 15 6	“Squeak squeak!” At this moment, the little Shadowmouse, ‘Bebe’, suddenly popped his head out from within Linley’s clothes. Having just woken up, the little Shadowmouse was feeling lonely, so he popped his head out.
+
+
+score: 0.593694, para: 01 7 39	“Yes sir!” Linley raised his head high and said in a bright voice.
+
+
+score: 0.582642, para: 02 4 29	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.582561, para: 01 16 13	“Rumble, rumble…” Suddenly, a terrifying sound could be heard from the heavens, followed by a terrifying screech which shook the entire Wushan township. Linley couldn’t help but once again turn his head towards the eastern sky to take a look. That single glance stunned him once again.
+
+
+score: 0.579298, para: 02 22 32	“Doehring Cowart, how can these people possibly compare to Grandmaster Proulx?” Linley shook his head and laughed helplessly. Proulx was the number one sculptor in the entire history of the Yulan continent.
+
+

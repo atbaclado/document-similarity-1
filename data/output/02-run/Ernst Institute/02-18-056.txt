@@ -1,0 +1,20 @@
+source: 02 18 56	Yale pursed his lips. “Punk, you became a magus of the first rank on the road from the O’Brien Empire to the Ernst Institute. I wager that by now, you aren’t too off from becoming the magus of the second rank. That really is unfair.”
+
+score: 0.627554, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”02 7 56	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+score: 0.627554, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”02 7 56	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+score: 0.627554, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”02 7 56	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+score: 0.620515, para: 02 14 47	But despite this, the Yulan Empire was still the most economically powerful of the empires, and it was also filled with magi. The magus academy of the Yulan Empire was second only to the Ernst Institute.
+
+score: 0.620515, para: 02 14 47	But despite this, the Yulan Empire was still the most economically powerful of the empires, and it was also filled with magi. The magus academy of the Yulan Empire was second only to the Ernst Institute.
+
+score: 0.620515, para: 02 14 47	But despite this, the Yulan Empire was still the most economically powerful of the empires, and it was also filled with magi. The magus academy of the Yulan Empire was second only to the Ernst Institute.
+
+score: 0.579201, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+score: 0.579201, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+score: 0.579201, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+

@@ -1,0 +1,30 @@
+source: 01 5 42	“Linley, do you know that amongst the hundreds of millions of people in the Holy Union, there are at least several million who have studied sculpting. But in the entire Holy Union, the number of true masters can be counted on one hand. In addition, if you don’t have a good instructor, you simply cannot succeed on your own.”
+
+
+score: 0.707528, para: 01 4 55	“Linley, you must remember, we are currently living within the Holy Union. You must know everything about the Holy Union!” Hogg coldly looked at his son. “In the entire Yulan continent, the most important entities are the four empires and the two alliances.”
+
+
+score: 0.689776, para: 02 22 17	“As for the masters’ hall, that’s even more amazing. In the innermost sanctum of the gallery, there are a very small number of masters’ sculptures. The price of these sculptures is frighteningly high. Any of them are easily worth tens of thousands of gold, and some of the masterpieces which first brought fame to their master sculptors are easily worth hundreds of thousands of gold pieces.” Yale explained to his three bros in detail.
+
+
+score: 0.672297, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.665771, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.656286, para: 01 13 14	Hogg replied, “Let’s discuss this question later. Linley, you should know that in the Yulan continent, an average person’s lifespan is around 120-130 years. Powerful magi and warriors can live for longer, usually up to two or three hundred years, or sometimes even four hundred years. The absolute limit to a person’s lifespan is five hundred years. Only those who have attained the legendary power of Saint-level combatants can live eternally, unbound by the dictates of time.”
+
+
+score: 0.638119, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.634551, para: 01 1 134	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.634023, para: 02 4 49	“No.” Doehring Cowart said seriously. “I haven’t interacted with the Yulan continent for over five thousand years. Five thousand years, Linley! You must understand that many magi in the world have been continuously researching and developing new spells during this time period. Who knows how many new spells have been developed in the interim.”
+
+
+score: 0.631200, para: 02 2 6	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 11	But in his heart, Linley was still suspicious. If no one in history had ever successfully become a Dragonblood Warrior by drinking dragon’s blood, then why would this method be written down in the Secret Dragonblood Training Tome?
+
+
+score: 0.640537, para: 1 17	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+
+score: 0.612275, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.567199, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.566373, para: 1 12	Linley felt a thread of desire in his heart. “Although I am a member of the Dragonblood Warriors clan, the density of Dragonblood in my veins is too low. The fact that anyone with Dragonblood is totally unable to utilize any other battle-qi cultivating methods is something which will hold back my ability to develop my warrior abilities to the maximum. I wonder if it would be possible for me to be a magus, instead.”
+
+

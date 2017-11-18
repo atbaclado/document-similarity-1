@@ -1,0 +1,30 @@
+source: 01 15 34	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.578579, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.547708, para: 01 14 25	“Uncle Hillman is coming.” Linley saw Hillman, Lorry, and Roger walking towards them from afar, and immediately spoke up. Immediately, all of the children calmed down and in a very orderly fashion, lined up into three groups.
+
+
+score: 0.535025, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+
+score: 0.530198, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+
+score: 0.526876, para: 01 14 27	Hillman and the other two walked to the front of the three groups, facing the children. Hillman smiled and directly addressed what was on everyone’s mind. “Everyone should know about what happened yesterday, right?”
+
+
+score: 0.517385, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.512222, para: 01 1 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+
+score: 0.507540, para: 01 1 60	“This must be Linley’s [Lin’lei] first day at training. Who would’ve thought he’d be so formidable?” Lorry said, amazed. Next time him, Roger and Hillman also noticed. Looking in that direction, they saw that to the north, a single brown haired boy was still holding firm. His lips tightened, the boy stared determinedly in front, both fists tightly clenched so hard that his fists were white.
+
+
+score: 0.501616, para: 01 1 43	“The Captain is as formidable as ever.” Lorry, one of the two other middle-aged men, laughed, as Hillman walked back towards them.
+
+

@@ -1,0 +1,20 @@
+source: 02 14 52	The eight-year old Reynolds and the ten-year old George were of the same height. Both were the shortest in the group. Linley was half a head taller than them, while Yale was the tallest of them all.
+
+score: 0.567498, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+score: 0.567498, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+score: 0.567498, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+score: 0.554335, para: 02 21 11	But in truth, neither Reynolds nor George had suffered much in the past.
+
+score: 0.554335, para: 02 21 11	But in truth, neither Reynolds nor George had suffered much in the past.
+
+score: 0.554335, para: 02 21 11	But in truth, neither Reynolds nor George had suffered much in the past.
+
+score: 0.531858, para: 02 17 15	Knowing Linley’s temperament, Yale, Reynolds, and George all nodded.
+
+score: 0.531858, para: 02 17 15	Knowing Linley’s temperament, Yale, Reynolds, and George all nodded.
+
+score: 0.531858, para: 02 17 15	Knowing Linley’s temperament, Yale, Reynolds, and George all nodded.
+

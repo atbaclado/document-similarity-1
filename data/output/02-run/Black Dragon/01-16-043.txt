@@ -1,0 +1,20 @@
+source: 01 16 43	He no longer paid any attention to the raining stones, nor did he try to avoid them. He ran directly towards the warehouse in a straight line.
+
+score: 0.609344, para: 01 15 45	While running as fast as he could, Linley’s mind returned to the Black Dragon, its gray-robed rider, and the green-robed man. He couldn’t help but turn once again and look back at the eastern sky. Since all the buildings in the small town were fairly low in height, he could clearly see for hundreds of meters.
+
+score: 0.609344, para: 01 15 45	While running as fast as he could, Linley’s mind returned to the Black Dragon, its gray-robed rider, and the green-robed man. He couldn’t help but turn once again and look back at the eastern sky. Since all the buildings in the small town were fairly low in height, he could clearly see for hundreds of meters.
+
+score: 0.609344, para: 01 15 45	While running as fast as he could, Linley’s mind returned to the Black Dragon, its gray-robed rider, and the green-robed man. He couldn’t help but turn once again and look back at the eastern sky. Since all the buildings in the small town were fairly low in height, he could clearly see for hundreds of meters.
+
+score: 0.609344, para: 01 15 45	While running as fast as he could, Linley’s mind returned to the Black Dragon, its gray-robed rider, and the green-robed man. He couldn’t help but turn once again and look back at the eastern sky. Since all the buildings in the small town were fairly low in height, he could clearly see for hundreds of meters.
+
+score: 0.507138, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.507138, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.507138, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.507138, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.501701, para: 01 15 47	“Dillon [Di’long], if you are going to be so stubborn about this, then don’t blame me for my actions.” A cold voice emanated from the sky. Immediately afterwards, the Black Dragon began to let out a series of angry roars and belching forth smoky black fire from its mouth.
+

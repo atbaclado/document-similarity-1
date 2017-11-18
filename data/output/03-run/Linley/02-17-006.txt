@@ -1,0 +1,30 @@
+source: 02 17 6	“Right, Linley, today the rest of us are going to attend the new students fellowship. Are you going?” George chortled.
+
+
+score: 0.657791, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+
+score: 0.626080, para: 02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+
+score: 0.566414, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+
+score: 0.551960, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+
+score: 0.542781, para: 02 18 22	Trey smiled and nodded. “Linley, this yearly tournament is an excellent opportunity to train one’s self. I expect all of the elites of the first grade students will attend. Why aren’t you enrolling? This is a rare opportunity.”
+
+
+score: 0.540531, para: 02 9 20	At this point in time, all of the magus recruiters charged forth. “Hello, Linley. I come from the Lander [Lan’de] Magus Academy. Our Lander Magus Academy sincerely would like to admit you into our school. As long as you enroll with us, your entire tuition will be free, and every year we will even provide you with a thousand gold coins for living expenses. We will also invite an especially skilled magus teacher to personally train you.”
+
+
+score: 0.529921, para: 02 20 44	Linley, Yale, Reynolds, and George all left the hotel as well, directly heading for the arena.
+
+
+score: 0.524039, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.
+
+
+score: 0.521611, para: 02 12 30	The next morning, all of the commoners of Wushan township gathered on the main road in town, all for the purpose of sending off Linley. It was definitely an incredibly glorious thing for Wushan township to be able to produce a magus who would attend the Ernst Institute.
+
+

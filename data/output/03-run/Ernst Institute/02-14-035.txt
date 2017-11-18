@@ -1,0 +1,30 @@
+source: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.712346, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+
+score: 0.705788, para: 02 15 42	George calmly smiled. “Yale, don’t grow complacent. Although there aren’t formal requirements for students, every year, there will be an ability test. Only if you advance a rank in power can you advance a grade. If you don’t work hard, do you plan to stay here for a century? What’s more, the Ernst Institute has a rule that if one does not become a magus of the sixth rank in sixty years, one will be expelled, no exceptions.”
+
+
+score: 0.688233, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+
+score: 0.661779, para: 02 19 14	The yearly tournament went on for a bit over a month, which naturally was the wildest, most rowdy month each year at the Ernst Institute. During this frenetic period, Linley would only occasionally watch the battles of the fifth and sixth grade students. All of the rest of his time, he would quietly train by himself.
+
+
+score: 0.623304, para: 02 25 48	At the start of year 9997 of the Yulan calendar, Linley entered the fifth grade class at the Ernst Institute, the same grade as the Ernst Institute’s number one genius, Dixie. It had taken Dixie three years to advance from the fourth rank to the fifth rank, but up until now, he still had not been able to advance from the fifth rank to the sixth.
+
+
+score: 0.616307, para: 02 17 26	At the Ernst Institute, there were indeed quite a few people who had magical beasts. Aside from the magi who had been invited to come to the Institute, some fifth and sixth grade students were able to buy soulbinding formation scrolls and had managed to tame some magical beasts to serve as their mounts.
+
+
+score: 0.597933, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+
+
+score: 0.597500, para: 02 25 3	Linley sat there alone in the mountains behind the Ernst Institute. Under the tutelage of Doehring Cowart, he began to study the art of stonesculpting. As he began to understand more and more about this art, Linley also began to understand why in the later stages, the Straight Chisel School could assist in improving one’s spiritual essence.
+
+
+score: 0.592148, para: 02 9 37	Linley also felt extremely excited, but his head was extremely clear, and he also looked very calm on the outside. Linley knew very well that upon becoming a member of the Ernst Institute, and with the guidance of Doehring Cowart, in just a few decades, it would not be too difficult to become a magus of the seventh or eighth ranks.
+
+

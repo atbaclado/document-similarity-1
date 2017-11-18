@@ -1,0 +1,15 @@
+source_doc: 2 4	Linley tentatively stretched his hand out and placed it on the little Shadowmouse’s head. The little Shadowmouse didn’t dodge in the slightest. Instead, it contentedly half-closed its eyes. Linley immediately felt more confident, and began to stroke his fur, causing the Shadowmouse to feel so comfortable that it began to snore.
+
+
+score: 0.753385, para: 2 5	“I don’t know how much time I will have to spend in a magus academy, or how many years I will be there for. Will we ever meet again?” Linley stroked the little Shadowmouse’s fur, somewhat unwilling to part from it. After playing with the little Shadowmouse for the past month, he had really come to care for the cute little Shadowmouse.
+
+
+score: 0.749771, para: 1 3	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.747523, para: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.740054, para: 2 8	“Bebe, stick with Uncle Hillman for now. I’m going to take the test.” Linley mentally instructed the little Shadowmouse, who somewhat unwillingly shuffled around a bit under Linley’s clothes. But after multiple requests from Linley, the little Shadowmouse directly scurried into Hillman’s clothes.
+
+

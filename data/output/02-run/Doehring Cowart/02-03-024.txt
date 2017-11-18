@@ -1,0 +1,20 @@
+source: 02 3 24	A ray of light shot out of the Coiling Dragon Ring and transformed into the white-robed Doehring Cowart.
+
+score: 0.780112, para: 02 4 41	The ray of light which only Linley could see shot out from within the Coiling Dragon Ring, turning into the white-bearded Doehring Cowart. Doehring Cowart laughed at Linley, “Linley, the magus testing and recruiting event is optional for you. Under my guidance, will you achieve less than at a magus academy?”
+
+score: 0.780112, para: 02 4 41	The ray of light which only Linley could see shot out from within the Coiling Dragon Ring, turning into the white-bearded Doehring Cowart. Doehring Cowart laughed at Linley, “Linley, the magus testing and recruiting event is optional for you. Under my guidance, will you achieve less than at a magus academy?”
+
+score: 0.780112, para: 02 4 41	The ray of light which only Linley could see shot out from within the Coiling Dragon Ring, turning into the white-bearded Doehring Cowart. Doehring Cowart laughed at Linley, “Linley, the magus testing and recruiting event is optional for you. Under my guidance, will you achieve less than at a magus academy?”
+
+score: 0.726110, para: 02 7 28	“Whew. It’s been quite a while since I’ve been in a large city.” A hazy white light shone out from the Coiling Dragon Ring, transforming into a white-bearded old man. Doehring Cowart and Linley stood side by side as they stared at the street below.
+
+score: 0.726110, para: 02 7 28	“Whew. It’s been quite a while since I’ve been in a large city.” A hazy white light shone out from the Coiling Dragon Ring, transforming into a white-bearded old man. Doehring Cowart and Linley stood side by side as they stared at the street below.
+
+score: 0.726110, para: 02 7 28	“Whew. It’s been quite a while since I’ve been in a large city.” A hazy white light shone out from the Coiling Dragon Ring, transforming into a white-bearded old man. Doehring Cowart and Linley stood side by side as they stared at the street below.
+
+score: 0.710874, para: 01 21 3	A misty ray of light shot out from within the ring, falling onto the floor and transforming into Doehring Cowart.
+
+score: 0.710874, para: 01 21 3	A misty ray of light shot out from within the ring, falling onto the floor and transforming into Doehring Cowart.
+
+score: 0.710874, para: 01 21 3	A misty ray of light shot out from within the ring, falling onto the floor and transforming into Doehring Cowart.
+

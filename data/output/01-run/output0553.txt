@@ -1,0 +1,15 @@
+source_doc: 1 13	“How expensive is it?” Linley pursued the topic.
+
+
+score: 0.495343, para: 1 10	But it was too late. Linley had already seen everything.
+
+
+score: 0.483925, para: 1 20	Doehring Cowart only smiled, not moving at all.
+
+
+score: 0.473026, para: 1 1	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+
+score: 0.473026, para: 1 1	“See ya, Hadley!”
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 2	“Linley, come with me. Let’s go to the ancestral hall. Uncle Hiri, you know about the matters of my clan, so you can come as well.” Hogg smiled.
+
+
+score: 0.807614, para: 2 10	Late night, the Baruch family ancestral hall. Only Linley and his father were present.
+
+
+score: 0.713711, para: 1 23	In the ancestral hall within the Baruch clan manor.
+
+
+score: 0.701409, para: 2 5	“Yes, Uncle Hillman.”
+
+
+score: 0.697990, para: 1 3	“Our ancestral heirloom? What’s that? Why have I never heard about it?” Linley asked curiously.
+
+

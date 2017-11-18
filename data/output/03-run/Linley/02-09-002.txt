@@ -1,0 +1,30 @@
+source: 02 9 2	Linley understood this as well.
+
+
+score: 0.933578, para: 02 4 24	Linley understood this logic.
+
+
+score: 0.739970, para: 02 24 19	Linley understood this in his heart.
+
+
+score: 0.660770, para: 01 4 57	Although his father’s words were simple, Linley clearly understood the deeper meaning.
+
+
+score: 0.627810, para: 02 3 56	Only Doehring Cowart was aware of this all, as he watched Linley mature.
+
+
+score: 0.581043, para: 02 6 12	The little Shadowmouse seemed to understand Linley’s words, and his small head nodded.
+
+
+score: 0.574291, para: 01 7 29	Linley felt very happy.
+
+
+score: 0.574291, para: 02 7 31	“No big deal.” Linley quirked his mouth.
+
+
+score: 0.570150, para: 01 7 43	“East. It came from the east.” Linley immediately discerned the direction.
+
+
+score: 0.565677, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+

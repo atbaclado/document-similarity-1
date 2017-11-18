@@ -1,0 +1,15 @@
+source_doc: 2 4	Now this little Shadowmouse was doing the same!
+
+
+score: 1.000000, para: 2 6	“What’s the little Shadowmouse saying?” Linley didn’t really understand.
+
+
+score: 0.860279, para: 2 6	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+
+score: 0.860279, para: 2 6	The little Shadowmouse said, somewhat excitedly, “Bei….bei….”
+
+
+score: 0.818847, para: 2 5	The little Shadowmouse really liked Linley.
+
+

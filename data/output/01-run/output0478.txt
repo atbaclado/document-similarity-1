@@ -1,0 +1,15 @@
+source_doc: 1 12	“Yes, lord Hogg.” Hillman assented.
+
+
+score: 0.974707, para: 2 10	“Yes, Lord Hogg,” Hillman and Hiri responded.
+
+
+score: 0.644892, para: 2 5	Because Linley, after all, was already a magus of the first rank.
+
+
+score: 0.644892, para: 2 9	Enter the Yulan continent’s number one magus academy, the Ernst Institute? What did that represent?
+
+
+score: 0.628593, para: 1 8	“Lord Magus, this is indeed Wushan town. Is there anything we can help you with, Lord Magus?” Hillman’s voice rang out.
+
+

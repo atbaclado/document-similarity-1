@@ -1,0 +1,30 @@
+source: 01 3 41	Linley raised his head, staring at his father.
+
+
+score: 0.694590, para: 01 6 22	He stared up at the sky.
+
+
+score: 0.677882, para: 02 6 41	Linley stared at the little Shadowmouse.
+
+
+score: 0.677108, para: 01 7 39	“Yes sir!” Linley raised his head high and said in a bright voice.
+
+
+score: 0.647105, para: 01 1 153	Linley raised his small head proudly. Self-confidently, he smiled. “Uncle Hillman, you just wait and see.”
+
+
+score: 0.635421, para: 02 6 13	Hillman looked at Linley with shock. “Linley, are you saying that you’ve been raising, raising a magical beast?”
+
+
+score: 0.626708, para: 01 7 47	Linley widened his eyes and stared east…
+
+
+score: 0.597889, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+
+score: 0.591980, para: 02 2 45	In scant seconds, Linley finished his incantation, and his eyes lit up as he stared at the hare.
+
+
+score: 0.590642, para: 02 6 18	“Squeak. Squeaaaaak!” The little Shadowmouse stood there, watching Linley.
+
+

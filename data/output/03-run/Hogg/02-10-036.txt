@@ -1,0 +1,30 @@
+source: 02 10 36	“Fine, enough of that topic. Uncle Hiri, Hillman, lead the guards to make the arrangements right away. Tonight, I am going to host a magnificent banquet.” Hogg laughed loudly. Right now, his laughter was extremely full and carefree.
+
+
+score: 0.578497, para: 01 3 40	“Linley, at this point in time, the Baruch family just consists of you, me, and your little brother. I don’t have any extravagant hopes. I’ve never dared to dream of becoming a Dragonblood Warrior.” Hogg laughed at himself satirically. How could becoming a Dragonblood Warrior be an easy task?
+
+
+score: 0.574832, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.566943, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.566351, para: 01 13 1	At dinnertime, the three members of the Baruch clan and their housekeeper, Hiri, all shared dinner together. Little Wharton raised a cute ruckus at the dinner table, filling it with laughter. By the time dinner came to an end, the old housekeeper carried Wharton back to his room, while Linley and his father, Hogg, began to chat.
+
+
+score: 0.562758, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.561976, para: 01 12 34	Hogg was extremely strict with Linley, and rarely smiled at him in such a intimate manner. His current expression made Linley feel all the more astonished.
+
+
+score: 0.560507, para: 02 11 25	“The events of the past happened too long ago. The real secrets of that era, this book has not revealed. All I know is that because of this, the dragon race sent representatives to engage in discussions with our Baruch clan’s clanlord. After this, our descendants no longer attempted this method. Later on, when our family line weakened, even when we wanted to drink dragon’s blood, we no longer were able to.” Hogg shook his head and sighed.
+
+
+score: 0.555539, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+
+score: 0.552230, para: 02 11 31	“Linley, don’t ask too much. Honestly, I only know a little bit about our family history as well. As far as what happened four thousand years ago, there’s no way we can clearly know what happened.” Hogg laughed towards Linley.
+
+

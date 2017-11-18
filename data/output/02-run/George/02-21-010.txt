@@ -1,0 +1,20 @@
+source: 02 21 10	Reynolds and George were both calmly smiling as well, and were joking with Linley to the side.
+
+score: 0.700541, para: 02 20 43	Reynolds and George were also excited. Linley nodded as well as he calmly chuckled, “Someone wants to give us ten thousand gold? How can we refuse?”
+
+score: 0.700541, para: 02 20 43	Reynolds and George were also excited. Linley nodded as well as he calmly chuckled, “Someone wants to give us ten thousand gold? How can we refuse?”
+
+score: 0.700541, para: 02 20 43	Reynolds and George were also excited. Linley nodded as well as he calmly chuckled, “Someone wants to give us ten thousand gold? How can we refuse?”
+
+score: 0.620210, para: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+
+score: 0.620210, para: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+
+score: 0.620210, para: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+
+score: 0.620186, para: 02 15 29	Of the four bros, George was the most amiable and steadiest boy. Reynolds was the most childish one of them. Yale…was the playboy type. As for Linley, in the eyes of the other three boys, he was the most mysterious.
+
+score: 0.620186, para: 02 15 29	Of the four bros, George was the most amiable and steadiest boy. Reynolds was the most childish one of them. Yale…was the playboy type. As for Linley, in the eyes of the other three boys, he was the most mysterious.
+
+score: 0.620186, para: 02 15 29	Of the four bros, George was the most amiable and steadiest boy. Reynolds was the most childish one of them. Yale…was the playboy type. As for Linley, in the eyes of the other three boys, he was the most mysterious.
+

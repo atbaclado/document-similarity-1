@@ -1,0 +1,30 @@
+source: 02 14 1	“Whew, I’m exhausted. Linley, how come you are in such good shape?” Reynolds was panting for breath, but Linley didn’t feel anything.
+
+
+score: 0.581032, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+
+score: 0.560558, para: 02 18 55	“Haha, I’m definitely attending,” Reynolds said confidently.
+
+
+score: 0.554375, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.545435, para: 02 17 9	“Haha, I knew Linley definitely wouldn’t go.” Reynolds laughed loudly.
+
+
+score: 0.526278, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.515179, para: 02 15 7	“Whoah, what’s that?” Reynolds was so startled he jumped.
+
+
+score: 0.507053, para: 02 19 24	“I’m pissed just thinking about this year’s competition. It was so close! I was so close to entering the semifinals. Maybe I would’ve been able to enter the top three.” Reynolds was extremely dissatisfied. Reynolds was the youngest of the four, and also the proudest of them.
+
+
+score: 0.502812, para: 02 13 23	“Coming.” Reynolds went to take the test.
+
+
+score: 0.502812, para: 02 22 46	“Right on, right on,” Reynolds said from the side.
+
+

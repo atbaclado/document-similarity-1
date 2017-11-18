@@ -1,0 +1,30 @@
+source: 01 17 38	“The legendary earth-style incantation of the tenth rank, a forbidden spell – the earth element ‘World Protector’. The power of this ‘World Protector’is extremely terrifying. It’s considered the most powerful offensive spell available to an earth-style magus.” Staring at the earthen giant, Hogg’s face had grown cold as he spoke.
+
+
+score: 0.739714, para: 01 13 10	“Let’s not discuss Saint-level magi for now. Even a magus of the eighth or ninth rank would be capable of using spells which contain shocking power and are able to change the course of a battle. This is why magi have such a high social standing.” Hogg said with a light chuckle.
+
+
+score: 0.695389, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.693267, para: 01 13 20	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.672593, para: 01 13 33	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+
+score: 0.657518, para: 01 11 41	Hogg turned towards the magus, his heart filled with ruefulness. “He’s actually a magus of the eighth rank. And a dual-element magus! Perhaps the entire kingdom of Fenlai has only a handful of people more powerful than him. Someone like him actually came to our little town…”
+
+
+score: 0.646249, para: 01 13 8	Putting down the glass of juice, Hogg nodded. “A single warrior, even a Dragonblood Warrior, can at most kill a hundred people with the swipe of a sword. When faced with a million man army, at best he could kill their leader, but when a leader dies, he can simply be replaced. But a Saint-level magus? If he chooses to utilize one of those powerful forbidden spells, he can annihilate an entire town or wipe out an army of hundreds of thousands. With an entire army destroyed, even if its leader survived, what’s the use? Thus, to a kingdom, a Saint-level magus is more terrifying than an entire enemy army.”
+
+
+score: 0.645578, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.643471, para: 01 13 6	“The reason why magi have such social standings is because the destructive potential their spells have is enormous.” Hogg picked up a glass of juice and continued talking while sipping at it.
+
+
+score: 0.640233, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+

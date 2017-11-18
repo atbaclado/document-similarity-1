@@ -1,0 +1,15 @@
+source_doc: 2 5	“Yes, Uncle Hillman.”
+
+
+score: 0.789710, para: 1 20	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+
+score: 0.788546, para: 1 15	“I know, Uncle Hillman!” Linley replied loudly.
+
+
+score: 0.759135, para: 1 8	“Thank you, Uncle Hillman. I definitely won’t run around.” Linley was overjoyed.
+
+
+score: 0.749530, para: 1 20	“Grandpa Doehring, why didn’t Uncle Hiri see you just then?” Linley mentally asked Doehring Cowart.
+
+

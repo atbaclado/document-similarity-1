@@ -1,0 +1,30 @@
+source: 01 1 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+
+score: 0.725915, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.707707, para: 01 2 71	Eyes brightening, Linley nodded. “I know. According to Uncle Hillman, the legendary Four Supreme Warriors are the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior.”
+
+
+score: 0.697326, para: 01 14 30	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.669875, para: 01 12 6	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+
+score: 0.660628, para: 02 6 6	Next to them, Hillman turned his head towards them. Upon seeing the little Shadowmouse, he was shocked. “A magical beast! Is it a Stoneater Rat?” Hillman didn’t know too much about the various types of magical beasts, but there once was an entire army which had been devoured by Stoneater Rats, so most soldiers knew and feared rat-type magical beasts.
+
+
+score: 0.659517, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.630623, para: 01 9 2	A hint of a smile played at Hillman’s lips. “That mysterious magus seems to be at odds with that party over there. Just stay here and watch. No need for us to interfere.” Hillman himself was only a warrior of the sixth rank. In truth, he didn’t dare to interfere either.
+
+
+score: 0.622557, para: 01 5 16	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+
+
+score: 0.620678, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+

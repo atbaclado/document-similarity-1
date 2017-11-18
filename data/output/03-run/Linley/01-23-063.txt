@@ -1,0 +1,12 @@
+source: 01 23 63	He crept closer, step by step.
+
+
+score: 0.612548, para: 02 17 54	He had just taken another step towards his goals.
+
+
+score: 0.573461, para: 01 7 2	When Linley had strode forward by three steps, reaching the doorway, he came to a sudden halt, because he could clearly feel that he had stepped on something hard.
+
+
+score: 0.504422, para: 02 17 59	Linley collected himself, suppressing his excitement at becoming a magus of the second rank. He once more tranquilled sat and entered the meditative trance. The strong became strong one step at a time and through achieving many accomplishments.
+
+

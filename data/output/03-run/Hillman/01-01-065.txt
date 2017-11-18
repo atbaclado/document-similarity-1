@@ -1,0 +1,30 @@
+source: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.650033, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+
+score: 0.613077, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.608217, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+
+score: 0.596852, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+
+score: 0.593592, para: 01 14 25	“Uncle Hillman is coming.” Linley saw Hillman, Lorry, and Roger walking towards them from afar, and immediately spoke up. Immediately, all of the children calmed down and in a very orderly fashion, lined up into three groups.
+
+
+score: 0.584689, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+
+score: 0.578579, para: 01 15 34	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.555795, para: 01 4 26	Hillman, off to the side, nodded with satisfaction.
+
+
+score: 0.555383, para: 01 14 27	Hillman and the other two walked to the front of the three groups, facing the children. Hillman smiled and directly addressed what was on everyone’s mind. “Everyone should know about what happened yesterday, right?”
+
+

@@ -1,0 +1,6 @@
+source: 02 23 39	Turning his head, Hogg said, “Hillman, you are back. Uh, what’s that on your shoulders?”
+
+
+score: 0.583796, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+

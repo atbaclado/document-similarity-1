@@ -1,0 +1,30 @@
+source: 02 19 54	“Hmph.” Rand glanced at the table where Linley and the others were sitting. “Juice? You guys are still drinking juice? Oh, Yale, I really feel embarassed for you. The four bros of my dorm are all drinking victory wine. You guys are drinking juice?”
+
+
+score: 0.620877, para: 02 14 32	“Bah, bros, my money is your money. If you run out, just come find me! In the future, we’ll probably be living together for decades. We’ll be bros for decades. Why quibble about ‘yours’ and ‘mine’?” Yale was extremely expansive, but just as he finished speaking…
+
+
+score: 0.612427, para: 02 17 4	The four bros of dorm 1987 had just finished lunch. They were wearing a set of sky-blue robes, the school uniform of the Institute. Because of constant physical training, Linley appeared all the more mesmerizing, with his elegant form covered by the sky-blue robes. This was why quite a few of the young girls in the wind magic class liked to chat with Linley.
+
+
+score: 0.606735, para: 02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+
+score: 0.598312, para: 02 18 44	By the time the wind magic class had ended, it was almost six at night. The sky was growing dark. Linley ran back towards his dorm. The bros of dorm 1987 shared strong affection towards each other, and at night they always ate together.
+
+
+score: 0.594537, para: 02 18 67	“Go enlist in the yearly tournament, Linley. You’ve gotta take part. Give those guys a good trampling and gain some prestige for dorm 1987.” Yale immediately said.
+
+
+score: 0.593251, para: 02 11 14	“Our clan elders really were formidable. They actually came up with the idea of drinking the blood of a living dragon in order to utilize the Secret Dragonblood Training Method.” Linley didn’t know whether to laugh or to cry.
+
+
+score: 0.593159, para: 02 17 9	“Haha, I knew Linley definitely wouldn’t go.” Reynolds laughed loudly.
+
+
+score: 0.589368, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.583625, para: 02 20 39	Rand and his three bros glanced at each other.
+
+

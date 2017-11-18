@@ -1,0 +1,30 @@
+source: 01 5 21	Philip’s eyes couldn’t help but narrow, but then he laughed. “Haha…Hogg, don’t be angry. I’m not saying that I don’t wish to buy it. I’m just telling the truth. How about this. I’ll buy this sculpture for five hundred gold coins. What do you think?”
+
+
+score: 0.713733, para: 01 3 47	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.663469, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.655661, para: 02 23 43	“Gold coins? So much gold. There must be at least ten thousand gold coins here.” Hogg stared at Hillman, astonished. “Hillman, you say that Linley asked you to bring this here?”
+
+
+score: 0.642863, para: 01 3 56	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+
+score: 0.623351, para: 01 13 42	“Last I heard, the going price was around ten thousand gold coins. And what’s more is, even if you had the money, there’s almost no market for it due to its rarity.” Hogg’s words forced Linley to laugh bitterly at himself.
+
+
+score: 0.573419, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.567864, para: 02 23 37	The tuition needed to send little Wharton to the O’Brien Academy was astonishingly high. The question in Hogg’s mind right now was how to sell his clan’s possessions for a sufficiently high price.
+
+
+score: 0.563600, para: 01 3 52	As the current clan leader, Hogg also had this desire, but the clan’s economic situation was in dire straits. 180,000 gold coins of gold? Even if they sold off the manor and all their possessions, they might not be able to produce such a vast sum.
+
+
+score: 0.559570, para: 01 12 2	“Uncle Hiri.” Hogg immediately turned to look at his housetaker Hiri. “Immediately order some people to recover all of the melted gold from within those piles of ashes. This adventuring party was quite extraordinary as well. No doubt, they had a great deal of wealth on them. I hope they had enough to recompense the losses we have suffered today”
+
+

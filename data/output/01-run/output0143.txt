@@ -1,0 +1,14 @@
+source_doc: 1 2	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+
+score: 0.761661, para: 1 7	Linley widened his eyes and stared east…
+
+score: 0.735971, para: 1 5	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+
+score: 0.727143, para: 1 13	Hearing these words, Linley’s eyes shone.
+
+
+score: 0.727143, para: 1 16	“Linley!” Hogg’s eyes turned red.
+
+

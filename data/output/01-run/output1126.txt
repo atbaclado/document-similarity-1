@@ -1,0 +1,15 @@
+source_doc: 2 4	Doehring Cowart was a Saint-level Grand Magus. Would any magus academies require a Saint-level Grand Magus to teach there?
+
+
+score: 0.658343, para: 2 3	Doehring Cowart was startled. He had never had any grandchildren, and why would a revered Saint-level Grand Magus like himself stoop to coaxing other kids?
+
+
+score: 0.624327, para: 2 9	At this point in time, all of the magus recruiters charged forth. “Hello, Linley. I come from the Lander [Lan’de] Magus Academy. Our Lander Magus Academy sincerely would like to admit you into our school. As long as you enroll with us, your entire tuition will be free, and every year we will even provide you with a thousand gold coins for living expenses. We will also invite an especially skilled magus teacher to personally train you.”
+
+
+score: 0.623154, para: 1 23	“Good. Starting tomorrow, I will begin to instruct you.” Doehring Cowart looked at Linley, his eyes gleaming. Right now, Doehring Cowart’s body was once more emanating the self-confidence and pride which a Saint-level Grand Magus possessed!
+
+
+score: 0.618216, para: 1 23	Right. Doehring Cowart was a Saint-level Grand Magus!
+
+

@@ -1,0 +1,18 @@
+source: 02 21 43	“It’s only the afternoon. Those places are only fun in the evening. But of course, we can go now as well.” Yale said laughingly.
+
+
+score: 0.624611, para: 02 15 27	“No problem.” Yale said magnanimously.
+
+
+score: 0.593051, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.538158, para: 02 22 45	“Second bro, third bro, the two of you, ugh. I planned for us to have a good time tonight in Fenlai City, but you…ugh, you guys are so thin-skinned. I started having fun in those places when I was six years old.” Yale was still unhappily grumbling nonstop.
+
+
+score: 0.515162, para: 02 22 10	“Uncle Cass, come in along with us. The other three can wait for us outside.” Yale instructed.
+
+
+score: 0.503685, para: 02 14 32	“Bah, bros, my money is your money. If you run out, just come find me! In the future, we’ll probably be living together for decades. We’ll be bros for decades. Why quibble about ‘yours’ and ‘mine’?” Yale was extremely expansive, but just as he finished speaking…
+
+

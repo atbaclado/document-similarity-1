@@ -1,0 +1,30 @@
+source: 02 19 33	Reynolds nodded as well. “I also don’t like him. Our school’s number one genius, the third grader Dixie, won the third grade tournament. Look at how composed he was! The difference between the two is too huge. What’s more, the strongest amongst us first graders isn’t Rand.”
+
+
+score: 0.835354, para: 02 20 13	Reynolds immediately began to laugh loudly, as he said arrogantly, “Rand, do you actually believe that just because you won the first grade tournament, you really are the strongest amongst the first graders? Dream on. The number one first grader is our dorm’s third bro. You? Step off to the side.”
+
+
+score: 0.555336, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+
+score: 0.549852, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.545967, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+
+score: 0.514642, para: 02 14 42	“Is everyone here already?” A clear voice rang out, as a child walked into the room. Approximately the same height as Reynolds, this child looked a bit more mature. “Hello, everyone. My name is George [Qiao’zhi]. I’m ten, and I’m from the Yulan Empire.”
+
+
+score: 0.513817, para: 02 20 43	Reynolds and George were also excited. Linley nodded as well as he calmly chuckled, “Someone wants to give us ten thousand gold? How can we refuse?”
+
+
+score: 0.511284, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.508766, para: 02 13 33	Reynolds wrinkled his little nose. “This fellow called Linley is from the Holy Union. He no doubt had a much easier time being accepted than me. I bet he isn’t as talented as I am.” Reynolds was extremely confident.
+
+
+score: 0.503298, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+

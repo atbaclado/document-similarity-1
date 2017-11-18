@@ -1,0 +1,30 @@
+source: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.736488, para: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+
+score: 0.703473, para: 01 21 2	He quickly removed his shoes, then jumped onto the bed and sat down. “Grandpa Doehring, come out now. Help me test my magical aptitude.” Linley was extremely impatient. When he was eating dinner just now, all of his thoughts were turned towards this.
+
+
+score: 0.693265, para: 02 17 37	A mist flew out, transforming into Doehring Cowart. Doehring Cowart blinked and glanced at Linley. “Linley, what’s going on? In the past, haven’t you always ignored this old fellow and entered the meditative trance first? Why are you calling me out now? I was having a wonderful nap just now, hmph. You ruined my beautiful dream.”
+
+
+score: 0.690245, para: 02 4 12	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.684956, para: 02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+
+score: 0.684872, para: 02 3 43	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.674093, para: 01 13 1	At dinnertime, the three members of the Baruch clan and their housekeeper, Hiri, all shared dinner together. Little Wharton raised a cute ruckus at the dinner table, filling it with laughter. By the time dinner came to an end, the old housekeeper carried Wharton back to his room, while Linley and his father, Hogg, began to chat.
+
+
+score: 0.673958, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.670905, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+

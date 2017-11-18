@@ -1,0 +1,15 @@
+source_doc: 1 4	“Linley, you must remember, we are currently living within the Holy Union. You must know everything about the Holy Union!” Hogg coldly looked at his son. “In the entire Yulan continent, the most important entities are the four empires and the two alliances.”
+
+
+score: 0.752743, para: 2 5	“What is it, Grandpa Doehring?” Linley asked questioningly. “I bet all of the hundreds of millions of citizens in the six kingdoms and fifteen dukedoms of the Holy Union know about the legendary Holy Emperor Ernst of the Radiant Church.” Linley, also, knew much about the affairs and history of the legendary Holy Emperor Ernst.
+
+
+score: 0.713753, para: 1 5	“Linley, do you know that amongst the hundreds of millions of people in the Holy Union, there are at least several million who have studied sculpting. But in the entire Holy Union, the number of true masters can be counted on one hand. In addition, if you don’t have a good instructor, you simply cannot succeed on your own.”
+
+
+score: 0.704656, para: 2 7	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.675677, para: 2 5	“Grandpa Doehring, you knew Holy Emperor Ernst?” Linley was somewhat surprised.
+
+

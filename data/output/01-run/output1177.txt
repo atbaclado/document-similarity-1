@@ -1,0 +1,15 @@
+source_doc: 2 5	There was no way he could bring a little Shadowmouse into a magus academy.
+
+
+score: 0.742848, para: 2 4	Now this little Shadowmouse was doing the same!
+
+
+score: 0.742848, para: 2 6	“What’s the little Shadowmouse saying?” Linley didn’t really understand.
+
+
+score: 0.725585, para: 2 1	Doehring Cowart felt very happy. “If little Linley really can tame this Shadowmouse, in the future, I can be a bit more at ease.” Doehring Cowart knew very well that as a spirit, he had no mageforce of his own at all. A Saint-level Grand Magus without mageforce really didn’t have many attacking abilities.
+
+
+score: 0.718876, para: 2 4	“This little guy is so adorable.” Linley was really beginning to like this little Shadowmouse more and more.
+
+

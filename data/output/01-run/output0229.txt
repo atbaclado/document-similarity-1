@@ -1,0 +1,15 @@
+source_doc: 1 4	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+
+score: 0.772757, para: 2 1	How could a seven or eight year old Linley resist?
+
+
+score: 0.769035, para: 1 1	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+
+score: 0.724504, para: 1 1	Hillman’s face was cold and callous, but in his heart, he secretly nodded. He was still very satisfied with the performance of these six and seven year olds.
+
+
+score: 0.695325, para: 1 6	“Eh, looks like it’s almost time for training. I have another fifteen minutes or so at most.” Linley turned his head around and stared at an extremely large room. “I’ll just look at that last one, that big one. I’ll spend about ten minutes searching. If I can’t find anything, I’ll go off to training.”
+
+

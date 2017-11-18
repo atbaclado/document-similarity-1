@@ -1,0 +1,30 @@
+source: 01 17 34	“I can’t say with exact precision as to how bad the condition is,” Hillman said, his face grim. “But from what I could see, some people must have died, and many were injured or even crippled! This catastrophe came simply too quickly. Even though I shouted for everyone to hide, many people didn’t have the chance to barricade themselves in their cellars.”
+
+
+score: 0.640632, para: 01 15 41	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+
+score: 0.603627, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.602963, para: 01 11 30	“Just then…just then, was he the one who cast the ‘Dance of the Fire Serpents’?” Linley really found it a little hard to believe. A person who seemed a full size smaller than Uncle Hillman was actually able to cast such an apocalyptic spell.
+
+
+score: 0.600694, para: 01 1 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+
+score: 0.596680, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+
+score: 0.596469, para: 01 18 32	Hillman let out a pain-filled sigh. “We just ran some calculations. Over three hundred people died, and a thousand were injured.” The entire township only had a population of five thousand. This meant the casualty ratio was about 20%! And this was for those who lived in stone houses. This really was a diaster.
+
+
+score: 0.589653, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.576994, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+
+score: 0.574627, para: 01 12 6	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+

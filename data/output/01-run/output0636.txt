@@ -1,0 +1,15 @@
+source_doc: 1 16	“Oh no.” Hogg’s face had turned white. Hillman, who was still on the streets of Wushan township, saw this and his face turned white as well. They all understood…
+
+
+score: 0.722562, para: 2 7	Peering out through the window, Linley saw that the streets were still filled with people.
+
+
+score: 0.618553, para: 2 1	“This black colored Shadowmouse is not ordinary.”
+
+
+score: 0.551599, para: 1 5	Hillman said coldly, “Wushan town is my home, sire.”
+
+
+score: 0.542773, para: 1 14	“Hadley, yesterday you were with us on the east side as well. You didn’t dare go over. How could you see all this?” A thirteen year old brown-haired child snorted.
+
+

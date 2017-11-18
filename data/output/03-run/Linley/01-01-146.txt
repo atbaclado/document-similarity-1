@@ -1,0 +1,15 @@
+source: 01 1 146	But he was facing Linley’s earnest gaze.
+
+
+score: 0.524535, para: 01 3 41	Linley raised his head, staring at his father.
+
+
+score: 0.522099, para: 02 4 57	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+
+score: 0.505738, para: 02 4 50	Linley suddenly understood.
+
+
+score: 0.500428, para: 02 6 36	“Linley, are you okay?” Hillman was starting to fear for Linley.
+
+

@@ -1,0 +1,14 @@
+source_doc: 1 4	Off to the side, Hogg solemnly taught while Linley strove hard to memorize. He wanted to meet his father’s requirements.
+
+score: 0.580852, para: 1 10	All of these things made it hard for Linley to breathe, and he felt dizzy.
+
+
+score: 0.580852, para: 1 23	As he was hard at work training…
+
+
+score: 0.571417, para: 1 6	Linley was only eight years old, after all. Although the strict education of the clan helped him mature quickly, there was still a large gap between him and an adult. Naturally, he wouldn’t be able to consider things from a more complete point of view.
+
+
+score: 0.570247, para: 1 1	“My lord father always told me, if you want to become a man without peer, then you must work harder than other men.” Linley unconsciously mimicked his father’s manner of speech.
+
+

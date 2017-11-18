@@ -1,0 +1,15 @@
+source: 01 20 30	“I hear you.” Doehring Cowart’s voice rang out in Linley’s mind as well.
+
+
+score: 0.737654, para: 02 22 29	Just as Linley was falling into a reverie while enjoying the sculptures, Doehring Cowart’s voice sounded out in his mind once again.
+
+
+score: 0.687562, para: 01 23 1	“Linley, can you feel it?” Doehring Cowart’s voice gently sounded in Linley’s mind.
+
+
+score: 0.565831, para: 02 14 39	Doehring Cowart’s voice rang out in his mind. “Linley, relax. For most people, decades will be needed to reach the sixth rank, yes. Under my tutelage, I can let you become a magus of the sixth rank in just ten years.”
+
+
+score: 0.517728, para: 02 17 37	A mist flew out, transforming into Doehring Cowart. Doehring Cowart blinked and glanced at Linley. “Linley, what’s going on? In the past, haven’t you always ignored this old fellow and entered the meditative trance first? Why are you calling me out now? I was having a wonderful nap just now, hmph. You ruined my beautiful dream.”
+
+

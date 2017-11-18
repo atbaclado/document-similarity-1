@@ -1,0 +1,15 @@
+source_doc: 1 13	“No, not necessarily. If you have enough money, you can purchase a soul-binding scroll. When the time comes, all you have to do is to tear it apart, and it will automatically generate a soul-binding magical array. However, a soul-binding scroll is amazingly expensive,” Hogg said with a self-deprecating laugh.
+
+
+score: 0.637494, para: 1 5	By his side, Hogg laughed. “Philip, stop wasting time with the child. Look, the ‘Fierce Lion’ you have desired for so long has arrived.” As he spoke, Hillman easily carried in the large sculpture into the hall, and then easily set it down.
+
+
+score: 0.623849, para: 1 12	“Magical beasts…I wonder how someone acquires a magical beast.” Linley desired to have a magical beast of his own as well.
+
+
+score: 0.620494, para: 2 2	No wonder there was no need for setting up a soul-binding magical formation. This bond was initiated by the magical beast itself. Doehring Cowart continued, “Every single magical beast, upon birth, has the ability to initiate a ‘bond of equals’, but in their entire life, a magical beast may only enter this bond a single time. It isn’t like the soul-binding master-servant relationship, where once the master dissolves the relationship, someone else can use another soul-binding technique to tame the beast again.”
+
+
+score: 0.614237, para: 1 19	“The Coiling Dragon Ring is an extremely amazing object. It doesn’t appear to emanate any magical aura, but in usefulness it can even compare with Divine artifacts. When I sealed my soul within the ring, Hamelin and the other searched a long time for me, but weren’t able to find me. This, too, is thanks to the Coiling Dragon Ring.” The old man smiled as he spoke.
+
+

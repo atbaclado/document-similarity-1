@@ -1,0 +1,15 @@
+source_doc: 1 19	The old man smiled and nodded. “Linley, you must know that when most people die, their spirits will enter the Nether Realm! But because I was a Saint-level Grand Magus at the time of my death, my mental energy had obtained physical form. That was the only reason why I could temporarily resist the call of the Nether Realm and seal myself within the Coiling Dragon Ring. Right now, there is only one way for me to leave this ring – exhaust all of my remaining mental energy.”
+
+
+score: 0.779436, para: 1 20	“Those who have the same spiritual power as me are most likely Saint-level combatants. Only Saint-level combatants can sense my presence, if barely. But of course, the prerequisite is that I appear outside the Coiling Dragon Ring. Once I enter the ring, there is no way they can find me.” Doehring Cowart smiled as he spoke.
+
+
+score: 0.705757, para: 2 2	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.702935, para: 1 22	“If you have no instructor? No matter how much mageforce you have or how high your spiritual energy is, you won’t be able to execute a single spell!” Doehring Cowart smiled faintly. “The profound secrets of every magical spell lies in how to control mageforce and elemental essence to form the spell.”
+
+
+score: 0.681510, para: 1 12	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+

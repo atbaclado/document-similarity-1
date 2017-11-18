@@ -1,0 +1,30 @@
+source: 02 5 46	“Hillman, I entrust Linley to you.” Hogg looked at the nearby Hillman.
+
+
+score: 0.588682, para: 01 2 26	“Linley, your father, Lord Hogg, has some extremely important business with you. Don’t go off playing with the other kids. Come home with me.” Hillman walked to Linley’s side. Gazing at him, Hillman felt very proud.
+
+
+score: 0.561613, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+
+score: 0.548146, para: 01 17 43	“Hillman, in a little while, accompany me in inspecting the situation of the residents of Wushan township.” Hogg said, and then looked at Hiri. “Uncle Hiri, after these two Saint-level combatants depart, take Linley home to change his clothes and make sure he gets some rest.”
+
+
+score: 0.545320, para: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+
+score: 0.542355, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+
+score: 0.539516, para: 02 6 13	Hillman looked at Linley with shock. “Linley, are you saying that you’ve been raising, raising a magical beast?”
+
+
+score: 0.538756, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+
+score: 0.532014, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+
+score: 0.526962, para: 01 2 8	A hundred and twenty six children, all age seventeen, respectfully bowed towards Hillman. These youngsters normally did not attend training. They had all become adults, and had their own jobs to do. But since they had all been trained by Hillman since they were toddlers, they all considered Hillman to have been their benevolent master.
+
+

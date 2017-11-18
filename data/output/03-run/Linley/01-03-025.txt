@@ -1,0 +1,30 @@
+source: 01 3 25	“If I fail, I guess father will be extremely disappointed.” Linley couldn’t help but think. Having grown up with his father and his younger brother, Linley didn’t want to disappoint his father. But the density of dragonblood in his veins wasn’t something he could decide.
+
+
+score: 0.730640, para: 01 4 13	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.659159, para: 02 23 14	Linley asked, “Did the Dragonblood density in little Wharton’s veins reach the cutoff?”
+
+
+score: 0.642455, para: 01 2 51	“Um? Why did father change his clothes?” Seeing his father, Linley was filled with astonishment. While at home, his father normally wore only very simple clothes. Just then, while eating dinner, his father wore normal clothes. But now, he had switched to a set of very noble, beautiful apparel.
+
+
+score: 0.640519, para: 01 1 63	Linley, full name Linley Baruch, was the eldest son and heir to the Baruch clan, which ruled over the Wushan town. The Baruch clan was an extremely old clan. Once, it was extremely prosperous, but after thousands of years, it had only three members remaining. The clan leader, Hogg [Huo’ge] Baruch, and his two sons. The elder son was Linley Baruch, six years old. The younger son, Wharton [Wo’dun] Baruch, was just two years old. As for his wife, when she gave birth to the younger son, she died in the midst of childbirth. Linley’s grandfather also was dead, having lost his life in battle.
+
+
+score: 0.630822, para: 01 2 39	No mother, no grandparents. Although he had his father and the family caretaker to take care of him, Linley, who had matured early, was extremely loving and protective towards his little brother. In Linley’s eyes, as the big brother, it was his job to take care of his little brother.
+
+
+score: 0.613482, para: 01 12 24	Linley felt a thread of desire in his heart. “Although I am a member of the Dragonblood Warriors clan, the density of Dragonblood in my veins is too low. The fact that anyone with Dragonblood is totally unable to utilize any other battle-qi cultivating methods is something which will hold back my ability to develop my warrior abilities to the maximum. I wonder if it would be possible for me to be a magus, instead.”
+
+
+score: 0.608713, para: 01 20 19	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+
+score: 0.607446, para: 02 21 33	Next to Linley, Doehring Cowart’s eyes lit up and he said to him, “Linley, this brother of yours definitely is extraordinary. Based on how he dismounted and his eyes, I can feel that this Cass is an expert who is a good deal stronger than even your Uncle Hillman. In addition, that hawk on his shoulder should be a magical beast of the seventh rank – the “Blue-eyed Thunderhawk.”
+
+
+score: 0.604782, para: 02 11 21	Hogg said with a solemn face, “Linley, this Secret Dragonblood Training Tome was written by our founder and first ancestor, the very first Dragonblood Warrior to appear in the Yulan continent, Baruch! He naturally must have had his own reasons for writing this down. Nonetheless, in our family history, there have been two descendants who drank the blood of a Saint-level dragon, and in the end, both of their veins erupted and they died.”
+
+

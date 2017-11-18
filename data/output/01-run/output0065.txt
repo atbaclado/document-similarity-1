@@ -1,0 +1,15 @@
+source_doc: 1 1	“Today’s training ends now,” Hillman announced.
+
+
+score: 0.681116, para: 1 7	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+
+score: 0.622274, para: 1 3	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.622274, para: 1 4	Wharton was only a child, while Linley was much more mature.
+
+
+score: 0.622274, para: 1 4	“Yes, father.” Linley said calmly.
+
+

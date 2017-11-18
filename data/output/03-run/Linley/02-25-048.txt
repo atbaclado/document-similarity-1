@@ -1,0 +1,30 @@
+source: 02 25 48	At the start of year 9997 of the Yulan calendar, Linley entered the fifth grade class at the Ernst Institute, the same grade as the Ernst Institute’s number one genius, Dixie. It had taken Dixie three years to advance from the fourth rank to the fifth rank, but up until now, he still had not been able to advance from the fifth rank to the sixth.
+
+
+score: 0.859944, para: 02 24 21	“Although his training speed right now is fast, I expect him to need another three or four years to advance from the fourth rank to the fifth rank. And to go from the fifth rank to the sixth rank, he will need four or five years.”
+
+
+score: 0.746074, para: 02 17 56	Right now, Doehring Cowart was chortling happily. “But Linley, you must understand that a magus of the second rank counts for little. Based on our ranking systems, magi of the first and second rank are all considered ‘entry-level magi’. Magi of the third and fourth ranks are considered ‘mid-level magi’, and fifth and sixth ranks are ‘high-level magi’. A magus of the seventh rank is called a ‘senior magus’, a magus of the eighth rank is a ‘master magus’, and a magus of the ninth rank is a ‘arch magus’. These ranks of seven through nine are the highest. The road you have to travel is a long way.”
+
+
+score: 0.730269, para: 02 18 30	There weren’t many two-floor dorms, and most of those belonged to powerful magi of the seventh or eighth ranks. From what he was now hearing, the top three students in each grade also were allowed to live in them.
+
+
+score: 0.728758, para: 02 1 18	“Grandpa Doehring, based on what you just said, a Shadowmouse of the third or fourth rank would have pure black fur. Only upon reaching the fifth rank would its fur turn blue. So are you saying that little guy there is a magical beast of the third or fourth rank?” Linley followed up with more questions.
+
+
+score: 0.683386, para: 02 19 33	Reynolds nodded as well. “I also don’t like him. Our school’s number one genius, the third grader Dixie, won the third grade tournament. Look at how composed he was! The difference between the two is too huge. What’s more, the strongest amongst us first graders isn’t Rand.”
+
+
+score: 0.674042, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+
+score: 0.670416, para: 02 14 39	Doehring Cowart’s voice rang out in his mind. “Linley, relax. For most people, decades will be needed to reach the sixth rank, yes. Under my tutelage, I can let you become a magus of the sixth rank in just ten years.”
+
+
+score: 0.647949, para: 02 24 25	In the past, Doehring Cowart had told Linley that he would become a magus of the sixth rank in ten years, but Linley had always had reservations about that claim. After all, to date, his rate of improvement was clearly insufficient.
+
+
+score: 0.640659, para: 02 24 11	Dixie was nine years old as well, and in fact was actually a month younger than Linley. But this nine year old child had already become a magus of the third rank. Although it became harder and harder to progress in the higher ranks, a nine-year old magus of the third rank was still very astonishing.
+
+

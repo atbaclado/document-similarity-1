@@ -1,0 +1,30 @@
+source: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+
+score: 0.769681, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+
+score: 0.768843, para: 01 4 26	Hillman, off to the side, nodded with satisfaction.
+
+
+score: 0.655156, para: 01 1 68	“Haha.” Linley grinned widely. In his heart, he felt very happy at being praised by Hillman.
+
+
+score: 0.652240, para: 01 14 27	Hillman and the other two walked to the front of the three groups, facing the children. Hillman smiled and directly addressed what was on everyone’s mind. “Everyone should know about what happened yesterday, right?”
+
+
+score: 0.580672, para: 01 14 25	“Uncle Hillman is coming.” Linley saw Hillman, Lorry, and Roger walking towards them from afar, and immediately spoke up. Immediately, all of the children calmed down and in a very orderly fashion, lined up into three groups.
+
+
+score: 0.579150, para: 02 5 47	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+
+score: 0.571723, para: 01 1 127	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+
+score: 0.552608, para: 01 1 46	All of the children stared worshipfully at Hillman.
+
+
+score: 0.551106, para: 02 7 18	“This is heaven for rich people or people with status.” Hillman nodded and sighed.
+
+

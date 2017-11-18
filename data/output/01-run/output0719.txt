@@ -1,0 +1,15 @@
+source_doc: 1 18	“Lord Hogg, all the commoners in Wushan township greatly appreciate your kindness and generosity. Everybody knows how much you have done for us. Please don’t be too vexed.” Hillman said from the side.
+
+
+score: 0.693632, para: 1 7	The kindness which the Baruch clan had showed the commoners caused them to also be filled with love and goodwill towards Linley.
+
+
+score: 0.604847, para: 1 21	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+
+score: 0.579644, para: 1 12	“Hillman, take some men to assist Uncle Hiri. After finishing up, please address the issue of the commoners who lost their houses.” Hogg instructed.
+
+
+score: 0.574363, para: 2 5	Linley couldn’t help but feel a deep sense of veneration for Doehring Cowart from his heart. A Saint-level Grand Magus of the Pouant Empire, and one of the most powerful persons in the Yulan continent. And now, Doehring Cowart was carefully instructing himself in magic. How fortunate Linley was!
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 3	“If I fail, I guess father will be extremely disappointed.” Linley couldn’t help but think. Having grown up with his father and his younger brother, Linley didn’t want to disappoint his father. But the density of dragonblood in his veins wasn’t something he could decide.
+
+
+score: 0.731396, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.643285, para: 1 2	“Um? Why did father change his clothes?” Seeing his father, Linley was filled with astonishment. While at home, his father normally wore only very simple clothes. Just then, while eating dinner, his father wore normal clothes. But now, he had switched to a set of very noble, beautiful apparel.
+
+
+score: 0.638648, para: 1 1	Linley, full name Linley Baruch, was the eldest son and heir to the Baruch clan, which ruled over the Wushan town. The Baruch clan was an extremely old clan. Once, it was extremely prosperous, but after thousands of years, it had only three members remaining. The clan leader, Hogg [Huo’ge] Baruch, and his two sons. The elder son was Linley Baruch, six years old. The younger son, Wharton [Wo’dun] Baruch, was just two years old. As for his wife, when she gave birth to the younger son, she died in the midst of childbirth. Linley’s grandfather also was dead, having lost his life in battle.
+
+
+score: 0.636573, para: 1 20	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+

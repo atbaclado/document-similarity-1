@@ -1,0 +1,15 @@
+source_doc: 1 23	After awakening from the meditative state, Linley felt as though he was full of energy, totally different from before. Even while fully awake, Linley felt as though he could still sense some of the oscillations from the nearby earth essences, even though he couldn’t sense them as clearly as when he was in the meditative state.
+
+
+score: 0.702249, para: 1 21	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+
+score: 0.683745, para: 2 8	“Afterwards, whenever I trained, I only sensed earth elemental essence nearby. I didn’t think about those green specks of light.” Linley was feeling extremely happy as well.
+
+
+score: 0.680960, para: 2 8	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+
+score: 0.674710, para: 1 22	“If he still can’t sense any earth essence around him even under these conditions, then there’s no hope for him at all.” Doehring Cowart said to himself.
+
+

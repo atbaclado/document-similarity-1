@@ -1,0 +1,20 @@
+source: 02 25 44	Wearing a sky-blue robe, Linley was walking on a road within the Ernst Institute. On Linley’s shoulders, the little Shadowmouse ‘Bebe’ continued to stand. Although six or seven years had passed, Bebe’s body hadn’t changed in the slightest.
+
+score: 0.651663, para: 02 24 3	While walking on the road out of the Institute, the little Shadowmouse was on Linley’s shoulders, scanning about in all directions. There were quite a few people at the Ernst Institute who had magical beast companions, and thus no one cared at all that Linley had a little Shadowmouse as a companion. But just at that moment…
+
+score: 0.651663, para: 02 24 3	While walking on the road out of the Institute, the little Shadowmouse was on Linley’s shoulders, scanning about in all directions. There were quite a few people at the Ernst Institute who had magical beast companions, and thus no one cared at all that Linley had a little Shadowmouse as a companion. But just at that moment…
+
+score: 0.651663, para: 02 24 3	While walking on the road out of the Institute, the little Shadowmouse was on Linley’s shoulders, scanning about in all directions. There were quite a few people at the Ernst Institute who had magical beast companions, and thus no one cared at all that Linley had a little Shadowmouse as a companion. But just at that moment…
+
+score: 0.580952, para: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+
+score: 0.580952, para: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+
+score: 0.580952, para: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+
+score: 0.545390, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+score: 0.545390, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+score: 0.545390, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+

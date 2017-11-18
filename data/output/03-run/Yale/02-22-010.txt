@@ -1,0 +1,30 @@
+source: 02 22 10	“Uncle Cass, come in along with us. The other three can wait for us outside.” Yale instructed.
+
+
+score: 0.622811, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.595998, para: 02 14 22	“Mm. You can leave now. Go back and tell my father that in the future, if there isn’t something urgent, not to bother me. Oh, right. Remember…every year, he can’t forget to transfer money into my magicite card. He should know very well that a magus needs a lot of money for his magistaff and socketable gems.” Yale said loudly and casually.
+
+
+score: 0.581249, para: 02 21 29	“Second Uncle, what took you guys so long?” Yale said unhappily.
+
+
+score: 0.561623, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.528328, para: 02 14 32	“Bah, bros, my money is your money. If you run out, just come find me! In the future, we’ll probably be living together for decades. We’ll be bros for decades. Why quibble about ‘yours’ and ‘mine’?” Yale was extremely expansive, but just as he finished speaking…
+
+
+score: 0.526560, para: 02 15 27	“No problem.” Yale said magnanimously.
+
+
+score: 0.522570, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.515856, para: 02 21 44	Linley felt some reservations about those types of places, and so he said, “Yale, forget it, what’s the point of us kids going to those places? Just now, you mentioned the Proulx Gallery? Since the Proulx Gallery names itself after the famous Grandmaster Proulx, it must be extraordinary. Let’s go check it out.”
+
+
+score: 0.515162, para: 02 21 43	“It’s only the afternoon. Those places are only fun in the evening. But of course, we can go now as well.” Yale said laughingly.
+
+

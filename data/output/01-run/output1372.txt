@@ -1,0 +1,14 @@
+source_doc: 2 10	Linley had never seen his father act so wildly before, and his father’s tears made Linley’s heart quaver as well.
+
+
+score: 0.652381, para: 2 9	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+
+score: 0.631405, para: 1 12	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+
+score: 0.623150, para: 1 1	A hint of a smile played at Hillman’s lips. He then moved to the front and took off his shirt. The lines running across the powerful muscles on his body made the eyes pop out of all of the kids. Even the children in the middle group and southern group couldn’t help but stare at him, admiring his physique.
+
+
+score: 0.621661, para: 1 15	But Hillman quickly realized what was going on. Rapidly turning around, he shouted fiercely at all the children, “Everyone, go home right now! Go home and hide! NOW!” Hillman’s loud roar and his urgent expression stunned every child present.
+
+

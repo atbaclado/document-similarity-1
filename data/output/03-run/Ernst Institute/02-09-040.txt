@@ -1,0 +1,30 @@
+source: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+
+score: 0.683824, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+
+score: 0.644751, para: 02 12 33	“Linley, today you are going to go to the Ernst Institute and formally become an Ernst Institute student. When you graduate from the Ernst Institute, you will be a powerful magus! Before you depart, as your father, I want to say to you…” On this last day, Hogg had a belly full of things he wanted to speak to Linley.
+
+
+score: 0.590058, para: 02 13 22	One of the intake processes for new students was to retake the magus test. After all, the Ernst Institute was afraid that someone might steal an admissions letter and falsely enroll.
+
+
+score: 0.587863, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+
+score: 0.587619, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+
+score: 0.575109, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+
+score: 0.569957, para: 02 14 54	Yale pursed his lips. “That’s very normal. Which student in the Ernst Institute is weak? Myself, my elemental affinity and spiritual essence are both high level, putting me towards the bottom of the pack of our one hundred. If it wasn’t for the fact that my old man has a special relationship with the Radiant Church, I probably wouldn’t even be able to make it in.”
+
+
+score: 0.569815, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+
+score: 0.561395, para: 02 7 56	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+

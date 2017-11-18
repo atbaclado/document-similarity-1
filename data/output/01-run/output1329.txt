@@ -1,0 +1,15 @@
+source_doc: 2 9	His face suffused with happy red glow, the bald elder announced in a clear voice, “Spiritual essence, eighteen times that of his peers, high-level. High spiritual essence, exceptional elemental affinity.”
+
+
+score: 0.703803, para: 2 8	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+
+score: 0.701833, para: 1 22	“Right, a large amount of mageforce and elemental essence, when controlled by spiritual energy, can be formed into a spell! Sometimes, in order to execute a particularly powerful spell, too high of a demand is placed upon one’s spiritual energy. Thus, the assistance of magical incantations is needed.” Doehring Cowart smiled as he spoke.
+
+
+score: 0.701548, para: 2 8	“Age, eight. Elemental essence affinities – Earth and Wind, affinity level of exceptional for both! Fire affinity, average.” That bald elder felt his heart thumping wildly. Most magi had average elemental essence affinity. Even high elemental essence affinities were quite rare, and as for exceptional affinity…exceptional affinity was ridiculously rare!
+
+
+score: 0.696530, para: 1 22	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+

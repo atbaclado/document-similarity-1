@@ -1,0 +1,30 @@
+source: 02 6 36	“Linley, are you okay?” Hillman was starting to fear for Linley.
+
+
+score: 0.617928, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.617928, para: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.617928, para: 02 5 23	Linley nodded.
+
+
+score: 0.612104, para: 01 7 29	Linley felt very happy.
+
+
+score: 0.612104, para: 02 7 31	“No big deal.” Linley quirked his mouth.
+
+
+score: 0.607064, para: 02 5 3	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.601042, para: 01 8 14	“Too terrifying. Is there anyone who can possibly defeat such a creature?” Linley was scared stiff.
+
+
+score: 0.600343, para: 02 9 27	Linley turned around.
+
+
+score: 0.599329, para: 02 4 8	“I haven’t even taken the food out, and he’s already run up to me. He really isn’t afraid of me at all.” Linley felt joy in his heart.
+
+

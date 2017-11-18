@@ -1,0 +1,15 @@
+source_doc: 1 6	Departing the ancestral hall, Linley had to admit that he had over-prepared. He had slotted an hour for this job, but in just fifteen minutes, he was finished cleaning.
+
+
+score: 0.679589, para: 1 22	After half an hour of instruction, Linley finally entered the meditative state for the first time.
+
+
+score: 0.622705, para: 2 10	“Wait a moment. I am going to get something.” Hogg suddenly turned and entered a hidden room next to the ancestral hall. Shortly afterwards, he returned with a thick book in hand. “Linley, take this and give it a good read. Memorize everything.”
+
+
+score: 0.620363, para: 1 2	“I hope at least half of these hundred and twenty six will be able to return alive,” Hillman prayed silently.
+
+
+score: 0.618799, para: 1 23	Every day, Linley would spend only six hours sleeping. All of his other time was spent in physical training, intellectual studies, magical instruction, and meditation. Six hours of sleep a day, frankly speaking, was simply not enough. In truth, entering the meditative state was extremely taxing, far more tiring than most people’s lives. Every day, Linley entered a very deep sleep for those six hours.
+
+

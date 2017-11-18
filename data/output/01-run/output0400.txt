@@ -1,0 +1,15 @@
+source_doc: 1 8	“All of you, stay here.” Lorry and Roger, although terrified, still raced towards the center of the town.
+
+
+score: 0.745771, para: 1 6	Having made up his mind, Linley raced towards the large room.
+
+
+score: 0.677566, para: 1 1	Hillman, Roger, and Lorry all stared at Linley in surprise.
+
+
+score: 0.647144, para: 1 1	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.624997, para: 1 1	Roger and Lorry also gazed at the group of children. On the continent, virtually all of the children of commoners had to train hard from an early age. Seeing the kids, Roger and Lorry reminisced back to their own youth.
+
+

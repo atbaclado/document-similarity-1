@@ -1,0 +1,15 @@
+source: 01 2 71	Eyes brightening, Linley nodded. “I know. According to Uncle Hillman, the legendary Four Supreme Warriors are the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior.”
+
+
+score: 0.707707, para: 01 1 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+
+score: 0.625261, para: 01 1 110	“Warriors are divided into nine ranks. I, a mere warrior of the sixth rank, can easily shatter boulders and kick down a large tree! But a ninth rank warrior, even within our country of Fenlai, would be considered a top level expert. But above the ninth rank warriors are the Four Supreme Warriors. They have surpassed the ninth rank warriors and can be considered the pinnacle of warriors. They belong to the level of legendary Saint-level warriors!” Hillman’s eyes were filled with excitement. “The legendary Saint-level warriors can melt giant icebergs, make the boundless sea roar with angry waves, make tall mountains crumble, make cities with millions of people collapse, and make meteors fall from the sky! They are absolutely undefeatable, the highest possible power.”
+
+
+score: 0.551765, para: 01 1 126	Hillman smiled slightly. “Although I’m not clear about the exact strength of the Four Supreme Warriors, I know this – a Saint-level mage maestro, which is to say a mage which has attained the Saint-level, can execute forbidden magical techniques and eradicate an entire army of tens of thousands, or an entire city. Since Saint-level mages are so powerful, I expect that Saint-level warriors can’t be that much weaker.”
+
+
+score: 0.515498, para: 01 1 123	“Oh, Captain, how do you know about the power of Saint-level warriors, or the Four Supreme Warriors?” Lorry suddenly remembered to ask.
+
+

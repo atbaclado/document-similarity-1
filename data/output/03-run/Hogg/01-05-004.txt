@@ -1,0 +1,12 @@
+source: 01 5 4	“Ah, Hogg, my dear friend! Just the other day, I heard the clothspinner bird’s cry, and I just knew that something good was going to happen. Indeed, by noon, I received your missive, and as soon as I read it, I was overjoyed.”
+
+
+score: 0.537274, para: 01 2 27	Linley was exceedingly smart. Under the tutelage of his father, Hogg, since a young age, he had learned many words and could read most books.
+
+
+score: 0.518561, para: 02 4 58	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.500212, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+

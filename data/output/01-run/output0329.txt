@@ -1,0 +1,15 @@
+source_doc: 1 6	On the ancient walls were many rotted wooden cabinets, each of which had many drawers. Linley pulled open each and every drawer, but the drawers were totally empty, almost immaculately so. The only thing inside of them? Some dust.
+
+
+score: 0.649517, para: 1 7	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.643219, para: 1 4	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.638095, para: 2 3	“Where’s the Shadowmouse?” Linley stared at the ancient building, but aside from some rubble and rotting leaves, he didn’t see anything.
+
+
+score: 0.631994, para: 1 15	“Quick, hide in the cellar beneath the storage room.” Hogg was standing in the middle of the courtyard. Upon seeing Linley, he immediately ordered him in. The cellar beneath the storage room was the largest, most sturdy cellar within the Baruch clan’s manor. Anyone hiding there definitely would be able to survive.
+
+

@@ -1,0 +1,30 @@
+source: 01 3 47	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.718075, para: 02 23 43	“Gold coins? So much gold. There must be at least ten thousand gold coins here.” Hogg stared at Hillman, astonished. “Hillman, you say that Linley asked you to bring this here?”
+
+
+score: 0.713733, para: 01 5 21	Philip’s eyes couldn’t help but narrow, but then he laughed. “Haha…Hogg, don’t be angry. I’m not saying that I don’t wish to buy it. I’m just telling the truth. How about this. I’ll buy this sculpture for five hundred gold coins. What do you think?”
+
+
+score: 0.699231, para: 01 5 34	Hogg hefted the sacks. Just based on weight alone, Hogg was certain that there really were six hundred gold coins in them, a hundred gold per sack. Hogg smiled and nodded. “Philip, how about staying and having dinner with us?”
+
+
+score: 0.692210, para: 01 13 42	“Last I heard, the going price was around ten thousand gold coins. And what’s more is, even if you had the money, there’s almost no market for it due to its rarity.” Hogg’s words forced Linley to laugh bitterly at himself.
+
+
+score: 0.665504, para: 01 5 31	Philip carefully studied Hogg for a moment, then chuckled. “Fine, Hogg. I’ll give you some face. Six hundred gold it is. Housekeeper, bring me six hundred gold.” The caretaker for his manor, who had been waiting outside the entire time, immediately ran over with the gold.
+
+
+score: 0.657435, para: 01 5 26	“Hogg, you must know that in all the ten thousand plus years of the Yulan continent, there have been countless sculptures made. The true value of a sculpture is in terms of its artisanship. As far as the artisanship of this one….well, heh, suffice to say, I just like it. Five hundred gold really is my highest offer. If you don’t accept, then let’s just forget about it.”
+
+
+score: 0.650616, para: 01 5 27	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+
+score: 0.649714, para: 01 12 2	“Uncle Hiri.” Hogg immediately turned to look at his housetaker Hiri. “Immediately order some people to recover all of the melted gold from within those piles of ashes. This adventuring party was quite extraordinary as well. No doubt, they had a great deal of wealth on them. I hope they had enough to recompense the losses we have suffered today”
+
+
+score: 0.616224, para: 01 5 23	This price was much lower than what Hogg had hoped for. He had been hoping for at least eight hundred.
+
+

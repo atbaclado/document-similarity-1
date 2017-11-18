@@ -1,0 +1,15 @@
+source_doc: 1 7	The kindness which the Baruch clan had showed the commoners caused them to also be filled with love and goodwill towards Linley.
+
+
+score: 0.693632, para: 1 18	“Lord Hogg, all the commoners in Wushan township greatly appreciate your kindness and generosity. Everybody knows how much you have done for us. Please don’t be too vexed.” Hillman said from the side.
+
+
+score: 0.684734, para: 1 2	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+
+score: 0.667449, para: 1 18	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+
+score: 0.646342, para: 1 1	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+

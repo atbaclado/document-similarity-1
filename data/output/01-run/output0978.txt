@@ -1,0 +1,15 @@
+source_doc: 2 1	Doehring Cowart continued, “Right. For an infant Shadowmouse to have reached the speed of an adult Shadowmouse of the fourth rank means that when it grows up, it has the possibility of becoming a violet-colored Shadowmouse of the seventh rank. I suspect…that it is the child of a Violet Shadowmouse.”
+
+
+score: 0.624883, para: 1 13	Hogg laughed. “Before discussing this, first you should understand the ranking system of the magi. There are nine ranks. First rank and second rank magi are considered junior magi. Third and fourth rank magi are considered mid-level magi. Fifth and sixth rank magi are considered senior magi. The three ranks above them; seventh, eighth and ninth? These are all terrifyingly powerful people. And of course, above the magi of the ninth rank are the Saint-level magi!”
+
+
+score: 0.619141, para: 1 23	“As long as you work hard, Linley, I am fully confident that you can reach the eighth rank. But as to whether or not you can become a magus of the ninth rank, or even a Saint-level magus? That will depend on your own comprehension and your experiences.” Doehring Cowart said seriously. “If you do not work hard, I’m afraid you might not even become a magus of the sixth rank. At that point in time, you’ll have no one else to blame.”
+
+
+score: 0.615023, para: 1 15	Lorry and Roger immediately turned around and lifted up the children who were slow runners. They carried two in each arm and two on their backs as well. Hillman joined them as well, quickly beginning to pick up child after child.
+
+
+score: 0.608895, para: 2 3	After finishing his meal, the Shadowmouse glanced again in the direction which Linley had departed to. The baby Shadowmouse immediately felt a degree of kinship for this young fellow. After all, he was just recently born, an infant magical beast. The baby Shadowmouse even felt a bit of anticipation. Would this young man return in the future with another wild hare?
+
+

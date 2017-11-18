@@ -1,0 +1,20 @@
+source: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+score: 0.650033, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.650033, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.650033, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.650033, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.634738, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+score: 0.634738, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+score: 0.634738, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+score: 0.605927, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.605927, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+

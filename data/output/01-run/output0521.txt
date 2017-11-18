@@ -1,0 +1,15 @@
+source_doc: 1 13	“The reason why magi have such social standings is because the destructive potential their spells have is enormous.” Hogg picked up a glass of juice and continued talking while sipping at it.
+
+
+score: 0.657735, para: 1 17	“The legendary earth-style incantation of the tenth rank, a forbidden spell – the earth element ‘World Protector’. The power of this ‘World Protector’is extremely terrifying. It’s considered the most powerful offensive spell available to an earth-style magus.” Staring at the earthen giant, Hogg’s face had grown cold as he spoke.
+
+
+score: 0.647253, para: 2 10	“Big brother, all of them are toasting you. I want to also.” Little Wharton grabbed his juice cup.
+
+
+score: 0.636667, para: 1 14	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.630832, para: 2 9	Even the nearby nobles began to look at Linley with a new light in their eyes. For a person to have exceptional elemental affinity meant that they could generate mageforce in an extremely short period of time. The rest of the time could be spent on cultivating spiritual energy. His future prospects would therefore be unlimited.
+
+

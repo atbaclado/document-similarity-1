@@ -1,0 +1,15 @@
+source_doc: 2 1	“Linley, the Stoneater Rat race is an extremely terrifying race, primarily because they have huge numbers, and extremely sharp teeth, far sharper than the Shadowmouse race. When large numbers of Stoneater Rats appear, even an army of a hundred thousand people cannot hope to withstand them.” Doehring Cowart sighed as he spoke.
+
+
+score: 0.708184, para: 1 8	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.696627, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.695054, para: 2 11	Doehring Cowart was so old that he had become as crafty as a fox. Stroking his white beard, he said in a self-satisfied manner, “Linley, the answer is simple. Based on what I know, the dragon race is extremely proud, and also extremely large and powerful! I wager that drinking the blood of a live dragon is probably an effective method, but your clan came under tremendous pressure from the dragon clan, and therefore altered the contents of this book.”
+
+
+score: 0.692733, para: 1 22	“First, let me tell you that the test for magical aptitude is a two-part test, so the test I am administering will also have two parts.” Doehring Cowart was behaving in an unusually generous manner. After having been trapped along in the Coiling Dragon Ring for five thousand years, of course he was now in a wonderful mood when faced with such a cute little child.
+
+

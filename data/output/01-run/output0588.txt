@@ -1,0 +1,15 @@
+source_doc: 1 14	“…fifty…fifty one…” Linley counted mentally as he laid horizontal to the ground, supporting himself with just the fingertips of one hand and the tips of his toes. His entire body was tense. He was in the middle of training through five-finger pushups.
+
+
+score: 0.767675, para: 1 4	Right now, Linley was only wearing trousers. His upper body was covered with sweat, and his body, as taut as a drawn bowstring, was lying on the ground. His hands were pressed fiercely to the ground, as straight as tree trunks, while the rest of his body was motionless. He was supporting himself from a push-up position, with just his hands and the tips of his toes! His entire body was taut!
+
+
+score: 0.667562, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.651418, para: 1 4	By this point, his muscles felt like they were being chewed on by countless ants. His entire body was quivering, and every single muscles on his entire body trembled. Every single trembling muscle could be seen visibly.
+
+
+score: 0.649353, para: 1 2	In the blink of an eye, another half year had passed. Training hard and strengthening his body, Linley passed through the gentle, warm spring, the blazing summer, and the chilly autumn. The white poplar tree next to the empty training field of Wushan would always scatter some dried leaves onto the ground whenever the wind blew. The leaves slowly whirled down, covering the entire training ground.
+
+

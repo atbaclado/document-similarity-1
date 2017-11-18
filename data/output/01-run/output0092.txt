@@ -1,0 +1,15 @@
+source_doc: 1 1	“Saint-level warriors?” While walking, Linley was still thinking about that. “In the future, will I be able to become a Saint-level warrior?”
+
+
+score: 0.713877, para: 2 4	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+
+score: 0.694993, para: 1 16	“How is that possible?!” Linley was truly scared silly.
+
+
+score: 0.663034, para: 1 8	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.655806, para: 1 12	“My lord, young master Linley has already went home.” Hiri said from the side. “Although, when he left, he seemed to be in a daze. No clue what he was thinking about.”
+
+

@@ -1,0 +1,30 @@
+source: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+
+score: 0.725959, para: 02 2 3	“Grandpa Doehring, quick, tell me, what’s your plan?” Linley excitedly spoke to him mentally.
+
+
+score: 0.622262, para: 02 4 29	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.580983, para: 02 7 30	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+
+score: 0.571316, para: 02 6 45	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+
+score: 0.570809, para: 01 2 41	Wharton frowned, an extremely cute expression. After pondering, he excitedly said, “Today I learned about using rags!”
+
+
+score: 0.563924, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.563675, para: 02 1 47	“Grandpa Doehring, how would I tame this Violet Shadowmouse?” Linley looked excitedly at Doehring Cowart.
+
+
+score: 0.557740, para: 01 1 68	“Haha.” Linley grinned widely. In his heart, he felt very happy at being praised by Hillman.
+
+
+score: 0.554351, para: 01 20 2	“Grandpa Doehring, can you really teach me to become a magus?” Linley excitedly looked up at old man Doehring.
+
+

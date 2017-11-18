@@ -1,0 +1,30 @@
+source: 01 1 153	Linley raised his small head proudly. Self-confidently, he smiled. “Uncle Hillman, you just wait and see.”
+
+
+score: 0.706060, para: 01 7 39	“Yes sir!” Linley raised his head high and said in a bright voice.
+
+
+score: 0.647105, para: 01 3 41	Linley raised his head, staring at his father.
+
+
+score: 0.628397, para: 02 6 12	The little Shadowmouse seemed to understand Linley’s words, and his small head nodded.
+
+
+score: 0.600110, para: 02 5 39	“You don’t even know what I’m saying,” Linley shook his head helplessly.
+
+
+score: 0.561990, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.558914, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+
+score: 0.539355, para: 01 3 59	“Father, you don’t believe me?” Raising his head, Linley looked at his father questioningly.
+
+
+score: 0.539218, para: 02 4 1	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+
+score: 0.531035, para: 02 2 5	“Bond of equals?” Linley said curiously. “What is that? I’ve never heard of it.”
+
+

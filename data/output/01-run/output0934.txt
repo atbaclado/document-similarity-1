@@ -1,0 +1,15 @@
+source_doc: 1 23	Every day, Linley would spend only six hours sleeping. All of his other time was spent in physical training, intellectual studies, magical instruction, and meditation. Six hours of sleep a day, frankly speaking, was simply not enough. In truth, entering the meditative state was extremely taxing, far more tiring than most people’s lives. Every day, Linley entered a very deep sleep for those six hours.
+
+
+score: 0.714345, para: 1 22	After half an hour of instruction, Linley finally entered the meditative state for the first time.
+
+
+score: 0.703590, para: 2 2	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.696374, para: 1 6	“Eh, looks like it’s almost time for training. I have another fifteen minutes or so at most.” Linley turned his head around and stared at an extremely large room. “I’ll just look at that last one, that big one. I’ll spend about ten minutes searching. If I can’t find anything, I’ll go off to training.”
+
+
+score: 0.690918, para: 2 10	As it turned out, the little Shadowmouse had fallen asleep next to Linley’s chest, but Hogg’s explosive laughter startled him awake. An infant Shadowmouse spent a great deal of time napping, and hated being awakened. At this moment, naturally he was extremely furious.
+
+

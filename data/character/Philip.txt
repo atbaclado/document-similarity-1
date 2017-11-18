@@ -1,0 +1,34 @@
+01 5 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+01 5 10	A middle aged man with long, golden hair and a nobleman’s aura strode into the hall by Hogg’s side. Linley immediately was able to guess that this middle-aged man must be ‘Philip’.
+
+01 5 11	“Oh, this adorable child must be your son, right Hogg?” Philip smiled very warmly at Linley. “Linley Baruch, right? May I address you as Linley?”
+
+01 5 13	“What an adorable child.” Philip seemed very pleased.
+
+01 5 14	By his side, Hogg laughed. “Philip, stop wasting time with the child. Look, the ‘Fierce Lion’ you have desired for so long has arrived.” As he spoke, Hillman easily carried in the large sculpture into the hall, and then easily set it down.
+
+01 5 16	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+
+01 5 18	“Forgive me.” Philip quickly apologized.
+
+01 5 19	Philip turned to look at Hogg. “Hogg, I must say, although I like this stone sculpture very much, the artisanship of this ‘Fierce Lion’ sculpture cannot be considered to be top tier, much less the masterpieces of those grandmaster sculptors.”
+
+01 5 21	Philip’s eyes couldn’t help but narrow, but then he laughed. “Haha…Hogg, don’t be angry. I’m not saying that I don’t wish to buy it. I’m just telling the truth. How about this. I’ll buy this sculpture for five hundred gold coins. What do you think?”
+
+01 5 27	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+01 5 29	“Ahem, two thousand gold would be acceptable as well. This would be my highest offer.” Philip hurriedly said.
+
+01 5 31	Philip carefully studied Hogg for a moment, then chuckled. “Fine, Hogg. I’ll give you some face. Six hundred gold it is. Housekeeper, bring me six hundred gold.” The caretaker for his manor, who had been waiting outside the entire time, immediately ran over with the gold.
+
+01 5 33	“Six hundred gold, Hogg. You can count it, if you want.” Philip smiled.
+
+01 5 34	Hogg hefted the sacks. Just based on weight alone, Hogg was certain that there really were six hundred gold coins in them, a hundred gold per sack. Hogg smiled and nodded. “Philip, how about staying and having dinner with us?”
+
+01 5 35	“No need, I still have some business back home.” Philip laughed.
+
+01 5 36	Philip’s housekeeper subsequently instructed two powerfully built warriors to lift and carry away the sculpture, which they did with difficulty.
+
+01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+

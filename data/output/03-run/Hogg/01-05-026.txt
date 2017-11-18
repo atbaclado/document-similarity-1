@@ -1,0 +1,30 @@
+source: 01 5 26	“Hogg, you must know that in all the ten thousand plus years of the Yulan continent, there have been countless sculptures made. The true value of a sculpture is in terms of its artisanship. As far as the artisanship of this one….well, heh, suffice to say, I just like it. Five hundred gold really is my highest offer. If you don’t accept, then let’s just forget about it.”
+
+
+score: 0.700523, para: 02 23 43	“Gold coins? So much gold. There must be at least ten thousand gold coins here.” Hogg stared at Hillman, astonished. “Hillman, you say that Linley asked you to bring this here?”
+
+
+score: 0.679857, para: 01 13 14	Hogg replied, “Let’s discuss this question later. Linley, you should know that in the Yulan continent, an average person’s lifespan is around 120-130 years. Powerful magi and warriors can live for longer, usually up to two or three hundred years, or sometimes even four hundred years. The absolute limit to a person’s lifespan is five hundred years. Only those who have attained the legendary power of Saint-level combatants can live eternally, unbound by the dictates of time.”
+
+
+score: 0.657435, para: 01 3 47	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.638597, para: 01 3 56	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+
+score: 0.634855, para: 01 13 42	“Last I heard, the going price was around ten thousand gold coins. And what’s more is, even if you had the money, there’s almost no market for it due to its rarity.” Hogg’s words forced Linley to laugh bitterly at himself.
+
+
+score: 0.616587, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.588847, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+
+score: 0.575524, para: 01 12 50	Hogg waved his hand, motioning for Linley to calm down, before saying, “Linley, there have been magi in the lineage of our Dragonblood Warrior clan. However, there’s only been two in total. Linley, you should know that the most important thing for a magus is ‘natural talent’. Normally, only one person in ten thousand has the talent to become a magus. One in ten thousand! The chance really is very low. So, you’d best not have too much hope.”
+
+
+score: 0.572340, para: 01 3 14	Beside him, Hogg said in a low voice, “The first three generations of the Baruch family were all Dragonblood Warriors. Upon becoming a Dragonblood Warrior, one’s life expectancy would dramatically increase. The second generation Dragonblood Warrior didn’t get married or have children until after he was seven hundred years old.”
+
+

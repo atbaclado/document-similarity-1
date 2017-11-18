@@ -1,0 +1,30 @@
+source: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+
+score: 0.824885, para: 02 10 1	Wushan township. The Baruch clan manor.
+
+
+score: 0.807888, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+
+score: 0.769755, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+
+score: 0.687712, para: 02 10 6	The Baruch clan had been in a downward spiral for too long. This ancient clan needed a mighty personage to restore it to its former glories!
+
+
+score: 0.686167, para: 02 5 20	As dinner progressed, the conversation amongst the Baruch clan manors was quite cheerful.
+
+
+score: 0.684866, para: 02 23 33	Wushan township, within the Baruch clan manor’s main hall.
+
+
+score: 0.642264, para: 01 2 72	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+
+
+score: 0.639962, para: 01 2 28	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+
+score: 0.625140, para: 02 11 24	In the past, when the first, second, and third generation of Baruch clan members were all Dragonblood Warriors, the clan was in its glorious ascendancy. At that period in time, it wasn’t impossible to procure the blood of a Saint-level dragon.
+
+

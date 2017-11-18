@@ -1,0 +1,15 @@
+source_doc: 1 20	“I hear you.” Doehring Cowart’s voice rang out in Linley’s mind as well.
+
+
+score: 0.774619, para: 1 8	“Lord Magus, this is indeed Wushan town. Is there anything we can help you with, Lord Magus?” Hillman’s voice rang out.
+
+
+score: 0.708609, para: 1 23	“Linley, can you feel it?” Doehring Cowart’s voice gently sounded in Linley’s mind.
+
+
+score: 0.691720, para: 1 5	Hogg’s voice was very fierce.
+
+
+score: 0.691720, para: 1 17	“Linley. Linley!” Hogg’s voice was quavering.
+
+

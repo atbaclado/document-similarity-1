@@ -1,0 +1,30 @@
+source: 02 23 45	Hillman still remembered the words that Linley had said to the attendant at the Golden Bank of the Four Empires. “Withdraw everything!”
+
+
+score: 0.649146, para: 01 4 16	Linley remembered his father’s words very clearly.
+
+
+score: 0.609666, para: 02 21 3	“A hundred gold coins, gone like that.” Walking out from the local branch of the Golden Bank of the Four Empires within the Ernst Institute, Linley couldn’t help but sigh to himself. Now, next to his chest, was a magicrystal card of his own.
+
+
+score: 0.603922, para: 02 17 55	Linley would never be able to forget the words his father had said to him when he left. “If you cannot bring it back, even when I die, I won’t forgive you!” These words had pierced Linley’s heart like a sharp knife, and he was constantly reminded of them.
+
+
+score: 0.580256, para: 02 17 46	Linley immediately began to quietly mouth the words to a spell. The words had long since been memorized by Linley to the point where he could recite them without thinking. As the words to the spell continued, Linley could feel his entire spirit enter a special mode.
+
+
+score: 0.559120, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+
+score: 0.556440, para: 01 22 9	Linley had seen how the magus who rode the Velocidragon first mumbled many magical words before casting his spell.
+
+
+score: 0.548981, para: 02 4 48	Linley’s words died unspoken on his lips. At the same time, he suspiciously asked, “Grandpa Doehring, I have you to teach me, right? With you teaching me, why would I need to go to a magus academy? Isn’t that a waste of family resources?”
+
+
+score: 0.539509, para: 01 1 147	“Linley, Uncle Hillman has faith in you. I’m sure you’ll become a Saint-level warrior.” Staring at Linley, Hillman spoke firmly. These words of encouragement caused Linley’s eyes to shine. In Linley’s heart, as well, a desire arose.
+
+
+score: 0.536044, para: 01 3 56	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+

@@ -1,0 +1,8 @@
+source: 02 24 63	Once he started, Doehring Cowart couldn’t stop talking about carving.
+
+score: 0.629513, para: 02 22 25	“Proulx Gallery?” Doehring Cowart started, and then actually stopped talking.
+
+score: 0.629513, para: 02 22 25	“Proulx Gallery?” Doehring Cowart started, and then actually stopped talking.
+
+score: 0.629513, para: 02 22 25	“Proulx Gallery?” Doehring Cowart started, and then actually stopped talking.
+

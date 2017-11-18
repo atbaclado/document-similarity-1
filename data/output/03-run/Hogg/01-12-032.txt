@@ -1,0 +1,30 @@
+source: 01 12 32	Linley scrambled to his feet. Raising his head, he saw that it was his father, Hogg. At the moment, a smiling, praising look was on Hogg’s face as he watched Linley.
+
+
+score: 0.560561, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.555329, para: 02 10 5	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+
+score: 0.540831, para: 02 4 58	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.523358, para: 01 4 42	Instances like the time when he was holding the crying Linley in his arms were extremely rare. Normally, Hogg’s attitude towards Linley could be summarized in one word: ‘Strict’. In all things, Hogg strove for perfection. He wouldn’t let Linley get away with any mistakes.
+
+
+score: 0.517476, para: 01 17 45	Hogg turned back to look at Linley, who was enraptured watching the exciting battle between two Saint-level combatants. Laughing, he said, “Oh, Linley, you little rascal. Even though you are injured, you still want to watch Saint-level combatants fight. Fortunately, given that the Saint-level magus has unleashed the ‘World Protector’, this battle is about to come to a close soon.”
+
+
+score: 0.510778, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+
+score: 0.508654, para: 01 2 63	Hogg quietly stood in front of the spirit tablets, not saying a word.
+
+
+score: 0.508560, para: 01 16 58	Right now, there was no way for Hogg to tell if Hiri had managed to position himself in front of Linley in time, or if the falling rocks had slammed into Linley first.
+
+
+score: 0.504968, para: 01 5 27	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+

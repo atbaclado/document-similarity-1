@@ -1,0 +1,30 @@
+source: 02 13 49	Linley smiled and nodded.
+
+
+score: 0.819910, para: 01 19 35	Linley smiled brightly. “My name is Linley! Linley Baruch!”
+
+
+score: 0.778939, para: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.774809, para: 02 18 46	“Harry [Ha’li], have you eaten dinner?” Linley smiled back in response.
+
+
+score: 0.722236, para: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+
+score: 0.701396, para: 02 21 10	Reynolds and George were both calmly smiling as well, and were joking with Linley to the side.
+
+
+score: 0.685307, para: 01 1 68	“Haha.” Linley grinned widely. In his heart, he felt very happy at being praised by Hillman.
+
+
+score: 0.678240, para: 02 22 47	George and Linley glanced at each other, and couldn’t help but chuckle bitterly.
+
+
+score: 0.674445, para: 02 14 28	“Rich guy.” Linley sighed to himself.
+
+
+score: 0.666248, para: 02 6 45	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+

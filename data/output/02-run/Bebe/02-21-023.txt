@@ -1,0 +1,20 @@
+source: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+score: 0.722903, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+score: 0.722903, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+score: 0.722903, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+score: 0.668514, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+score: 0.668514, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+score: 0.668514, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+score: 0.647038, para: 02 12 52	Yulan calendar, year 9991. The nine year old Linley, accompanied by the young Shadowmouse, ‘Bebe’, and the Baruch clan’s guard captain, Hillman, departed from Wushan township.02 15 6	“Squeak squeak!” At this moment, the little Shadowmouse, ‘Bebe’, suddenly popped his head out from within Linley’s clothes. Having just woken up, the little Shadowmouse was feeling lonely, so he popped his head out.
+
+score: 0.647038, para: 02 12 52	Yulan calendar, year 9991. The nine year old Linley, accompanied by the young Shadowmouse, ‘Bebe’, and the Baruch clan’s guard captain, Hillman, departed from Wushan township.02 15 6	“Squeak squeak!” At this moment, the little Shadowmouse, ‘Bebe’, suddenly popped his head out from within Linley’s clothes. Having just woken up, the little Shadowmouse was feeling lonely, so he popped his head out.
+
+score: 0.628923, para: 02 15 6	“Squeak squeak!” At this moment, the little Shadowmouse, ‘Bebe’, suddenly popped his head out from within Linley’s clothes. Having just woken up, the little Shadowmouse was feeling lonely, so he popped his head out.
+

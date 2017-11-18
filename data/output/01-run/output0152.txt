@@ -1,0 +1,14 @@
+source_doc: 1 2	Linley felt very nervous. In the entire hall, aside from the sounds of the whispering candles, no sound was heard. The quiet was terrifying, creating an oppressive feeling on the heart.
+
+
+score: 0.678026, para: 1 23	“Linley, can you feel it?” Doehring Cowart’s voice gently sounded in Linley’s mind.
+
+
+score: 0.663048, para: 1 15	“Rudi [Lu’di]! Don’t go overboard!” That green-robed man suddenly let out a powerful shout. The explosive sound of his words reverberated in the air as though it were thunder. Not only did Hillman hear these words clearly; every single person in Wushan township heard the words clearly.
+
+
+score: 0.656499, para: 1 20	“There’s still some people who can sense my presence. Those whose spiritual presence are on par with me can feel my presence. But naturally…if I hide within the Coiling Dragon Ring, they definitely won’t be able to sense me.” Doehring Cowart’s voice sounded within Linley’s head.
+
+
+score: 0.638967, para: 2 3	“There’s no way that tiny little Wushan township is big enough for Linley.” Watching Linley enter the meditative trance to practice magic, Doehring Cowart felt a hint of excitement. “Sooner or later, he will bring an adult Violet Shadowmouse and step onto the endlessly broad stage that is the world of the Yulan continent.”
+

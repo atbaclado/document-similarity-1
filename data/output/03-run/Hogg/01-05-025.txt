@@ -1,0 +1,21 @@
+source: 01 5 25	“The price is too low.” Hogg shook his head.
+
+
+score: 0.582788, para: 01 4 48	“Just this?” Hogg frowned.
+
+
+score: 0.538108, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.533122, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.520777, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.511476, para: 01 13 42	“Last I heard, the going price was around ten thousand gold coins. And what’s more is, even if you had the money, there’s almost no market for it due to its rarity.” Hogg’s words forced Linley to laugh bitterly at himself.
+
+
+score: 0.504009, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+

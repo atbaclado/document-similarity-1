@@ -1,0 +1,15 @@
+source_doc: 1 23	He couldn’t reveal the existence of Doehring Cowart to his father. Every morning and evening, he still needed to attend physical training, while later in the morning, he would have his lessons with his father on politics, religion, religious rites, warfare, geography, art…and all sorts of other lessons.
+
+
+score: 0.624908, para: 1 3	Linley rarely saw his father speak to him in such a manner. Normally, his father was always very strict and unyielding.
+
+
+score: 0.614058, para: 2 11	Hogg said with a solemn face, “Linley, this Secret Dragonblood Training Tome was written by our founder and first ancestor, the very first Dragonblood Warrior to appear in the Yulan continent, Baruch! He naturally must have had his own reasons for writing this down. Nonetheless, in our family history, there have been two descendants who drank the blood of a Saint-level dragon, and in the end, both of their veins erupted and they died.”
+
+
+score: 0.613381, para: 1 1	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+
+score: 0.605379, para: 2 4	Hogg nodded. “People rarely visit the back courtyard, so its normal for there to be animals there. Right. In a week or so, the Fenlai City is going to begin another round of magical aptitude testing and magus recruitment. Do you want to participate?”
+
+

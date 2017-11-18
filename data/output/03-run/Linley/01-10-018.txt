@@ -1,0 +1,9 @@
+source: 01 10 18	But it was too late. Linley had already seen everything.
+
+
+score: 0.554629, para: 02 1 4	Just now, he had seen that black Shadowmouse nibbling on a rock.
+
+
+score: 0.509784, para: 02 23 28	Hillman looked questioningly at Linley as he watched Linley withdraw a magicrystal card from his pockets. Hillman was shocked. “A magicrystal card?” Previously, when he was a soldier, he had seen magicrystal cards before.
+
+

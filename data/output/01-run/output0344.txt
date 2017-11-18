@@ -1,0 +1,15 @@
+source_doc: 1 7	“Oh, a ring?” Linley’s eyes were bandit-sharp. He happily plucked the ring up, then used his filthy sleeves to give the black ring a vigorous rub-down. Only then could Linley make out what this item really looked like.
+
+
+score: 0.747499, para: 1 17	Since his head was injured, the so-called ‘Coiling Dragon’ ring he wore underneath his clothes had also been stained by blood. But the blood on the Coiling Dragon ring seemed to have disappeared, like water into an endless ocean, as the strange black material slowly absorbed it all.
+
+
+score: 0.720238, para: 1 23	He saw a 20-centimeter long black mouse chewing on a piece of stone rubble. And then, in the blink of an eye, the black mouse appeared tens of meters away in a different direction, and began to nibble on a piece of blue tile. The black mouse’s fur appeared very soft. Its eyes were guileless, and its paws were furry. In a word, it looked very cute.
+
+
+score: 0.698479, para: 1 19	“Then Gramps, how is it that you appeared from within the ring just now?” Linley looked doubtfully at the old man.
+
+
+score: 0.676988, para: 1 1	“This must be Linley’s [Lin’lei] first day at training. Who would’ve thought he’d be so formidable?” Lorry said, amazed. Next time him, Roger and Hillman also noticed. Looking in that direction, they saw that to the north, a single brown haired boy was still holding firm. His lips tightened, the boy stared determinedly in front, both fists tightly clenched so hard that his fists were white.
+
+

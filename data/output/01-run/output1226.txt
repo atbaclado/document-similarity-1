@@ -1,0 +1,15 @@
+source_doc: 2 6	From within the Coiling Dragon Ring, Doehring Cowart flew out. His white beard fluttering happily, he said, “Linley, the little guy is setting up a ‘bond of equals’ formation.”
+
+
+score: 0.800827, para: 1 23	Doehring Cowart flew out from within the Coiling Dragon Ring. Standing next to Linley, he looked at the black mouse with some surprise. “A magical beast, a Shadowmouse? And judging by its size, a Shadowmouse infant.”
+
+
+score: 0.748186, para: 1 7	“Now, what name should I choose for this black ring? Earthworm Ring? No way, that sounds terrible.” Linley mumbled for a few moments, then his eyes lit up. “Haha, that sinuous object can also be considered a ‘dragon’, right? A dragon curled around the ring…then let’s call it, the Coiling Dragon Ring!” Although in his heart, Linley felt like the carving looked more like an earthworm, but he still chose the name ‘Coiling Dragon Ring’ for it.
+
+
+score: 0.734360, para: 1 18	“The ‘Stellar Sword Saint’ Dillon? Pity. I can’t kill him yet.” The gray-robed man said in a low voice. And then the Black Dragon underneath his feat, as though knowing his master’s wishes, flapped its enormous wings and went flying off into the southeastern direction.
+
+
+score: 0.730341, para: 1 21	“This is why I told you that earth-style magic is the mightiest elemental style of them all.” Doehring Cowart’s white beard fluttered about, making him look all the more self-satisfied.
+
+

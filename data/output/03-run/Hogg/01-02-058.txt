@@ -1,0 +1,30 @@
+source: 01 2 58	Exiting the guest hall, Hogg, Linley, and Uncle Hiri, who still held Wharton, followed the blue stone path towards the back manor.
+
+
+score: 0.595504, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.589831, para: 01 5 3	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+
+score: 0.576629, para: 01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+
+
+score: 0.550545, para: 01 3 5	Hogg led Linley towards the area behind the many spirit tablets. Lifting him up, Hogg said, “Take a close look at those characters behind.”
+
+
+score: 0.546055, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.545072, para: 02 12 44	On the road headed east of Wushan township, Linley turned his head saw the hundreds of familiar faces which had come to send him off, with his father, Hogg, and his younger brother Wharton standing in the lead.
+
+
+score: 0.542632, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+
+score: 0.537249, para: 01 4 42	Instances like the time when he was holding the crying Linley in his arms were extremely rare. Normally, Hogg’s attitude towards Linley could be summarized in one word: ‘Strict’. In all things, Hogg strove for perfection. He wouldn’t let Linley get away with any mistakes.
+
+
+score: 0.532091, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+

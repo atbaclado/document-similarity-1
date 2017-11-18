@@ -1,0 +1,15 @@
+source_doc: 1 12	Hogg looked at the serious expression on his eight year old boy’s face. By all rights, a young child being so serious was an amusing thing. But Hogg did not laugh.
+
+
+score: 0.646368, para: 2 4	“Looks like it is time for me to confess.” Linley said to himself, then looked at Hogg and nodded. “Father, recently I discovered a cute animal living in our back courtyard, an extremely cute animal. So I often bring him some food.”
+
+
+score: 0.639810, para: 2 1	Doehring Cowart nodded. “Shadowmice are indeed very fast, but for an infant Shadowmouse to already have reached the speed of an adult Shadowmouse is definitely out of the ordinary.” A hint of a smile was on Doehring Cowart’s face.
+
+
+score: 0.619795, para: 1 10	That sudden display was simply too bloody. Even a fully grown adult, when faced with such a terrifying scene for the first time, would be panicked. Linley was just an eight year old child.
+
+
+score: 0.611746, para: 2 1	“Linley.” Doehring Cowart suddenly looked at Linley with a strange look in his eyes. His voice carrying a hint of enticement he said, “Regardless of why the the infant Violet Shadowmouse is here…would you want to collect it as a companion? Shadowmice grow very rapidly, especially Violet Shadowmice. In ten years or so, it will finish its growth cycle. By that time, you would have a magical beast companion of at least the seventh, and possibly even the eighth rank.”
+
+

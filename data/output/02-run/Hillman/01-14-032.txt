@@ -1,0 +1,20 @@
+source: 01 14 32	Uncle Hillman’s words were as clear and as hard as nails. His gaze was fierce and cold.
+
+score: 0.635014, para: 01 31 34	Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+score: 0.635014, para: 01 31 34	Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+score: 0.635014, para: 01 31 34	Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+score: 0.617655, para: 01 1 34	Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+score: 0.617655, para: 01 1 34	Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+score: 0.617655, para: 01 1 34	Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+score: 0.617655, para: 01 1 34	Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+score: 0.602476, para: 01 5 16	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+
+score: 0.602476, para: 01 5 16	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+

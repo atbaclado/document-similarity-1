@@ -1,0 +1,15 @@
+source_doc: 2 4	Hogg nodded. “People rarely visit the back courtyard, so its normal for there to be animals there. Right. In a week or so, the Fenlai City is going to begin another round of magical aptitude testing and magus recruitment. Do you want to participate?”
+
+
+score: 0.751482, para: 1 17	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.745967, para: 2 3	These acitivities continued. Day after day, Linley continued to undergo meditative training while preparing wild rabbits and other animals for the little Shadowmouse to eat. Nobody in the entire Wushan township, including Hogg and Hillman, knew that Linley was learning magic. Similarly, none of them knew that Linley was taking care of a juvenile magical beast that already possessed power of the fourth rank!
+
+
+score: 0.700151, para: 1 22	“First, let me tell you that the test for magical aptitude is a two-part test, so the test I am administering will also have two parts.” Doehring Cowart was behaving in an unusually generous manner. After having been trapped along in the Coiling Dragon Ring for five thousand years, of course he was now in a wonderful mood when faced with such a cute little child.
+
+
+score: 0.670446, para: 2 8	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+

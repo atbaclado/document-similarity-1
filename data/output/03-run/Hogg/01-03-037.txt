@@ -1,0 +1,30 @@
+source: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.700624, para: 02 5 3	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.663469, para: 01 5 21	Philip’s eyes couldn’t help but narrow, but then he laughed. “Haha…Hogg, don’t be angry. I’m not saying that I don’t wish to buy it. I’m just telling the truth. How about this. I’ll buy this sculpture for five hundred gold coins. What do you think?”
+
+
+score: 0.662150, para: 01 5 27	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+
+score: 0.652830, para: 01 12 2	“Uncle Hiri.” Hogg immediately turned to look at his housetaker Hiri. “Immediately order some people to recover all of the melted gold from within those piles of ashes. This adventuring party was quite extraordinary as well. No doubt, they had a great deal of wealth on them. I hope they had enough to recompense the losses we have suffered today”
+
+
+score: 0.633626, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.621465, para: 02 11 31	“Linley, don’t ask too much. Honestly, I only know a little bit about our family history as well. As far as what happened four thousand years ago, there’s no way we can clearly know what happened.” Hogg laughed towards Linley.
+
+
+score: 0.611222, para: 02 5 44	Hogg stood there, straight as a ramrod. Staring directly at Linley, he said, “Linley, Wushan township is located fairly close to the capital, just ninety or so kilometers away. You should be able to make it to the capital before nightfall. Remember, when you reach the capital, don’t cause any trouble. There are too many rich and powerful people in the capital.”
+
+
+score: 0.607115, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+
+score: 0.606768, para: 01 20 52	The earlier events of the morning had left a lasting impression on Hogg. There was a moment when he even thought Linley had been crushed to death. After experiencing such an event, Hogg’s attitude towards Linley clearly had improved substantially.
+
+

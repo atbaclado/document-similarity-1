@@ -1,0 +1,30 @@
+source: 02 12 14	“You want me to cook it?” Linley laughed as he spoke.
+
+
+score: 0.698786, para: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+
+score: 0.668229, para: 01 20 32	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+
+score: 0.655523, para: 02 15 24	“Reynolds, I’ll tell you a secret. Bebe loves to eat roast meat. If in the future, you can feed him some roast ducks or roast chickens, I believe that he won’t be very hostile to you.” Linley laughed upon seeing Reynolds eyes shine.
+
+
+score: 0.640006, para: 02 3 6	“Linley, why aren’t you cooking it? Although the Shadowmouse will eat raw meat, his favorite is cooked meat.” Doehring Cowart’s voice sounded in Linley’s mind.
+
+
+score: 0.630921, para: 02 18 46	“Harry [Ha’li], have you eaten dinner?” Linley smiled back in response.
+
+
+score: 0.624527, para: 02 4 29	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.616970, para: 02 17 9	“Haha, I knew Linley definitely wouldn’t go.” Reynolds laughed loudly.
+
+
+score: 0.587907, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.585949, para: 01 20 50	Linley grinned at his father, but continued to devour his food with haste. In the twinkling of an eye, he had stripped the leg of mutton of all flesh. Linley let out a comfortable burp, then used the napkin to wipe his lips. Standing, he said, “Father, Uncle Hiri, I’m done eating. I feel like my head is still a bit dizzy, so I’m going to go and get some more rest. Wharton, see ya.” Linley was the first to finish eating.
+
+

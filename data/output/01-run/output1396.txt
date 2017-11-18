@@ -1,0 +1,15 @@
+source_doc: 2 10	Upon hearing that Linley had been admitted to the Ernst Institute, everyone present had become excited. One could easily understand that entering the Ernst Institute meant entering a certain destiny. In the future, Linley definitely would not be constrained by tiny little Wushan township.
+
+
+score: 0.680832, para: 2 4	Linley tentatively stretched his hand out and placed it on the little Shadowmouse’s head. The little Shadowmouse didn’t dodge in the slightest. Instead, it contentedly half-closed its eyes. Linley immediately felt more confident, and began to stroke his fur, causing the Shadowmouse to feel so comfortable that it began to snore.
+
+
+score: 0.675136, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.670252, para: 2 6	Looking down, he saw that it was actually the little Shadowmouse. At the moment, the little Shadowmouse was staring up at Linley with its pitiable, sad little eyes. Linley rubbed his leg, and noticed that he was actually bleeding. He couldn’t help but grow unhappy. But seeing how sad the little Shadowmouse was, he couldn’t grow angry at him.
+
+
+score: 0.661162, para: 2 8	“Linley, here is the examination fee. Here is your proof of identification. Go quickly. Oh, and right, let the little Shadowmouse stay with me. It will be difficult to have the little Shadowmouse with you as you take the test.” Hillman said.
+
+

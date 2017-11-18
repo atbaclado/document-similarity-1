@@ -1,0 +1,14 @@
+source_doc: 1 3	“You?” Hogg chuckled. Eyes filled with love, he ruffled Linley’s hair.
+
+
+score: 0.747586, para: 1 12	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+score: 0.697394, para: 1 5	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+
+score: 0.688837, para: 1 2	“What, did I do it wrong? I really wiped them clean.” In little Wharton’s tiny head, his eyes were filled with an uncomprehending look as he stared at his big brother.
+
+
+score: 0.682086, para: 2 10	Hogg took a deep breath, then looked at Linley, his eyes filled with boundless excitement. “Good, good.”
+
+

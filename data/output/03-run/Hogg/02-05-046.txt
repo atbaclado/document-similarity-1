@@ -1,0 +1,30 @@
+source: 02 5 46	“Hillman, I entrust Linley to you.” Hogg looked at the nearby Hillman.
+
+
+score: 0.559372, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+
+score: 0.557663, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.548146, para: 01 17 43	“Hillman, in a little while, accompany me in inspecting the situation of the residents of Wushan township.” Hogg said, and then looked at Hiri. “Uncle Hiri, after these two Saint-level combatants depart, take Linley home to change his clothes and make sure he gets some rest.”
+
+
+score: 0.545480, para: 02 4 36	“Looks like it is time for me to confess.” Linley said to himself, then looked at Hogg and nodded. “Father, recently I discovered a cute animal living in our back courtyard, an extremely cute animal. So I often bring him some food.”
+
+
+score: 0.545320, para: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+
+score: 0.544828, para: 02 4 58	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.536353, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.532014, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+
+score: 0.527227, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+

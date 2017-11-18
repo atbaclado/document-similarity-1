@@ -1,0 +1,15 @@
+source_doc: 2 2	“Wild rabbits have a fast reaction time, and run fast also. Best if I use magic.” Linley immediately began to chant the words to a magical incantation.
+
+
+score: 0.674938, para: 1 15	But Hillman quickly realized what was going on. Rapidly turning around, he shouted fiercely at all the children, “Everyone, go home right now! Go home and hide! NOW!” Hillman’s loud roar and his urgent expression stunned every child present.
+
+
+score: 0.638925, para: 2 3	And then he immediately began to eat the wild hare. His sharp teeth chewed at an incredibly fast rate. Although the Shadowmouse had a small body, this wild hare which was physically larger than the Shadowmouse was fully devoured by it, aside from the fur. Even the bones weren’t spared.
+
+
+score: 0.621309, para: 2 6	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+
+score: 0.621157, para: 2 3	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+

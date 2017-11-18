@@ -1,0 +1,30 @@
+source: 01 20 52	The earlier events of the morning had left a lasting impression on Hogg. There was a moment when he even thought Linley had been crushed to death. After experiencing such an event, Hogg’s attitude towards Linley clearly had improved substantially.
+
+
+score: 0.632038, para: 01 17 4	Hogg’s body trembled. Only then did he regain his usual faculties. “Linley.” Hogg charged violently towards the warehouse at an astonishing speed. Seeing this, Hillman guessed what had happened and immediately followed Hogg.
+
+
+score: 0.624246, para: 01 4 42	Instances like the time when he was holding the crying Linley in his arms were extremely rare. Normally, Hogg’s attitude towards Linley could be summarized in one word: ‘Strict’. In all things, Hogg strove for perfection. He wouldn’t let Linley get away with any mistakes.
+
+
+score: 0.606768, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.588439, para: 01 3 5	Hogg led Linley towards the area behind the many spirit tablets. Lifting him up, Hogg said, “Take a close look at those characters behind.”
+
+
+score: 0.584137, para: 02 10 23	As it turned out, the little Shadowmouse had fallen asleep next to Linley’s chest, but Hogg’s explosive laughter startled him awake. An infant Shadowmouse spent a great deal of time napping, and hated being awakened. At this moment, naturally he was extremely furious.
+
+
+score: 0.580707, para: 02 11 31	“Linley, don’t ask too much. Honestly, I only know a little bit about our family history as well. As far as what happened four thousand years ago, there’s no way we can clearly know what happened.” Hogg laughed towards Linley.
+
+
+score: 0.573147, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+
+score: 0.571688, para: 02 10 5	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+
+score: 0.558843, para: 02 11 25	“The events of the past happened too long ago. The real secrets of that era, this book has not revealed. All I know is that because of this, the dragon race sent representatives to engage in discussions with our Baruch clan’s clanlord. After this, our descendants no longer attempted this method. Later on, when our family line weakened, even when we wanted to drink dragon’s blood, we no longer were able to.” Hogg shook his head and sighed.
+
+

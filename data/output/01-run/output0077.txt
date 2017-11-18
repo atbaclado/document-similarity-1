@@ -1,0 +1,15 @@
+source_doc: 1 1	After a short period of time, the stunned children returned to their homes. Hillman, Roger, and Lorry were the last to leave. Watching the children depart in clusters of three or five, a smile appeared on Hillman’s face.
+
+
+score: 0.710953, para: 1 4	“Ley is really amazing. Just eight years old, but he’s able to match the thirteen year olds in doing the ‘Static Tension’ exercise.” Some of the children who had already given up were sprawled on the ground, chatting as they watched Linley.
+
+
+score: 0.681326, para: 2 3	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.681147, para: 2 10	As it turned out, the little Shadowmouse had fallen asleep next to Linley’s chest, but Hogg’s explosive laughter startled him awake. An infant Shadowmouse spent a great deal of time napping, and hated being awakened. At this moment, naturally he was extremely furious.
+
+
+score: 0.676046, para: 1 7	The youngsters nearby couldn’t help but stick out their tongues. He was just late by a short amount of time, but was punished with double duty training. Today, Linley probably wouldn’t have any time to go home and eat dinner.
+
+

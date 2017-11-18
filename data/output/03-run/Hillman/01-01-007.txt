@@ -1,0 +1,30 @@
+source: 01 1 7	The leader’s name was Hillman (Xi’er’man). He was the captain of the guard for the Baruch (Ba’lu’ke) clan, the noble clan which owned Wushan town.
+
+
+score: 0.794268, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+
+score: 0.585968, para: 01 18 40	“Hillman, lead the guard squad to do some more scouting about the township. Uncle Hiri, go and get some rest.” Hogg directly instructed.
+
+
+score: 0.563189, para: 02 12 52	Yulan calendar, year 9991. The nine year old Linley, accompanied by the young Shadowmouse, ‘Bebe’, and the Baruch clan’s guard captain, Hillman, departed from Wushan township.
+
+
+score: 0.544610, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+
+score: 0.542986, para: 01 15 37	“Captain, Lord Hogg ordered us to come assist you!” Twelve warriors had come flying out of the Baruch clan manor. As soon as they saw Hillman, they shouted at him.
+
+
+score: 0.540728, para: 01 5 16	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+
+
+score: 0.535040, para: 01 9 2	A hint of a smile played at Hillman’s lips. “That mysterious magus seems to be at odds with that party over there. Just stay here and watch. No need for us to interfere.” Hillman himself was only a warrior of the sixth rank. In truth, he didn’t dare to interfere either.
+
+
+score: 0.528659, para: 01 12 6	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+
+score: 0.518871, para: 01 2 71	Eyes brightening, Linley nodded. “I know. According to Uncle Hillman, the legendary Four Supreme Warriors are the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior.”
+
+

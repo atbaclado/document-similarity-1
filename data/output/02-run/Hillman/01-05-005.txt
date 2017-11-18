@@ -1,0 +1,20 @@
+source: 01 5 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+score: 0.575519, para: 02 7 19	The Fragrant Pavilion Road, bustling with activity, often had many opulent carriages pass through it. After wandering the Fragrant Pavilion Road for a time, Hillman and Linley headed directly for an ordinary guesthouse to settle down.
+
+score: 0.575519, para: 02 7 19	The Fragrant Pavilion Road, bustling with activity, often had many opulent carriages pass through it. After wandering the Fragrant Pavilion Road for a time, Hillman and Linley headed directly for an ordinary guesthouse to settle down.
+
+score: 0.575519, para: 02 7 19	The Fragrant Pavilion Road, bustling with activity, often had many opulent carriages pass through it. After wandering the Fragrant Pavilion Road for a time, Hillman and Linley headed directly for an ordinary guesthouse to settle down.
+
+score: 0.572243, para: 01 1 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+score: 0.572243, para: 01 1 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+score: 0.572243, para: 01 1 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+score: 0.572243, para: 01 1 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+score: 0.567556, para: 01 1 47	That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this? And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+
+score: 0.567556, para: 01 1 47	That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this? And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+

@@ -1,0 +1,15 @@
+source_doc: 1 14	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.740657, para: 1 10	With but a flick, the draconic tail tossed Luke directly towards the Velocidragon’s mouth. The Velocidragon opened its jaws, revealing its bloody maw, and chomped down. With a terrifying crunching sound, the last thing escaping Luke’s throat was an anguished scream.
+
+
+score: 0.735069, para: 2 3	“Crunch, crunch.” That familiar, soft crunching sound could be heard once again. Linley’s eyes brightened, and he immediately turned and headed towards an ancient courtyard nearby. Arriving at the entryway, he clearly saw the black Shadowmouse chewing on stones in one spot, unmoving. He seemed almost like a sculptor, as he chewed each rock into surprising, bizarre shapes.
+
+
+score: 0.732113, para: 1 20	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.729874, para: 1 19	In Linley’s mind, the huge body of the Velocidragon, the terrifying spectacle of the Dance of the Fire Serpents, and the countless boulders falling from the sky began to play over and over again, along with the spectacle of that proud man who stood on top of the Black Dragon.
+
+

@@ -1,0 +1,20 @@
+source: 01 21 33	“Personal protection? Grandpa Doehring, you’re saying that the earth-style has the strongest personal protection spells?” Linley looked questioningly at Doehring Cowart.
+
+score: 0.590358, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+score: 0.590358, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+score: 0.590358, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+score: 0.564854, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+score: 0.564854, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+score: 0.564854, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+score: 0.563306, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+score: 0.563306, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+score: 0.563306, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+

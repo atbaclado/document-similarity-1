@@ -1,0 +1,30 @@
+source: 01 20 22	Seeing Linley constantly glance at the corner of his bed, Uncle Hiri asked curiously, “Young master Linley, why are you staring at the side of your bed? Did you drop something? I can help you look for it.”
+
+
+score: 0.700228, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.661550, para: 02 24 5	Linley couldn’t help but stare at the direction of the voice, and saw two cute girls chatting to each other while staring at him. When Linley glanced at them, the two girls began to titter in a quiet voice.
+
+
+score: 0.657339, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+
+
+score: 0.655649, para: 02 3 36	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.651373, para: 02 14 55	Linley couldn’t help but stare at Yale in shock.
+
+
+score: 0.650561, para: 02 4 12	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.645291, para: 01 2 45	“What, did I do it wrong? I really wiped them clean.” In little Wharton’s tiny head, his eyes were filled with an uncomprehending look as he stared at his big brother.
+
+
+score: 0.643762, para: 01 2 37	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.641192, para: 02 3 49	“The Shadowmouse is actually here staring at me.” Linley chuckled as he saw that Shadowmouse inside the courtyard watch him approach.
+
+

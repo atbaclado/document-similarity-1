@@ -1,0 +1,30 @@
+source: 02 7 67	Glancing at the group of nobles, Linley chuckled quietly. “Uncle Hillman, I won’t pay any mind to their likes.” Under the tutelage of his father Hogg, Linley wouldn’t pay too much heed to that group of self-centered, arrogant nobles.
+
+
+score: 0.655319, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+
+score: 0.583133, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.583075, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.576937, para: 01 12 6	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+
+score: 0.573740, para: 02 23 15	Hillman laughed loudly and nodded. “Right. Your father was absolutely ecstatic. He excitedly drank wine with me until midnight. Your father said that his two sons are the absolute prides of his life. One is a mighty magus, and the other is a Dragonblood Warrior. Haha…”
+
+
+score: 0.570578, para: 01 2 27	Linley was exceedingly smart. Under the tutelage of his father, Hogg, since a young age, he had learned many words and could read most books.
+
+
+score: 0.563145, para: 01 1 147	“Linley, Uncle Hillman has faith in you. I’m sure you’ll become a Saint-level warrior.” Staring at Linley, Hillman spoke firmly. These words of encouragement caused Linley’s eyes to shine. In Linley’s heart, as well, a desire arose.
+
+
+score: 0.560111, para: 01 5 16	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+
+
+score: 0.556899, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+

@@ -1,0 +1,20 @@
+source: 01 1 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.955774, para: 01 12 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.955774, para: 01 12 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.955774, para: 01 12 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.696190, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.696190, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.696190, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.688288, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+score: 0.688288, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+score: 0.688288, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+

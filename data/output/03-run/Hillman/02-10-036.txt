@@ -1,0 +1,30 @@
+source: 02 10 36	“Fine, enough of that topic. Uncle Hiri, Hillman, lead the guards to make the arrangements right away. Tonight, I am going to host a magnificent banquet.” Hogg laughed loudly. Right now, his laughter was extremely full and carefree.
+
+
+score: 0.654520, para: 02 23 15	Hillman laughed loudly and nodded. “Right. Your father was absolutely ecstatic. He excitedly drank wine with me until midnight. Your father said that his two sons are the absolute prides of his life. One is a mighty magus, and the other is a Dragonblood Warrior. Haha…”
+
+
+score: 0.619436, para: 02 23 5	“Let’s talk over here.” Hillman pulled Linley off to a side, a look of irrepressible excitement appearing on his face. “Linley, I have wonderful news for you, extremely wonderful news.”
+
+
+score: 0.617795, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.609956, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+
+score: 0.605171, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.598447, para: 01 5 16	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+
+
+score: 0.597570, para: 01 22 20	Doehring Cowart smiled and nodded. “Right. Therefore, the ‘mageforce’ of a magus is extremely important. If he doesn’t have enough mageforce, he will not be able to cast a spell.”
+
+
+score: 0.596030, para: 01 7 35	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.578715, para: 01 9 2	A hint of a smile played at Hillman’s lips. “That mysterious magus seems to be at odds with that party over there. Just stay here and watch. No need for us to interfere.” Hillman himself was only a warrior of the sixth rank. In truth, he didn’t dare to interfere either.
+
+

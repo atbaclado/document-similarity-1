@@ -1,0 +1,15 @@
+source_doc: 2 2	After departing from the back gate of the manor, Linley began to run at a normal pace, and his footsteps began to sound again.
+
+
+score: 0.638932, para: 1 14	The empty training field immediately settled down. Only the footsteps of Hillman and the other two could be heard.
+
+
+score: 0.581498, para: 1 8	“Everyone, stay here.” After he spoke, Hillman immediately chased after the departing Velocidragon.
+
+
+score: 0.573760, para: 2 3	Taking a deep breath, Linley entered his family’s manor and went to the back courtyard, and one careful step at a time, approached the location where the Shadowmouse had appeared, his footsteps not making a single sound. In a short period of time, Linley returned to his earlier position.
+
+
+score: 0.553236, para: 1 7	Each of the thunderous footsteps seemed to caused a vibration powerful enough to shake Linley’s heart.
+
+

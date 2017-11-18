@@ -1,0 +1,30 @@
+source: 02 24 26	As he said these words, Linley had already left the gates of the Ernst Institute and entered the back mountains. As he passed through the mountain forests, Doehring Cowart suddenly said, “Linley, go to a place next to the mountainside.”
+
+
+score: 0.690692, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+
+score: 0.614739, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+
+score: 0.608272, para: 02 17 16	Linley immediately walked off, quietly but quickly heading towards the mountains behind the school. There were thousands of students at the Ernst Institute, and there were also many magi who were researching new spells here. There were also many servers. In short, the Ernst Institute was a well-populated place.
+
+
+score: 0.581875, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+
+score: 0.565690, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+
+score: 0.562033, para: 02 23 30	Linley tugged Hillman and said, “I won this magicrystal card from a rich kid who lost a magic duel with me. Let’s go to the Golden Bank of the Four Empires.” Right now, the guards at the Ernst Institute’s entrance no longer attempted to bar Hillman’s passage, because they recognized Linley, who had left earlier this morning.
+
+
+score: 0.559872, para: 02 16 25	Linley had it all planned out. Every day, he would spend some time outside training in magic. As for the place he would do the training…Linley had already chosen a place, a mountain located right behind the Ernst Institute. Being located near a mountain range, naturally there were many mountains near the Institute.
+
+
+score: 0.558064, para: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+
+
+score: 0.554761, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+

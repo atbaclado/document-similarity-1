@@ -1,0 +1,8 @@
+source: 01 14 5	“Hadley, yesterday you were with us on the east side as well. You didn’t dare go over. How could you see all this?” A thirteen year old brown-haired child snorted.
+
+score: 0.566286, para: 01 2 72	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+score: 0.551430, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+score: 0.513961, para: 01 15 2	At present, the group of children and the three instructors were about several hundred meters away from the Black Dragon. To see a hundred-meter long Black Dragon from such a close distance is an awe-inspiring experience which simply can’t be explained with words.
+

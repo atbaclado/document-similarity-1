@@ -1,0 +1,30 @@
+source: 02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+
+score: 0.665618, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+
+score: 0.586298, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+
+score: 0.579692, para: 02 9 45	Linley didn’t look too excited on the outside, but Hillman was uncontrollably excited. A student at the Ernst Institute. Who amongst them were not venerated? Linley’s future accomplishments could already be predicted.
+
+
+score: 0.577803, para: 02 18 7	Her brother, Dixie, was the number one genius of the entire Ernst Institute, and described as a talent which would be found once in a century at most. He, too, was a dual element mage, and his elemental essence affinity was exceptional. But what’s more, he was a supreme talent with 68 times the spiritual essence of an ordinary person.
+
+
+score: 0.555956, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+
+
+score: 0.540755, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+
+score: 0.539995, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+
+score: 0.539509, para: 02 18 15	At the Ernst Institute, talents were as common as the clouds. And the number one problem that all talents shared was that they didn’t like to admit inferiority to others!
+
+
+score: 0.537387, para: 02 15 50	“The earth element class isn’t that important. In terms of understanding the earth element, how could any of the teachers at the Ernst Institute compare with Grandpa Doehring? The most important class is the wind element class. I wonder what wind magic is like?”
+
+

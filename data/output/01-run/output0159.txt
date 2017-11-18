@@ -1,0 +1,14 @@
+source_doc: 1 2	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+
+score: 0.833666, para: 2 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+
+score: 0.770120, para: 2 10	The Baruch clan had been in a downward spiral for too long. This ancient clan needed a mighty personage to restore it to its former glories!
+
+
+score: 0.768642, para: 1 3	In Linley’s eyes, his clan was nothing more than just an ancient clan which had fallen on hard times. How could it be related to the legendary Dragonblood Warrior?
+
+
+score: 0.768124, para: 2 10	An ancient clan which had lasted five thousand years. The Dragonblood Warrior clan. Linley felt pride in his heart. But their ancestral heirloom had been lost.
+
+

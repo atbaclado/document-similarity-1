@@ -1,0 +1,6 @@
+source: 02 7 50	Early next morning, on East Fenlai City’s Greenleaf Road. One of Fenlai City’s principal roads, the buildings constructed on each side of Greenleaf Road were lavishly made and decorated. Some of those buildings were actually owned by the kingdom. And the tallest building of them all? It was the Cathedral of the Radiant Church.
+
+
+score: 0.536260, para: 02 5 13	That’s right. In the past, when the Pouant Empire was still unified, the Radiant Church, the Cult of Shadows, and even the Pavilion of Divinities all had many churches within the empire. But all of those churches were under the control of the Pouant Empire.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 12	Hogg laughed. “Linley, did the events of today astonish you so much that you even forgot about dinner?”
+
+
+score: 0.582052, para: 1 21	“And earth-style?” Linley didn’t forget about the earth-style elemental magic.
+
+
+score: 0.566252, para: 2 10	Hogg didn’t know whether to laugh or to cry. The ‘cute pet’ was actually a magical beast?
+
+
+score: 0.556442, para: 1 5	“Father, I want to learn to be a sculptor!” Linley suddenly said.
+
+
+score: 0.555619, para: 1 5	“Philip, if you don’t wish to buy it, then forget about it.” Hogg was quite succinct.
+
+

@@ -1,0 +1,20 @@
+source: 01 15 40	“All of you, go home! Go home and hide! Protect yourselves!” Hillman shouted again in a loud voice.
+
+score: 0.536622, para: 01 14 45	“Morning exercises are over.” Hillman said in a loud voice, facing the children.
+
+score: 0.536622, para: 01 14 45	“Morning exercises are over.” Hillman said in a loud voice, facing the children.
+
+score: 0.536622, para: 01 14 45	“Morning exercises are over.” Hillman said in a loud voice, facing the children.
+
+score: 0.536622, para: 01 14 45	“Morning exercises are over.” Hillman said in a loud voice, facing the children.
+
+score: 0.528683, para: 01 8 48	Hillman helplessly shook his head. He knew how stubborn Linley could be, and how hard it was to force him to change his mind. “Fine. Then stay behind me, do not go too far. As long as you stay next to me, I am confident that I can protect you.”
+
+score: 0.528683, para: 01 8 48	Hillman helplessly shook his head. He knew how stubborn Linley could be, and how hard it was to force him to change his mind. “Fine. Then stay behind me, do not go too far. As long as you stay next to me, I am confident that I can protect you.”
+
+score: 0.528683, para: 01 8 48	Hillman helplessly shook his head. He knew how stubborn Linley could be, and how hard it was to force him to change his mind. “Fine. Then stay behind me, do not go too far. As long as you stay next to me, I am confident that I can protect you.”
+
+score: 0.528683, para: 01 8 48	Hillman helplessly shook his head. He knew how stubborn Linley could be, and how hard it was to force him to change his mind. “Fine. Then stay behind me, do not go too far. As long as you stay next to me, I am confident that I can protect you.”
+
+score: 0.523662, para: 01 8 40	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+

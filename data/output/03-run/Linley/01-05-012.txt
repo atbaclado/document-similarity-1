@@ -1,0 +1,24 @@
+source: 01 5 12	“It would be my honor, sire.” Linley placed his right hand against his breast and respectfully bowed.
+
+
+score: 0.646781, para: 02 6 16	Linley placed the little Shadowmouse on the floor, then waved his hand at it. “Go back.” And then he pointed to the road. “I’m going that way. To the capital.”
+
+
+score: 0.642560, para: 02 8 35	Linley placed his right hand on the crystal ball.
+
+
+score: 0.609857, para: 01 4 38	“Father!” Linley respectfully bowed.
+
+
+score: 0.534126, para: 02 4 19	Linley tentatively stretched his hand out and placed it on the little Shadowmouse’s head. The little Shadowmouse didn’t dodge in the slightest. Instead, it contentedly half-closed its eyes. Linley immediately felt more confident, and began to stroke his fur, causing the Shadowmouse to feel so comfortable that it began to snore.
+
+
+score: 0.518088, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.506384, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+
+score: 0.500459, para: 01 4 3	Right now, Linley was only wearing trousers. His upper body was covered with sweat, and his body, as taut as a drawn bowstring, was lying on the ground. His hands were pressed fiercely to the ground, as straight as tree trunks, while the rest of his body was motionless. He was supporting himself from a push-up position, with just his hands and the tips of his toes! His entire body was taut!
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 6	“The ancestral hall is cleaned every month. Frankly speaking, in just a month, the ancestral hall won’t get too dirty. All I have to do is just casually wipe it down. I have almost an hour before training starts. What should I do?” Bored, Linley looked around in all directions.
+
+
+score: 0.780376, para: 1 5	“Enough. The ancestral hall needs some cleaning. After lunch, go and clean it up.” Hogg said coldly.
+
+
+score: 0.720961, para: 1 2	The members of the Baruch clan only stayed in the front side of the manor. The areas in the far back, virtually no one went there to clean. Only the ancestral hall in the back did they ever visit, once a month, to clean.
+
+
+score: 0.703495, para: 1 3	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.695929, para: 1 23	In the ancestral hall within the Baruch clan manor.
+
+

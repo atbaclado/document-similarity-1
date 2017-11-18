@@ -1,0 +1,20 @@
+source: 02 13 42	Hillman, besides Linley, laughed. “Linley, the tuition waiver and rent waiver provided by the Ernst Institute is only for members of the Holy Union. All others have to pay an extremely high fee.”
+
+score: 0.627282, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.627282, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.627282, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.625633, para: 02 7 63	For example, the number one magus academy, the Ernst Institute. Because it admited so few students, any students who hailed from the Holy Union did not have to pay any fees at all! After all, everyone who could be admitted to the Ernst Institute had to be genius-level. In the future, their possibilities were limitless.
+
+score: 0.625633, para: 02 7 63	For example, the number one magus academy, the Ernst Institute. Because it admited so few students, any students who hailed from the Holy Union did not have to pay any fees at all! After all, everyone who could be admitted to the Ernst Institute had to be genius-level. In the future, their possibilities were limitless.
+
+score: 0.625633, para: 02 7 63	For example, the number one magus academy, the Ernst Institute. Because it admited so few students, any students who hailed from the Holy Union did not have to pay any fees at all! After all, everyone who could be admitted to the Ernst Institute had to be genius-level. In the future, their possibilities were limitless.
+
+score: 0.561308, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.02 19 1	The mountain behind the Ernst Institute, a place of tranquility.
+
+score: 0.561308, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.02 19 1	The mountain behind the Ernst Institute, a place of tranquility.
+
+score: 0.561308, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.02 19 1	The mountain behind the Ernst Institute, a place of tranquility.
+

@@ -1,0 +1,20 @@
+source: 01 1 132	Bidding farewell to his good friend Hadley, Linley went back, alone, to his home. After walking for a while, he saw the Baruch estates.
+
+score: 0.949760, para: 01 123 132	Bidding farewell to his good friend Hadley, Linley went back, alone, to his home. After walking for a while, he saw the Baruch estates.
+
+score: 0.949760, para: 01 123 132	Bidding farewell to his good friend Hadley, Linley went back, alone, to his home. After walking for a while, he saw the Baruch estates.
+
+score: 0.949760, para: 01 123 132	Bidding farewell to his good friend Hadley, Linley went back, alone, to his home. After walking for a while, he saw the Baruch estates.
+
+score: 0.644387, para: 01 2 9	Before joining the army, they all came here to say farewell to Hillman.
+
+score: 0.644387, para: 01 2 9	Before joining the army, they all came here to say farewell to Hillman.
+
+score: 0.644387, para: 01 2 9	Before joining the army, they all came here to say farewell to Hillman.
+
+score: 0.644387, para: 01 2 9	Before joining the army, they all came here to say farewell to Hillman.
+
+score: 0.595045, para: 01 2 26	“Linley, your father, Lord Hogg, has some extremely important business with you. Don’t go off playing with the other kids. Come home with me.” Hillman walked to Linley’s side. Gazing at him, Hillman felt very proud.
+
+score: 0.595045, para: 01 2 26	“Linley, your father, Lord Hogg, has some extremely important business with you. Don’t go off playing with the other kids. Come home with me.” Hillman walked to Linley’s side. Gazing at him, Hillman felt very proud.
+

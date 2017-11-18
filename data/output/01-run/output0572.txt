@@ -1,0 +1,15 @@
+source_doc: 1 14	“Tell’m, Linley! Was I lying? Tell’m what happened!” Hadley rushed towards Linley, tugging Linley’s hand and secretly winking towards Linley.
+
+
+score: 0.664141, para: 1 2	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.661489, para: 1 15	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.654733, para: 2 6	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+
+score: 0.652119, para: 2 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+

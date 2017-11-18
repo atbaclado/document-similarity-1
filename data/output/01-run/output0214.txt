@@ -1,0 +1,15 @@
+source_doc: 1 4	Right now, Linley was only wearing trousers. His upper body was covered with sweat, and his body, as taut as a drawn bowstring, was lying on the ground. His hands were pressed fiercely to the ground, as straight as tree trunks, while the rest of his body was motionless. He was supporting himself from a push-up position, with just his hands and the tips of his toes! His entire body was taut!
+
+
+score: 0.767675, para: 1 14	“…fifty…fifty one…” Linley counted mentally as he laid horizontal to the ground, supporting himself with just the fingertips of one hand and the tips of his toes. His entire body was tense. He was in the middle of training through five-finger pushups.
+
+
+score: 0.734286, para: 1 16	“Young master-“ Housekeeper Hiri’s eyes immediately turned red. The battle-qi in his body exploded, and like a bolt of red lightning, he flew towards them. Using his own body as a protective barrier, he also used his two hands to push at a huge piece of the falling roof which was going to fall on Linley’s body. Hiri and that collapsing ceiling arrived next to Linley at almost the same time.
+
+
+score: 0.733616, para: 1 17	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+
+score: 0.728484, para: 1 14	“Since my body has Dragonblood in its veins and is unable to practice battle-qi, my only option is to far outstrip everyone else in bodily strength.” Linley’s eyes were firm, and his fingers jutted into the ground, as tough and unyielding as old roots. He did one pushup after another, amazing many of the already-exhausted youths around him.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 22	Doehring Cowart said in a kindly voice, “Linley, before answering this, let me ask you, if a magus is about to cast a spell, what does he rely upon?”
+
+
+score: 0.578546, para: 1 13	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+
+score: 0.566519, para: 1 2	Suddenly, Hogg turned and focused his gaze on Linley. In a weighty voice, he said, “Linley, today, there are many things that must be done. But first, let me tell you some of the history of our Baruch clan.”
+
+
+score: 0.551261, para: 2 7	“Don’t hope to be able to rely on the benevolence of others. Everything will rely on yourself, and yourself alone.” Doehring Cowart looked at Linley.
+
+
+score: 0.550804, para: 1 9	A hint of a smile played at Hillman’s lips. “That mysterious magus seems to be at odds with that party over there. Just stay here and watch. No need for us to interfere.” Hillman himself was only a warrior of the sixth rank. In truth, he didn’t dare to interfere either.
+
+

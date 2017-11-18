@@ -1,0 +1,30 @@
+source: 02 15 29	Of the four bros, George was the most amiable and steadiest boy. Reynolds was the most childish one of them. Yale…was the playboy type. As for Linley, in the eyes of the other three boys, he was the most mysterious.
+
+
+score: 0.620186, para: 02 21 10	Reynolds and George were both calmly smiling as well, and were joking with Linley to the side.
+
+
+score: 0.610764, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+
+score: 0.580585, para: 02 13 33	Reynolds wrinkled his little nose. “This fellow called Linley is from the Holy Union. He no doubt had a much easier time being accepted than me. I bet he isn’t as talented as I am.” Reynolds was extremely confident.
+
+
+score: 0.580409, para: 02 17 39	Although Grandpa Doehring was a Saint-level Grand Magus, after getting to know him, Linley realized that although he looked kindly and amiable on the outside, on the inside, he was a playful scamp.
+
+
+score: 0.576890, para: 02 9 47	Despite being packed, everyone in the main hall, from the commoners to the nobles, all discreetly made way for him to move through. Even those nobles who had previously scorned Linley as a country bumpkin were all now smiling at him in a friendly manner. Their attitudes were amazingly good.
+
+
+score: 0.566210, para: 02 17 15	Knowing Linley’s temperament, Yale, Reynolds, and George all nodded.
+
+
+score: 0.564592, para: 02 9 25	He could be arrogant towards those common folk, but he had to be courteous to the representatives of mighty magus academies.
+
+
+score: 0.551098, para: 01 21 11	The formerly amiable Grandpa Doehring suddenly turned angry as he grumbled, “Linley, let me tell you that when it comes to attack power, each elemental style has its strengths!”
+
+
+score: 0.548413, para: 01 18 54	Linley’s eyes suddenly turned round. “You…you are a Saint-level magus instructor?”
+
+

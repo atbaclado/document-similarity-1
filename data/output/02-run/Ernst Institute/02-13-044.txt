@@ -1,0 +1,20 @@
+source: 02 13 44	The old man next to him smiled at Linley. “That’s right. This isn’t just the rule for the Ernst Institute; the number one warrior academy in the Yulan continent, the O’Brien Academy, does the same. They provide a full tuition waiver for their own Empire’s students, but charge an astronomical fee for students coming from other places.”
+
+score: 0.690407, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.690407, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.690407, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.676156, para: 02 7 63	For example, the number one magus academy, the Ernst Institute. Because it admited so few students, any students who hailed from the Holy Union did not have to pay any fees at all! After all, everyone who could be admitted to the Ernst Institute had to be genius-level. In the future, their possibilities were limitless.
+
+score: 0.676156, para: 02 7 63	For example, the number one magus academy, the Ernst Institute. Because it admited so few students, any students who hailed from the Holy Union did not have to pay any fees at all! After all, everyone who could be admitted to the Ernst Institute had to be genius-level. In the future, their possibilities were limitless.
+
+score: 0.676156, para: 02 7 63	For example, the number one magus academy, the Ernst Institute. Because it admited so few students, any students who hailed from the Holy Union did not have to pay any fees at all! After all, everyone who could be admitted to the Ernst Institute had to be genius-level. In the future, their possibilities were limitless.
+
+score: 0.605865, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.605865, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.605865, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+

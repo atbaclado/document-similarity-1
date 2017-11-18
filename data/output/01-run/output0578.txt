@@ -1,0 +1,15 @@
+source_doc: 1 14	That youth named Faura glanced at him, and was about to say something.
+
+
+score: 0.667215, para: 1 5	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+
+score: 0.599886, para: 1 6	He stared up at the sky.
+
+
+score: 0.595194, para: 2 10	Linley stared at his father. From as far back as he could remember, he had never seen his father so happy.
+
+
+score: 0.590854, para: 1 4	Hillman, off to the side, nodded with satisfaction.
+
+

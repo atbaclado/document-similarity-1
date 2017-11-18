@@ -1,0 +1,15 @@
+source_doc: 1 19	He, too, would step on top of the head of a Black Dragon and make the heavens tremble.
+
+
+score: 0.706617, para: 1 18	“Dillon, you’d best just hand it over. The World Protector that I summoned isn’t something that you can overcome.” The gray-robed man riding the Black Dragon said calmly.
+
+
+score: 0.702397, para: 2 4	Linley’s heart began to beat faster. If he could one day step atop the head of a dragon and control cataclysmic power, if he too could feel the power of standing at the very pinnacle of mankind, that must be an amazing feeling. When he thought of this, Linley felt his blood begin to boil.
+
+
+score: 0.665762, para: 1 23	Doehring Cowart flew out from within the Coiling Dragon Ring. Standing next to Linley, he looked at the black mouse with some surprise. “A magical beast, a Shadowmouse? And judging by its size, a Shadowmouse infant.”
+
+
+score: 0.656767, para: 1 7	“Now, what name should I choose for this black ring? Earthworm Ring? No way, that sounds terrible.” Linley mumbled for a few moments, then his eyes lit up. “Haha, that sinuous object can also be considered a ‘dragon’, right? A dragon curled around the ring…then let’s call it, the Coiling Dragon Ring!” Although in his heart, Linley felt like the carving looked more like an earthworm, but he still chose the name ‘Coiling Dragon Ring’ for it.
+
+

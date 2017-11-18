@@ -1,0 +1,30 @@
+source: 01 17 12	“Linley. Linley!” Hogg’s voice was quavering.
+
+
+score: 0.751243, para: 02 18 48	“Linley’s back. Let’s go, everyone, time to eat!” Yale’s voice sounded out.
+
+
+score: 0.747543, para: 01 12 31	“Linley, what’s wrong?” A familiar voice said.
+
+
+score: 0.690759, para: 01 20 30	“I hear you.” Doehring Cowart’s voice rang out in Linley’s mind as well.
+
+
+score: 0.686105, para: 01 23 1	“Linley, can you feel it?” Doehring Cowart’s voice gently sounded in Linley’s mind.
+
+
+score: 0.612410, para: 02 24 4	“That guy is Linley, the number one magus amongst us first graders.” A clear voice rang out from not too far up ahead.
+
+
+score: 0.563097, para: 02 22 29	Just as Linley was falling into a reverie while enjoying the sculptures, Doehring Cowart’s voice sounded out in his mind once again.
+
+
+score: 0.543631, para: 01 20 27	“Linley, no need to speak aloud. Just speak to me mentally. As the master of the Coiling Dragon Ring, you can directly engage in spiritual communication with me, as I am a spirit within the ring.” Doehring Cowart’s voice rang out in Linley’s mind.
+
+
+score: 0.531517, para: 02 22 56	A familiar voice sounded out. Turning his head to look, surprised joy appeared on Linley’s face. “Uncle Hillman.”
+
+
+score: 0.512350, para: 01 1 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+

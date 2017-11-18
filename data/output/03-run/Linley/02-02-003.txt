@@ -1,0 +1,30 @@
+source: 02 2 3	“Grandpa Doehring, quick, tell me, what’s your plan?” Linley excitedly spoke to him mentally.
+
+
+score: 0.725959, para: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+
+score: 0.685550, para: 01 20 2	“Grandpa Doehring, can you really teach me to become a magus?” Linley excitedly looked up at old man Doehring.
+
+
+score: 0.669699, para: 02 6 45	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+
+score: 0.651905, para: 02 4 29	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.630947, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+
+score: 0.621522, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.621413, para: 01 5 45	Linley was so frightened, he immediately knelt down. Just now, he only spoke because he thought that sculpting could improve his family’s situation. He didn’t expect his father to say so much and lecture him so sternly.
+
+
+score: 0.618759, para: 01 1 68	“Haha.” Linley grinned widely. In his heart, he felt very happy at being praised by Hillman.
+
+
+score: 0.609317, para: 02 7 30	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+

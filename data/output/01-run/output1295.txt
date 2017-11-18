@@ -1,0 +1,15 @@
+source_doc: 2 7	“Linley, don’t pay any attention to the likes of them.” Hillman said in a low voice.
+
+
+score: 0.654418, para: 2 2	“Linley, don’t be too cocky. If you want to coax an infant magical beast, you have to pay attention to many details. If you aren’t careful, this little Shadowmouse might just give you a bite.” Doehring Cowart reminded.
+
+
+score: 0.603516, para: 1 16	He no longer paid any attention to the raining stones, nor did he try to avoid them. He ran directly towards the warehouse in a straight line.
+
+
+score: 0.570372, para: 1 1	The other man, Roger (Luo’jie), also walked over. Usually, when the children practiced the ‘Qi Building Stance’, it was time for the three of them to relax and freely chat, while paying attention to any child who decided to slack off.
+
+
+score: 0.551215, para: 1 20	Linley’s heart was immediately filled with joy. But as he engaged in conversation with Doehring Cowart, he didn’t pay attention to where he walked, and he tripped over the doorway. Uncle Hiri, walking ahead of him, turned and laughed. “Young master Linley, watch where you walk.”
+
+

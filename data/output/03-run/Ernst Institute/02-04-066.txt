@@ -1,0 +1,30 @@
+source: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+
+
+score: 0.676728, para: 02 14 47	But despite this, the Yulan Empire was still the most economically powerful of the empires, and it was also filled with magi. The magus academy of the Yulan Empire was second only to the Ernst Institute.
+
+
+score: 0.646729, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+
+score: 0.645930, para: 02 13 29	“But the Ernst Institute does show some favoritism to the Holy Union. They accept fifty students from the Holy Union, and only fifty more total from the other Four Great Empires. It is so unfair.” Reynolds sighed.
+
+
+score: 0.617342, para: 02 14 49	George smiled. “Although the magus academies of the Yulan Empire are very good, they are still a bit weaker than the Ernst Institute. If you’re going to go to school, you should go to the best. Although the journey was a bit long, it could be considered a form of training as well.”
+
+
+score: 0.615328, para: 02 18 56	Yale pursed his lips. “Punk, you became a magus of the first rank on the road from the O’Brien Empire to the Ernst Institute. I wager that by now, you aren’t too off from becoming the magus of the second rank. That really is unfair.”
+
+
+score: 0.610081, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+
+score: 0.609826, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+
+score: 0.597933, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.597659, para: 02 16 15	The Holy Union and the Dark Alliance were located west of the Yulan continent’s Mountain Range of Magical Beasts. East of the range were the Four Great Empires, but even further east of the empires was a vast grassland, which contained three kingdoms of its own. The distance between the great grasslands and the Ernst Institute was unbelievably great. A one way trip alone would take at least three years!
+
+

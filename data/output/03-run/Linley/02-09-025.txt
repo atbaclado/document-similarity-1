@@ -1,0 +1,30 @@
+source: 02 9 25	He could be arrogant towards those common folk, but he had to be courteous to the representatives of mighty magus academies.
+
+
+score: 0.633020, para: 01 19 45	Doehring Cowart was a mighty Grand Magus of the Pouant Empire, and thus had an extremely high personal status. Back then, he would have ranked amongst the top five personages in the Yulan continent. He fell only because he had been despicably ambushed by Grand Magus Hamelin and another Saint-level combatant.
+
+
+score: 0.619011, para: 02 7 13	Seeing Linley’s reaction, some of the nearby noble ladies began to titter quietly amongst themselves while pointing at Linley. Clearly, Linley’s reaction was that of a ‘country bumpkin entering the city’. The nobility of the capital had a clear sense of innate superiority towards those country bumpkins.
+
+
+score: 0.607653, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.591863, para: 02 5 19	Linley couldn’t help but feel a deep sense of veneration for Doehring Cowart from his heart. A Saint-level Grand Magus of the Pouant Empire, and one of the most powerful persons in the Yulan continent. And now, Doehring Cowart was carefully instructing himself in magic. How fortunate Linley was!
+
+
+score: 0.586231, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+
+score: 0.573126, para: 01 21 7	“What’s wrong with the earth style? Linley, let me tell you, amongst the elements of earth, fire, water, wind, thunder, light, and darkness, earth is the mightiest style of them all.” A look of pride was on Doehring Cowart’s face. Clearly, he was filled with confidence. After all, he was a Saint-level Grand Magus of the earth element style.
+
+
+score: 0.572450, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.570990, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.565850, para: 01 21 11	The formerly amiable Grandpa Doehring suddenly turned angry as he grumbled, “Linley, let me tell you that when it comes to attack power, each elemental style has its strengths!”
+
+

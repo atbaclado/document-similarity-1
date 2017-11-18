@@ -1,0 +1,21 @@
+source: 02 5 13	That’s right. In the past, when the Pouant Empire was still unified, the Radiant Church, the Cult of Shadows, and even the Pavilion of Divinities all had many churches within the empire. But all of those churches were under the control of the Pouant Empire.
+
+
+score: 0.724144, para: 02 7 52	The Holy Emperor of the Radiant Church had an extremely high status. He had the authority to depose any of the kings of the various kingdoms! This is why in Fenlai City, the tallest building was the Cathedral of the Radiant Church.
+
+
+score: 0.650134, para: 01 4 45	“West of the ‘Mountain Range of Magical Beasts’, there are twelve kingdoms and thirty-two duchies. Within these kingdoms and dukedoms, there are two major divisions. The first is the Holy Union, with the kingdom of Fenlai being the principal kingdom. The second is the Dark Alliance, with the kingdom of Heishi being the principal kingdom. These two alliances are opposed to each other and constantly battle because one is controlled by the Radiant Church, while the other belongs to the Cult of Shadows.”
+
+
+score: 0.611577, para: 02 7 53	This morning, many people were gathered around the entrance to the Cathedral of the Radiant Church. The vast majority of the people there were richly dressed noblemen. Countless carriages filled up the space in front of the Radiant Cathedral, and the various nobles chatted to each other.
+
+
+score: 0.602515, para: 02 7 3	In addition, it also served as the ‘Holy Capital’ of the Holy Union, because the Radiant Church itself was headquartered in the western part of Fenlai City.
+
+
+score: 0.536260, para: 02 7 50	Early next morning, on East Fenlai City’s Greenleaf Road. One of Fenlai City’s principal roads, the buildings constructed on each side of Greenleaf Road were lavishly made and decorated. Some of those buildings were actually owned by the kingdom. And the tallest building of them all? It was the Cathedral of the Radiant Church.
+
+
+score: 0.535506, para: 01 4 58	“At the far northern end, the Holy Union shares a border with the O’Brien Empire. While at the southern end, the Dark Alliance intersects with the Yulan Empire. Under the guidance of the Radiant Church, the unity of our Holy Union isn’t one whit inferior to that of the empires.”
+
+

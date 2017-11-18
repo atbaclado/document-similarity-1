@@ -1,0 +1,10 @@
+source: 02 19 43	Reynolds stared at the brown-haired youth, his mouth quirking in disdain. “And what do you think you are? You just got lucky and beat me once. Why so cocky?”
+
+score: 0.555116, para: 02 20 86	After speaking, Linley glanced expressively at his three bros. Yale and the others knew what he was thinking, and immediately, the four bros ignored everyone around them and departed, leaving behind that young lady, Danni, who frowned unhappily.02 21 32	Off in the distance, a bald rider immediately dismounted, walked in front of Yale, and bowed. “Cass pays his respects to young master Yale.”
+
+score: 0.552872, para: 02 18 42	“Bah. This kid.” After recovering, Trey couldn’t help but laugh. The nearby Delia couldn’t help but cover her mouth and giggle as well.
+
+score: 0.533643, para: 02 18 10	The two sat together and chatted. Time passed quite quickly, and before they realized it, class had started. Instructor Trey energetically explained in front, and Linley sat beneath him, listening intently. But Delia, every so often, would sneak a peek at Linley.
+
+score: 0.525981, para: 02 20 84	“Hi Linley, my name is Danni [Dan’ni], a water magus of the first rank. I’m glad to meet you.” Immediately, a golden-haired girl with a tall, slender figure walked over and said to Linley with a smile.
+

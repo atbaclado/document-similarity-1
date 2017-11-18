@@ -1,0 +1,15 @@
+source: 02 13 42	Hillman, besides Linley, laughed. “Linley, the tuition waiver and rent waiver provided by the Ernst Institute is only for members of the Holy Union. All others have to pay an extremely high fee.”
+
+
+score: 0.627282, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.564817, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.
+
+
+score: 0.542215, para: 02 9 20	At this point in time, all of the magus recruiters charged forth. “Hello, Linley. I come from the Lander [Lan’de] Magus Academy. Our Lander Magus Academy sincerely would like to admit you into our school. As long as you enroll with us, your entire tuition will be free, and every year we will even provide you with a thousand gold coins for living expenses. We will also invite an especially skilled magus teacher to personally train you.”
+
+
+score: 0.523552, para: 02 21 7	“With these ten thousand gold coins, my living expenses at the Ernst Institute will be more than sufficiently covered, with lots left over. I can help father as well.” Linley felt very happy.
+
+

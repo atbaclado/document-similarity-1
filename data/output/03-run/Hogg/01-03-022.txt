@@ -1,0 +1,30 @@
+source: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.697884, para: 01 5 46	“Enough. The ancestral hall needs some cleaning. After lunch, go and clean it up.” Hogg said coldly.
+
+
+score: 0.626906, para: 01 5 31	Philip carefully studied Hogg for a moment, then chuckled. “Fine, Hogg. I’ll give you some face. Six hundred gold it is. Housekeeper, bring me six hundred gold.” The caretaker for his manor, who had been waiting outside the entire time, immediately ran over with the gold.
+
+
+score: 0.624549, para: 02 10 56	“Wait a moment. I am going to get something.” Hogg suddenly turned and entered a hidden room next to the ancestral hall. Shortly afterwards, he returned with a thick book in hand. “Linley, take this and give it a good read. Memorize everything.”
+
+
+score: 0.619890, para: 01 11 42	Hogg’s only desire, at this point, was that the mysterious magus would leave as soon as possible, and let Wushan town return to its normal tranquilness.
+
+
+score: 0.601181, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.594916, para: 01 2 54	“Linley, come with me. Let’s go to the ancestral hall. Uncle Hiri, you know about the matters of my clan, so you can come as well.” Hogg smiled.
+
+
+score: 0.593910, para: 01 5 10	A middle aged man with long, golden hair and a nobleman’s aura strode into the hall by Hogg’s side. Linley immediately was able to guess that this middle-aged man must be ‘Philip’.
+
+
+score: 0.587768, para: 01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+
+
+score: 0.585686, para: 02 4 58	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+

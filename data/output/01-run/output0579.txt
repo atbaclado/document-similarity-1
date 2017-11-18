@@ -1,0 +1,15 @@
+source_doc: 1 14	“Uncle Hillman is coming.” Linley saw Hillman, Lorry, and Roger walking towards them from afar, and immediately spoke up. Immediately, all of the children calmed down and in a very orderly fashion, lined up into three groups.
+
+
+score: 0.728146, para: 1 1	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+
+score: 0.699222, para: 1 22	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+
+score: 0.687407, para: 1 7	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.667887, para: 1 15	Lorry and Roger immediately turned around and lifted up the children who were slow runners. They carried two in each arm and two on their backs as well. Hillman joined them as well, quickly beginning to pick up child after child.
+
+

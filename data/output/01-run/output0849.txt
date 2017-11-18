@@ -1,0 +1,14 @@
+source_doc: 1 21	“This is why I told you that earth-style magic is the mightiest elemental style of them all.” Doehring Cowart’s white beard fluttered about, making him look all the more self-satisfied.
+
+
+score: 0.730341, para: 2 6	From within the Coiling Dragon Ring, Doehring Cowart flew out. His white beard fluttering happily, he said, “Linley, the little guy is setting up a ‘bond of equals’ formation.”
+
+
+score: 0.714892, para: 1 19	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.
+
+score: 0.710274, para: 1 15	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+
+score: 0.702156, para: 1 17	Linley stared at this battle in awe. “This earthen giant must have been conjured by the magic of the gray-robed magus.” Linley could easily come to this conclusion, since the gray-robed magus was a mighty magus, after all.
+
+

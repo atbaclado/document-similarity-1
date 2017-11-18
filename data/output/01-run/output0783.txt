@@ -1,0 +1,15 @@
+source_doc: 1 20	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+
+score: 0.706341, para: 2 6	Looking down, he saw that it was actually the little Shadowmouse. At the moment, the little Shadowmouse was staring up at Linley with its pitiable, sad little eyes. Linley rubbed his leg, and noticed that he was actually bleeding. He couldn’t help but grow unhappy. But seeing how sad the little Shadowmouse was, he couldn’t grow angry at him.
+
+
+score: 0.687325, para: 1 2	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.679941, para: 2 4	It seemed as though this time, the little Shadowmouse had enjoyed his meal very much. He was so happy that he immediately began to hop up and down while squeaking at Linley, while even hugging Linley’s leg with his own front arms. Linley couldn’t help but feel pleased; this was the first time that the little Shadowmouse had acted so intimately towards him, even after eating.
+
+
+score: 0.672341, para: 2 1	Linley couldn’t help but feel a bit disappointed.
+
+

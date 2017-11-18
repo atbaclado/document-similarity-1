@@ -1,0 +1,15 @@
+source_doc: 1 11	Linley’s breathing slowly began to stabilize. Swimming in his mind were images of those seven fire serpents, and how they had descended on the battlefield like a catastrophe of power.
+
+
+score: 0.691054, para: 1 12	Again and again, the terrifying power of the ‘Dance of the Fire Serpents’ swam about in his mind’s eye. Those seven huge fire serpents and the tempest of flame they generated repeated in his mind over and over again, as well as how they instantly turned everything around them to ash, including the powerful warriors and magi of the small adventuring group.
+
+
+score: 0.668487, para: 2 1	In Linley’s imagination, there appeared the image of a vast, endless flood of Stoneater Rats descending from the wilderness or mountains and attacking an army of men. Imagining that flood of Stoneater Rats devouring the entire army, Linley’s heart shivered.
+
+
+score: 0.658478, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.647074, para: 1 12	For whatever reason, as he lay on the bed, Linley simply couldn’t fall asleep. He tossed and turned, his mind filled with images of the Velocidragon and the ‘Dance of the Fire Serpents’ which the magus had displayed.
+
+

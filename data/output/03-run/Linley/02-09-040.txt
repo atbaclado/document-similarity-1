@@ -1,0 +1,30 @@
+source: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+
+score: 0.683824, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+
+score: 0.644751, para: 02 12 33	“Linley, today you are going to go to the Ernst Institute and formally become an Ernst Institute student. When you graduate from the Ernst Institute, you will be a powerful magus! Before you depart, as your father, I want to say to you…” On this last day, Hogg had a belly full of things he wanted to speak to Linley.
+
+
+score: 0.589332, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.587863, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+
+score: 0.575109, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+
+score: 0.558594, para: 02 25 3	Linley sat there alone in the mountains behind the Ernst Institute. Under the tutelage of Doehring Cowart, he began to study the art of stonesculpting. As he began to understand more and more about this art, Linley also began to understand why in the later stages, the Straight Chisel School could assist in improving one’s spiritual essence.
+
+
+score: 0.558508, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.
+
+
+score: 0.554106, para: 02 17 16	Linley immediately walked off, quietly but quickly heading towards the mountains behind the school. There were thousands of students at the Ernst Institute, and there were also many magi who were researching new spells here. There were also many servers. In short, the Ernst Institute was a well-populated place.
+
+
+score: 0.549662, para: 01 23 40	He couldn’t reveal the existence of Doehring Cowart to his father. Every morning and evening, he still needed to attend physical training, while later in the morning, he would have his lessons with his father on politics, religion, religious rites, warfare, geography, art…and all sorts of other lessons.
+
+

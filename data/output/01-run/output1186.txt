@@ -1,0 +1,15 @@
+source_doc: 2 5	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+
+score: 0.667025, para: 1 19	Linley smiled brightly. “My name is Linley! Linley Baruch!”
+
+
+score: 0.661751, para: 2 4	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.652774, para: 1 22	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+
+score: 0.642696, para: 2 6	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+

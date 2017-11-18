@@ -1,0 +1,30 @@
+source: 02 12 47	“Father. Wharton.” Linley’s heart was filled with longing.
+
+
+score: 0.757145, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 0.757145, para: 01 21 14	Linley’s heart was trembling.
+
+
+score: 0.757145, para: 02 23 17	Linley’s heart was full of excitement.
+
+
+score: 0.720003, para: 01 2 38	Looking at his baby brother, Linley’s heart was filled with a boundless warmth and love.
+
+
+score: 0.690520, para: 01 11 31	Linley’s heart was suddenly filled with dread, as he stared at that far-off, distant figure.
+
+
+score: 0.650634, para: 01 11 39	“Father!” Linley suddenly saw that his own father, Hogg. Seeing how Wushan township had just suffered an unmitigated catastrophe, as the lord of Wushan township, Hogg’s heart was filled with helplessness.
+
+
+score: 0.649735, para: 02 20 76	Rand knew in his heart that just then, Linley had shown mercy.
+
+
+score: 0.637564, para: 02 19 62	Linley stared coldly at Rand. Rand, heart filled with fear, felt as though he would be killed at any moment.
+
+
+score: 0.630896, para: 02 1 39	Hearing his words, Linley’s heart fluttered.
+
+

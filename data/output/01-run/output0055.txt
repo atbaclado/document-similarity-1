@@ -1,0 +1,15 @@
+source_doc: 1 1	And Hillman really was a formidable warrior. He knew the important parts of training, and also knew how to increase the difficulty one step at a time. He knew what sort of tools to use with what ages. If it was too hard, it could make a child’s body collapse.
+
+
+score: 0.674992, para: 1 4	A very simple yet very effective training exercise. If a person could reach the level of being able to maintain this pose for an hour, then his body would no longer fear ordinary swords or sabres.
+
+
+score: 0.607929, para: 1 22	Smiling, Doehring Cowart nodded. “Right. To cast a spell, your body must be able to provide a sufficient amount of mageforce, and then use mental energy to control that mageforce to summon sufficient elemental essence to form it into a spell!”
+
+
+score: 0.605695, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.599304, para: 2 4	Linley’s heart began to beat faster. If he could one day step atop the head of a dragon and control cataclysmic power, if he too could feel the power of standing at the very pinnacle of mankind, that must be an amazing feeling. When he thought of this, Linley felt his blood begin to boil.
+
+

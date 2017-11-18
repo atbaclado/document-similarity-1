@@ -1,0 +1,30 @@
+source: 02 9 43	In fact, immediately upon knowing Linley’s test results, he had recorded Linley’s details into the paperwork in the envelope. Because the white robed man believed without a doubt – no one would refuse an offer from the Ernst Institute!
+
+
+score: 0.584784, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+
+score: 0.574554, para: 02 25 57	On the street, there were many people who, upon seeing Linley, began to discuss him amongst themselves. As the acknowledged genius of the Ernst Institute, no matter where he went, people would discuss him. But although Linley’s strength continued to increase, he still refused to participate in the yearly tournaments.
+
+
+score: 0.550164, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+
+score: 0.547407, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.541581, para: 02 10 44	Upon hearing that Linley had been admitted to the Ernst Institute, everyone present had become excited. One could easily understand that entering the Ernst Institute meant entering a certain destiny. In the future, Linley definitely would not be constrained by tiny little Wushan township.
+
+
+score: 0.530120, para: 02 10 11	“Father, here’s the acceptance letter from the Ernst Institute.” Linley directly handed the admissions envelope to his father. Hogg was stunned for a moment, then quickly accepted the red envelope and removed the letter from within it. He carefully scanned the letter.
+
+
+score: 0.527989, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+
+score: 0.524757, para: 02 18 52	Linley got most of his news regarding the Institute’s going-ons from his three bros, as Linley, who spent all his time training in the mountain, probably would be totally in the dark otherwise.
+
+
+score: 0.518647, para: 02 15 42	George calmly smiled. “Yale, don’t grow complacent. Although there aren’t formal requirements for students, every year, there will be an ability test. Only if you advance a rank in power can you advance a grade. If you don’t work hard, do you plan to stay here for a century? What’s more, the Ernst Institute has a rule that if one does not become a magus of the sixth rank in sixty years, one will be expelled, no exceptions.”
+
+

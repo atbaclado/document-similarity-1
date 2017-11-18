@@ -1,0 +1,30 @@
+source: 02 15 32	The ancient Ernst Institute was filled with countless buildings which were thousands of years old. In front of some of them, there were even introductory placards.
+
+
+score: 0.699209, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+
+score: 0.613514, para: 02 19 7	But while it was peaceful here, the Ernst Institute was extremely rowdy. All of the thousands of students, as well as many of the magi, and even many important people from the outside world were all at the Ernst Institute, watching the various battles.
+
+
+score: 0.591063, para: 02 17 16	Linley immediately walked off, quietly but quickly heading towards the mountains behind the school. There were thousands of students at the Ernst Institute, and there were also many magi who were researching new spells here. There were also many servers. In short, the Ernst Institute was a well-populated place.
+
+
+score: 0.568411, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+
+score: 0.561934, para: 02 9 33	Across the entire massive Yulan continent, each year the Ernst Institute only enrolled a scant hundred students!
+
+
+score: 0.560690, para: 02 13 6	The main gate of the Ernst Institute was fully fifty meters wide. Above the great gate was an enormous, crescent moon shaped construct, covered with all sorts of magical scripts which one could tell at a glance were amazingly complicated. Just from seeing how complicated the scripts were, one could imagine how powerful and mighty the magical formation protecting the Ernst Institute was.
+
+
+score: 0.553954, para: 02 13 4	Restaurants, clothing stores, bars, and other sorts of service industries were all located on the campus itself. It could be said that the students of the Ernst Institute spent their entire lives within the campus.
+
+
+score: 0.538577, para: 02 21 7	“With these ten thousand gold coins, my living expenses at the Ernst Institute will be more than sufficiently covered, with lots left over. I can help father as well.” Linley felt very happy.
+
+
+score: 0.530652, para: 02 17 29	The mountain behind the Ernst Institute was an extremely wide ranging one. Long, long ago, magical beasts used to live in this mountain, but as time went on, all of the magical beasts were exterminated by the magi of the Institute. By now, there were only a few normal beasts still living here.
+
+

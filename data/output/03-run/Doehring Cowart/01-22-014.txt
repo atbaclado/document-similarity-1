@@ -1,0 +1,30 @@
+source: 01 22 14	Smiling, Doehring Cowart nodded. “Right. To cast a spell, your body must be able to provide a sufficient amount of mageforce, and then use mental energy to control that mageforce to summon sufficient elemental essence to form it into a spell!”
+
+
+score: 0.665927, para: 02 9 1	“Remember, when engaging in the spiritual essence test, you must hold strong. Resist for as long as you can.” Doehring Cowart said solemnly. “I don’t know much about the wind-style, so you absolutely must go to a magus academy. With such strong elemental essence affinities, it would be an absolute waste for you not to train in the wind-style.”
+
+
+score: 0.654300, para: 02 8 46	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+
+score: 0.634657, para: 02 24 70	Doehring Cowart said confidently, “Earth-style magi can totally sense the entirety of a rock’s form. With sufficient wrist strength, we can sculpt stone using just a straight chisel. But of course, the ‘Straight Chisel School’ is not a simple one to enter. Today, your mission is to go purchase a sufficiently sharp straight chisel. From today onwards, every day, I will spend three hours guiding you in learning how to sculpt stone.”
+
+
+score: 0.631716, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+
+score: 0.625190, para: 01 23 13	“But naturally, elemental affinity is just one part. Spiritual energy is the most important of all! After all, given enough time, mageforce will naturally strengthen. But it’s extremely difficult to improve the spiritual energy of a magus.” Doehring Cowart said solemnly.
+
+
+score: 0.615605, para: 02 1 51	“Linley, you must be calm.” Doehring Cowart said solemnly. “Even if this is just a Violet Shadowmouse infant, his speed is comparable to a mature Shadowmouse of the fourth rank. Even your Uncle Hillman won’t be able to catch him. You simply don’t have the ability to forcibly subdue him, and you also are not able to utilize a soul-binding magical formation.
+
+
+score: 0.610404, para: 02 8 18	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+
+score: 0.609403, para: 01 21 30	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+
+score: 0.604181, para: 02 24 31	Laughing, Doehring Cowart said, “Linley, do you disbelieve my claim that I can let you reach his level in ten short years? Haha…Linley, as a mighty Saint-level Grand Magus, I, in fact, am in possession of a method to improve one’s spiritual essence.”
+
+

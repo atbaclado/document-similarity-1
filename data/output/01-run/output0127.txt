@@ -1,0 +1,15 @@
+source_doc: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.771669, para: 2 4	“Squeeaaaak!” The little Shadowmouse looked at Linley with its innocent black eyes and began to squeak with impatience, as though telling Linley to hurry up and give him the food already.
+
+
+score: 0.748122, para: 2 4	Doehring Cowart was walking by Linley’s side as well, but aside from Linley, no one else could see him. Doehring Cowart was smiling so widely that his white whiskers were leaning horizontal. “Linley, over these past nine days, the little Shadowmouse has lost all fear of you. Today, you are even giving him cooked meat. He’s going to be extremely excited and will become even closer to you.”
+
+
+score: 0.747523, para: 2 4	Linley tentatively stretched his hand out and placed it on the little Shadowmouse’s head. The little Shadowmouse didn’t dodge in the slightest. Instead, it contentedly half-closed its eyes. Linley immediately felt more confident, and began to stroke his fur, causing the Shadowmouse to feel so comfortable that it began to snore.
+
+
+score: 0.746071, para: 1 20	Linley grinned at his father, but continued to devour his food with haste. In the twinkling of an eye, he had stripped the leg of mutton of all flesh. Linley let out a comfortable burp, then used the napkin to wipe his lips. Standing, he said, “Father, Uncle Hiri, I’m done eating. I feel like my head is still a bit dizzy, so I’m going to go and get some more rest. Wharton, see ya.” Linley was the first to finish eating.
+
+

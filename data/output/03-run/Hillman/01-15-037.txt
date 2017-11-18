@@ -1,0 +1,30 @@
+source: 01 15 37	“Captain, Lord Hogg ordered us to come assist you!” Twelve warriors had come flying out of the Baruch clan manor. As soon as they saw Hillman, they shouted at him.
+
+
+score: 0.694109, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.628983, para: 01 12 13	“Yes, lord Hogg.” Hillman assented.
+
+
+score: 0.628983, para: 02 10 20	“Yes, Lord Hogg,” Hillman and Hiri responded.
+
+
+score: 0.626496, para: 01 9 2	A hint of a smile played at Hillman’s lips. “That mysterious magus seems to be at odds with that party over there. Just stay here and watch. No need for us to interfere.” Hillman himself was only a warrior of the sixth rank. In truth, he didn’t dare to interfere either.
+
+
+score: 0.626010, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+
+score: 0.616347, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+
+score: 0.615222, para: 01 1 126	Hillman smiled slightly. “Although I’m not clear about the exact strength of the Four Supreme Warriors, I know this – a Saint-level mage maestro, which is to say a mage which has attained the Saint-level, can execute forbidden magical techniques and eradicate an entire army of tens of thousands, or an entire city. Since Saint-level mages are so powerful, I expect that Saint-level warriors can’t be that much weaker.”
+
+
+score: 0.614949, para: 01 1 33	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+
+score: 0.611441, para: 01 2 29	“Uncle Hillman, I know already. My lord father already reminded me three times. My lord father has never been so insistent about anything. I won’t go off and play.” Linley grinned, revealing his pearly white teeth, perfect but for the fact that one was missing.
+
+

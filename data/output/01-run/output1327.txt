@@ -1,0 +1,15 @@
+source_doc: 2 9	“The longer I can hold on, the better an academy I can enter.” Linley gritted his teeth.
+
+
+score: 0.769032, para: 1 4	“Gotta hold!” Linley gritted his teeth.
+
+
+score: 0.576059, para: 1 8	Linley gritted his teeth. “Uncle Hillman!” Linley was also worried for Uncle Hillman, as well as the citizens of Wushan town. He also ran in that direction. At this moment, Lorry and Roger were both panic-stricken at the thought of the Velocidragon, and didn’t notice Linley following behind them.
+
+
+score: 0.563073, para: 1 4	“Well done, Linley! Hold it, hold it!” Hillman encouraged from the side.
+
+
+score: 0.559184, para: 1 1	Linley gritted his teeth. He could clearly feel that the tightness in his waist had already reached the limits of his endurance, to the point where it was almost going numb. “My body feels so heavy. I’m almost unable to control it. Hold, gotta hold for just a bit more.” By this point in time, of the six to eight year olds, only Linley remained.
+
+

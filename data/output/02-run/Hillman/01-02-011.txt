@@ -1,0 +1,20 @@
+source: 01 2 11	“I hope at least half of these hundred and twenty six will be able to return alive,” Hillman prayed silently.
+
+score: 0.678503, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+score: 0.678503, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+score: 0.678503, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+score: 0.678503, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+score: 0.668975, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+score: 0.668975, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+score: 0.668975, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+score: 0.654991, para: 01 0 20	A hundred and twenty six youths respectfully saluted, and then departed. They were followed by the worshipful gazes of the nearly two hundred youths that remained. Tomorrow, they would begin a brand new journey.
+
+score: 0.640374, para: 01 1 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+

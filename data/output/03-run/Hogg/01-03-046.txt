@@ -1,0 +1,30 @@
+source: 01 3 46	As he spoke, Hogg was filled with so much fury that his body actually trembled.
+
+
+score: 0.579928, para: 01 17 4	Hogg’s body trembled. Only then did he regain his usual faculties. “Linley.” Hogg charged violently towards the warehouse at an astonishing speed. Seeing this, Hillman guessed what had happened and immediately followed Hogg.
+
+
+score: 0.575480, para: 01 13 33	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+
+score: 0.563658, para: 01 11 41	Hogg turned towards the magus, his heart filled with ruefulness. “He’s actually a magus of the eighth rank. And a dual-element magus! Perhaps the entire kingdom of Fenlai has only a handful of people more powerful than him. Someone like him actually came to our little town…”
+
+
+score: 0.556368, para: 02 10 23	As it turned out, the little Shadowmouse had fallen asleep next to Linley’s chest, but Hogg’s explosive laughter startled him awake. An infant Shadowmouse spent a great deal of time napping, and hated being awakened. At this moment, naturally he was extremely furious.
+
+
+score: 0.550476, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.546227, para: 01 17 7	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+
+score: 0.536083, para: 01 4 53	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.532068, para: 01 5 14	By his side, Hogg laughed. “Philip, stop wasting time with the child. Look, the ‘Fierce Lion’ you have desired for so long has arrived.” As he spoke, Hillman easily carried in the large sculpture into the hall, and then easily set it down.
+
+
+score: 0.531857, para: 01 13 22	“The reason why powerful magi can live so long is because when magi absorb natural elemental energy into their body to generate pure mageforce, when the elemental energy flows through their body, it will naturally refine their apertures, their joints, and their flesh, making their bodies stronger and stronger. With a stronger body, naturally they will live longer. By the same logic, when warriors cultivate their battle-qi, they also absorb natural energy, which flows through their body and strengthens it. The more powerful a warrior is, the stronger his body will be. Naturally, he will live a long life.” Hogg explained everything in detail.
+
+

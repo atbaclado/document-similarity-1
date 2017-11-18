@@ -1,0 +1,15 @@
+source_doc: 2 7	Seeing Linley’s reaction, some of the nearby noble ladies began to titter quietly amongst themselves while pointing at Linley. Clearly, Linley’s reaction was that of a ‘country bumpkin entering the city’. The nobility of the capital had a clear sense of innate superiority towards those country bumpkins.
+
+
+score: 0.709483, para: 2 9	Despite being packed, everyone in the main hall, from the commoners to the nobles, all discreetly made way for him to move through. Even those nobles who had previously scorned Linley as a country bumpkin were all now smiling at him in a friendly manner. Their attitudes were amazingly good.
+
+
+score: 0.664432, para: 1 18	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+
+score: 0.656383, para: 1 4	“Today, we will study art,” Hogg said coldly. “As the descendent of a noble family, you must have a thorough understanding and appreciation of art. Art is what gives noblemen an aura of gravitas!” Hogg pulled out a large tome as thick as a fist, immediately opening it.
+
+
+score: 0.636925, para: 1 12	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+

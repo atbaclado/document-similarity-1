@@ -1,0 +1,15 @@
+source_doc: 1 6	The ancient Baruch mansion had five thousand years of history.
+
+
+score: 0.731250, para: 2 10	An ancient clan which had lasted five thousand years. The Dragonblood Warrior clan. Linley felt pride in his heart. But their ancestral heirloom had been lost.
+
+
+score: 0.678734, para: 1 19	“Gramps, you said that five thousand years ago, you were ambushed by a Saint-level Grand Magus and a Saint-level combatant, and then you were self-sealed within this ring? And that this ring is an artifact which is comparable in power to a Divine artifact?” Linley finally said.
+
+
+score: 0.670741, para: 1 1	The amount of land the Baruch manor was built upon was actually quite large. Moss was growing on the walls, and all sorts of ivy creepers twined up the walls as well. The scars of time were very apparent on the walls. The Baruch manor located in Wushan town was the ancestral home of the Baruch clan. An ancestral home which had existed for over five thousand years and endured countless renovations continued to stand here.
+
+
+score: 0.670389, para: 1 5	“Hogg, you must know that in all the ten thousand plus years of the Yulan continent, there have been countless sculptures made. The true value of a sculpture is in terms of its artisanship. As far as the artisanship of this one….well, heh, suffice to say, I just like it. Five hundred gold really is my highest offer. If you don’t accept, then let’s just forget about it.”
+
+

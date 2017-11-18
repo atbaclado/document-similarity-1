@@ -1,0 +1,20 @@
+source: 01 2 10	Staring at this group of energetic, eager seventeen year olds, Hillman was filled with countless mixed feelings. This was because Hillman knew that all of these children were eager to join the army, but after ten years of military service, how many of them would come back alive?
+
+score: 0.625720, para: 01 1 106	Hillman smiled. He enjoyed telling stories to the children. This was a way to make the kids eager to train. Hillman had always felt that only by making the children voluntarily train would the children have great results.
+
+score: 0.625720, para: 01 1 106	Hillman smiled. He enjoyed telling stories to the children. This was a way to make the kids eager to train. Hillman had always felt that only by making the children voluntarily train would the children have great results.
+
+score: 0.625720, para: 01 1 106	Hillman smiled. He enjoyed telling stories to the children. This was a way to make the kids eager to train. Hillman had always felt that only by making the children voluntarily train would the children have great results.
+
+score: 0.625720, para: 01 1 106	Hillman smiled. He enjoyed telling stories to the children. This was a way to make the kids eager to train. Hillman had always felt that only by making the children voluntarily train would the children have great results.
+
+score: 0.611663, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+score: 0.611663, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+score: 0.611663, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+score: 0.602477, para: 01 0 20	A hundred and twenty six youths respectfully saluted, and then departed. They were followed by the worshipful gazes of the nearly two hundred youths that remained. Tomorrow, they would begin a brand new journey.
+
+score: 0.598566, para: 01 10 31	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+

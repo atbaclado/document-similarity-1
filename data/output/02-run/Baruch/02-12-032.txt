@@ -1,0 +1,20 @@
+source: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+score: 0.807888, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.807888, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.807888, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.807888, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.653752, para: 01 5 2	“Is Hogg at home?” A clear voice rang out. The Baruch manor had no guards, so clearly, this person had already arrived within the manor grounds.
+
+score: 0.653752, para: 01 5 2	“Is Hogg at home?” A clear voice rang out. The Baruch manor had no guards, so clearly, this person had already arrived within the manor grounds.
+
+score: 0.653752, para: 01 5 2	“Is Hogg at home?” A clear voice rang out. The Baruch manor had no guards, so clearly, this person had already arrived within the manor grounds.
+
+score: 0.653752, para: 01 5 2	“Is Hogg at home?” A clear voice rang out. The Baruch manor had no guards, so clearly, this person had already arrived within the manor grounds.
+
+score: 0.630400, para: 02 10 40	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+

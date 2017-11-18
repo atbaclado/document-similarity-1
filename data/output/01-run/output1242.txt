@@ -1,0 +1,15 @@
+source_doc: 2 6	Hillman had heard that for darkness-style magic, there were many curses and hexes involved.
+
+
+score: 0.616731, para: 1 20	If any other magus had been present and heard his words, they would have been astonished.
+
+
+score: 0.571978, para: 1 22	“I’ve seen magi cast spells. All of them recited magical incantations first.” Linley immediately argued.
+
+
+score: 0.552874, para: 2 2	“Bond of equals?” Linley said curiously. “What is that? I’ve never heard of it.”
+
+
+score: 0.542316, para: 1 14	“You hear that? I told you, that Velocidragon creature is really powerful!” Hadley began shouting loudly.
+
+

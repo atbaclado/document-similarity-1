@@ -1,0 +1,15 @@
+source_doc: 1 6	“All these decorations are ruined. There isn’t a single one worth money.” Linley exited yet another empty room.
+
+
+score: 0.609717, para: 1 4	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+
+score: 0.567311, para: 1 1	“Let’s add some more fuel to the fire!” Hillman secretly grinned, then walked in front of a giant boulder, which weighed three or four hundred pounds.
+
+
+score: 0.562421, para: 2 4	Just as Linley walked into the courtyard….
+
+
+score: 0.560924, para: 2 3	Taking a deep breath, Linley entered his family’s manor and went to the back courtyard, and one careful step at a time, approached the location where the Shadowmouse had appeared, his footsteps not making a single sound. In a short period of time, Linley returned to his earlier position.
+
+

@@ -1,0 +1,24 @@
+source: 02 12 39	These were the instructions his father gave to him upon their parting.
+
+
+score: 0.601586, para: 01 3 42	Linley rarely saw his father speak to him in such a manner. Normally, his father was always very strict and unyielding.
+
+
+score: 0.548085, para: 01 2 48	“I wonder why father summoned me?” Although he was young, Linley could sense that this time, his father had called him for something important.
+
+
+score: 0.546360, para: 01 1 63	Linley, full name Linley Baruch, was the eldest son and heir to the Baruch clan, which ruled over the Wushan town. The Baruch clan was an extremely old clan. Once, it was extremely prosperous, but after thousands of years, it had only three members remaining. The clan leader, Hogg [Huo’ge] Baruch, and his two sons. The elder son was Linley Baruch, six years old. The younger son, Wharton [Wo’dun] Baruch, was just two years old. As for his wife, when she gave birth to the younger son, she died in the midst of childbirth. Linley’s grandfather also was dead, having lost his life in battle.
+
+
+score: 0.529513, para: 02 10 49	Late night, the Baruch family ancestral hall. Only Linley and his father were present.
+
+
+score: 0.528833, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+
+score: 0.507648, para: 01 20 18	Linley immediately forced out a smile. Nodding, he said, “Thank you for asking, Uncle Hiri. I’m much better now.”
+
+
+score: 0.501905, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+

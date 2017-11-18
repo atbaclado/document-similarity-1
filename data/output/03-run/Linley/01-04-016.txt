@@ -1,0 +1,30 @@
+source: 01 4 16	Linley remembered his father’s words very clearly.
+
+
+score: 0.732670, para: 02 5 27	“I won’t let you down, father.” Linley’s words were filled with confidence.
+
+
+score: 0.649146, para: 02 23 45	Hillman still remembered the words that Linley had said to the attendant at the Golden Bank of the Four Empires. “Withdraw everything!”
+
+
+score: 0.634760, para: 02 17 46	Linley immediately began to quietly mouth the words to a spell. The words had long since been memorized by Linley to the point where he could recite them without thinking. As the words to the spell continued, Linley could feel his entire spirit enter a special mode.
+
+
+score: 0.614734, para: 02 17 55	Linley would never be able to forget the words his father had said to him when he left. “If you cannot bring it back, even when I die, I won’t forgive you!” These words had pierced Linley’s heart like a sharp knife, and he was constantly reminded of them.
+
+
+score: 0.603884, para: 01 2 27	Linley was exceedingly smart. Under the tutelage of his father, Hogg, since a young age, he had learned many words and could read most books.
+
+
+score: 0.602285, para: 01 3 56	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+
+score: 0.600670, para: 01 1 147	“Linley, Uncle Hillman has faith in you. I’m sure you’ll become a Saint-level warrior.” Staring at Linley, Hillman spoke firmly. These words of encouragement caused Linley’s eyes to shine. In Linley’s heart, as well, a desire arose.
+
+
+score: 0.583799, para: 01 1 132	Bidding farewell to his good friend Hadley, Linley went back, alone, to his home. After walking for a while, he saw the Baruch estates.
+
+
+score: 0.580900, para: 01 1 117	“Destroy a mountain?” Hillman’s words had a huge impact on Linley.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 10	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+
+score: 0.717012, para: 1 18	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+
+score: 0.705993, para: 2 2	Linley’s calm mind immediately grew agitated again, and he turned to look at Doehring Cowart with shining eyes.
+
+
+score: 0.702684, para: 2 3	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.700641, para: 1 8	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+

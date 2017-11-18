@@ -1,0 +1,14 @@
+source_doc: 1 19	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.
+
+score: 0.874118, para: 1 21	“What’s wrong with the earth style? Linley, let me tell you, amongst the elements of earth, fire, water, wind, thunder, light, and darkness, earth is the mightiest style of them all.” A look of pride was on Doehring Cowart’s face. Clearly, he was filled with confidence. After all, he was a Saint-level Grand Magus of the earth element style.
+
+
+score: 0.715557, para: 1 1	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+
+score: 0.715030, para: 2 7	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.714892, para: 1 21	“This is why I told you that earth-style magic is the mightiest elemental style of them all.” Doehring Cowart’s white beard fluttered about, making him look all the more self-satisfied.
+
+

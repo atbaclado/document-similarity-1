@@ -1,0 +1,13 @@
+source_doc: 1 2	“You wiped the chamber pots, and then wiped the plates?” Linley’s eyes were huge.
+
+
+score: 0.580781, para: 1 12	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+score: 0.571417, para: 1 7	Linley widened his eyes and stared east…
+
+score: 0.561139, para: 1 13	Hearing these words, Linley’s eyes shone.
+
+
+score: 0.561139, para: 1 16	“Linley!” Hogg’s eyes turned red.
+
+

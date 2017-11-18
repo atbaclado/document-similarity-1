@@ -1,0 +1,20 @@
+source: 02 12 33	“Linley, today you are going to go to the Ernst Institute and formally become an Ernst Institute student. When you graduate from the Ernst Institute, you will be a powerful magus! Before you depart, as your father, I want to say to you…” On this last day, Hogg had a belly full of things he wanted to speak to Linley.
+
+score: 0.644823, para: 02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+score: 0.644823, para: 02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+score: 0.644823, para: 02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+score: 0.644751, para: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+score: 0.644751, para: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+score: 0.644751, para: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+score: 0.631096, para: 02 19 9	All of the students of the Ernst Institute were prideful heaven-blessed talents!
+
+score: 0.631096, para: 02 19 9	All of the students of the Ernst Institute were prideful heaven-blessed talents!
+
+score: 0.631096, para: 02 19 9	All of the students of the Ernst Institute were prideful heaven-blessed talents!
+

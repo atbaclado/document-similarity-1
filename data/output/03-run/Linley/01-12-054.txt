@@ -1,0 +1,30 @@
+source: 01 12 54	Hogg considered for a while, then said, “Linley, every year, when the army recruitment drive begins in deep autumn, in the royal capital of Fenlai City, there is a magus student recruitment testing drive. If you really wish to go, when autumn comes around, you can go take the test.”
+
+
+score: 0.649142, para: 02 7 24	“Linley, get an early night’s rest. Tomorrow morning, you will participate in the magus assessment and recruitment event.” Hillman instructed.
+
+
+score: 0.629306, para: 01 17 41	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.620298, para: 02 9 20	At this point in time, all of the magus recruiters charged forth. “Hello, Linley. I come from the Lander [Lan’de] Magus Academy. Our Lander Magus Academy sincerely would like to admit you into our school. As long as you enroll with us, your entire tuition will be free, and every year we will even provide you with a thousand gold coins for living expenses. We will also invite an especially skilled magus teacher to personally train you.”
+
+
+score: 0.618326, para: 02 5 34	Linley rubbed the little Shadowmouse’s head. “Alright, stop making a fuss. Tomorrow, I’m going to leave home and go to the capital. After the magus recruitment event is over, I’m going to be going to a magus academy. I’m afraid we won’t have many chances to meet after that.”
+
+
+score: 0.618270, para: 02 4 40	“Oh, the magus testing and recruiting event?” Linley suddenly remembered this event.
+
+
+score: 0.612588, para: 02 19 17	“Linley, your current assignment is to train hard and build up your strength. As far as combat experience goes, when you become a magus of the fifth rank, you should enter the Mountain Range of Magical Beasts and enter a series of genuine life-and-death experiences.” Doehring Cowart persuaded Linley.
+
+
+score: 0.611103, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.578681, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+
+score: 0.577571, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+

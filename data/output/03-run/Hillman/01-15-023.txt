@@ -1,0 +1,30 @@
+source: 01 15 23	But Hillman quickly realized what was going on. Rapidly turning around, he shouted fiercely at all the children, “Everyone, go home right now! Go home and hide! NOW!” Hillman’s loud roar and his urgent expression stunned every child present.
+
+
+score: 0.656336, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.643406, para: 02 6 22	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+
+score: 0.640414, para: 02 10 5	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+
+score: 0.627640, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+
+
+score: 0.627513, para: 01 1 39	Hillman breathed deeply. All of the veins on his muscular body popped out prominently, as Hillman directly struck at a nearby bluish boulder. His fist shattered the air, creating a howling sound that made all of the watching children widen their eyes even further. Hillman’s mighty fist smashed directly onto the boulder.
+
+
+score: 0.626254, para: 01 8 40	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+
+score: 0.609175, para: 01 14 28	“We do.” Hearing Hillman’s words and seeing how relaxed Hillman was, all of the children immediately replied vigorously.
+
+
+score: 0.603085, para: 01 1 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+
+score: 0.601846, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+

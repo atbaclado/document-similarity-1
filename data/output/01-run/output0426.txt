@@ -1,0 +1,15 @@
+source_doc: 1 10	All of these things made it hard for Linley to breathe, and he felt dizzy.
+
+
+score: 1.000000, para: 1 23	As he was hard at work training…
+
+
+score: 0.686271, para: 1 21	Linley found this somewhat hard to believe.
+
+
+score: 0.673211, para: 1 1	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+
+score: 0.673211, para: 1 1	“See ya, Hadley!”
+
+

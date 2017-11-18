@@ -1,0 +1,14 @@
+source_doc: 2 11	“Linley, even if this tome falls into the hands of outsiders, it would be useless to them, as there is simply no way an outsider can train in accordance with the Secret Dragonblood Training Method. As for our family history, so what if someone learns about it? What’s more, we have multiple copies of this tome as well. This one is also just a copy. After so many years have passed, the original has long since turned to dust.” Hogg laughed as he spoke.
+
+
+score: 0.671195, para: 2 10	Linley looked suspiciously at the thick book he had just accepted. There were no words on the cover, but when he opened it, there were four big words printed on the first page – Secret Dragonblood Training Tome.
+
+score: 0.646425, para: 2 4	Linley’s words died unspoken on his lips. At the same time, he suspiciously asked, “Grandpa Doehring, I have you to teach me, right? With you teaching me, why would I need to go to a magus academy? Isn’t that a waste of family resources?”
+
+
+score: 0.627409, para: 1 4	“Today, we will study art,” Hogg said coldly. “As the descendent of a noble family, you must have a thorough understanding and appreciation of art. Art is what gives noblemen an aura of gravitas!” Hogg pulled out a large tome as thick as a fist, immediately opening it.
+
+
+score: 0.625595, para: 1 22	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+

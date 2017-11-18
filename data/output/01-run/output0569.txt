@@ -1,0 +1,15 @@
+source_doc: 1 14	In the eyes of the children of Wushan township, Linley had some stature amongst them. First of all, he was the heir to the Baruch clan, and secondly, as an eight year old child, Linley could match the thirteen and fourteen year olds in training. In the wartorn land of the Yulan continent, Linley’s prowess caused all of the children of Wushan township to admire him.
+
+
+score: 0.688679, para: 1 4	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.679312, para: 1 4	“Ley is really amazing. Just eight years old, but he’s able to match the thirteen year olds in doing the ‘Static Tension’ exercise.” Some of the children who had already given up were sprawled on the ground, chatting as they watched Linley.
+
+
+score: 0.675975, para: 1 12	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+
+score: 0.674630, para: 2 7	“However, right now my power is very weak.” Linley couldn’t help but recollect how, when he had first entered Fenlai City, those noble ladies had looked down upon him. In the eyes of those upper class people, he was nothing more than an impoverished little country bumpkin.
+
+

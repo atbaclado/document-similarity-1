@@ -1,0 +1,30 @@
+source: 01 17 26	“Linley, how are you feeling?” Hogg said with concern.
+
+
+score: 1.000000, para: 01 12 48	“It is possible.” Hogg nodded.
+
+
+score: 1.000000, para: 01 18 35	“Ugh!” Hogg let out a long sigh.
+
+
+score: 1.000000, para: 02 23 39	Turning his head, Hogg said, “Hillman, you are back. Uh, what’s that on your shoulders?”
+
+
+score: 0.666949, para: 01 4 48	“Just this?” Hogg frowned.
+
+
+score: 0.651428, para: 01 5 22	“Five hundred?” Hogg frowned.
+
+
+score: 0.651428, para: 02 5 48	“Alright, you can go now.” Hogg laughed.
+
+
+score: 0.583796, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+
+score: 0.582347, para: 02 11 34	“Linley, it’s getting late. You should go back and get some rest.” Hogg laughed.
+
+
+score: 0.519568, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+

@@ -1,0 +1,4 @@
+02 23 42	These gold-colored sacks were used solely by the Golden Bank of the Four Empires. Each bag generally contained a hundred gold coins.
+
+02 23 45	Hillman still remembered the words that Linley had said to the attendant at the Golden Bank of the Four Empires. “Withdraw everything!”
+

@@ -1,0 +1,15 @@
+source_doc: 2 9	Every single student who enrolled into the Ernst Institute could be described as a genius!
+
+
+score: 0.647761, para: 2 7	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+
+score: 0.551593, para: 2 7	For example, the number one magus academy, the Ernst Institute. Because it admited so few students, any students who hailed from the Holy Union did not have to pay any fees at all! After all, everyone who could be admitted to the Ernst Institute had to be genius-level. In the future, their possibilities were limitless.
+
+
+score: 0.514024, para: 2 5	“The Ernst Institute is the number one magus academy in the world. All of the graduates of the Ernst Institute are at least magi of the sixth rank, and there’s even many who are of the seventh rank! If our Baruch clan was able to produce a magus of the seventh rank, we at least would stand a chance of recovering our ancestral heirloom.”
+
+
+score: 0.506909, para: 1 1	After practicing the ‘Qi Building Stance’, the waist, back, thighs, shoulders, and other parts of the body would be harmonized. Now, almost all of the children were sitting, relaxed, on the ground. Hillman’s training program was nearly perfect in the difficulty levels he assessed on each age group.
+
+

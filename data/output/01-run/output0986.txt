@@ -1,0 +1,14 @@
+source_doc: 2 1	“Linley, a Violet Shadowmouse is considered a king amongst rats, and can command a large swarm of Shadowmice. Although Shadowmice are not as numerous as Stoneater Rats, they are still quite numerous. An infant Violet Shadowmouse would therefore be protected by many adult Shadowmice.”
+
+
+score: 0.604480, para: 1 3	“Baruch, the very first Dragonblood Warrior of the Yulan continent. In the year 4560 of the Yulan calendar, outside the walls of the city of Linnan, Baruch did battle against a Black Dragon and a Titanic Frost Wyrm. In the end, he slew both the Titanic Frost Wyrm and the Black Dragon, causing his fame to be spread across the world. In the year 4579 of the Yulan calendar, along the coastline of the northern sea of the continent, Baruch did battle against a Nine-Headed Serpent Emperor. On that day, the waves crashed unceasingly and nearby cities crumbled, but after a vicious fight lasting a full day and night, Baruch finally executed the Nine-Headed Serpent Emperor….finally, Baruch founded the Baruch clan, and became the first leader of the Baruch clan!”
+
+
+score: 0.589051, para: 2 3	“There’s no way that tiny little Wushan township is big enough for Linley.” Watching Linley enter the meditative trance to practice magic, Doehring Cowart felt a hint of excitement. “Sooner or later, he will bring an adult Violet Shadowmouse and step onto the endlessly broad stage that is the world of the Yulan continent.”
+
+score: 0.567913, para: 1 13	“Let’s not discuss Saint-level magi for now. Even a magus of the eighth or ninth rank would be capable of using spells which contain shocking power and are able to change the course of a battle. This is why magi have such a high social standing.” Hogg said with a light chuckle.
+
+
+score: 0.560738, para: 2 3	These acitivities continued. Day after day, Linley continued to undergo meditative training while preparing wild rabbits and other animals for the little Shadowmouse to eat. Nobody in the entire Wushan township, including Hogg and Hillman, knew that Linley was learning magic. Similarly, none of them knew that Linley was taking care of a juvenile magical beast that already possessed power of the fourth rank!
+
+

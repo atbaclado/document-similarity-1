@@ -1,0 +1,15 @@
+source_doc: 1 1	But glancing at the northernmost group of children, with their waists and knees crooked at odd degrees, their legs relaxed and loose, it was clear to Hillman that they were standing unstably and without any power.
+
+
+score: 0.771102, para: 2 6	Just as Linley was walking, he suddenly discovered that his legs had been hugged from behind. Lowering his head, he saw that it was the little Shadowmouse. The little Shadowmouse was standing up on his hind legs, his two forelegs tightly clenched around Linley. He stared at Linley with two quavering, pitiable eyes, as though he were about to cry.
+
+
+score: 0.667683, para: 1 4	Right now, Linley was only wearing trousers. His upper body was covered with sweat, and his body, as taut as a drawn bowstring, was lying on the ground. His hands were pressed fiercely to the ground, as straight as tree trunks, while the rest of his body was motionless. He was supporting himself from a push-up position, with just his hands and the tips of his toes! His entire body was taut!
+
+
+score: 0.666964, para: 1 2	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.664627, para: 1 14	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+

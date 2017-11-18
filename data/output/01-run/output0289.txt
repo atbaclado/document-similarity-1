@@ -1,0 +1,15 @@
+source_doc: 1 5	Philip carefully studied Hogg for a moment, then chuckled. “Fine, Hogg. I’ll give you some face. Six hundred gold it is. Housekeeper, bring me six hundred gold.” The caretaker for his manor, who had been waiting outside the entire time, immediately ran over with the gold.
+
+
+score: 0.760183, para: 1 2	“I hope at least half of these hundred and twenty six will be able to return alive,” Hillman prayed silently.
+
+
+score: 0.702566, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.690890, para: 1 18	Hillman let out a pain-filled sigh. “We just ran some calculations. Over three hundred people died, and a thousand were injured.” The entire township only had a population of five thousand. This meant the casualty ratio was about 20%! And this was for those who lived in stone houses. This really was a diaster.
+
+
+score: 0.687779, para: 1 8	At this point in time, Hillman’s group was roughly a hundred meters away from the Velocidragon. They quietly watched the events in the center of town unfold. In front of the huge Velocidragon, a group of youngsters could be seen. Four men, three women.
+
+

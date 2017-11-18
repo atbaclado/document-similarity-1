@@ -1,0 +1,15 @@
+source_doc: 2 1	Doehring Cowart glanced sideways at that distant black Shadowmouse, still chewing some rocks.
+
+
+score: 0.704890, para: 1 5	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+
+score: 0.696708, para: 1 23	He saw a 20-centimeter long black mouse chewing on a piece of stone rubble. And then, in the blink of an eye, the black mouse appeared tens of meters away in a different direction, and began to nibble on a piece of blue tile. The black mouse’s fur appeared very soft. Its eyes were guileless, and its paws were furry. In a word, it looked very cute.
+
+
+score: 0.690650, para: 1 14	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+
+score: 0.688993, para: 2 3	“Crunch, crunch.” That familiar, soft crunching sound could be heard once again. Linley’s eyes brightened, and he immediately turned and headed towards an ancient courtyard nearby. Arriving at the entryway, he clearly saw the black Shadowmouse chewing on stones in one spot, unmoving. He seemed almost like a sculptor, as he chewed each rock into surprising, bizarre shapes.
+
+

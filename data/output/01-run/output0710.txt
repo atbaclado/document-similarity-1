@@ -1,0 +1,15 @@
+source_doc: 1 18	Hogg nodded. Smiling wryly, he said, “Uncle Hiri, most of the people in Wushan township aren’t like us. Wushan township’s men won’t be too bad off, as most of them are warriors of the first or second rank, but the women aren’t. For so many boulders to come raining from the skies non-stop, it would be hard for them to block any at all!”
+
+
+score: 0.675594, para: 1 19	In Linley’s mind, the huge body of the Velocidragon, the terrifying spectacle of the Dance of the Fire Serpents, and the countless boulders falling from the sky began to play over and over again, along with the spectacle of that proud man who stood on top of the Black Dragon.
+
+
+score: 0.662243, para: 1 14	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+
+score: 0.658088, para: 1 21	Doehring Cowart self-confidently said, “How could the earth-style be weak? When the earth-style’s forbidden spell, ‘Heavenly Meteor’s Descent’, is executed, countless enormous boulders will rain from the sky and reduce a city to rubble in the twinkling of an eye. It also has the forbidden spell, ‘Heaven Collapses, Earth Shatters’. When this spell is used, the earth itself will begin to roil about like waves in the ocean. Houses will collapse, the earth itself will split apart, and magma will spew out from the cracks, killing countless people.”
+
+
+score: 0.656526, para: 1 16	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+

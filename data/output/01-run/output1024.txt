@@ -1,0 +1,15 @@
+source_doc: 2 2	“Linley, don’t be too cocky. If you want to coax an infant magical beast, you have to pay attention to many details. If you aren’t careful, this little Shadowmouse might just give you a bite.” Doehring Cowart reminded.
+
+
+score: 0.676357, para: 2 5	There was no way he could bring a little Shadowmouse into a magus academy.
+
+
+score: 0.656138, para: 2 3	After finishing his meal, the Shadowmouse glanced again in the direction which Linley had departed to. The baby Shadowmouse immediately felt a degree of kinship for this young fellow. After all, he was just recently born, an infant magical beast. The baby Shadowmouse even felt a bit of anticipation. Would this young man return in the future with another wild hare?
+
+
+score: 0.654418, para: 2 7	“Linley, don’t pay any attention to the likes of them.” Hillman said in a low voice.
+
+
+score: 0.653217, para: 2 5	“I don’t know how much time I will have to spend in a magus academy, or how many years I will be there for. Will we ever meet again?” Linley stroked the little Shadowmouse’s fur, somewhat unwilling to part from it. After playing with the little Shadowmouse for the past month, he had really come to care for the cute little Shadowmouse.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 1	Hillman swept the group of children with his gaze.
+
+
+score: 0.612859, para: 1 15	“Quick, take these children home!” Hillman immediately ordered.
+
+
+score: 0.596852, para: 1 14	A number of slightly older children stood on Faura’s side.
+
+
+score: 0.583236, para: 1 4	“Ley is really amazing. Just eight years old, but he’s able to match the thirteen year olds in doing the ‘Static Tension’ exercise.” Some of the children who had already given up were sprawled on the ground, chatting as they watched Linley.
+
+
+score: 0.580764, para: 1 14	All the children were staring at Hadley with wide eyes.
+
+

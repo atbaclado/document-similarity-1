@@ -1,0 +1,30 @@
+source: 01 17 3	“Lord Hogg, Wushan township is in bad shape. Just then-….Lord Hogg? What’s wrong?” Hillman rushed into the manor. Just as he was beginning to report on the town’s situation, he saw that Hogg was standing there in a daze, not making a single sound.
+
+
+score: 0.554425, para: 02 5 44	Hogg stood there, straight as a ramrod. Staring directly at Linley, he said, “Linley, Wushan township is located fairly close to the capital, just ninety or so kilometers away. You should be able to make it to the capital before nightfall. Remember, when you reach the capital, don’t cause any trouble. There are too many rich and powerful people in the capital.”
+
+
+score: 0.547726, para: 01 11 39	“Father!” Linley suddenly saw that his own father, Hogg. Seeing how Wushan township had just suffered an unmitigated catastrophe, as the lord of Wushan township, Hogg’s heart was filled with helplessness.
+
+
+score: 0.542469, para: 01 5 31	Philip carefully studied Hogg for a moment, then chuckled. “Fine, Hogg. I’ll give you some face. Six hundred gold it is. Housekeeper, bring me six hundred gold.” The caretaker for his manor, who had been waiting outside the entire time, immediately ran over with the gold.
+
+
+score: 0.530290, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.519422, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.517638, para: 01 18 25	Hogg nodded. Smiling wryly, he said, “Uncle Hiri, most of the people in Wushan township aren’t like us. Wushan township’s men won’t be too bad off, as most of them are warriors of the first or second rank, but the women aren’t. For so many boulders to come raining from the skies non-stop, it would be hard for them to block any at all!”
+
+
+score: 0.515604, para: 01 4 37	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.507920, para: 01 11 46	Hogg and the other residents of Wushan township simply watched quietly from afar, not daring to make a sound, for fear of angering this powerful, mysterious magus.
+
+
+score: 0.503756, para: 01 12 10	“Right. So, we should all celebrate the fact that not a single person from Wushan town perished today.” Hogg laughed.
+
+

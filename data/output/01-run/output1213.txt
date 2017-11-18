@@ -1,0 +1,14 @@
+source_doc: 2 6	After waving his arm, Linley began to continue going forward.
+
+
+score: 0.620820, para: 1 15	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.605065, para: 1 10	“Linley, don’t watch.” Hillman saw that Linley was intending to continue watching, and was shocked.
+
+
+score: 0.600636, para: 1 20	“Big brother, see ya.” Chubby little Wharton waved at Linley with a grease-covered hand.
+
+score: 0.591144, para: 1 14	Linley continued to persevere.
+
+

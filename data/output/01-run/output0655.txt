@@ -1,0 +1,15 @@
+source_doc: 1 16	Hogg was in the courtyard, wielding an enormous sword, deflecting one boulder after another. But when he turned his head towards Linley, he saw Linley risk everything to protect Wharton, and then Housekeeper Hiri fly towards them to protect them both. His mind immediately went blank.
+
+
+score: 0.682201, para: 1 13	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+
+score: 0.627386, para: 1 17	Housetaker Hiri, off to the side, said, “This was my fault. This disaster came too suddenly, and as soon as I had taken Wharton into the warehouse, I saw young master Linley in great danger, so I immediately rushed forward to help him. I didn’t imagine that in just that instant, a huge boulder would head for the warehouse. This was my fault.”
+
+
+score: 0.626596, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.623513, para: 1 18	“The ‘Stellar Sword Saint’ Dillon? Pity. I can’t kill him yet.” The gray-robed man said in a low voice. And then the Black Dragon underneath his feat, as though knowing his master’s wishes, flapped its enormous wings and went flying off into the southeastern direction.
+
+

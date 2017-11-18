@@ -1,0 +1,30 @@
+source: 02 11 37	Linley had returned to his own bedroom and was reading the tome, but his heart was still full of questions.
+
+
+score: 0.553633, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 0.553633, para: 01 21 14	Linley’s heart was trembling.
+
+
+score: 0.553633, para: 02 23 17	Linley’s heart was full of excitement.
+
+
+score: 0.543620, para: 02 10 56	“Wait a moment. I am going to get something.” Hogg suddenly turned and entered a hidden room next to the ancestral hall. Shortly afterwards, he returned with a thick book in hand. “Linley, take this and give it a good read. Memorize everything.”
+
+
+score: 0.541095, para: 01 20 31	Linley’s heart was immediately filled with joy. But as he engaged in conversation with Doehring Cowart, he didn’t pay attention to where he walked, and he tripped over the doorway. Uncle Hiri, walking ahead of him, turned and laughed. “Young master Linley, watch where you walk.”
+
+
+score: 0.535696, para: 01 20 17	“Creaaak.” The bedroom door swung open, and Housekeeper Hiri stuck his head inside. Seeing that Linley was awake, he couldn’t help but smile. “Young master Linley, I didn’t expect that you would have already awoken. How do you feel, young master?”
+
+
+score: 0.526795, para: 02 12 38	These words made Linley’s heart tremble.
+
+
+score: 0.515691, para: 02 10 23	As it turned out, the little Shadowmouse had fallen asleep next to Linley’s chest, but Hogg’s explosive laughter startled him awake. An infant Shadowmouse spent a great deal of time napping, and hated being awakened. At this moment, naturally he was extremely furious.
+
+
+score: 0.512496, para: 02 12 47	“Father. Wharton.” Linley’s heart was filled with longing.
+
+

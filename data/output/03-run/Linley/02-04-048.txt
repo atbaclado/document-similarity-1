@@ -1,0 +1,30 @@
+source: 02 4 48	Linley’s words died unspoken on his lips. At the same time, he suspiciously asked, “Grandpa Doehring, I have you to teach me, right? With you teaching me, why would I need to go to a magus academy? Isn’t that a waste of family resources?”
+
+
+score: 0.644034, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.633892, para: 02 9 20	At this point in time, all of the magus recruiters charged forth. “Hello, Linley. I come from the Lander [Lan’de] Magus Academy. Our Lander Magus Academy sincerely would like to admit you into our school. As long as you enroll with us, your entire tuition will be free, and every year we will even provide you with a thousand gold coins for living expenses. We will also invite an especially skilled magus teacher to personally train you.”
+
+
+score: 0.631143, para: 02 11 5	“Linley, even if this tome falls into the hands of outsiders, it would be useless to them, as there is simply no way an outsider can train in accordance with the Secret Dragonblood Training Method. As for our family history, so what if someone learns about it? What’s more, we have multiple copies of this tome as well. This one is also just a copy. After so many years have passed, the original has long since turned to dust.” Hogg laughed as he spoke.
+
+
+score: 0.630492, para: 01 1 63	Linley, full name Linley Baruch, was the eldest son and heir to the Baruch clan, which ruled over the Wushan town. The Baruch clan was an extremely old clan. Once, it was extremely prosperous, but after thousands of years, it had only three members remaining. The clan leader, Hogg [Huo’ge] Baruch, and his two sons. The elder son was Linley Baruch, six years old. The younger son, Wharton [Wo’dun] Baruch, was just two years old. As for his wife, when she gave birth to the younger son, she died in the midst of childbirth. Linley’s grandfather also was dead, having lost his life in battle.
+
+
+score: 0.628489, para: 02 11 21	Hogg said with a solemn face, “Linley, this Secret Dragonblood Training Tome was written by our founder and first ancestor, the very first Dragonblood Warrior to appear in the Yulan continent, Baruch! He naturally must have had his own reasons for writing this down. Nonetheless, in our family history, there have been two descendants who drank the blood of a Saint-level dragon, and in the end, both of their veins erupted and they died.”
+
+
+score: 0.616611, para: 02 16 22	Doehring Cowart laughed self-confidently. Stroking his white beard, he said, “Naturally. A Saint-level Grand Magus’ understanding of magic is far greater than that of a magus of the eighth or ninth rank. The Saint-level is a totally new realm of existence. Naturally, my teachings regarding magic are more profound and point more directly to the underlying nature of magic.”
+
+
+score: 0.616445, para: 02 20 9	Rand’s face went red, as his heart was filled with fury and shame. Staring at Linley, he shouted fiercely, “You, are you a magus? If you have the skills, compete with me using magic. What sort of behavior was that? A noble magus actually used the lowly skills of a warrior.” Rand was filled with anger and humiliation. He had just won the yearly tournament for the first graders, but just now, when Linley seized him by the throat and hoisted him up, he had been filled with the terrifying sense that his life was in the hands of another.
+
+
+score: 0.616292, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+
+score: 0.612835, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+

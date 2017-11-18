@@ -1,0 +1,15 @@
+source_doc: 1 11	Hogg turned towards the magus, his heart filled with ruefulness. “He’s actually a magus of the eighth rank. And a dual-element magus! Perhaps the entire kingdom of Fenlai has only a handful of people more powerful than him. Someone like him actually came to our little town…”
+
+
+score: 0.754367, para: 1 1	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+
+score: 0.723717, para: 1 17	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+
+score: 0.716720, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.713199, para: 2 5	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+

@@ -1,0 +1,30 @@
+source: 02 22 50	“Looks like some of the trainees who went to the Mountain Range of Magical Beasts were wounded. What group is this? We haven’t even been at the Ernst Institute for a year, but we’ve seen so many high level students who were injured outside.” Yale said casually.
+
+
+score: 0.705258, para: 02 17 29	The mountain behind the Ernst Institute was an extremely wide ranging one. Long, long ago, magical beasts used to live in this mountain, but as time went on, all of the magical beasts were exterminated by the magi of the Institute. By now, there were only a few normal beasts still living here.
+
+
+score: 0.677242, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+
+score: 0.649024, para: 02 17 26	At the Ernst Institute, there were indeed quite a few people who had magical beasts. Aside from the magi who had been invited to come to the Institute, some fifth and sixth grade students were able to buy soulbinding formation scrolls and had managed to tame some magical beasts to serve as their mounts.
+
+
+score: 0.620688, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+
+score: 0.618444, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+
+score: 0.606053, para: 02 24 3	While walking on the road out of the Institute, the little Shadowmouse was on Linley’s shoulders, scanning about in all directions. There were quite a few people at the Ernst Institute who had magical beast companions, and thus no one cared at all that Linley had a little Shadowmouse as a companion. But just at that moment…
+
+
+score: 0.593415, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+
+score: 0.583756, para: 02 15 50	“The earth element class isn’t that important. In terms of understanding the earth element, how could any of the teachers at the Ernst Institute compare with Grandpa Doehring? The most important class is the wind element class. I wonder what wind magic is like?”
+
+
+score: 0.582229, para: 02 16 15	The Holy Union and the Dark Alliance were located west of the Yulan continent’s Mountain Range of Magical Beasts. East of the range were the Four Great Empires, but even further east of the empires was a vast grassland, which contained three kingdoms of its own. The distance between the great grasslands and the Ernst Institute was unbelievably great. A one way trip alone would take at least three years!
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 22	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.729315, para: 1 21	The formerly amiable Grandpa Doehring suddenly turned angry as he grumbled, “Linley, let me tell you that when it comes to attack power, each elemental style has its strengths!”
+
+
+score: 0.678817, para: 1 14	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.677672, para: 1 21	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+
+score: 0.676042, para: 2 9	“Remember, when engaging in the spiritual essence test, you must hold strong. Resist for as long as you can.” Doehring Cowart said solemnly. “I don’t know much about the wind-style, so you absolutely must go to a magus academy. With such strong elemental essence affinities, it would be an absolute waste for you not to train in the wind-style.”
+
+

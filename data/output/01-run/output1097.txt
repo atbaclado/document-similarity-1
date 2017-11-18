@@ -1,0 +1,15 @@
+source_doc: 2 4	“I haven’t even taken the food out, and he’s already run up to me. He really isn’t afraid of me at all.” Linley felt joy in his heart.
+
+
+score: 0.657948, para: 2 5	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+
+score: 0.649517, para: 1 16	“How is that possible?!” Linley was truly scared silly.
+
+
+score: 0.647275, para: 2 2	“Grandpa Doehring, won’t this Shadowmouse run all over the place?” Linley was worried that if he went and got some roasted meat, he might come back to find the Shadowmouse had gone. There would be nothing he could do then.
+
+
+score: 0.630416, para: 1 17	Uncle Hiri smiled at Hogg. “Not bad. Linley is in excellent physical shape, and he hasn’t fainted. There shouldn’t be too much to worry about. In the coming days, he just needs to eat more meat to replenish his blood, and he’ll be fine.”
+
+

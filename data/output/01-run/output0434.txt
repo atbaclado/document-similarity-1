@@ -1,0 +1,15 @@
+source_doc: 1 10	“That battle really is incredibly fierce. It really is exciting.” For some reason, that bloody battle just then made Linley’s blood boil with excitement, filling his heart with desire – a desire to battle and kill!
+
+
+score: 0.686973, para: 2 7	In truth, the Dragonblood flowing through Linley’s veins also made him thirst for battle and blood.
+
+
+score: 0.659720, para: 1 12	Back then, aside from the initial bit of panic, he later only felt his blood boil and surge, filling him with a thirst for bloodletting. Linley, as well, had wondered at the time if it was because of the Dragonblood in his veins.
+
+
+score: 0.658431, para: 1 17	Hogg turned back to look at Linley, who was enraptured watching the exciting battle between two Saint-level combatants. Laughing, he said, “Oh, Linley, you little rascal. Even though you are injured, you still want to watch Saint-level combatants fight. Fortunately, given that the Saint-level magus has unleashed the ‘World Protector’, this battle is about to come to a close soon.”
+
+
+score: 0.649255, para: 1 17	Absorbed in the shocking battle going on off in the distant, Linley didn’t notice at all that around his chest area….
+
+

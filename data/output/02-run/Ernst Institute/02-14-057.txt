@@ -1,0 +1,20 @@
+source: 02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+score: 0.665618, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+score: 0.665618, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+score: 0.665618, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+score: 0.586298, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.586298, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.586298, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.579692, para: 02 9 45	Linley didn’t look too excited on the outside, but Hillman was uncontrollably excited. A student at the Ernst Institute. Who amongst them were not venerated? Linley’s future accomplishments could already be predicted.
+
+score: 0.579692, para: 02 9 45	Linley didn’t look too excited on the outside, but Hillman was uncontrollably excited. A student at the Ernst Institute. Who amongst them were not venerated? Linley’s future accomplishments could already be predicted.
+
+score: 0.579692, para: 02 9 45	Linley didn’t look too excited on the outside, but Hillman was uncontrollably excited. A student at the Ernst Institute. Who amongst them were not venerated? Linley’s future accomplishments could already be predicted.
+

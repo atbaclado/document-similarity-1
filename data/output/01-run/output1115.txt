@@ -1,0 +1,15 @@
+source_doc: 2 4	Doehring Cowart laughed. “Things are progressing very well. Remember. You must have patience.”
+
+
+score: 0.597539, para: 2 11	“Linley, it’s getting late. You should go back and get some rest.” Hogg laughed.
+
+
+score: 0.596804, para: 2 1	Linley was startled.
+
+
+score: 0.596804, para: 2 2	Linley now understood.
+
+
+score: 0.596804, para: 2 2	Linley nodded.
+
+

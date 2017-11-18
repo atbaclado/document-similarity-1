@@ -1,0 +1,15 @@
+source_doc: 2 4	The little Shadowmouse squeaked with joy, immediately seizing the roast chicken. After taking a single bite, the little Shadowmouse began to eat faster and faster. In a very short time, the roast chicken, which was about the same size as the Shadowmouse itself, had been completely devoured.
+
+
+score: 0.718052, para: 2 3	Linley self-confidently said, “I often have to coax little Wharton. Lemme tell ya, if you want to give a kid something, you can’t give them something too good, right off the bat. Otherwise, in the future, they’ll expect something really good every single time, or something even better. Right now, the Shadowmouse is chewing on rocks. If I give him some raw meat, he’ll be really happy. I’ll give him raw meat for seven or eight days, and then I’ll give him cooked meat. That will make him even happier.”
+
+
+score: 0.691203, para: 2 3	And then he immediately began to eat the wild hare. His sharp teeth chewed at an incredibly fast rate. Although the Shadowmouse had a small body, this wild hare which was physically larger than the Shadowmouse was fully devoured by it, aside from the fur. Even the bones weren’t spared.
+
+
+score: 0.687699, para: 2 5	“I don’t know how much time I will have to spend in a magus academy, or how many years I will be there for. Will we ever meet again?” Linley stroked the little Shadowmouse’s fur, somewhat unwilling to part from it. After playing with the little Shadowmouse for the past month, he had really come to care for the cute little Shadowmouse.
+
+
+score: 0.686189, para: 2 3	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+

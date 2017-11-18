@@ -1,0 +1,15 @@
+source_doc: 2 6	“Uncle Hillman, hold it!” Linley finally managed to react.
+
+
+score: 0.689789, para: 1 4	“Well done, Linley! Hold it, hold it!” Hillman encouraged from the side.
+
+
+score: 0.646883, para: 1 1	“How long was I able to hold out?” Linley opened his eyes wide, looking around him.
+
+
+score: 0.644800, para: 1 1	Linley could finally hold out no longer, but he still used his arms to prop himself on the ground as he slowly rolled off.
+
+
+score: 0.622052, para: 1 4	“Gotta hold it. Gotta hold it.” Linley constantly said to himself.
+
+

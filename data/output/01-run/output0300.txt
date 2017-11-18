@@ -1,0 +1,15 @@
+source_doc: 1 5	Hogg’s voice was very fierce.
+
+
+score: 1.000000, para: 1 17	“Linley. Linley!” Hogg’s voice was quavering.
+
+
+score: 0.795287, para: 1 12	“Linley, what’s wrong?” A familiar voice said.
+
+
+score: 0.701128, para: 1 23	“Linley, can you feel it?” Doehring Cowart’s voice gently sounded in Linley’s mind.
+
+
+score: 0.691720, para: 1 20	“I hear you.” Doehring Cowart’s voice rang out in Linley’s mind as well.
+
+

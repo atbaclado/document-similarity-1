@@ -1,0 +1,20 @@
+source: 01 1 112	Hillman pointed at a mountain to the northeast.
+
+score: 0.819335, para: 01 111 112	Hillman pointed at a mountain to the northeast.
+
+score: 0.819335, para: 01 111 112	Hillman pointed at a mountain to the northeast.
+
+score: 0.819335, para: 01 111 112	Hillman pointed at a mountain to the northeast.
+
+score: 0.532669, para: 01 5 17	Hillman said coldly, “Wushan town is my home, sire.”
+
+score: 0.532669, para: 01 5 17	Hillman said coldly, “Wushan town is my home, sire.”
+
+score: 0.532669, para: 01 5 17	Hillman said coldly, “Wushan town is my home, sire.”
+
+score: 0.532669, para: 01 5 17	Hillman said coldly, “Wushan town is my home, sire.”
+
+score: 0.520552, para: 02 6 10	Hillman was startled.
+
+score: 0.520552, para: 02 6 31	Linley and Hillman watched, stunned.
+

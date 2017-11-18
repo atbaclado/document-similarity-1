@@ -1,0 +1,12 @@
+source: 02 25 21	At a waterfall in the mountains behind the Ernst Institute.
+
+
+score: 0.780432, para: 02 19 1	The mountain behind the Ernst Institute, a place of tranquility.
+
+
+score: 0.605609, para: 02 16 25	Linley had it all planned out. Every day, he would spend some time outside training in magic. As for the place he would do the training…Linley had already chosen a place, a mountain located right behind the Ernst Institute. Being located near a mountain range, naturally there were many mountains near the Institute.
+
+
+score: 0.544983, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+

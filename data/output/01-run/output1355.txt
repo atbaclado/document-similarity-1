@@ -1,0 +1,15 @@
+source_doc: 2 9	“Squeaaaaak!” After exiting the cathedral, the little Shadowmouse shouted out, sensing Linley’s excitement.
+
+
+score: 0.733846, para: 2 10	Mentally sensing the little Shadowmouse’s emotions, Linley didn’t know whether to laugh or to cry.
+
+
+score: 0.720045, para: 1 16	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+
+score: 0.698892, para: 1 15	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.656789, para: 2 4	“Magus, ooo, ooo, like that fire-breathing magus?” While listening, little Wharton clapped his little hands together.
+
+

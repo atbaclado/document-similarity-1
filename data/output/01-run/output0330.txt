@@ -1,0 +1,15 @@
+source_doc: 1 6	After pulling open the last drawer, Linley felt bitter disappointment in his heart.
+
+
+score: 0.602846, para: 1 8	“Too terrifying. Is there anyone who can possibly defeat such a creature?” Linley was scared stiff.
+
+
+score: 0.545255, para: 2 4	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+
+score: 0.541832, para: 1 17	Absorbed in the shocking battle going on off in the distant, Linley didn’t notice at all that around his chest area….
+
+
+score: 0.538457, para: 2 7	“Hmph. How uncultured.” Linley frowned, feeling very unsatisfied by the pointing and laughing of those noble ladies.
+
+

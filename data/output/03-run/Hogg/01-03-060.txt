@@ -1,0 +1,27 @@
+source: 01 3 60	“I believe you, I believe you,” Hogg laughed.
+
+
+score: 0.670864, para: 02 5 3	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.579493, para: 01 5 20	“Philip, if you don’t wish to buy it, then forget about it.” Hogg was quite succinct.
+
+
+score: 0.557203, para: 02 4 57	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+
+score: 0.537814, para: 01 5 23	This price was much lower than what Hogg had hoped for. He had been hoping for at least eight hundred.
+
+
+score: 0.511380, para: 01 4 48	“Just this?” Hogg frowned.
+
+
+score: 0.510905, para: 01 5 22	“Five hundred?” Hogg frowned.
+
+
+score: 0.510905, para: 02 5 48	“Alright, you can go now.” Hogg laughed.
+
+
+score: 0.501852, para: 01 5 21	Philip’s eyes couldn’t help but narrow, but then he laughed. “Haha…Hogg, don’t be angry. I’m not saying that I don’t wish to buy it. I’m just telling the truth. How about this. I’ll buy this sculpture for five hundred gold coins. What do you think?”
+
+

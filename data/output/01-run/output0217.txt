@@ -1,0 +1,15 @@
+source_doc: 1 4	“Ley is really amazing. Just eight years old, but he’s able to match the thirteen year olds in doing the ‘Static Tension’ exercise.” Some of the children who had already given up were sprawled on the ground, chatting as they watched Linley.
+
+
+score: 0.720404, para: 1 1	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+
+score: 0.710953, para: 1 1	After a short period of time, the stunned children returned to their homes. Hillman, Roger, and Lorry were the last to leave. Watching the children depart in clusters of three or five, a smile appeared on Hillman’s face.
+
+
+score: 0.679312, para: 1 14	In the eyes of the children of Wushan township, Linley had some stature amongst them. First of all, he was the heir to the Baruch clan, and secondly, as an eight year old child, Linley could match the thirteen and fourteen year olds in training. In the wartorn land of the Yulan continent, Linley’s prowess caused all of the children of Wushan township to admire him.
+
+
+score: 0.670982, para: 2 6	“Squeak. Squeaaaaak!” The little Shadowmouse stood there, watching Linley.
+
+

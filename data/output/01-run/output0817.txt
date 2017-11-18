@@ -1,0 +1,15 @@
+source_doc: 1 21	He quickly removed his shoes, then jumped onto the bed and sat down. “Grandpa Doehring, come out now. Help me test my magical aptitude.” Linley was extremely impatient. When he was eating dinner just now, all of his thoughts were turned towards this.
+
+
+score: 0.738592, para: 2 4	It seemed as though this time, the little Shadowmouse had enjoyed his meal very much. He was so happy that he immediately began to hop up and down while squeaking at Linley, while even hugging Linley’s leg with his own front arms. Linley couldn’t help but feel pleased; this was the first time that the little Shadowmouse had acted so intimately towards him, even after eating.
+
+
+score: 0.713512, para: 1 20	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.702690, para: 1 11	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.697814, para: 1 2	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+

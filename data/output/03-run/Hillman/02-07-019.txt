@@ -1,0 +1,30 @@
+source: 02 7 19	The Fragrant Pavilion Road, bustling with activity, often had many opulent carriages pass through it. After wandering the Fragrant Pavilion Road for a time, Hillman and Linley headed directly for an ordinary guesthouse to settle down.
+
+
+score: 0.575519, para: 01 5 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+
+score: 0.552016, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+
+score: 0.551953, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.550422, para: 01 4 1	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+
+score: 0.547043, para: 01 1 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+
+score: 0.538179, para: 01 15 41	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+
+score: 0.533118, para: 01 14 2	Just like every other day, the empty ground east of Wushan township was filled with youths. Hillman and the other two teachers had not yet arrived, and so all the children were noisily and energetically chatting together. Naturally, the topic of their conversation was yesterday’s shocking battle.
+
+
+score: 0.519714, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+
+score: 0.509813, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+

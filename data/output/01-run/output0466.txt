@@ -1,0 +1,15 @@
+source_doc: 1 11	“I, Hogg, on behalf of the entire Wushan township, would like to thank you for your kindness, lord magus.” Hogg respectfully bowed down.
+
+
+score: 0.688083, para: 1 2	“Uncle Hillman, thank you!”
+
+
+score: 0.604525, para: 1 4	“Father!” Linley respectfully bowed.
+
+
+score: 0.583278, para: 1 18	Housekeeper Hiri also bowed respectfully and departed. After Hillman also left the pavilion, once again, the only person left remaining was Hogg.
+
+
+score: 0.557875, para: 1 15	“Captain, Lord Hogg ordered us to come assist you!” Twelve warriors had come flying out of the Baruch clan manor. As soon as they saw Hillman, they shouted at him.
+
+

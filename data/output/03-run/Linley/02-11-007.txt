@@ -1,0 +1,15 @@
+source: 02 11 7	“Makes sense. Even if someone acquires it, it would be useless.” Linley immediately began to more curiously flip through the pages of the tome and read through each section.
+
+
+score: 0.630084, para: 01 13 16	He had read of this in his books as well.
+
+
+score: 0.612666, para: 02 10 58	Linley looked suspiciously at the thick book he had just accepted. There were no words on the cover, but when he opened it, there were four big words printed on the first page – Secret Dragonblood Training Tome.
+
+
+score: 0.591497, para: 01 22 34	Linley had read many books and therefore understood this principle.
+
+
+score: 0.504307, para: 01 5 3	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+

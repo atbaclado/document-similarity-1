@@ -1,0 +1,15 @@
+source_doc: 2 3	“Grandpa Doehring, I bet you never coaxed any kids before.” While running, Linley replied in a teasing voice.
+
+
+score: 0.689560, para: 2 5	“Farewell, father.” Linley said respectfully, and then smiled at little Wharton. “Wharton, your big brother is gonna leave now.”
+
+
+score: 0.651979, para: 2 6	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+
+score: 0.647347, para: 1 12	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+
+score: 0.636310, para: 2 7	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+

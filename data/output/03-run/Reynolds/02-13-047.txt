@@ -1,0 +1,15 @@
+source: 02 13 47	Reynolds said unhappily, “Okay, Grandpa Lomu [Lu’mu], you can go back now. I’ve already arrived at the Ernst Institute.”
+
+
+score: 0.557950, para: 02 15 48	“Of course. On the long road from the O’Brien Empire to the Ernst Institute, Grandpa Lomu had already begun to teach me magic.” Reynolds said proudly.
+
+
+score: 0.528239, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.520939, para: 02 14 42	“Is everyone here already?” A clear voice rang out, as a child walked into the room. Approximately the same height as Reynolds, this child looked a bit more mature. “Hello, everyone. My name is George [Qiao’zhi]. I’m ten, and I’m from the Yulan Empire.”
+
+
+score: 0.507801, para: 02 22 26	“Grandpa Doehring, Grandpa Doehring?” Linley mentally called out a few times. But seeing that Doehring Cowart was still lost in his thoughts, Linley no longer tried to call to him. He followed Yale, Reynolds, and George to the experts’ hall. This hall really was different, as within the center of the main hall, each and every artist had their information recorded and the location of their displays recorded.
+
+

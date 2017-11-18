@@ -1,0 +1,30 @@
+source: 01 3 53	The ancestral heirloom was lost. This humiliation constantly weighed on Hogg’s heart. He felt ashamed and helpless, and unable to face his forefathers.
+
+
+score: 0.653238, para: 02 5 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+
+score: 0.642866, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.600473, para: 01 2 54	“Linley, come with me. Let’s go to the ancestral hall. Uncle Hiri, you know about the matters of my clan, so you can come as well.” Hogg smiled.
+
+
+score: 0.585709, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+
+score: 0.567544, para: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+
+score: 0.553222, para: 01 12 35	“Not bad, not bad,” Hogg said proudly as he looked at Linley. “You really are a scion of our Dragonblood Warrior clan. You have our superior qualities. If a descendant of the Dragonblood Warriors were to be terrified of death, terrified of blood, of slaughter, then it would be an absolute joke.”
+
+
+score: 0.540212, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+
+score: 0.533650, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.531718, para: 01 17 32	Just then, when he saw Linley charge over to protect Wharton, Hogg had truly been scared silly. He had truly been terrified that his sons would’ve died, just like that.
+
+

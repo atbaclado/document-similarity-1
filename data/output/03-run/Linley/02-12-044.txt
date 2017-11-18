@@ -1,0 +1,30 @@
+source: 02 12 44	On the road headed east of Wushan township, Linley turned his head saw the hundreds of familiar faces which had come to send him off, with his father, Hogg, and his younger brother Wharton standing in the lead.
+
+
+score: 0.673050, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.649083, para: 01 7 30	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.603339, para: 02 25 15	After the New Year, little Wharton and his older brother, Linley, had only a few days to spent in each other’s company. And then, under the auspices of Housekeeper Hiri, Wharton headed towards the O’Brien Empire. Linley had no choice but to wistfully watch little Wharton depart. Crying nonstop, six year old Wharton parted from ten year old Linley and headed off.
+
+
+score: 0.602493, para: 02 6 1	The little Shadowmouse had previously watched Linley go hunting rabbits in the mountain, but this time, Linley wasn’t headed for the mountain. He was headed off in a totally different direction, traveling on a road. The little Shadowmouse immediately panicked.
+
+
+score: 0.590639, para: 01 16 41	“WHOOSH!” A huge rock nearly two meters in diameter came flying in their direction from far away, headed directly towards the warehouse. Linley immediately realized that when this giant boulder smashed into the warehouse, Wharton would either suffer serious injury, or even die!
+
+
+score: 0.587922, para: 01 15 45	While running as fast as he could, Linley’s mind returned to the Black Dragon, its gray-robed rider, and the green-robed man. He couldn’t help but turn once again and look back at the eastern sky. Since all the buildings in the small town were fairly low in height, he could clearly see for hundreds of meters.
+
+
+score: 0.584364, para: 01 16 44	Hiri was facing Linley, and simply couldn’t see the giant boulder headed towards the warehouse. But Linley saw everything clearly. When the boulder descended and shattered the room, how could little Wharton survive?
+
+
+score: 0.579791, para: 02 2 32	“Young master Linley, headed to the back mountain again?” Uncle Hiri, broom in hand, was dusting the floor. He saw Linley and smiled at him.
+
+
+score: 0.578903, para: 01 16 30	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+

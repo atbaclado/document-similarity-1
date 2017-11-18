@@ -1,0 +1,15 @@
+source_doc: 2 1	But after the past half year, he had already begun to consider this pure, hard-working child as his own grandson. Naturally, he wanted to come up with ways to improve Linley’s strength.
+
+
+score: 0.617417, para: 1 6	Linley was only eight years old, after all. Although the strict education of the clan helped him mature quickly, there was still a large gap between him and an adult. Naturally, he wouldn’t be able to consider things from a more complete point of view.
+
+
+score: 0.601825, para: 2 2	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.596866, para: 1 23	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+
+score: 0.582778, para: 1 18	“So many casualties?” Hogg couldn’t help but begin to grow worried.
+
+

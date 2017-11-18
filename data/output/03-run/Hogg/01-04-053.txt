@@ -1,0 +1,30 @@
+source: 01 4 53	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.614014, para: 01 3 28	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.599081, para: 01 5 30	Hogg sternly shook his head firmly. “The grandfather clock is not for sale! As for the sculpture, six hundred gold. Take it or leave it.”
+
+
+score: 0.596073, para: 01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+
+
+score: 0.594299, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.594218, para: 01 16 58	Right now, there was no way for Hogg to tell if Hiri had managed to position himself in front of Linley in time, or if the falling rocks had slammed into Linley first.
+
+
+score: 0.588839, para: 01 11 54	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.574027, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.572883, para: 01 5 3	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+
+score: 0.552882, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+

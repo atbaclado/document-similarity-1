@@ -1,0 +1,12 @@
+source: 02 13 43	Reynolds nodded also.
+
+
+score: 0.661862, para: 02 20 43	Reynolds and George were also excited. Linley nodded as well as he calmly chuckled, “Someone wants to give us ten thousand gold? How can we refuse?”
+
+
+score: 0.550736, para: 02 23 3	Yale, George, and Reynolds all smiled at Hillman, then entered the Ernst Institute.
+
+
+score: 0.529171, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+

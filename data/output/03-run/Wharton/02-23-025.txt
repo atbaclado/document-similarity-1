@@ -1,0 +1,6 @@
+source: 02 23 25	Hillman nodded. “The O’Brien Academy’s yearly tuition is approximately five thousand gold coins. Your father intends to have Housekeeper Hiri escort Wharton there and take care of him. The tuition fee really is high. In ten years, it’ll be fifty thousand gold coins.”
+
+
+score: 0.500533, para: 02 25 15	After the New Year, little Wharton and his older brother, Linley, had only a few days to spent in each other’s company. And then, under the auspices of Housekeeper Hiri, Wharton headed towards the O’Brien Empire. Linley had no choice but to wistfully watch little Wharton depart. Crying nonstop, six year old Wharton parted from ten year old Linley and headed off.
+
+

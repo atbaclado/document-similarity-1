@@ -1,0 +1,30 @@
+source: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.733196, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+
+score: 0.712845, para: 02 5 49	“Farewell, father.” Linley said respectfully, and then smiled at little Wharton. “Wharton, your big brother is gonna leave now.”
+
+
+score: 0.687187, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.677673, para: 02 4 10	“Squeeaaaak!” The little Shadowmouse looked at Linley with its innocent black eyes and began to squeak with impatience, as though telling Linley to hurry up and give him the food already.
+
+
+score: 0.675847, para: 02 17 9	“Haha, I knew Linley definitely wouldn’t go.” Reynolds laughed loudly.
+
+
+score: 0.674810, para: 02 25 63	Linley quickly and casually floated through the forests, while the little Shadowmouse ‘Bebe’ continued to chat with him nonstop through their mental link. “Boss, when are we gonna go to the Mountain Range of Magical Beasts to test our strength? You are already a magus of the fifth rank. You can begin to test yourself. And I, Bebe, will finally be able to show my awesome abilities.”
+
+
+score: 0.672130, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+
+
+score: 0.668644, para: 02 13 33	Reynolds wrinkled his little nose. “This fellow called Linley is from the Holy Union. He no doubt had a much easier time being accepted than me. I bet he isn’t as talented as I am.” Reynolds was extremely confident.
+
+
+score: 0.668253, para: 02 4 12	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+

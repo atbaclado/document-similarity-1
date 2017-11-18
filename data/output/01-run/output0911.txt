@@ -1,0 +1,15 @@
+source_doc: 1 23	“Now, it’s time for the second test, to test your spiritual energy.” Doehring Cowart looked at Linley solemnly.
+
+
+score: 0.701861, para: 2 8	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+
+score: 0.670953, para: 1 17	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.658262, para: 1 12	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+
+score: 0.637117, para: 1 22	Doehring Cowart began to laugh. “Fine, I’ll test you right away.”
+
+

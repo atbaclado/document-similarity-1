@@ -1,0 +1,30 @@
+source: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+
+score: 0.647447, para: 01 10 31	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.623761, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.607630, para: 01 14 27	Hillman and the other two walked to the front of the three groups, facing the children. Hillman smiled and directly addressed what was on everyone’s mind. “Everyone should know about what happened yesterday, right?”
+
+
+score: 0.603778, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.600595, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.598208, para: 02 6 22	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+
+score: 0.595451, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+
+score: 0.588422, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+
+score: 0.588017, para: 01 2 26	“Linley, your father, Lord Hogg, has some extremely important business with you. Don’t go off playing with the other kids. Come home with me.” Hillman walked to Linley’s side. Gazing at him, Hillman felt very proud.
+
+

@@ -1,0 +1,9 @@
+source: 02 13 8	“School officially starts February 9th. Today is February 8th. Based on the notification, students must arrive before February 9th. Since the young man in front of me is also just arriving today, no doubt he also lives rather close to the Institute.” Linley thought to himself.
+
+
+score: 0.511535, para: 02 23 9	“Of course. January 3rd. What, does this have something to do with his birthday?” Linley questioned.
+
+
+score: 0.501089, para: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+

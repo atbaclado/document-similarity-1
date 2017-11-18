@@ -1,0 +1,15 @@
+source_doc: 2 8	By way of explaining, an ordinary magus might take ten hours to produce a certain amount of mageforce, but Linley would only require a single hour to get the same result.
+
+
+score: 0.710521, para: 1 23	But Doehring Cowart continued, “Generally speaking, only one in ten thousand can become a magus, principally because there’s a high requirement when it comes to spiritual energy. The absolute minimum requirement for a magus is having five times more spiritual energy than someone of the same age. Ten times puts you roughly in the middle of the pack, as far as the average magus goes.”
+
+
+score: 0.664181, para: 1 13	Hogg replied, “Let’s discuss this question later. Linley, you should know that in the Yulan continent, an average person’s lifespan is around 120-130 years. Powerful magi and warriors can live for longer, usually up to two or three hundred years, or sometimes even four hundred years. The absolute limit to a person’s lifespan is five hundred years. Only those who have attained the legendary power of Saint-level combatants can live eternally, unbound by the dictates of time.”
+
+
+score: 0.647681, para: 1 23	Every day, Linley would spend only six hours sleeping. All of his other time was spent in physical training, intellectual studies, magical instruction, and meditation. Six hours of sleep a day, frankly speaking, was simply not enough. In truth, entering the meditative state was extremely taxing, far more tiring than most people’s lives. Every day, Linley entered a very deep sleep for those six hours.
+
+
+score: 0.632178, para: 2 1	“To be so powerful when still so young, eight or nine times out of ten, means that it is the infant of a Violet Shadowmouse. I really wonder how he managed to make his way to your clan’s manor, without a single adult Shadowmouse guard.” Doehring Cowart said with an air of amazement.
+
+

@@ -1,0 +1,30 @@
+source: 02 7 54	Linley and Hillman had arrived here as well.
+
+
+score: 0.633263, para: 02 9 27	Linley turned around.
+
+
+score: 0.631346, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+
+score: 0.631346, para: 02 6 28	“I’m fine,” Linley chuckled.
+
+
+score: 0.631346, para: 02 6 31	Linley and Hillman watched, stunned.
+
+
+score: 0.631346, para: 02 6 57	Could it be that Linley had just been hexed?
+
+
+score: 0.631346, para: 02 6 60	“You…tamed him?” Hillman was stunned.
+
+
+score: 0.630389, para: 01 6 19	“Nothing in this room. Next one…” Linley exited the first room and entered the second.
+
+
+score: 0.619760, para: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.618265, para: 02 5 53	Linley didn’t think about it anymore, and immediately followed Uncle Hillman as they departed from the manor.
+
+

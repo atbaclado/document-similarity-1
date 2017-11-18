@@ -1,0 +1,15 @@
+source_doc: 1 5	“It would be my honor, sire.” Linley placed his right hand against his breast and respectfully bowed.
+
+
+score: 0.646535, para: 2 8	Linley placed his right hand on the crystal ball.
+
+
+score: 0.644704, para: 2 6	Linley placed the little Shadowmouse on the floor, then waved his hand at it. “Go back.” And then he pointed to the road. “I’m going that way. To the capital.”
+
+
+score: 0.623591, para: 1 4	“Father!” Linley respectfully bowed.
+
+
+score: 0.622608, para: 1 18	Housekeeper Hiri also bowed respectfully and departed. After Hillman also left the pavilion, once again, the only person left remaining was Hogg.
+
+

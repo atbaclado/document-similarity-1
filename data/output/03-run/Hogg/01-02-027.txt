@@ -1,0 +1,24 @@
+source: 01 2 27	Linley was exceedingly smart. Under the tutelage of his father, Hogg, since a young age, he had learned many words and could read most books.
+
+
+score: 0.597072, para: 01 3 56	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+
+score: 0.547792, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.540080, para: 02 11 5	“Linley, even if this tome falls into the hands of outsiders, it would be useless to them, as there is simply no way an outsider can train in accordance with the Secret Dragonblood Training Method. As for our family history, so what if someone learns about it? What’s more, we have multiple copies of this tome as well. This one is also just a copy. After so many years have passed, the original has long since turned to dust.” Hogg laughed as he spoke.
+
+
+score: 0.537274, para: 01 5 4	“Ah, Hogg, my dear friend! Just the other day, I heard the clothspinner bird’s cry, and I just knew that something good was going to happen. Indeed, by noon, I received your missive, and as soon as I read it, I was overjoyed.”
+
+
+score: 0.518659, para: 01 17 38	“The legendary earth-style incantation of the tenth rank, a forbidden spell – the earth element ‘World Protector’. The power of this ‘World Protector’is extremely terrifying. It’s considered the most powerful offensive spell available to an earth-style magus.” Staring at the earthen giant, Hogg’s face had grown cold as he spoke.
+
+
+score: 0.507898, para: 01 4 42	Instances like the time when he was holding the crying Linley in his arms were extremely rare. Normally, Hogg’s attitude towards Linley could be summarized in one word: ‘Strict’. In all things, Hogg strove for perfection. He wouldn’t let Linley get away with any mistakes.
+
+
+score: 0.503099, para: 01 4 65	Off to the side, Hogg solemnly taught while Linley strove hard to memorize. He wanted to meet his father’s requirements.
+
+

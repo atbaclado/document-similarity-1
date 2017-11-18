@@ -1,0 +1,14 @@
+source_doc: 1 23	With each day passing like this, day after day, Linley’s improvement was very evident, to the point where it wasn’t just improvement, but a form of transformation!
+
+
+score: 0.628594, para: 1 1	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.609754, para: 1 1	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+score: 0.595289, para: 1 20	The earlier events of the morning had left a lasting impression on Hogg. There was a moment when he even thought Linley had been crushed to death. After experiencing such an event, Hogg’s attitude towards Linley clearly had improved substantially.
+
+
+score: 0.570065, para: 2 8	By way of explaining, an ordinary magus might take ten hours to produce a certain amount of mageforce, but Linley would only require a single hour to get the same result.
+
+

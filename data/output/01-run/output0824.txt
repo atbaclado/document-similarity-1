@@ -1,0 +1,15 @@
+source_doc: 1 21	“Grandpa Doehring, I heard that fire-style elemental attacks are the most powerful? And that darkness-style elemental attacks are the most unpredictable? How could the earth style be the mightiest?” Linley frowned.
+
+
+score: 0.674921, para: 2 8	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+
+score: 0.669665, para: 1 22	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+
+score: 0.665351, para: 1 23	“Grandpa Doehring, why aren’t you talking? How is the strength of my affinity for earth elemental essence?” Linley said nervously.
+
+
+score: 0.651275, para: 2 8	“Wind elemental essence?” Linley was stunned. “The first time you taught me to process elemental essence, you told me to not be distracted, so although I did notice some green-colored specks of light around me, I didn’t pay any attention to them. But later on, when I began to absorb earth elemental essence, I would be surrounded by earth essence and the green specks would no longer appear.
+
+

@@ -1,0 +1,30 @@
+source: 01 4 1	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+
+score: 0.766915, para: 01 2 1	In the blink of an eye, another half year had passed. Training hard and strengthening his body, Linley passed through the gentle, warm spring, the blazing summer, and the chilly autumn. The white poplar tree next to the empty training field of Wushan would always scatter some dried leaves onto the ground whenever the wind blew. The leaves slowly whirled down, covering the entire training ground.
+
+
+score: 0.657481, para: 01 1 133	The amount of land the Baruch manor was built upon was actually quite large. Moss was growing on the walls, and all sorts of ivy creepers twined up the walls as well. The scars of time were very apparent on the walls. The Baruch manor located in Wushan town was the ancestral home of the Baruch clan. An ancestral home which had existed for over five thousand years and endured countless renovations continued to stand here.
+
+
+score: 0.653301, para: 01 7 40	The youngsters nearby couldn’t help but stick out their tongues. He was just late by a short amount of time, but was punished with double duty training. Today, Linley probably wouldn’t have any time to go home and eat dinner.
+
+
+score: 0.643648, para: 01 7 30	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.631061, para: 01 14 18	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+
+score: 0.628700, para: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+
+score: 0.628132, para: 02 8 32	As time went on, the people in the main hall grew more and more numerous. The magical testing event would go on for seven days, so most people didn’t see the urge to come right away at the beginning. When Linley’s turn came, the line of test-takers had already stretched out the main doors of the cathedral.
+
+
+score: 0.625793, para: 02 17 49	Five skull-sized pieces of rock flew up and began to circle around Linley’s head. These five rocks were all covered with earthen specks of light, and as Linley’s eyes began to shine, he let out a deep shout. The five rocks rapidly shot off to a far distance, carrying a gust of wind with them.
+
+
+score: 0.620472, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+

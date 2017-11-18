@@ -1,0 +1,15 @@
+source_doc: 2 7	“This is heaven for rich people or people with status.” Hillman nodded and sighed.
+
+
+score: 0.633235, para: 1 12	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+
+score: 0.602463, para: 1 11	Hogg turned towards the magus, his heart filled with ruefulness. “He’s actually a magus of the eighth rank. And a dual-element magus! Perhaps the entire kingdom of Fenlai has only a handful of people more powerful than him. Someone like him actually came to our little town…”
+
+
+score: 0.592434, para: 1 18	Hogg nodded. Smiling wryly, he said, “Uncle Hiri, most of the people in Wushan township aren’t like us. Wushan township’s men won’t be too bad off, as most of them are warriors of the first or second rank, but the women aren’t. For so many boulders to come raining from the skies non-stop, it would be hard for them to block any at all!”
+
+
+score: 0.587181, para: 2 10	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+

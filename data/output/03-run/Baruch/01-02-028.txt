@@ -1,0 +1,30 @@
+source: 01 2 28	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+
+score: 0.658178, para: 01 4 34	As a member of a noble house, Linley’s education began from a young age. The five-thousand year old Baruch clan was even stricter regarding educational matters than even the royal families of most kingdoms were.
+
+
+score: 0.641563, para: 02 5 20	As dinner progressed, the conversation amongst the Baruch clan manors was quite cheerful.
+
+
+score: 0.639962, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+
+score: 0.629247, para: 02 10 1	Wushan township. The Baruch clan manor.
+
+
+score: 0.622918, para: 02 10 40	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+
+
+score: 0.612336, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+
+score: 0.610142, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.604259, para: 01 3 58	Even if they were willing to sell, how could the decrepit Baruch clan afford the cost?
+
+
+score: 0.600347, para: 01 6 16	Linley very much enjoyed this feeling of searching for treasures in the ancient room. But he had forgotten something. If he could come up with this idea, wouldn’t his father, his grandfather, and the other elders of the Baruch clan also have thought of this?
+
+

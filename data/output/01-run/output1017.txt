@@ -1,0 +1,15 @@
+source_doc: 2 2	Linley nodded.
+
+
+score: 1.000000, para: 2 1	Linley was startled.
+
+
+score: 1.000000, para: 2 4	Linley was startled.
+
+
+score: 1.000000, para: 2 4	Linley nodded. Everyone knew that.
+
+
+score: 1.000000, para: 2 5	But then, Linley thought things through.
+
+

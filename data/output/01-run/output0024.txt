@@ -1,0 +1,15 @@
+source_doc: 1 1	The other man, Roger (Luo’jie), also walked over. Usually, when the children practiced the ‘Qi Building Stance’, it was time for the three of them to relax and freely chat, while paying attention to any child who decided to slack off.
+
+
+score: 0.699431, para: 1 7	The youngsters nearby couldn’t help but stick out their tongues. He was just late by a short amount of time, but was punished with double duty training. Today, Linley probably wouldn’t have any time to go home and eat dinner.
+
+
+score: 0.694648, para: 1 15	Lorry and Roger immediately turned around and lifted up the children who were slow runners. They carried two in each arm and two on their backs as well. Hillman joined them as well, quickly beginning to pick up child after child.
+
+
+score: 0.692268, para: 2 2	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.683561, para: 1 7	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 1	Doehring Cowart frowned as he spoke. “The Stoneater Rat is famed for its toughness and its sharp teeth, while the Shadowmouse is famed for its speed and its sharp teeth! Speed is thus a very good way to determine the strength of any particular Shadowmouse.”
+
+
+score: 0.623903, para: 1 22	“Magical aptitude is divided into two parts – the strength of one’s magical affinity for certain elements, and the strength of one’s mental energy.” Doehring Cowart began to explain the basics of the test.
+
+
+score: 0.592459, para: 2 2	A vigorous, nimble shadow could be seen piercing through the mountain forests. Linley ran silently but nimbly and fast. After having absorbed earth essence for half a year, Linley didn’t just possess mageforce; his physical strength had been raised as well.
+
+
+score: 0.588647, para: 1 14	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.577919, para: 2 10	Hogg naturally knew very well that Linley’s physical strength was very weak. And even the weakest Shadowmouse was of the third rank of power. And in addition, there was no way for Linley to set up a soulbinding magical formation, so that couldn’t have happened at all.
+
+

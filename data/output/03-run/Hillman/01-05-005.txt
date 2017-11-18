@@ -1,0 +1,30 @@
+source: 01 5 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+
+score: 0.575519, para: 02 7 19	The Fragrant Pavilion Road, bustling with activity, often had many opulent carriages pass through it. After wandering the Fragrant Pavilion Road for a time, Hillman and Linley headed directly for an ordinary guesthouse to settle down.
+
+
+score: 0.572243, para: 01 1 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+
+score: 0.567556, para: 01 1 47	That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this? And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+
+
+score: 0.566657, para: 01 8 50	At this point in time, Hillman’s group was roughly a hundred meters away from the Velocidragon. They quietly watched the events in the center of town unfold. In front of the huge Velocidragon, a group of youngsters could be seen. Four men, three women.
+
+
+score: 0.560207, para: 02 9 46	“Uncle Hillman, let’s go.” Linley placed the red envelope into his clothes, and then left the main hall with Hillman.
+
+
+score: 0.554374, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+
+score: 0.553111, para: 01 1 121	“Captain Hillman, you are definitely much more formidable than ole Potter of bygone years. Under your guidance, I believe that Wushan town will become the strongest town in our region, surpassing the other ten or so towns,” Lorry said with a smile.
+
+
+score: 0.546347, para: 02 6 22	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+
+score: 0.545186, para: 01 1 33	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+

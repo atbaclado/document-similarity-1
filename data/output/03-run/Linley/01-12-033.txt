@@ -1,0 +1,30 @@
+source: 01 12 33	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+
+score: 0.723664, para: 01 20 24	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.722023, para: 01 20 32	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+
+score: 0.701358, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+
+score: 0.696565, para: 02 5 49	“Farewell, father.” Linley said respectfully, and then smiled at little Wharton. “Wharton, your big brother is gonna leave now.”
+
+
+score: 0.686442, para: 02 10 37	Linley stared at his father. From as far back as he could remember, he had never seen his father so happy.
+
+
+score: 0.685406, para: 01 2 51	“Um? Why did father change his clothes?” Seeing his father, Linley was filled with astonishment. While at home, his father normally wore only very simple clothes. Just then, while eating dinner, his father wore normal clothes. But now, he had switched to a set of very noble, beautiful apparel.
+
+
+score: 0.674282, para: 02 21 10	Reynolds and George were both calmly smiling as well, and were joking with Linley to the side.
+
+
+score: 0.663399, para: 02 17 39	Although Grandpa Doehring was a Saint-level Grand Magus, after getting to know him, Linley realized that although he looked kindly and amiable on the outside, on the inside, he was a playful scamp.
+
+
+score: 0.656843, para: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+

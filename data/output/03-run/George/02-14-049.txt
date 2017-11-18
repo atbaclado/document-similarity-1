@@ -1,0 +1,15 @@
+source: 02 14 49	George smiled. “Although the magus academies of the Yulan Empire are very good, they are still a bit weaker than the Ernst Institute. If you’re going to go to school, you should go to the best. Although the journey was a bit long, it could be considered a form of training as well.”
+
+
+score: 0.562321, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+
+score: 0.549470, para: 02 19 29	George laughed and nodded. “Right, him. He has very high talent. Even before training, his spiritual essence had reached the level of a magus of the second rank. All he did this year was accumulate sufficient mageforce. It isn’t too hard for someone with the power of a magus of the second rank to become number one in the tournament amongst first grade students.”
+
+
+score: 0.542992, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.518391, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+

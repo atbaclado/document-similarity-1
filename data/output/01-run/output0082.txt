@@ -1,0 +1,15 @@
+source_doc: 1 1	Slightly embarrassed, Hillman grinned, “Well, um, actually, I’m not too clear about exactly how powerful the Four Supreme Warriors are. After all, they are the stuff of legends. It’s been years since any were seen.”
+
+
+score: 0.741869, para: 1 2	“Linley, have you heard of the legendary Four Supreme Warriors of the Yulan continent?” Turning his head, Hogg looked at Linley.
+
+
+score: 0.721964, para: 1 17	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+
+score: 0.693979, para: 1 13	Linley wanted a magical beast of his own as well, such as a powerful Velocidragon.
+
+
+score: 0.692950, para: 1 13	“But Linley, do you know the reason why powerful warriors and magi enjoy such a long life-span?” Hogg followed with a question.
+
+

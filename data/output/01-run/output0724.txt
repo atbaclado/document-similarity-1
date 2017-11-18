@@ -1,0 +1,15 @@
+source_doc: 1 18	Housekeeper Hiri also bowed respectfully and departed. After Hillman also left the pavilion, once again, the only person left remaining was Hogg.
+
+
+score: 0.667569, para: 2 5	“Yes, father.” Linley bowed as he said.
+
+
+score: 0.639763, para: 1 4	“Father!” Linley respectfully bowed.
+
+
+score: 0.622608, para: 1 5	“It would be my honor, sire.” Linley placed his right hand against his breast and respectfully bowed.
+
+
+score: 0.603001, para: 2 3	Linley also politely smiled back at them as he walked past them on the street.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 3	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.712760, para: 2 1	Linley couldn’t help but feel a bit disappointed.
+
+
+score: 0.695456, para: 2 5	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.692330, para: 2 4	Doehring Cowart was walking by Linley’s side as well, but aside from Linley, no one else could see him. Doehring Cowart was smiling so widely that his white whiskers were leaning horizontal. “Linley, over these past nine days, the little Shadowmouse has lost all fear of you. Today, you are even giving him cooked meat. He’s going to be extremely excited and will become even closer to you.”
+
+
+score: 0.690767, para: 1 16	“Whoosh!” A boulder that must’ve weighed hundreds of pounds shot right past Linley, coming to a crashing rest not too far away from his feet, creating a huge crater. Linley felt cold sweat pour down his back. Just a tiny bit of a difference in trajectory, and his little life would’ve been over.
+
+

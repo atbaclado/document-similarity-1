@@ -1,0 +1,15 @@
+source_doc: 1 13	Hogg laughed. “Before discussing this, first you should understand the ranking system of the magi. There are nine ranks. First rank and second rank magi are considered junior magi. Third and fourth rank magi are considered mid-level magi. Fifth and sixth rank magi are considered senior magi. The three ranks above them; seventh, eighth and ninth? These are all terrifyingly powerful people. And of course, above the magi of the ninth rank are the Saint-level magi!”
+
+
+score: 0.734125, para: 1 1	“Warriors are divided into nine ranks. I, a mere warrior of the sixth rank, can easily shatter boulders and kick down a large tree! But a ninth rank warrior, even within our country of Fenlai, would be considered a top level expert. But above the ninth rank warriors are the Four Supreme Warriors. They have surpassed the ninth rank warriors and can be considered the pinnacle of warriors. They belong to the level of legendary Saint-level warriors!” Hillman’s eyes were filled with excitement. “The legendary Saint-level warriors can melt giant icebergs, make the boundless sea roar with angry waves, make tall mountains crumble, make cities with millions of people collapse, and make meteors fall from the sky! They are absolutely undefeatable, the highest possible power.”
+
+
+score: 0.733706, para: 2 1	“Grandpa Doehring, based on what you just said, a Shadowmouse of the third or fourth rank would have pure black fur. Only upon reaching the fifth rank would its fur turn blue. So are you saying that little guy there is a magical beast of the third or fourth rank?” Linley followed up with more questions.
+
+
+score: 0.710262, para: 1 12	And a magus of the eighth rank? Even if he was in the presence of a king, he would not need to kneel or show obeisance. He could just chat while staying standing. From this, one could tell how exalted a level an eighth rank magus held.
+
+
+score: 0.707351, para: 1 1	Hillman knew quite well how much he himself had to suffer in order to become a sixth-ranked warrior, and how many life-and-death battles he had to experience. Even a warrior of the sixth rank was very difficult to become. A seventh, eighth, and ninth ranked warrior was of course only harder. As for a Saint-level warrior? Even in his dreams, Hillman didn’t dare imagine himself as one.
+
+

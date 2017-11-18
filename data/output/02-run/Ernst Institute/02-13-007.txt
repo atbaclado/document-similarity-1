@@ -1,0 +1,20 @@
+source: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+score: 0.690243, para: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+score: 0.690243, para: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+score: 0.690243, para: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+score: 0.619124, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+score: 0.619124, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+score: 0.619124, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+score: 0.618424, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+score: 0.618424, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+score: 0.618424, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+

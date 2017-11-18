@@ -1,0 +1,30 @@
+source: 01 3 54	Seeing the look on his father’s face, Linley consoled him, “Father, don’t be unhappy! I promise that one day, I will recover our family’s heirloom and bring it back to this manor.”
+
+
+score: 0.611898, para: 01 12 2	“Uncle Hiri.” Hogg immediately turned to look at his housetaker Hiri. “Immediately order some people to recover all of the melted gold from within those piles of ashes. This adventuring party was quite extraordinary as well. No doubt, they had a great deal of wealth on them. I hope they had enough to recompense the losses we have suffered today”
+
+
+score: 0.588893, para: 01 5 27	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+
+score: 0.574373, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.555588, para: 01 5 21	Philip’s eyes couldn’t help but narrow, but then he laughed. “Haha…Hogg, don’t be angry. I’m not saying that I don’t wish to buy it. I’m just telling the truth. How about this. I’ll buy this sculpture for five hundred gold coins. What do you think?”
+
+
+score: 0.551601, para: 01 5 20	“Philip, if you don’t wish to buy it, then forget about it.” Hogg was quite succinct.
+
+
+score: 0.536191, para: 02 5 3	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.527250, para: 01 11 50	“Oh.” The mysterious magus’ face was still covered by his violet robes, preventing anyone from seeing his face. He lightly said, “Your town suffered some serious damages today. I annihilated this small adventuring party. On their bodies, there is sure to be a good amount of gold coins. The gold coins, no doubt, have been melted and reforged by my ‘Dance of the Fire Serpents’, but they are still worth some money. Just consider them yours, as my recompense for what Wushan town just went through.”
+
+
+score: 0.520232, para: 02 10 54	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+
+score: 0.507897, para: 02 4 36	“Looks like it is time for me to confess.” Linley said to himself, then looked at Hogg and nodded. “Father, recently I discovered a cute animal living in our back courtyard, an extremely cute animal. So I often bring him some food.”
+
+

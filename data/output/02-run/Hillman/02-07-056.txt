@@ -1,0 +1,20 @@
+source: 02 7 56	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+score: 0.522812, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.522812, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.522812, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.507476, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+score: 0.507476, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+score: 0.507476, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+score: 0.501965, para: 01 5 14	By his side, Hogg laughed. “Philip, stop wasting time with the child. Look, the ‘Fierce Lion’ you have desired for so long has arrived.” As he spoke, Hillman easily carried in the large sculpture into the hall, and then easily set it down.
+
+score: 0.501965, para: 01 5 14	By his side, Hogg laughed. “Philip, stop wasting time with the child. Look, the ‘Fierce Lion’ you have desired for so long has arrived.” As he spoke, Hillman easily carried in the large sculpture into the hall, and then easily set it down.
+
+score: 0.501965, para: 01 5 14	By his side, Hogg laughed. “Philip, stop wasting time with the child. Look, the ‘Fierce Lion’ you have desired for so long has arrived.” As he spoke, Hillman easily carried in the large sculpture into the hall, and then easily set it down.
+

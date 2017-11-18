@@ -1,0 +1,15 @@
+source_doc: 1 22	Smiling, Doehring Cowart nodded. “Right. To cast a spell, your body must be able to provide a sufficient amount of mageforce, and then use mental energy to control that mageforce to summon sufficient elemental essence to form it into a spell!”
+
+
+score: 0.699929, para: 1 1	“All of you must remember. Your body is like a vessel, like a wineglass. Battle qi is like the wine! The amount of wine a vessel can hold is dependent on the size of the vessel. Same goes for the body; a person’s ability to practice battle qi is based on the extent of his training. If his body is too weak, even if he gains access to powerful battle qi manuals, his body won’t be able to hold much battle qi, and he still won’t become a powerful warrior.” Hillman imparted many important bits of advice to the children.
+
+
+score: 0.695460, para: 1 13	“The reason why powerful magi can live so long is because when magi absorb natural elemental energy into their body to generate pure mageforce, when the elemental energy flows through their body, it will naturally refine their apertures, their joints, and their flesh, making their bodies stronger and stronger. With a stronger body, naturally they will live longer. By the same logic, when warriors cultivate their battle-qi, they also absorb natural energy, which flows through their body and strengthens it. The more powerful a warrior is, the stronger his body will be. Naturally, he will live a long life.” Hogg explained everything in detail.
+
+
+score: 0.688348, para: 1 4	A very simple yet very effective training exercise. If a person could reach the level of being able to maintain this pose for an hour, then his body would no longer fear ordinary swords or sabres.
+
+
+score: 0.677754, para: 2 9	“Remember, when engaging in the spiritual essence test, you must hold strong. Resist for as long as you can.” Doehring Cowart said solemnly. “I don’t know much about the wind-style, so you absolutely must go to a magus academy. With such strong elemental essence affinities, it would be an absolute waste for you not to train in the wind-style.”
+
+

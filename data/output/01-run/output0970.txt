@@ -1,0 +1,15 @@
+source_doc: 2 1	“The weakest Stoneater Rat is a beast of the first rank. But the Shadowmouse is different! The weakest Shadowmouse is a magical beast of the third rank, with jet black fur. When its entire body turns blue in color, that is a sign that it has reached the fifth rank. And when all of its fur has turned violet, that means it has at least reached the seventh rank, and at most the eighth rank.” Doehring Cowart’s words were clear and precise.
+
+
+score: 0.719558, para: 1 8	Lorry cleared his throat, a look of terror still in his eyes. But he still nodded. “Yes, it is. But it’s a very powerful one, a magical beast of the seventh rank. A Velocidragon!”
+
+
+score: 0.695376, para: 1 14	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+
+score: 0.693202, para: 1 21	“When utilized by a magus of the fifth or sixth rank, it will cover your entire body with a layer of stone armor. But upon reaching the seventh rank, it will transform into an armor of jadeite. Upon reaching the eighth rank, this Earthguard armor will be made up of crystal jade. And upon reaching the ninth rank, it will be composed of platinum. Finally, when a Saint-level magus executes the Earthguard spell, the protective armor will be made out of diamonds. The defensive power of this spell…” as he spoke, a smile appeared on Doehring Cowart’s face.
+
+
+score: 0.692520, para: 2 10	Hogg naturally knew very well that Linley’s physical strength was very weak. And even the weakest Shadowmouse was of the third rank of power. And in addition, there was no way for Linley to set up a soulbinding magical formation, so that couldn’t have happened at all.
+
+

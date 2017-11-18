@@ -1,0 +1,30 @@
+source: 02 22 17	“As for the masters’ hall, that’s even more amazing. In the innermost sanctum of the gallery, there are a very small number of masters’ sculptures. The price of these sculptures is frighteningly high. Any of them are easily worth tens of thousands of gold, and some of the masterpieces which first brought fame to their master sculptors are easily worth hundreds of thousands of gold pieces.” Yale explained to his three bros in detail.
+
+
+score: 0.560809, para: 02 14 26	“Right on.” Yale was quite knowledgeable about this. “The minimum starting balance for a magicrystal card is at least a thousand gold coins. But I’m afraid that a thousand coins wouldn’t be enough to even sustain a month’s worth of expenditures for me.”
+
+
+score: 0.556659, para: 02 21 41	“Hey, where is everyone going? Fenlai City has an incredible amount of places to have fun. East Fenlai City has lots of luxurious places to spend money with lots of beautiful waitresses, while West Fenlai City has many art museums, such as the famous Proulx Gallery.” Yale was very familiar with Fenlai City.
+
+
+score: 0.531157, para: 02 15 13	“Good heavens, that’s a magical beast! Linley, you are really formidable. I’ve dreamed of having one since I was young.” Yale stared at Bebe, his eyes shining. “Although I have access to soulbinding formation scrolls, I don’t have the ability to force a magical beast to submit to me.”
+
+
+score: 0.530558, para: 02 20 77	“Yale, tomorrow, bring Linley. I’ll go with you to the Golden Bank of the Four Empires local branch to transfer money. Ten thousand golds. I’ll keep my word.” Rand took a long look at the distant Linley. This defeat at Linley’s hands had totally woken Rand up from the arrogant haze of being a genius.
+
+
+score: 0.529110, para: 02 15 16	Yale shook his head. “I’m not even a magus of the first rank yet. Based on my strength, maybe I could train a magical beast of the first or second rank, but what would I do with such a weak critter? And the infants of magical beasts of the seventh or eighth ranks are extremely hard to acquire. What’s more, the infants of those beasts are more powerful than me, even as babies.”
+
+
+score: 0.527688, para: 02 21 44	Linley felt some reservations about those types of places, and so he said, “Yale, forget it, what’s the point of us kids going to those places? Just now, you mentioned the Proulx Gallery? Since the Proulx Gallery names itself after the famous Grandmaster Proulx, it must be extraordinary. Let’s go check it out.”
+
+
+score: 0.526954, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+
+score: 0.523828, para: 02 20 32	“Haha! Rand, just a hundred gold coins? Aren’t you embarassed, saying such a number? How about this. Loser pays ten thousand gold. Deal?” The nearby Yale said loudly.
+
+
+score: 0.508045, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+

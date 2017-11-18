@@ -1,0 +1,201 @@
+02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+02 14 10	“Oh, Reynolds, Linley, I am so happy to see you fellows. Hey, where did my exercise equipment go?” Yale turned his head and stared at his servants.
+
+02 14 11	“Exercise equipment?” Reynolds blinked at Yale. “Yale, what do you have those for? Are you going to be a warrior?”
+
+02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+02 14 14	Linley didn’t know what to say either. Seeing the exercise equipment, Linley wanted to go work out, but he didn’t expect that these were the tools which Yale planned to use to do bodybuilding to seduce pretty girls.
+
+02 14 15	“I’m eight years old. How about you, Yale?” Reynolds clearly was very open-minded.
+
+02 14 16	Yale was extremely tall. The nine-year old Linley was already 1.5 meters tall, but Yale was half a head taller than even Linley.
+
+02 14 17	“Me? I’m ten. Haha, but I’m not getting any younger. My elder brother lost his virginity at age twelve. I’ve got to do some advance preparations as well.” Yale’s eyes shone.
+
+02 14 18	“What does ‘losing virginity’ mean?” Reynolds looked questioningly at Yale.
+
+02 14 19	“Yeah, what’s ‘losing virginity’?” Linley also looked curiously at Yale.
+
+02 14 20	Staring at his two dormmates, Yale became momentarily speechless as well. Besides Linley, the ghostly form of Doehring Cowart was holding his belly as he laughed uproariously. This made Linley ask him curiously, “Grandpa Doehring, why are you laughing?”
+
+02 14 22	“Mm. You can leave now. Go back and tell my father that in the future, if there isn’t something urgent, not to bother me. Oh, right. Remember…every year, he can’t forget to transfer money into my magicite card. He should know very well that a magus needs a lot of money for his magistaff and socketable gems.” Yale said loudly and casually.
+
+02 14 24	Yale nodded, satisfied, then dismissed the men with a wave of his hand, as though he were a general.
+
+02 14 26	“Right on.” Yale was quite knowledgeable about this. “The minimum starting balance for a magicrystal card is at least a thousand gold coins. But I’m afraid that a thousand coins wouldn’t be enough to even sustain a month’s worth of expenditures for me.”
+
+02 14 32	“Bah, bros, my money is your money. If you run out, just come find me! In the future, we’ll probably be living together for decades. We’ll be bros for decades. Why quibble about ‘yours’ and ‘mine’?” Yale was extremely expansive, but just as he finished speaking…
+
+02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+02 14 43	Yale, Reynolds, and Linley all gave basic introductions about themselves to the newcomer.
+
+02 14 48	“George, the magus academies of the Yulan Empire aren’t that bad. Why did you rush all the way here?” Yale said in amazement.
+
+02 14 52	The eight-year old Reynolds and the ten-year old George were of the same height. Both were the shortest in the group. Linley was half a head taller than them, while Yale was the tallest of them all.
+
+02 14 54	Yale pursed his lips. “That’s very normal. Which student in the Ernst Institute is weak? Myself, my elemental affinity and spiritual essence are both high level, putting me towards the bottom of the pack of our one hundred. If it wasn’t for the fact that my old man has a special relationship with the Radiant Church, I probably wouldn’t even be able to make it in.”
+
+02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+02 15 3	“Everyone, let’s spend the day getting to know our campus better. Tonight, I’ll treat you all to dinner! Haha.” Yale slapped his chest and said enthusiastically.
+
+02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+02 15 9	“Magical beast, it’s a magical beast! I’ve seen them in books.” Yale suddenly shouted.
+
+02 15 13	“Good heavens, that’s a magical beast! Linley, you are really formidable. I’ve dreamed of having one since I was young.” Yale stared at Bebe, his eyes shining. “Although I have access to soulbinding formation scrolls, I don’t have the ability to force a magical beast to submit to me.”
+
+02 15 14	Yale said in a depressed voice.
+
+02 15 16	Yale shook his head. “I’m not even a magus of the first rank yet. Based on my strength, maybe I could train a magical beast of the first or second rank, but what would I do with such a weak critter? And the infants of magical beasts of the seventh or eighth ranks are extremely hard to acquire. What’s more, the infants of those beasts are more powerful than me, even as babies.”
+
+02 15 26	Reynolds suddenly frowned as he turned to Yale. “Yale, if in the future I run out of money, you’ve got to lend me some. When Grandpa Lomu comes, I’ll pay you back.”
+
+02 15 27	“No problem.” Yale said magnanimously.
+
+02 15 29	Of the four bros, George was the most amiable and steadiest boy. Reynolds was the most childish one of them. Yale…was the playboy type. As for Linley, in the eyes of the other three boys, he was the most mysterious.
+
+02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+02 15 42	George calmly smiled. “Yale, don’t grow complacent. Although there aren’t formal requirements for students, every year, there will be an ability test. Only if you advance a rank in power can you advance a grade. If you don’t work hard, do you plan to stay here for a century? What’s more, the Ernst Institute has a rule that if one does not become a magus of the sixth rank in sixty years, one will be expelled, no exceptions.”
+
+02 15 45	“Expelled?” Yale stared. “If I really were to be expelled, my old man would probably kill me.” Expulsion by the Ernst Institute would result in an unbearably humiliating reputation. No one would be willing to shoulder it. After all, to have been accepted meant they were all talented people.
+
+02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+02 17 13	Under the guidance of the Yale, that innocent youngster, Reynolds, had begun to go astray.
+
+02 17 14	“Yale, you pervert, stop tugging at me. Alright, time for me to go train. Tomorrow is the end of the month, I’ll hang out with you guys then.” Linley laughed. The last two days of each month, Linley let himself take two days break.
+
+02 17 15	Knowing Linley’s temperament, Yale, Reynolds, and George all nodded.
+
+02 18 48	“Linley’s back. Let’s go, everyone, time to eat!” Yale’s voice sounded out.
+
+02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+02 18 56	Yale pursed his lips. “Punk, you became a magus of the first rank on the road from the O’Brien Empire to the Ernst Institute. I wager that by now, you aren’t too off from becoming the magus of the second rank. That really is unfair.”
+
+02 18 63	“Not necessarily. I also feel Linley’s been really sneaky.” Yale also looked at Linley. “Linley, have you become a magus of the second rank?”
+
+02 18 66	“You really reached it?” Yale, Reynolds, and George’s eyes all bulged out. None of them expected it to be true.
+
+02 18 67	“Go enlist in the yearly tournament, Linley. You’ve gotta take part. Give those guys a good trampling and gain some prestige for dorm 1987.” Yale immediately said.
+
+02 18 70	Yale and the other three traded glances.
+
+02 18 72	“It would be such a waste if you didn’t participate. Someone else is going to get the glory, once again, in the yearly tournament.” Yale mumbled. “Too bad I’m not strong enough. If I had your strength, Linley, I would’ve given a dazzling display long ago. Then, I would be able to seduce some pretty girls.”
+
+02 19 19	The Huadeli Hotel, the most expensive hotel and restaurant within the Ernst Institute. Tonight, Yale was hosting the four bros of dorm 1987 to a lavish meal at the Huadeli Hotel.
+
+02 19 25	Yale laughed. “It really was a shame. I didn’t expect Rand [Lan’de] to become number one in the end.”
+
+02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+02 19 34	“Right. Third bro, you didn’t participate. If you had, hmph…” Yale harrumphed.
+
+02 19 37	Linley and Yale turned their heads. Four youths in the same hotel were making their way down from the second floor. Their leader, a golden-haired youth, stared at Linley’s group coldly.
+
+02 19 38	Yale said loudly, “Oh, so it’s Rand. What, didn’t you hear what we were saying?”
+
+02 19 40	Yale feared neither heaven nor hell, and cared tremendously about face.
+
+02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+02 19 48	Although Yale was somewhat furious, he knew that he wasn’t as strong as the opponent.
+
+02 19 54	“Hmph.” Rand glanced at the table where Linley and the others were sitting. “Juice? You guys are still drinking juice? Oh, Yale, I really feel embarassed for you. The four bros of my dorm are all drinking victory wine. You guys are drinking juice?”
+
+02 19 58	“Oh, and this one.” Rand’s eyes shone as he stared at Linley. “How come I never knew that in Yale’s dorm, there was someone such as you?”
+
+02 20 3	“Yeah!” Yale suddenly shouted loudly, his face filled with excitement. “That felt so good. Third bro, I didn’t expect you to be as strong as that!”
+
+02 20 8	“Hey, Rand, weren’t you bragging about how you were number one amongst the first graders?” Yale mocked.
+
+02 20 14	“Third bro, show’m a bit of your power.” Yale urged as well.
+
+02 20 24	Even aside from the fact that these were students from the Ernst Institute, based on the status of these students, he didn’t want to anger them. Especially…Yale.
+
+02 20 25	“Young master Yale is here? Ugh. Forget it. He can do as he wishes. Even if he smashes the entire hotel, it’s none of my business.” The hotel manager rubbed and shook his head helplessly. He couldn’t dare to offend young master Yale.
+
+02 20 26	And upon entering the Ernst Institute, Yale’s status amongst his family had only increased even more.
+
+02 20 32	“Haha! Rand, just a hundred gold coins? Aren’t you embarassed, saying such a number? How about this. Loser pays ten thousand gold. Deal?” The nearby Yale said loudly.
+
+02 20 37	“Haha, don’t have the balls?” Yale pulled out a magicard, waving it around as he spoke.
+
+02 20 42	“Let’s go.” Yale’s eyes were shining.
+
+02 20 44	Linley, Yale, Reynolds, and George all left the hotel as well, directly heading for the arena.
+
+02 20 74	“Haha, Rand, did you really think you were number one? Our dorm’s third bro, just using magic, is still able to easily trample you.” Yale laughed loudly.
+
+02 20 77	“Yale, tomorrow, bring Linley. I’ll go with you to the Golden Bank of the Four Empires local branch to transfer money. Ten thousand golds. I’ll keep my word.” Rand took a long look at the distant Linley. This defeat at Linley’s hands had totally woken Rand up from the arrogant haze of being a genius.
+
+02 20 79	“Linley, thank you!” Rand said, bowing, causing Yale and others to be startled. And then, Rand stared at Linley and said resolutely, “But there will come a day when I will defeat you.”
+
+02 20 86	After speaking, Linley glanced expressively at his three bros. Yale and the others knew what he was thinking, and immediately, the four bros ignored everyone around them and departed, leaving behind that young lady, Danni, who frowned unhappily.
+02 21 8	Yale’s arm was around Linley’s shoulders, and he whistled a little tune while delightedly peering at the nearby Rand and his bros.
+
+02 21 12	“Second bro, third bro, fourth bro, tomorrow, at the end of the month, my father will come over. At that time, I will arrange for carriages and guardsmen to be brought over. Where should we four bros travel to?” Yale suggested.
+
+02 21 18	“The Holy Capital has lots of places to visit. Tomorrow, I’ll take you guys out and expand your horizons.” Yale said mysteriously.
+
+02 21 20	At dawn the next day, Yale and the others all had breakfast together, and then directly went to the Ernst Institute’s main gate and began waiting for Yale’s escorted carriage.
+
+02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+02 21 24	“There they are.” Yale suddenly shouted loudly.
+
+02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+02 21 28	A middle aged man stepped forward in front of the four carriages. Before even speaking to the three magi, he strode towards Yale.
+
+02 21 29	“Second Uncle, what took you guys so long?” Yale said unhappily.
+
+02 21 30	This ‘Second Uncle’ of Yale’s immediately laughed and said, “Haha, did you grow impatient? Alright, your carriages are all ready. The last one is filled with some goods, I’ll have them clear them out so you have a place to sit. You are going to the Holy Capital, right?”
+
+02 21 31	“Cass [Ka’qi], take three others with you. You are responsible for protecting young master Yale.” This ‘Second Uncle’ ordered.
+
+02 21 32	Off in the distance, a bald rider immediately dismounted, walked in front of Yale, and bowed. “Cass pays his respects to young master Yale.”
+
+02 21 35	“Linley, let’s go. Enter the carriage quickly. Let’s go to the Holy Capital.” Yale beckoned.
+
+02 21 41	“Hey, where is everyone going? Fenlai City has an incredible amount of places to have fun. East Fenlai City has lots of luxurious places to spend money with lots of beautiful waitresses, while West Fenlai City has many art museums, such as the famous Proulx Gallery.” Yale was very familiar with Fenlai City.
+
+02 21 43	“It’s only the afternoon. Those places are only fun in the evening. But of course, we can go now as well.” Yale said laughingly.
+
+02 21 44	Linley felt some reservations about those types of places, and so he said, “Yale, forget it, what’s the point of us kids going to those places? Just now, you mentioned the Proulx Gallery? Since the Proulx Gallery names itself after the famous Grandmaster Proulx, it must be extraordinary. Let’s go check it out.”
+
+02 22 10	“Uncle Cass, come in along with us. The other three can wait for us outside.” Yale instructed.
+
+02 22 14	Yale, Reynolds, George, and Linley viewed one stone sculpture after another, and in their hearts they felt as though these sculptures truly were incomparably beautiful.
+
+02 22 16	Yale laughed as he explained. “But the experts’ hall is different. The experts’ exhibition is divided up into many individual rooms, with each sculpture in a room by itself. Generally speaking, an ‘expert’ is someone whose sculpting ability has received general acclaim, and most expert sculptures are worth around a thousand gold coins or so.”
+
+02 22 17	“As for the masters’ hall, that’s even more amazing. In the innermost sanctum of the gallery, there are a very small number of masters’ sculptures. The price of these sculptures is frighteningly high. Any of them are easily worth tens of thousands of gold, and some of the masterpieces which first brought fame to their master sculptors are easily worth hundreds of thousands of gold pieces.” Yale explained to his three bros in detail.
+
+02 22 20	“But it is quite difficult for a master sculptor to produce a masterpiece, since they naturally don’t want to make any mistakes at all.” Yale sighed as he spoke. “A masterpiece that is worthy of being venerated throughout the ages, requires talent, ability, and sometimes a sudden spark of genius.”
+
+02 22 21	“The works in this main hall are just a bit pleasing to the eye, is all. Let’s go inside.” Yale led them deeper within.
+
+02 22 26	“Grandpa Doehring, Grandpa Doehring?” Linley mentally called out a few times. But seeing that Doehring Cowart was still lost in his thoughts, Linley no longer tried to call to him. He followed Yale, Reynolds, and George to the experts’ hall. This hall really was different, as within the center of the main hall, each and every artist had their information recorded and the location of their displays recorded.
+
+02 22 27	Yale, Linley, and the others began to enter the individual display rooms.
+
+02 22 37	“Everyone, remember, while within the masters’ hall, don’t touch anything. If you break anything, it would be disastrous.” Yale reminded them.
+
+02 22 45	“Second bro, third bro, the two of you, ugh. I planned for us to have a good time tonight in Fenlai City, but you…ugh, you guys are so thin-skinned. I started having fun in those places when I was six years old.” Yale was still unhappily grumbling nonstop.
+
+02 22 50	“Looks like some of the trainees who went to the Mountain Range of Magical Beasts were wounded. What group is this? We haven’t even been at the Ernst Institute for a year, but we’ve seen so many high level students who were injured outside.” Yale said casually.
+
+02 23 2	“Yale, you guys go on ahead, I’ll join you later.” Linley turned his head and said.
+
+02 23 3	Yale, George, and Reynolds all smiled at Hillman, then entered the Ernst Institute.
+

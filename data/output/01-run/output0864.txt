@@ -1,0 +1,15 @@
+source_doc: 1 22	“Haha. Of course. Linley, did you think that a powerful magus could simply rely on the elemental essence already in his body? Impossible! Let’s look at forbidden-level magical spells. The mageforce in the body of a Saint-level magus can only provide 1% of the amount of essence needed. The other 99% can only be provided by natural, elemental essence.”
+
+
+score: 0.815779, para: 1 13	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.809122, para: 2 9	“Remember, when engaging in the spiritual essence test, you must hold strong. Resist for as long as you can.” Doehring Cowart said solemnly. “I don’t know much about the wind-style, so you absolutely must go to a magus academy. With such strong elemental essence affinities, it would be an absolute waste for you not to train in the wind-style.”
+
+
+score: 0.800773, para: 2 8	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+
+score: 0.783068, para: 2 8	“Age, eight. Elemental essence affinities – Earth and Wind, affinity level of exceptional for both! Fire affinity, average.” That bald elder felt his heart thumping wildly. Most magi had average elemental essence affinity. Even high elemental essence affinities were quite rare, and as for exceptional affinity…exceptional affinity was ridiculously rare!
+
+

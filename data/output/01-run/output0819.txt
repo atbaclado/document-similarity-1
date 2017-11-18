@@ -1,0 +1,15 @@
+source_doc: 1 21	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+
+score: 0.687595, para: 1 22	“Grandpa Doehring, hurry up and test me and see if I have any aptitude for becoming an earth-style magus.” Linley was feeling extremely anxious.
+
+
+score: 0.661468, para: 1 22	“Magical aptitude is divided into two parts – the strength of one’s magical affinity for certain elements, and the strength of one’s mental energy.” Doehring Cowart began to explain the basics of the test.
+
+
+score: 0.657284, para: 2 4	Hogg nodded. “People rarely visit the back courtyard, so its normal for there to be animals there. Right. In a week or so, the Fenlai City is going to begin another round of magical aptitude testing and magus recruitment. Do you want to participate?”
+
+
+score: 0.656821, para: 2 8	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+

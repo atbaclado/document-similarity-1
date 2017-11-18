@@ -1,0 +1,15 @@
+source_doc: 1 8	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.736301, para: 1 1	After hearing Hillman’s words, many of the kids had been scared silly. They all immediately nodded. Wushan was over a thousand meters high, and thousands of meters in circumference. In the eyes of men, it would definitely be considered a huge mountain.
+
+
+score: 0.712671, para: 1 9	“How incredible. They actually dare to use their feet to kick such huge rocks.” Watching the four men unceasingly kick the huge rocks, he felt all the more in awe of warriors in general. “Although, the Velocidragon is even more terrifying!”
+
+
+score: 0.711846, para: 1 15	Suddenly, the enormous Black Dragon let out a furious roar as its two huge wings began to flap vigorously. It emanated a terrifying pressure, causing everyone, Hillman included, to feel their legs grow soft and to feel as though they couldn’t breathe.
+
+
+score: 0.708184, para: 2 1	“Linley, the Stoneater Rat race is an extremely terrifying race, primarily because they have huge numbers, and extremely sharp teeth, far sharper than the Shadowmouse race. When large numbers of Stoneater Rats appear, even an army of a hundred thousand people cannot hope to withstand them.” Doehring Cowart sighed as he spoke.
+
+

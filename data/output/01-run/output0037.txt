@@ -1,0 +1,15 @@
+source_doc: 1 1	Linley’s legs were trembling. Although his willpower was strong, his leg muscles were strained to their utmost and were beginning to tremble uncontrollably. He finally collapsed and sat down.
+
+
+score: 0.722393, para: 1 4	By this point, his muscles felt like they were being chewed on by countless ants. His entire body was quivering, and every single muscles on his entire body trembled. Every single trembling muscle could be seen visibly.
+
+
+score: 0.708947, para: 1 14	“Since my body has Dragonblood in its veins and is unable to practice battle-qi, my only option is to far outstrip everyone else in bodily strength.” Linley’s eyes were firm, and his fingers jutted into the ground, as tough and unyielding as old roots. He did one pushup after another, amazing many of the already-exhausted youths around him.
+
+
+score: 0.705403, para: 2 6	Just as Linley was walking, he suddenly discovered that his legs had been hugged from behind. Lowering his head, he saw that it was the little Shadowmouse. The little Shadowmouse was standing up on his hind legs, his two forelegs tightly clenched around Linley. He stared at Linley with two quavering, pitiable eyes, as though he were about to cry.
+
+
+score: 0.696882, para: 1 3	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+

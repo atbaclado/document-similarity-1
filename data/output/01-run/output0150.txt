@@ -1,0 +1,15 @@
+source_doc: 1 2	With the candles in the hall becoming lit, the entire hall immediately became very bright. Linley could instantly see the many spirit tablets placed in the very front of the hall. That thick, dense cluster of spirit tablets spoke volumes as to the age of the Baruch clan.
+
+
+score: 0.703103, para: 2 10	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.692830, para: 1 3	“You don’t believe me?” A trace of arrogance could be seen on Hogg’s face. “Linley, go up and take a close look at those spirit tablets. By now, you can read all the words on them. On the back of every single spirit tablet is the history of those departed forefathers. The three spirit tablets at the very top, are three who are Dragonblood Warriors!”
+
+
+score: 0.654214, para: 1 6	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+
+score: 0.639984, para: 1 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+

@@ -1,0 +1,20 @@
+source: 01 2 27	Linley was exceedingly smart. Under the tutelage of his father, Hogg, since a young age, he had learned many words and could read most books.
+
+score: 0.592767, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+score: 0.592767, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+score: 0.592767, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+score: 0.570578, para: 02 7 67	Glancing at the group of nobles, Linley chuckled quietly. “Uncle Hillman, I won’t pay any mind to their likes.” Under the tutelage of his father Hogg, Linley wouldn’t pay too much heed to that group of self-centered, arrogant nobles.
+
+score: 0.570578, para: 02 7 67	Glancing at the group of nobles, Linley chuckled quietly. “Uncle Hillman, I won’t pay any mind to their likes.” Under the tutelage of his father Hogg, Linley wouldn’t pay too much heed to that group of self-centered, arrogant nobles.
+
+score: 0.570578, para: 02 7 67	Glancing at the group of nobles, Linley chuckled quietly. “Uncle Hillman, I won’t pay any mind to their likes.” Under the tutelage of his father Hogg, Linley wouldn’t pay too much heed to that group of self-centered, arrogant nobles.
+
+score: 0.562365, para: 01 1 51	Upon hearing these words, smiles appeared on the faces of all the six and seven year olds. All of them forced themselves to remain expressionless. These words were Hillman’s often-repeated mantra, and he repeated these words endlessly to the children.
+
+score: 0.562365, para: 01 1 51	Upon hearing these words, smiles appeared on the faces of all the six and seven year olds. All of them forced themselves to remain expressionless. These words were Hillman’s often-repeated mantra, and he repeated these words endlessly to the children.
+
+score: 0.562365, para: 01 1 51	Upon hearing these words, smiles appeared on the faces of all the six and seven year olds. All of them forced themselves to remain expressionless. These words were Hillman’s often-repeated mantra, and he repeated these words endlessly to the children.
+

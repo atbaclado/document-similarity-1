@@ -1,0 +1,15 @@
+source_doc: 1 2	Linley could feel his heart thumping frantically.
+
+
+score: 0.832646, para: 1 23	Linley felt his heart began thumping frantically. He was so excited he didn’t know what to say.
+
+
+score: 0.728433, para: 1 5	Hearing these words, Linley felt his heart twinge.
+
+
+score: 0.728433, para: 1 8	Linley’s heart trembled.
+
+
+score: 0.728433, para: 1 19	Linley’s heart trembled.
+
+

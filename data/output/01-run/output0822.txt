@@ -1,0 +1,14 @@
+source_doc: 1 21	“What’s wrong with the earth style? Linley, let me tell you, amongst the elements of earth, fire, water, wind, thunder, light, and darkness, earth is the mightiest style of them all.” A look of pride was on Doehring Cowart’s face. Clearly, he was filled with confidence. After all, he was a Saint-level Grand Magus of the earth element style.
+
+
+score: 0.874118, para: 1 19	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.
+
+score: 0.741646, para: 1 23	“Good. Extremely good. Your affinity for earth elemental essence is extremely high.” Doehring Cowart’s face was wreathed in smiles. “Based on what I know, only perhaps one in a thousand magi would have as strong an affinity for earth elemental essence as you. Truly.”
+
+
+score: 0.725732, para: 1 22	“If he still can’t sense any earth essence around him even under these conditions, then there’s no hope for him at all.” Doehring Cowart said to himself.
+
+
+score: 0.722541, para: 2 8	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+

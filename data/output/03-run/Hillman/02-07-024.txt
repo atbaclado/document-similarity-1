@@ -1,0 +1,18 @@
+source: 02 7 24	“Linley, get an early night’s rest. Tomorrow morning, you will participate in the magus assessment and recruitment event.” Hillman instructed.
+
+
+score: 0.644824, para: 01 1 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+
+score: 0.608615, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.538324, para: 01 2 4	“Today’s evening training session ends now.” Hillman smiled. “Before leaving, however, everyone needs to first congratulate this next crop of children who are about to leave Wushan and join the army.”
+
+
+score: 0.515952, para: 01 1 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.505480, para: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+

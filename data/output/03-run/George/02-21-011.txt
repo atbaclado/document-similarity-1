@@ -1,0 +1,27 @@
+source: 02 21 11	But in truth, neither Reynolds nor George had suffered much in the past.
+
+
+score: 0.777033, para: 02 17 15	Knowing Linley’s temperament, Yale, Reynolds, and George all nodded.
+
+
+score: 0.671116, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+
+score: 0.575680, para: 02 15 29	Of the four bros, George was the most amiable and steadiest boy. Reynolds was the most childish one of them. Yale…was the playboy type. As for Linley, in the eyes of the other three boys, he was the most mysterious.
+
+
+score: 0.554335, para: 02 14 52	The eight-year old Reynolds and the ten-year old George were of the same height. Both were the shortest in the group. Linley was half a head taller than them, while Yale was the tallest of them all.
+
+
+score: 0.550798, para: 02 20 44	Linley, Yale, Reynolds, and George all left the hotel as well, directly heading for the arena.
+
+
+score: 0.531717, para: 02 18 61	“Linley, have you gained your second rank yet? Be honest?” George stared at Linley.
+
+
+score: 0.514272, para: 02 14 50	“George, you are ten? But you look the same as me.” Reynolds said to the side.
+
+
+score: 0.510084, para: 02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+

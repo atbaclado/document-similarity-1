@@ -1,0 +1,30 @@
+source: 02 17 42	Intrigued, Doehring Cowart ran some calculations. “Hmm, right, about a year has passed since you started learning with me. Right, first, perform the introductory spell of ‘Shattered Rocks’. Do your absolute best, understood?”
+
+
+score: 0.574627, para: 01 22 33	Doehring Cowart laughed as he spoke. “In most magus academies, you can only study spells up to the sixth rank. Spells of the seventh, eighth, and ninth ranks, as well as Saint-level spells, are considered secrets. Only if you join a kingdom will you gain access to those special spells.”
+
+
+score: 0.561731, para: 01 23 41	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+
+score: 0.557261, para: 02 11 15	“Drink the blood of a living dragon, and a Saint-level one at that? Linley, your ancestors really were extremely formidable.” Doehring Cowart had appeared by Linley’s side and was reading the Tome as well. Seeing the introductory paragraphs, he couldn’t help but feel shocked as well.
+
+
+score: 0.543342, para: 02 12 20	“It’s getting late. I’ll need to start warrior training soon.” Linley stood up and grabbed the dead hare as he began heading down the mountain. Doehring Cowart flew by his side, unhappily saying, “Linley, in the future, you will be a magus. Why are you still engaging in warrior training?”
+
+
+score: 0.533498, para: 01 22 4	“First, let me tell you that the test for magical aptitude is a two-part test, so the test I am administering will also have two parts.” Doehring Cowart was behaving in an unusually generous manner. After having been trapped along in the Coiling Dragon Ring for five thousand years, of course he was now in a wonderful mood when faced with such a cute little child.
+
+
+score: 0.533364, para: 01 20 31	Linley’s heart was immediately filled with joy. But as he engaged in conversation with Doehring Cowart, he didn’t pay attention to where he walked, and he tripped over the doorway. Uncle Hiri, walking ahead of him, turned and laughed. “Young master Linley, watch where you walk.”
+
+
+score: 0.524011, para: 02 25 32	A white-robed Doehring Cowart smiled at him cheerily from the side. “Linley, starting today, you can just barely be considered to have mastered the basics. Have you felt that special feeling yet? But your work can only be considered to be a superficial pseudo-artwork. It’s only worthy of being placed in the standard hall at the Proulx Institute. If you show it off there, I would be humiliated. Destroy it.”
+
+
+score: 0.516582, para: 02 19 17	“Linley, your current assignment is to train hard and build up your strength. As far as combat experience goes, when you become a magus of the fifth rank, you should enter the Mountain Range of Magical Beasts and enter a series of genuine life-and-death experiences.” Doehring Cowart persuaded Linley.
+
+
+score: 0.512815, para: 02 3 50	“Linley, looks like things are progressing smoothly. He didn’t run away immediately upon seeing you, which means that he doesn’t feel much hostility towards you.” Upon seeing this, Doehring Cowart secretly felt joy for Linley. Linley really was lucky to have met such a powerful juvenile magical beast.
+
+

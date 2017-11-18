@@ -1,0 +1,15 @@
+source_doc: 1 2	“What, did I do it wrong? I really wiped them clean.” In little Wharton’s tiny head, his eyes were filled with an uncomprehending look as he stared at his big brother.
+
+
+score: 0.781798, para: 2 6	Linley stared at the little Shadowmouse.
+
+
+score: 0.780443, para: 2 10	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.774889, para: 2 3	The black Shadowmouse immediately moved and in the blink of an eye, appeared over ten meters away. His two guileless eyes stared towards the doorway, and he immediately saw Linley. His eyes were filled with caution.
+
+
+score: 0.766293, para: 2 10	Hogg took a deep breath, then looked at Linley, his eyes filled with boundless excitement. “Good, good.”
+
+

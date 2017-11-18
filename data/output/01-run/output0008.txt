@@ -1,0 +1,15 @@
+source_doc: 1 1	Hillman said to the two other middle aged men, “The two of you, take charge of the south group and the middle group. I will go take care of the youngest children.”
+
+
+score: 0.608434, para: 1 8	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+
+score: 0.585401, para: 1 14	“Hadley, yesterday you were with us on the east side as well. You didn’t dare go over. How could you see all this?” A thirteen year old brown-haired child snorted.
+
+
+score: 0.575812, para: 1 5	A middle aged man with long, golden hair and a nobleman’s aura strode into the hall by Hogg’s side. Linley immediately was able to guess that this middle-aged man must be ‘Philip’.
+
+
+score: 0.556975, para: 1 7	The youngsters nearby couldn’t help but stick out their tongues. He was just late by a short amount of time, but was punished with double duty training. Today, Linley probably wouldn’t have any time to go home and eat dinner.
+
+

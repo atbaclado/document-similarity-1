@@ -1,0 +1,15 @@
+source_doc: 1 5	“Father, I want to learn to be a sculptor!” Linley suddenly said.
+
+
+score: 0.847104, para: 1 2	“Wharton, what did you learn today?” Linley asked, smiling.
+
+
+score: 0.775872, para: 1 1	“Lorry.” Hillman suddenly shouted.
+
+
+score: 0.775872, para: 1 20	Linley suddenly understood.
+
+
+score: 0.775872, para: 1 23	Linley suddenly came to the same realization.
+
+

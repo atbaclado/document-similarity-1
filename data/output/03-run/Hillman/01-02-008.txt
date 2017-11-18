@@ -1,0 +1,30 @@
+source: 01 2 8	A hundred and twenty six children, all age seventeen, respectfully bowed towards Hillman. These youngsters normally did not attend training. They had all become adults, and had their own jobs to do. But since they had all been trained by Hillman since they were toddlers, they all considered Hillman to have been their benevolent master.
+
+
+score: 0.627409, para: 01 8 50	At this point in time, Hillman’s group was roughly a hundred meters away from the Velocidragon. They quietly watched the events in the center of town unfold. In front of the huge Velocidragon, a group of youngsters could be seen. Four men, three women.
+
+
+score: 0.619741, para: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+
+score: 0.610434, para: 01 1 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+
+score: 0.607991, para: 01 7 35	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.600817, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.599508, para: 01 1 118	After a short period of time, the stunned children returned to their homes. Hillman, Roger, and Lorry were the last to leave. Watching the children depart in clusters of three or five, a smile appeared on Hillman’s face.
+
+
+score: 0.596178, para: 01 1 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+
+score: 0.595735, para: 01 18 32	Hillman let out a pain-filled sigh. “We just ran some calculations. Over three hundred people died, and a thousand were injured.” The entire township only had a population of five thousand. This meant the casualty ratio was about 20%! And this was for those who lived in stone houses. This really was a diaster.
+
+
+score: 0.594447, para: 02 23 25	Hillman nodded. “The O’Brien Academy’s yearly tuition is approximately five thousand gold coins. Your father intends to have Housekeeper Hiri escort Wharton there and take care of him. The tuition fee really is high. In ten years, it’ll be fifty thousand gold coins.”
+
+

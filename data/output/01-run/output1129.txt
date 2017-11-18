@@ -1,0 +1,15 @@
+source_doc: 2 4	“No, Linley, accept your father’s offer.” Doehring Cowart frowned and hurriedly said.
+
+
+score: 0.811088, para: 2 3	Doehring Cowart also frowned in confusion. “That shouldn’t be the case. It was just an hour. Did it really leave already?”
+
+
+score: 0.618150, para: 2 10	“Father.” Linley was afraid that his father would strike, so he hurriedly said, “The little Shadowmouse and I have already entered a soulbinding pact.”
+
+
+score: 0.614558, para: 1 6	Linley hurriedly dodged to one side.
+
+
+score: 0.572016, para: 1 20	“Still feeling dizzy? Then go and get some rest.” Hogg hurriedly said.
+
+

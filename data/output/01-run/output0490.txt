@@ -1,0 +1,15 @@
+source_doc: 1 12	“Magical beasts…I wonder how someone acquires a magical beast.” Linley desired to have a magical beast of his own as well.
+
+
+score: 0.808420, para: 1 13	Seeing the expression on Linley’s face, Hogg couldn’t help but laugh. “There’s only two ways to acquire a magical beast companion. The first is to make the magical beast willingly subordinate himself to you and serve you. The second way is to use a soul-binding magical array to enslave the magical beast.”
+
+
+score: 0.793294, para: 1 13	Linley wanted a magical beast of his own as well, such as a powerful Velocidragon.
+
+
+score: 0.789869, para: 2 2	No wonder there was no need for setting up a soul-binding magical formation. This bond was initiated by the magical beast itself. Doehring Cowart continued, “Every single magical beast, upon birth, has the ability to initiate a ‘bond of equals’, but in their entire life, a magical beast may only enter this bond a single time. It isn’t like the soul-binding master-servant relationship, where once the master dissolves the relationship, someone else can use another soul-binding technique to tame the beast again.”
+
+
+score: 0.779689, para: 1 8	“Uncle Lorry, what is that? Is that a magical beast?” Linley was the first to ask.
+
+

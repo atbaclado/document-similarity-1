@@ -1,0 +1,15 @@
+source_doc: 1 14	“Now, time to do our morning exercises. Same as always – face the sun, and begin the ‘qi-absorbing exercise’.” Hillman crisply began the day’s program, and immediately the three groups of children began to practice the ‘qi-absorbing stance’.
+
+
+score: 0.689207, para: 1 2	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+
+score: 0.688758, para: 1 15	“Quick, take these children home!” Hillman immediately ordered.
+
+
+score: 0.660290, para: 1 1	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.634273, para: 1 12	Hogg was startled, but in the next moment he immediately understood. Looks like his child now wanted to become a magus.
+
+

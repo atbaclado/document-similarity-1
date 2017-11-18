@@ -1,0 +1,15 @@
+source_doc: 1 16	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+
+score: 0.713568, para: 1 1	After hearing Hillman’s words, many of the kids had been scared silly. They all immediately nodded. Wushan was over a thousand meters high, and thousands of meters in circumference. In the eyes of men, it would definitely be considered a huge mountain.
+
+
+score: 0.701618, para: 1 15	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+
+score: 0.693511, para: 1 15	Hillman and the others were hundreds of meters away from the Black Dragon. No matter how sharp their ears were, there was no way for them to hear the words being exchanged by the two parties.
+
+
+score: 0.690168, para: 2 3	“Crunch, crunch.” That familiar, soft crunching sound could be heard once again. Linley’s eyes brightened, and he immediately turned and headed towards an ancient courtyard nearby. Arriving at the entryway, he clearly saw the black Shadowmouse chewing on stones in one spot, unmoving. He seemed almost like a sculptor, as he chewed each rock into surprising, bizarre shapes.
+
+

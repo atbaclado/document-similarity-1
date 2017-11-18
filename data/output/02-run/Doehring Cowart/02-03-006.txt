@@ -1,0 +1,20 @@
+source: 02 3 6	“Linley, why aren’t you cooking it? Although the Shadowmouse will eat raw meat, his favorite is cooked meat.” Doehring Cowart’s voice sounded in Linley’s mind.
+
+score: 0.681204, para: 02 2 23	“Relax. Based on my method, you won’t have any problems at all. Based on this ‘clumsy idea’ that I have, all you need is time and patience. Don’t get agitated or impatient.” Doehring Cowart slowly began to explain his ‘clumsy idea’. “Linley, a Shadowmouse is an omnivore; it will eat anything. Bones, rocks, meat. But its favorite food is still meat, especially roasted meat. This is based on the experience of elders.”
+
+score: 0.681204, para: 02 2 23	“Relax. Based on my method, you won’t have any problems at all. Based on this ‘clumsy idea’ that I have, all you need is time and patience. Don’t get agitated or impatient.” Doehring Cowart slowly began to explain his ‘clumsy idea’. “Linley, a Shadowmouse is an omnivore; it will eat anything. Bones, rocks, meat. But its favorite food is still meat, especially roasted meat. This is based on the experience of elders.”
+
+score: 0.681204, para: 02 2 23	“Relax. Based on my method, you won’t have any problems at all. Based on this ‘clumsy idea’ that I have, all you need is time and patience. Don’t get agitated or impatient.” Doehring Cowart slowly began to explain his ‘clumsy idea’. “Linley, a Shadowmouse is an omnivore; it will eat anything. Bones, rocks, meat. But its favorite food is still meat, especially roasted meat. This is based on the experience of elders.”
+
+score: 0.625275, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+score: 0.625275, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+score: 0.625275, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+score: 0.625275, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+score: 0.605810, para: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+score: 0.605810, para: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+

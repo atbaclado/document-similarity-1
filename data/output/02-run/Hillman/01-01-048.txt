@@ -1,0 +1,20 @@
+source: 01 1 48	Hillman turned his head. Staring at the children, he was very satisfied with the children’s reactions.
+
+score: 0.904040, para: 01 52 48	Hillman turned his head. Staring at the children, he was very satisfied with the children’s reactions.
+
+score: 0.904040, para: 01 52 48	Hillman turned his head. Staring at the children, he was very satisfied with the children’s reactions.
+
+score: 0.904040, para: 01 52 48	Hillman turned his head. Staring at the children, he was very satisfied with the children’s reactions.
+
+score: 0.684753, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+score: 0.684753, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+score: 0.684753, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+score: 0.522030, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+score: 0.522030, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+score: 0.522030, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+

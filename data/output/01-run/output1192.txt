@@ -1,0 +1,15 @@
+source_doc: 2 5	Linley didn’t think about it anymore, and immediately followed Uncle Hillman as they departed from the manor.
+
+
+score: 0.784498, para: 1 20	Linley immediately forced out a smile. Nodding, he said, “Thank you for asking, Uncle Hiri. I’m much better now.”
+
+
+score: 0.704353, para: 2 7	“Grandpa Doehring.” Linley immediately greeted him.
+
+
+score: 0.694325, para: 1 8	“Everyone, stay here.” After he spoke, Hillman immediately chased after the departing Velocidragon.
+
+
+score: 0.665446, para: 2 3	Doehring Cowart immediately understood.
+
+

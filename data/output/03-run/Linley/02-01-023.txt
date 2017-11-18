@@ -1,0 +1,30 @@
+source: 02 1 23	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+
+score: 0.768048, para: 01 13 7	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.675953, para: 01 7 9	“Earthworm?” Linley suspiciously looked at the carving on the ring.
+
+
+score: 0.674847, para: 02 6 41	Linley stared at the little Shadowmouse.
+
+
+score: 0.656481, para: 01 6 22	He stared up at the sky.
+
+
+score: 0.642806, para: 01 3 59	“Father, you don’t believe me?” Raising his head, Linley looked at his father questioningly.
+
+
+score: 0.639647, para: 02 6 13	Hillman looked at Linley with shock. “Linley, are you saying that you’ve been raising, raising a magical beast?”
+
+
+score: 0.636882, para: 02 3 28	Linley stood at the doorway.
+
+
+score: 0.618795, para: 02 5 46	“Hillman, I entrust Linley to you.” Hogg looked at the nearby Hillman.
+
+
+score: 0.614474, para: 02 14 19	“Yeah, what’s ‘losing virginity’?” Linley also looked curiously at Yale.
+
+

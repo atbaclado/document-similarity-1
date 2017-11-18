@@ -1,0 +1,30 @@
+source: 01 5 30	Hogg sternly shook his head firmly. “The grandfather clock is not for sale! As for the sculpture, six hundred gold. Take it or leave it.”
+
+
+score: 0.711023, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.610119, para: 02 12 44	On the road headed east of Wushan township, Linley turned his head saw the hundreds of familiar faces which had come to send him off, with his father, Hogg, and his younger brother Wharton standing in the lead.
+
+
+score: 0.599081, para: 01 4 53	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.592408, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.581295, para: 01 2 63	Hogg quietly stood in front of the spirit tablets, not saying a word.
+
+
+score: 0.576751, para: 01 11 54	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.573441, para: 01 4 39	Hogg coldly nodded, and Linley quickly walked next to him.
+
+
+score: 0.568760, para: 02 11 25	“The events of the past happened too long ago. The real secrets of that era, this book has not revealed. All I know is that because of this, the dragon race sent representatives to engage in discussions with our Baruch clan’s clanlord. After this, our descendants no longer attempted this method. Later on, when our family line weakened, even when we wanted to drink dragon’s blood, we no longer were able to.” Hogg shook his head and sighed.
+
+
+score: 0.567793, para: 01 12 50	Hogg waved his hand, motioning for Linley to calm down, before saying, “Linley, there have been magi in the lineage of our Dragonblood Warrior clan. However, there’s only been two in total. Linley, you should know that the most important thing for a magus is ‘natural talent’. Normally, only one person in ten thousand has the talent to become a magus. One in ten thousand! The chance really is very low. So, you’d best not have too much hope.”
+
+

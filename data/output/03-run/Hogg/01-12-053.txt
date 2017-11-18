@@ -1,0 +1,30 @@
+source: 01 12 53	Hogg looked at the serious expression on his eight year old boy’s face. By all rights, a young child being so serious was an amusing thing. But Hogg did not laugh.
+
+
+score: 0.630543, para: 02 4 36	“Looks like it is time for me to confess.” Linley said to himself, then looked at Hogg and nodded. “Father, recently I discovered a cute animal living in our back courtyard, an extremely cute animal. So I often bring him some food.”
+
+
+score: 0.568870, para: 02 10 23	As it turned out, the little Shadowmouse had fallen asleep next to Linley’s chest, but Hogg’s explosive laughter startled him awake. An infant Shadowmouse spent a great deal of time napping, and hated being awakened. At this moment, naturally he was extremely furious.
+
+
+score: 0.566095, para: 02 11 31	“Linley, don’t ask too much. Honestly, I only know a little bit about our family history as well. As far as what happened four thousand years ago, there’s no way we can clearly know what happened.” Hogg laughed towards Linley.
+
+
+score: 0.556743, para: 01 5 11	“Oh, this adorable child must be your son, right Hogg?” Philip smiled very warmly at Linley. “Linley Baruch, right? May I address you as Linley?”
+
+
+score: 0.543318, para: 02 10 5	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+
+score: 0.536253, para: 01 3 40	“Linley, at this point in time, the Baruch family just consists of you, me, and your little brother. I don’t have any extravagant hopes. I’ve never dared to dream of becoming a Dragonblood Warrior.” Hogg laughed at himself satirically. How could becoming a Dragonblood Warrior be an easy task?
+
+
+score: 0.523217, para: 01 4 42	Instances like the time when he was holding the crying Linley in his arms were extremely rare. Normally, Hogg’s attitude towards Linley could be summarized in one word: ‘Strict’. In all things, Hogg strove for perfection. He wouldn’t let Linley get away with any mistakes.
+
+
+score: 0.520708, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.513326, para: 02 10 24	“Shadowmouse. A magical beast, Shadowmouse?” Upon seeing the little Shadowmouse with Linley, Hogg’s facial expressions changed dramatically.
+
+

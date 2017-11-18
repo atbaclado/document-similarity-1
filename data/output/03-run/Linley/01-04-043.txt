@@ -1,0 +1,30 @@
+source: 01 4 43	“Yes, father.” Linley said calmly.
+
+
+score: 0.944966, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.944467, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.944467, para: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.944467, para: 02 5 23	Linley nodded.
+
+
+score: 0.935187, para: 02 2 7	Linley now understood.
+
+
+score: 0.935187, para: 02 2 12	Linley nodded.
+
+
+score: 0.935187, para: 02 2 26	Linley understood.
+
+
+score: 0.925720, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+
+score: 0.925720, para: 02 6 28	“I’m fine,” Linley chuckled.
+
+

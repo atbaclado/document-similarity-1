@@ -1,0 +1,14 @@
+source_doc: 1 8	“So bi, bi, big! Is, is this a legendary magical beast?” Linley was totally stunned.
+
+
+score: 0.787209, para: 2 2	“Initiated by the magical beast?!” Linley was stunned.
+
+
+score: 0.725161, para: 1 23	Aside from the Vampiric Iron Bull, the Griffin, the Velocidragon, and the Black Dragon magical beasts he had seen, this was the first time Linley had seen any other magical beasts. This adorable black mouse was actually a magical beast? A magical beast, with magical abilities?
+
+score: 0.715720, para: 1 13	Linley wanted a magical beast of his own as well, such as a powerful Velocidragon.
+
+
+score: 0.711493, para: 1 12	“Magical beasts…I wonder how someone acquires a magical beast.” Linley desired to have a magical beast of his own as well.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 23	Starting the very next day, Linley began to live an extremely tough, arduous life.
+
+
+score: 0.714006, para: 1 19	“Yes, yes.” Doehring Cowart felt extremely happy.
+
+
+score: 0.636269, para: 2 6	Hillman was a worldly man, and of course he knew that taming a magical beast was an extremely difficult, extremely arduous matter. But just now, Linley had actually subdued a magical beast.
+
+
+score: 0.605860, para: 1 20	“Grandpa Doehring, in the future, doesn’t that mean you can always appear by my side?” Linley felt extremely happy.
+
+
+score: 0.593819, para: 2 5	Doehring Cowart had an extremely high status within the Pouant Empire, which Ernst didn’t come close to matching, at the time.
+
+

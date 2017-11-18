@@ -1,0 +1,15 @@
+source_doc: 2 10	Several names in bright red particularly stood out – “Ernst Institute” “Linley”.
+
+
+score: 0.704051, para: 1 18	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+
+score: 0.652563, para: 1 2	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+
+score: 0.644239, para: 2 7	“Whew. It’s been quite a while since I’ve been in a large city.” A hazy white light shone out from the Coiling Dragon Ring, transforming into a white-bearded old man. Doehring Cowart and Linley stood side by side as they stared at the street below.
+
+
+score: 0.602144, para: 1 1	“Crap, the Head Monster is coming!” A golden-haired child with large, bright eyes named Hadley (Ha’de’li) said in a low voice.
+
+

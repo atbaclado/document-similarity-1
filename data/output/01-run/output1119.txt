@@ -1,0 +1,15 @@
+source_doc: 2 4	“Linley, I hear that you’ve often been bringing roasted hares to the back courtyards?” Halfway through the meal, Hogg put down his utensils and turned to Linley.
+
+
+score: 0.650713, para: 1 20	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.625346, para: 2 3	Linley self-confidently said, “I often have to coax little Wharton. Lemme tell ya, if you want to give a kid something, you can’t give them something too good, right off the bat. Otherwise, in the future, they’ll expect something really good every single time, or something even better. Right now, the Shadowmouse is chewing on rocks. If I give him some raw meat, he’ll be really happy. I’ll give him raw meat for seven or eight days, and then I’ll give him cooked meat. That will make him even happier.”
+
+
+score: 0.621394, para: 2 2	“Grandpa Doehring, won’t this Shadowmouse run all over the place?” Linley was worried that if he went and got some roasted meat, he might come back to find the Shadowmouse had gone. There would be nothing he could do then.
+
+
+score: 0.607801, para: 2 3	None of the people of Mt. Wushan found it strange for Linley to be running home with a wild hare in hand. In truth, ever since Linley had learned the ‘Earth Spike’ spell, he often brought wild hares home.
+
+

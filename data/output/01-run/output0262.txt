@@ -1,0 +1,15 @@
+source_doc: 1 5	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+
+score: 0.678160, para: 1 4	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.661713, para: 1 11	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.659002, para: 1 20	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.649793, para: 1 20	Linley grinned at his father, but continued to devour his food with haste. In the twinkling of an eye, he had stripped the leg of mutton of all flesh. Linley let out a comfortable burp, then used the napkin to wipe his lips. Standing, he said, “Father, Uncle Hiri, I’m done eating. I feel like my head is still a bit dizzy, so I’m going to go and get some more rest. Wharton, see ya.” Linley was the first to finish eating.
+
+

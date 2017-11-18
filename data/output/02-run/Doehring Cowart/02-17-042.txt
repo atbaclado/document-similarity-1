@@ -1,0 +1,20 @@
+source: 02 17 42	Intrigued, Doehring Cowart ran some calculations. “Hmm, right, about a year has passed since you started learning with me. Right, first, perform the introductory spell of ‘Shattered Rocks’. Do your absolute best, understood?”
+
+score: 0.574627, para: 01 22 33	Doehring Cowart laughed as he spoke. “In most magus academies, you can only study spells up to the sixth rank. Spells of the seventh, eighth, and ninth ranks, as well as Saint-level spells, are considered secrets. Only if you join a kingdom will you gain access to those special spells.”
+
+score: 0.574627, para: 01 22 33	Doehring Cowart laughed as he spoke. “In most magus academies, you can only study spells up to the sixth rank. Spells of the seventh, eighth, and ninth ranks, as well as Saint-level spells, are considered secrets. Only if you join a kingdom will you gain access to those special spells.”
+
+score: 0.574627, para: 01 22 33	Doehring Cowart laughed as he spoke. “In most magus academies, you can only study spells up to the sixth rank. Spells of the seventh, eighth, and ninth ranks, as well as Saint-level spells, are considered secrets. Only if you join a kingdom will you gain access to those special spells.”
+
+score: 0.574627, para: 01 22 33	Doehring Cowart laughed as he spoke. “In most magus academies, you can only study spells up to the sixth rank. Spells of the seventh, eighth, and ninth ranks, as well as Saint-level spells, are considered secrets. Only if you join a kingdom will you gain access to those special spells.”
+
+score: 0.561731, para: 01 23 41	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+score: 0.561731, para: 01 23 41	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+score: 0.561731, para: 01 23 41	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+score: 0.561731, para: 01 23 41	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+score: 0.556155, para: 02 11 15	“Drink the blood of a living dragon, and a Saint-level one at that? Linley, your ancestors really were extremely formidable.” Doehring Cowart had appeared by Linley’s side and was reading the Tome as well. Seeing the introductory paragraphs, he couldn’t help but feel shocked as well.
+

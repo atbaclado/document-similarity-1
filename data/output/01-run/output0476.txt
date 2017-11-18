@@ -1,0 +1,15 @@
+source_doc: 1 12	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+
+score: 0.802815, para: 1 4	Hillman, off to the side, nodded with satisfaction.
+
+
+score: 0.802815, para: 1 18	Hiri nodded as well.
+
+
+score: 0.789607, para: 2 1	Linley nodded inwardly.
+
+
+score: 0.789607, para: 2 10	Linley nodded honestly.
+
+

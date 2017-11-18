@@ -1,0 +1,30 @@
+source: 01 4 37	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.676274, para: 01 5 3	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+
+score: 0.661770, para: 01 2 1	In the blink of an eye, another half year had passed. Training hard and strengthening his body, Linley passed through the gentle, warm spring, the blazing summer, and the chilly autumn. The white poplar tree next to the empty training field of Wushan would always scatter some dried leaves onto the ground whenever the wind blew. The leaves slowly whirled down, covering the entire training ground.
+
+
+score: 0.655339, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.652043, para: 02 5 32	The little Shadowmouse rolled its eyes, then stood up on its hind feet and placed its front feet on top of Linley’s body.
+
+
+score: 0.650370, para: 02 25 1	The flowing water continued to swirl as Linley sat cross legged next to it. In his hands, he held a straight chisel and a rock the size of his palm.
+
+
+score: 0.645788, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.640970, para: 01 8 11	With a low-throated growl, white steam erupted from the nostrils of the Velocidragon, carrying with it the stench of sulfur. Those diamond-like eyes, nearly the size of a lantern, were also, strangely enough, red as well. The huge head of the Velocidragon turned towards Linley and the children. It’s cold gaze terrified all of the children, freezing them in their tracks.
+
+
+score: 0.635916, para: 02 25 29	Linley let out a soft breath and brushed away some small pieces of excess stone still remaining. The entire statue had taken shape. A half-meter long lively-looking mouse stood in front of Linley. At a glance, one might mistake it for a real mouse. This caused the little Shadowmouse, Bebe, to begin squeaking wildly.
+
+
+score: 0.626809, para: 01 16 58	Right now, there was no way for Hogg to tell if Hiri had managed to position himself in front of Linley in time, or if the falling rocks had slammed into Linley first.
+
+

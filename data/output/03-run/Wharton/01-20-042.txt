@@ -1,0 +1,27 @@
+source: 01 20 42	Just as Linley spoke, he saw that next to him, a white-haired old man suddenly appeared out of nowhere. It was Doehring Cowart. But Hogg, Housekeeper Hiri, and his younger brother Wharton still continued to eat and chat, not noticing Doehring Cowart’s existence in the slightest.
+
+
+score: 0.580905, para: 02 4 12	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.576620, para: 02 25 15	After the New Year, little Wharton and his older brother, Linley, had only a few days to spent in each other’s company. And then, under the auspices of Housekeeper Hiri, Wharton headed towards the O’Brien Empire. Linley had no choice but to wistfully watch little Wharton depart. Crying nonstop, six year old Wharton parted from ten year old Linley and headed off.
+
+
+score: 0.575116, para: 01 16 48	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+
+score: 0.573500, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+
+score: 0.563630, para: 01 2 37	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.548436, para: 01 2 48	“I wonder why father summoned me?” Although he was young, Linley could sense that this time, his father had called him for something important.
+
+
+score: 0.508658, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.507842, para: 01 16 46	Three more boulders came crashing down near Linley, but moving like a panther, Linley continued to charge forwards, his gaze fixed on little Wharton as he finally entered the warehouse. Hiri, turning around, only now became aware of that two-meter long boulder descending towards the warehouse. His face immediately turned white.
+
+

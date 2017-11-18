@@ -1,0 +1,30 @@
+source: 01 2 56	The members of the Baruch clan only stayed in the front side of the manor. The areas in the far back, virtually no one went there to clean. Only the ancestral hall in the back did they ever visit, once a month, to clean.
+
+
+score: 0.801626, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+
+score: 0.710431, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.706866, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.664318, para: 02 10 40	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+
+
+score: 0.648928, para: 01 6 16	Linley very much enjoyed this feeling of searching for treasures in the ancient room. But he had forgotten something. If he could come up with this idea, wouldn’t his father, his grandfather, and the other elders of the Baruch clan also have thought of this?
+
+
+score: 0.644836, para: 02 23 33	Wushan township, within the Baruch clan manor’s main hall.
+
+
+score: 0.636342, para: 01 3 45	Hogg proudly said, “Our ancestral heirloom – the warblade, “Slaughterer”. This was the weapon used by the very first leader of the Baruch clan, the very first Dragonblood Warrior of the Yulan continent. Alas…his descendants were unfilial. Six hundred years ago, because of poverty, a descendant who loved luxury actually sold our ancestral weapon for money.”
+
+
+score: 0.634533, para: 01 6 25	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+
+score: 0.634135, para: 02 5 6	Unfortunately, the type of family which could collect the warblade ‘Slaughterer’ was not an ordinary one, and the current Baruch clan was far too weak.
+
+

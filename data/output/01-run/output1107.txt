@@ -1,0 +1,15 @@
+source_doc: 2 4	“Linley, try and use your hand to smooth his fur. Usually, most magical beasts like their family members to groom them and stroke their fur.” Doehring Cowart advised.
+
+
+score: 0.725833, para: 2 2	“Adult magical beasts have very high intelligence, so if you want to move the heart of an adult magical beast and make it view you as family, it is almost impossible.” Doehring Cowart sighed. “But juveniles are different. It is much like how human babies have low intelligence and can easily be tricked into liking you by, say, giving them some tasty food. The intelligence of magical beast babies is even lower. As long as you often feed him, he will like you. Then, spend some time playing with him. In a short period of time, this magical beast will come to adore you. This is especially true for an infant magical beast who has been separated from his community. Those are even easier to tame.”
+
+
+score: 0.724774, para: 1 22	“After countless years of magical experimentation, the magical system has essentially been perfected.” Stroking his white beard, Doehring Cowart laughed loudly. “Linley, don’t worry. In the future, there’s no need for you to bend the knee to any kingdom or any lord, because…I can teach you seventh, eighth, ninth, and even Saint-level spells!”
+
+
+score: 0.692116, para: 2 3	These acitivities continued. Day after day, Linley continued to undergo meditative training while preparing wild rabbits and other animals for the little Shadowmouse to eat. Nobody in the entire Wushan township, including Hogg and Hillman, knew that Linley was learning magic. Similarly, none of them knew that Linley was taking care of a juvenile magical beast that already possessed power of the fourth rank!
+
+
+score: 0.687943, para: 2 2	No wonder there was no need for setting up a soul-binding magical formation. This bond was initiated by the magical beast itself. Doehring Cowart continued, “Every single magical beast, upon birth, has the ability to initiate a ‘bond of equals’, but in their entire life, a magical beast may only enter this bond a single time. It isn’t like the soul-binding master-servant relationship, where once the master dissolves the relationship, someone else can use another soul-binding technique to tame the beast again.”
+
+

@@ -1,0 +1,30 @@
+source: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+
+score: 0.672303, para: 02 8 7	“Bebe, stick with Uncle Hillman for now. I’m going to take the test.” Linley mentally instructed the little Shadowmouse, who somewhat unwillingly shuffled around a bit under Linley’s clothes. But after multiple requests from Linley, the little Shadowmouse directly scurried into Hillman’s clothes.
+
+
+score: 0.658585, para: 02 4 12	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.655867, para: 02 4 19	Linley tentatively stretched his hand out and placed it on the little Shadowmouse’s head. The little Shadowmouse didn’t dodge in the slightest. Instead, it contentedly half-closed its eyes. Linley immediately felt more confident, and began to stroke his fur, causing the Shadowmouse to feel so comfortable that it began to snore.
+
+
+score: 0.654793, para: 02 5 34	Linley rubbed the little Shadowmouse’s head. “Alright, stop making a fuss. Tomorrow, I’m going to leave home and go to the capital. After the magus recruitment event is over, I’m going to be going to a magus academy. I’m afraid we won’t have many chances to meet after that.”
+
+
+score: 0.654562, para: 02 5 40	“I don’t know how much time I will have to spend in a magus academy, or how many years I will be there for. Will we ever meet again?” Linley stroked the little Shadowmouse’s fur, somewhat unwilling to part from it. After playing with the little Shadowmouse for the past month, he had really come to care for the cute little Shadowmouse.
+
+
+score: 0.637034, para: 02 4 17	It seemed as though this time, the little Shadowmouse had enjoyed his meal very much. He was so happy that he immediately began to hop up and down while squeaking at Linley, while even hugging Linley’s leg with his own front arms. Linley couldn’t help but feel pleased; this was the first time that the little Shadowmouse had acted so intimately towards him, even after eating.
+
+
+score: 0.634650, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.625373, para: 02 3 49	“The Shadowmouse is actually here staring at me.” Linley chuckled as he saw that Shadowmouse inside the courtyard watch him approach.
+
+
+score: 0.615045, para: 02 4 1	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+

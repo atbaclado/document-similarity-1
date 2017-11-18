@@ -1,0 +1,21 @@
+source: 02 18 19	“Great.” Instructor Trey took out a duck feather quill pen and began to record down names, but after taking down ten or so names, he realized that Linley was busy chatting with Delia, apparently not interested in enrolling at all.
+
+
+score: 0.603557, para: 02 16 28	“Greetings, everyone,” a handsome, yellow-haired youngster said with a smile. “I am a sixth grade student, Trey [Te’lei]. From today onwards, I will be responsible for teaching you wind-style magic. I live in dorm 0298, so if you have any questions after class ends, you can come find me there.”
+
+
+score: 0.593538, para: 02 17 64	Trey curiously walked in that direction. Based on his prowess as a magus of the sixth rank, his execution of the ‘Supersonic’ spell was far stronger than that of Linley’s. Like a passing fog or cloud, Trey easily and tranquilly flowed through the mountain.
+
+
+score: 0.580946, para: 02 17 68	Naturally, Trey recognized his own student. “This kid called Linley never talks in class. Even when experimenting in new spells, others will try them out, but he will just stand and watch from afar, never showing his strength. It seems…this kid called Linley is already a magus of the second rank. I remember him being one of our new students. Didn’t expect him to be so talented.”
+
+
+score: 0.563629, para: 02 17 63	Based on the magic vibrations, Trey was able to determine what spell it was.
+
+
+score: 0.542918, para: 02 17 62	Just then, Trey had utilized the ‘Windscout’ spell, and had sensed the earth-style magic which Linley had just cast.
+
+
+score: 0.510366, para: 02 17 65	In the blink of an eye, Trey had reached a spot two hundred meters next to Linley.
+
+

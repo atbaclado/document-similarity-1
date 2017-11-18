@@ -1,0 +1,15 @@
+source_doc: 2 3	These acitivities continued. Day after day, Linley continued to undergo meditative training while preparing wild rabbits and other animals for the little Shadowmouse to eat. Nobody in the entire Wushan township, including Hogg and Hillman, knew that Linley was learning magic. Similarly, none of them knew that Linley was taking care of a juvenile magical beast that already possessed power of the fourth rank!
+
+
+score: 0.771276, para: 2 2	“Adult magical beasts have very high intelligence, so if you want to move the heart of an adult magical beast and make it view you as family, it is almost impossible.” Doehring Cowart sighed. “But juveniles are different. It is much like how human babies have low intelligence and can easily be tricked into liking you by, say, giving them some tasty food. The intelligence of magical beast babies is even lower. As long as you often feed him, he will like you. Then, spend some time playing with him. In a short period of time, this magical beast will come to adore you. This is especially true for an infant magical beast who has been separated from his community. Those are even easier to tame.”
+
+
+score: 0.745967, para: 2 4	Hogg nodded. “People rarely visit the back courtyard, so its normal for there to be animals there. Right. In a week or so, the Fenlai City is going to begin another round of magical aptitude testing and magus recruitment. Do you want to participate?”
+
+
+score: 0.727641, para: 1 17	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.714861, para: 1 22	“First, let me tell you that the test for magical aptitude is a two-part test, so the test I am administering will also have two parts.” Doehring Cowart was behaving in an unusually generous manner. After having been trapped along in the Coiling Dragon Ring for five thousand years, of course he was now in a wonderful mood when faced with such a cute little child.
+
+

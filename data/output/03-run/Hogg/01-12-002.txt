@@ -1,0 +1,30 @@
+source: 01 12 2	“Uncle Hiri.” Hogg immediately turned to look at his housetaker Hiri. “Immediately order some people to recover all of the melted gold from within those piles of ashes. This adventuring party was quite extraordinary as well. No doubt, they had a great deal of wealth on them. I hope they had enough to recompense the losses we have suffered today”
+
+
+score: 0.783861, para: 01 11 50	“Oh.” The mysterious magus’ face was still covered by his violet robes, preventing anyone from seeing his face. He lightly said, “Your town suffered some serious damages today. I annihilated this small adventuring party. On their bodies, there is sure to be a good amount of gold coins. The gold coins, no doubt, have been melted and reforged by my ‘Dance of the Fire Serpents’, but they are still worth some money. Just consider them yours, as my recompense for what Wushan town just went through.”
+
+
+score: 0.652830, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.649714, para: 01 3 47	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.621853, para: 01 3 52	As the current clan leader, Hogg also had this desire, but the clan’s economic situation was in dire straits. 180,000 gold coins of gold? Even if they sold off the manor and all their possessions, they might not be able to produce such a vast sum.
+
+
+score: 0.618976, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+
+score: 0.611898, para: 01 3 54	Seeing the look on his father’s face, Linley consoled him, “Father, don’t be unhappy! I promise that one day, I will recover our family’s heirloom and bring it back to this manor.”
+
+
+score: 0.591154, para: 01 17 39	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+
+score: 0.584780, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.584344, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+

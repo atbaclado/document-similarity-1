@@ -1,0 +1,30 @@
+source: 01 17 15	At this moment, upon seeing Linley’s smile, Hogg’s tears came spilling out.
+
+
+score: 0.684454, para: 02 10 14	That wild laughter and those coursing tears absolutely stunned Linley.
+
+
+score: 0.596189, para: 02 10 16	Linley had never seen his father act so wildly before, and his father’s tears made Linley’s heart quaver as well.
+
+
+score: 0.544886, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.542540, para: 01 19 32	Linley frowned while mumbling, “Dripping blood onto the ring?” Frowning as he tried to recollect when that had happened, Linley suddenly remembered that when the rock had cut his head open, fresh blood had suffused his clothes and his chest. Most likely, it was around then that the blood had dripped onto the ring.
+
+
+score: 0.542244, para: 01 2 45	“What, did I do it wrong? I really wiped them clean.” In little Wharton’s tiny head, his eyes were filled with an uncomprehending look as he stared at his big brother.
+
+
+score: 0.536345, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+
+
+score: 0.532796, para: 01 16 48	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+
+score: 0.529002, para: 02 4 12	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.521410, para: 01 11 31	Linley’s heart was suddenly filled with dread, as he stared at that far-off, distant figure.
+
+

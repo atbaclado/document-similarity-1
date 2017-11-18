@@ -1,0 +1,6 @@
+source: 02 24 12	“It’s Dixie. I heard that yesterday at the annual magus assessment test, Dixie showed that he had already reached the requirements for the fourth rank.” A number of seventeen and eighteen year old girls said from the side.
+
+score: 0.553736, para: 02 25 43	Year 9997 of the Yulan calendar was the seventh year Linley had spent at the Ernst Institute. This year, Linley was fifteen years old.
+
+score: 0.517574, para: 02 25 48	At the start of year 9997 of the Yulan calendar, Linley entered the fifth grade class at the Ernst Institute, the same grade as the Ernst Institute’s number one genius, Dixie. It had taken Dixie three years to advance from the fourth rank to the fifth rank, but up until now, he still had not been able to advance from the fifth rank to the sixth.
+

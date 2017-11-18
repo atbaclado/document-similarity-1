@@ -1,0 +1,30 @@
+source: 01 22 40	“Come, let’s begin the test of the strength of your elemental affinities. Sit down with legs crossed, close your eyes, and enter a meditative state.” Doehring Cowart said gently.
+
+
+score: 0.667279, para: 01 23 41	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+
+score: 0.664840, para: 02 8 18	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+
+score: 0.656323, para: 01 20 47	“Those who have the same spiritual power as me are most likely Saint-level combatants. Only Saint-level combatants can sense my presence, if barely. But of course, the prerequisite is that I appear outside the Coiling Dragon Ring. Once I enter the ring, there is no way they can find me.” Doehring Cowart smiled as he spoke.
+
+
+score: 0.633639, para: 02 3 57	“There’s no way that tiny little Wushan township is big enough for Linley.” Watching Linley enter the meditative trance to practice magic, Doehring Cowart felt a hint of excitement. “Sooner or later, he will bring an adult Violet Shadowmouse and step onto the endlessly broad stage that is the world of the Yulan continent.”
+
+
+score: 0.630092, para: 02 8 46	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+
+score: 0.628647, para: 02 19 17	“Linley, your current assignment is to train hard and build up your strength. As far as combat experience goes, when you become a magus of the fifth rank, you should enter the Mountain Range of Magical Beasts and enter a series of genuine life-and-death experiences.” Doehring Cowart persuaded Linley.
+
+
+score: 0.625265, para: 01 21 30	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+
+score: 0.624241, para: 02 24 39	Doehring Cowart smiled and said, “Right. When others sculpt stone, they will exert a lot of energy and exhaust themselves. But my stonesculpting method is different. Although it is also tiring when you first begin to train in it, towards the end, it will have extremely good results.”
+
+
+score: 0.621110, para: 02 12 22	“I know that, of course.” Doehring Cowart said, dissatisfied. “But how could those basic training methods compare to the meditative trance in turns of how fast one’s spiritual essence increases?”
+
+

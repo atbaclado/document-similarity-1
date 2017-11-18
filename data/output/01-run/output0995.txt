@@ -1,0 +1,15 @@
+source_doc: 2 1	Doehring Cowart continued to try and entice Linley.
+
+
+score: 0.706447, para: 1 10	“Linley, don’t watch.” Hillman saw that Linley was intending to continue watching, and was shocked.
+
+
+score: 0.659370, para: 1 14	Linley continued to persevere.
+
+
+score: 0.629452, para: 2 4	Linley couldn’t help but be moved.
+
+
+score: 0.610779, para: 2 9	Standing alone in the magical formation, Linley continued to resist the overawing presence.
+
+

@@ -1,0 +1,14 @@
+source_doc: 2 10	An ancient clan which had lasted five thousand years. The Dragonblood Warrior clan. Linley felt pride in his heart. But their ancestral heirloom had been lost.
+
+
+score: 0.805092, para: 1 3	Hogg proudly said, “Our ancestral heirloom – the warblade, “Slaughterer”. This was the weapon used by the very first leader of the Baruch clan, the very first Dragonblood Warrior of the Yulan continent. Alas…his descendants were unfilial. Six hundred years ago, because of poverty, a descendant who loved luxury actually sold our ancestral weapon for money.”
+
+
+score: 0.802532, para: 2 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+
+score: 0.768124, para: 1 2	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+
+score: 0.755999, para: 1 2	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+

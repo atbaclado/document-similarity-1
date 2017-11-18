@@ -1,0 +1,20 @@
+source: 02 1 20	Doehring Cowart frowned as he spoke. “The Stoneater Rat is famed for its toughness and its sharp teeth, while the Shadowmouse is famed for its speed and its sharp teeth! Speed is thus a very good way to determine the strength of any particular Shadowmouse.”
+
+score: 0.614590, para: 01 22 5	“Magical aptitude is divided into two parts – the strength of one’s magical affinity for certain elements, and the strength of one’s mental energy.” Doehring Cowart began to explain the basics of the test.
+
+score: 0.614590, para: 01 22 5	“Magical aptitude is divided into two parts – the strength of one’s magical affinity for certain elements, and the strength of one’s mental energy.” Doehring Cowart began to explain the basics of the test.
+
+score: 0.614590, para: 01 22 5	“Magical aptitude is divided into two parts – the strength of one’s magical affinity for certain elements, and the strength of one’s mental energy.” Doehring Cowart began to explain the basics of the test.
+
+score: 0.614590, para: 01 22 5	“Magical aptitude is divided into two parts – the strength of one’s magical affinity for certain elements, and the strength of one’s mental energy.” Doehring Cowart began to explain the basics of the test.
+
+score: 0.575984, para: 02 17 52	“Yeah, not bad.” Doehring Cowart’s eyes lit up. “To be able to control five stones at once with such impressive speed shows that you do, in fact, have the power of a magus of the second rank.” Doehring Cowart was very much satisfied with Linley’s performance.
+
+score: 0.575984, para: 02 17 52	“Yeah, not bad.” Doehring Cowart’s eyes lit up. “To be able to control five stones at once with such impressive speed shows that you do, in fact, have the power of a magus of the second rank.” Doehring Cowart was very much satisfied with Linley’s performance.
+
+score: 0.575984, para: 02 17 52	“Yeah, not bad.” Doehring Cowart’s eyes lit up. “To be able to control five stones at once with such impressive speed shows that you do, in fact, have the power of a magus of the second rank.” Doehring Cowart was very much satisfied with Linley’s performance.
+
+score: 0.528215, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+score: 0.528215, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+

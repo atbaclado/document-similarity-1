@@ -1,0 +1,9 @@
+source: 02 13 5	“What an imposing style.” Linley stood at the gateway to the Ernst Institute. He couldn’t help but sigh with emotion.
+
+
+score: 0.505275, para: 02 21 3	“A hundred gold coins, gone like that.” Walking out from the local branch of the Golden Bank of the Four Empires within the Ernst Institute, Linley couldn’t help but sigh to himself. Now, next to his chest, was a magicrystal card of his own.
+
+
+score: 0.501414, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 5	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+
+score: 0.630009, para: 1 3	As the current clan leader, Hogg also had this desire, but the clan’s economic situation was in dire straits. 180,000 gold coins of gold? Even if they sold off the manor and all their possessions, they might not be able to produce such a vast sum.
+
+
+score: 0.612339, para: 1 1	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.609812, para: 2 10	Late night, the Baruch family ancestral hall. Only Linley and his father were present.
+
+
+score: 0.601667, para: 1 20	Hearing and seeing were two different things. When he personally witnessed all the other people at the dinner table be unaware of Grandpa Doehring’s presence, Linley felt deeply astonished.
+
+

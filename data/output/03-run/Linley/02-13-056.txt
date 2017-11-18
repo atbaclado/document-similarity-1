@@ -1,0 +1,30 @@
+source: 02 13 56	“Linley, let’s go find our dorm.” Reynolds, pulling Linley’s hand, began hurrying in the direction of the dormitories.
+
+
+score: 0.598892, para: 02 12 50	Linley unwillingly took one last glance at his family, and then finally forced himself to turn away and begin traveling in the direction of the Ernst Institute.
+
+
+score: 0.591708, para: 01 16 12	“Yes, father!” Linley was startled awake. He immediately clambered to his feet and began running in the direction of the warehouse again.
+
+
+score: 0.549210, para: 02 12 12	“Woosh!” A black shadow from far away came flashing towards them, appearing on Linley’s shoulders in the blink of an eye. It was the Shadowmouse, ‘Bebe’. Young Bebe leaned towards Linley, making a chewing motion with his mouth, while pointing at a nearby dead hare.
+
+
+score: 0.544660, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.541833, para: 01 14 16	“Tell’m, Linley! Was I lying? Tell’m what happened!” Hadley rushed towards Linley, tugging Linley’s hand and secretly winking towards Linley.
+
+
+score: 0.536755, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+
+score: 0.535955, para: 02 6 22	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+
+score: 0.531987, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.525309, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+

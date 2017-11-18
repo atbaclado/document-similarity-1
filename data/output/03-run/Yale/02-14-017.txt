@@ -1,0 +1,9 @@
+source: 02 14 17	“Me? I’m ten. Haha, but I’m not getting any younger. My elder brother lost his virginity at age twelve. I’ve got to do some advance preparations as well.” Yale’s eyes shone.
+
+
+score: 0.523973, para: 02 21 12	“Second bro, third bro, fourth bro, tomorrow, at the end of the month, my father will come over. At that time, I will arrange for carriages and guardsmen to be brought over. Where should we four bros travel to?” Yale suggested.
+
+
+score: 0.512357, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+

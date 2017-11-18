@@ -1,0 +1,15 @@
+source_doc: 2 4	Hogg remembered clearly that ever since the battle between the dual-element magus of the eighth rank and the small party, Linley had very much wanted to become a magus. Why was he hesitating now? In Hogg’s heart, he too hoped that his son could become a magus.
+
+
+score: 0.735302, para: 1 1	Hillman knew quite well how much he himself had to suffer in order to become a sixth-ranked warrior, and how many life-and-death battles he had to experience. Even a warrior of the sixth rank was very difficult to become. A seventh, eighth, and ninth ranked warrior was of course only harder. As for a Saint-level warrior? Even in his dreams, Hillman didn’t dare imagine himself as one.
+
+
+score: 0.694975, para: 1 12	And a magus of the eighth rank? Even if he was in the presence of a king, he would not need to kneel or show obeisance. He could just chat while staying standing. From this, one could tell how exalted a level an eighth rank magus held.
+
+
+score: 0.679041, para: 1 8	“At least a magus of the seventh rank. Perhaps even a magus of the eighth rank!” Roger’s fists couldn’t help but tremble as well. “I never imagined such an important individual would come to our home.”
+
+
+score: 0.676449, para: 1 23	“As long as you work hard, Linley, I am fully confident that you can reach the eighth rank. But as to whether or not you can become a magus of the ninth rank, or even a Saint-level magus? That will depend on your own comprehension and your experiences.” Doehring Cowart said seriously. “If you do not work hard, I’m afraid you might not even become a magus of the sixth rank. At that point in time, you’ll have no one else to blame.”
+
+

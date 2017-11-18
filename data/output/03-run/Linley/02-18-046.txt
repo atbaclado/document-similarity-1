@@ -1,0 +1,30 @@
+source: 02 18 46	“Harry [Ha’li], have you eaten dinner?” Linley smiled back in response.
+
+
+score: 0.774809, para: 02 13 49	Linley smiled and nodded.
+
+
+score: 0.688133, para: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+
+score: 0.672355, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+
+score: 0.660632, para: 01 20 48	Linley mentally nodded as he grabbed a roasted leg of mutton and chewed on it.
+
+
+score: 0.658671, para: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.650838, para: 01 19 35	Linley smiled brightly. “My name is Linley! Linley Baruch!”
+
+
+score: 0.630921, para: 02 12 14	“You want me to cook it?” Linley laughed as he spoke.
+
+
+score: 0.624262, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.619676, para: 01 17 30	Uncle Hiri smiled at Hogg. “Not bad. Linley is in excellent physical shape, and he hasn’t fainted. There shouldn’t be too much to worry about. In the coming days, he just needs to eat more meat to replenish his blood, and he’ll be fine.”
+
+

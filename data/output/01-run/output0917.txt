@@ -1,0 +1,15 @@
+source_doc: 1 23	“I…how is my spiritual energy?” Linley held his breath.
+
+
+score: 0.594563, para: 1 22	“Right, a large amount of mageforce and elemental essence, when controlled by spiritual energy, can be formed into a spell! Sometimes, in order to execute a particularly powerful spell, too high of a demand is placed upon one’s spiritual energy. Thus, the assistance of magical incantations is needed.” Doehring Cowart smiled as he spoke.
+
+
+score: 0.591363, para: 1 20	“On the same spiritual level as Grandpa Doehring?” Linley chewed and thought at Doehring Cowart at the same time.
+
+
+score: 0.569976, para: 1 4	“Well done, Linley! Hold it, hold it!” Hillman encouraged from the side.
+
+
+score: 0.568129, para: 2 9	A white-robed middle-aged man walked over. Smiling, he said, “Exceptional elemental affinity, high spiritual essence, and dual-element. Linley, our Ernst Institute would very much welcome you to join us. I don’t know if you would be willing to enter our Ernst Institute?”
+
+

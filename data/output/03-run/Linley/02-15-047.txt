@@ -1,0 +1,30 @@
+source: 02 15 47	“Reynolds, your Grandpa Lomu is a magus?” Linley asked, somewhat surprised.
+
+
+score: 0.636818, para: 02 17 39	Although Grandpa Doehring was a Saint-level Grand Magus, after getting to know him, Linley realized that although he looked kindly and amiable on the outside, on the inside, he was a playful scamp.
+
+
+score: 0.617225, para: 02 2 8	“Oh? Grandpa Doehring, from your words, it sounds like there’s a lot of advantages to this ‘bond of equals’. Why don’t most people use it?” Linley queried.
+
+
+score: 0.614758, para: 01 20 19	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+
+score: 0.596167, para: 01 20 21	“Oh. Got it.” Linley snuck another peek at Doehring Cowart, his heart filled with questions. “What’s going on. From Uncle Hiri’s expression, it seems as though he can’t see Grandpa Doehring at all.”
+
+
+score: 0.592112, para: 02 6 5	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+
+score: 0.586990, para: 02 25 74	“Met the threshold? Grandpa Doehring, do you mean?…” Linley stared at Doehring Cowart in amazement.
+
+
+score: 0.585390, para: 01 19 44	“Gramps, you said your name is Doehring Cowart? Can I address you as Grandpa Doehring?” Linley suddenly said.
+
+
+score: 0.568436, para: 01 21 11	The formerly amiable Grandpa Doehring suddenly turned angry as he grumbled, “Linley, let me tell you that when it comes to attack power, each elemental style has its strengths!”
+
+
+score: 0.561474, para: 01 3 25	“If I fail, I guess father will be extremely disappointed.” Linley couldn’t help but think. Having grown up with his father and his younger brother, Linley didn’t want to disappoint his father. But the density of dragonblood in his veins wasn’t something he could decide.
+
+

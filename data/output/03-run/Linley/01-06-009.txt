@@ -1,0 +1,30 @@
+source: 01 6 9	Upon coming to this realization, Linley’s heart began to pound.
+
+
+score: 0.875121, para: 01 5 6	Hearing these words, Linley felt his heart twinge.
+
+
+score: 0.870401, para: 01 8 29	Linley’s heart trembled.
+
+
+score: 0.827136, para: 02 1 39	Hearing his words, Linley’s heart fluttered.
+
+
+score: 0.709729, para: 01 2 66	Linley could feel his heart thumping frantically.
+
+
+score: 0.696843, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 0.696843, para: 01 21 14	Linley’s heart was trembling.
+
+
+score: 0.696843, para: 02 23 17	Linley’s heart was full of excitement.
+
+
+score: 0.621479, para: 01 8 13	Linley felt as though his heart had stopped beating. Right now, it seemed as though all sound had faded away.
+
+
+score: 0.613173, para: 02 12 47	“Father. Wharton.” Linley’s heart was filled with longing.
+
+

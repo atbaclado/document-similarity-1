@@ -1,0 +1,15 @@
+source_doc: 2 11	“I remember the master physician who provided the prescription saying that everything in this world has its equal and opposite. For every single ingredient, there was another that would match with it. In that era, the only person who knew how to mix fresh dragon’s blood with Blueheart Grass was that old physician. Since six thousand years have gone by, no doubt no one knows it any longer.” Doehring Cowart said calmly.
+
+
+score: 0.679263, para: 2 1	“To be so powerful when still so young, eight or nine times out of ten, means that it is the infant of a Violet Shadowmouse. I really wonder how he managed to make his way to your clan’s manor, without a single adult Shadowmouse guard.” Doehring Cowart said with an air of amazement.
+
+
+score: 0.678759, para: 2 2	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.659837, para: 2 3	Linley self-confidently said, “I often have to coax little Wharton. Lemme tell ya, if you want to give a kid something, you can’t give them something too good, right off the bat. Otherwise, in the future, they’ll expect something really good every single time, or something even better. Right now, the Shadowmouse is chewing on rocks. If I give him some raw meat, he’ll be really happy. I’ll give him raw meat for seven or eight days, and then I’ll give him cooked meat. That will make him even happier.”
+
+
+score: 0.656199, para: 1 1	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+

@@ -1,0 +1,30 @@
+source: 02 17 9	“Haha, I knew Linley definitely wouldn’t go.” Reynolds laughed loudly.
+
+
+score: 0.732121, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.706248, para: 02 7 30	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+
+score: 0.688336, para: 02 5 49	“Farewell, father.” Linley said respectfully, and then smiled at little Wharton. “Wharton, your big brother is gonna leave now.”
+
+
+score: 0.675847, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.664124, para: 02 4 29	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.657452, para: 02 11 31	“Linley, don’t ask too much. Honestly, I only know a little bit about our family history as well. As far as what happened four thousand years ago, there’s no way we can clearly know what happened.” Hogg laughed towards Linley.
+
+
+score: 0.646433, para: 01 20 32	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+
+score: 0.639597, para: 02 18 47	Linley was on excellent relations with most of the nearby neighbors. Harry laughed and nodded. “Of course I have. Your three bros are all waiting for you inside.”
+
+
+score: 0.621271, para: 02 6 45	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+

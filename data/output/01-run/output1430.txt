@@ -1,0 +1,15 @@
+source_doc: 2 11	Hogg was startled.
+
+
+score: 1.000000, para: 2 1	Linley was startled.
+
+
+score: 1.000000, para: 2 2	Linley now understood.
+
+
+score: 1.000000, para: 2 2	Linley nodded.
+
+
+score: 1.000000, para: 2 2	Linley understood.
+
+

@@ -1,0 +1,20 @@
+source: 02 9 43	In fact, immediately upon knowing Linley’s test results, he had recorded Linley’s details into the paperwork in the envelope. Because the white robed man believed without a doubt – no one would refuse an offer from the Ernst Institute!
+
+score: 0.589567, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+score: 0.589567, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+score: 0.589567, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+score: 0.574554, para: 02 25 57	On the street, there were many people who, upon seeing Linley, began to discuss him amongst themselves. As the acknowledged genius of the Ernst Institute, no matter where he went, people would discuss him. But although Linley’s strength continued to increase, he still refused to participate in the yearly tournaments.
+
+score: 0.574554, para: 02 25 57	On the street, there were many people who, upon seeing Linley, began to discuss him amongst themselves. As the acknowledged genius of the Ernst Institute, no matter where he went, people would discuss him. But although Linley’s strength continued to increase, he still refused to participate in the yearly tournaments.
+
+score: 0.574554, para: 02 25 57	On the street, there were many people who, upon seeing Linley, began to discuss him amongst themselves. As the acknowledged genius of the Ernst Institute, no matter where he went, people would discuss him. But although Linley’s strength continued to increase, he still refused to participate in the yearly tournaments.
+
+score: 0.550164, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+score: 0.550164, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+score: 0.550164, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+

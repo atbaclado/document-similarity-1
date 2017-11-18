@@ -1,0 +1,30 @@
+source: 01 20 36	What Linley didn’t know was…when the rain of stones descended on the town, aside from men and women, even many animals were killed. The Baruch clan aside, even some poor families who rarely ate meat were enjoying an extravagant meal today.
+
+
+score: 0.652201, para: 02 4 3	“Right, today I’ll give the little Shadowmouse some cooked meat.” Linley covered a wild chicken with a cloth sack, and then happily went to the back of the ancient courtyard in the manor.
+
+
+score: 0.638310, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.633467, para: 01 1 134	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.632390, para: 01 17 30	Uncle Hiri smiled at Hogg. “Not bad. Linley is in excellent physical shape, and he hasn’t fainted. There shouldn’t be too much to worry about. In the coming days, he just needs to eat more meat to replenish his blood, and he’ll be fine.”
+
+
+score: 0.628403, para: 02 3 38	And then he immediately began to eat the wild hare. His sharp teeth chewed at an incredibly fast rate. Although the Shadowmouse had a small body, this wild hare which was physically larger than the Shadowmouse was fully devoured by it, aside from the fur. Even the bones weren’t spared.
+
+
+score: 0.625632, para: 02 7 65	There were some commoners amongst the hundreds of people crowding the square, and some countryside nobles such as Linley. Usually, those nobles from small countryside noble families were also looked down upon. The nobles of the capital were an arrogant lot who generally looked down on people.
+
+
+score: 0.623707, para: 01 12 19	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+
+score: 0.620497, para: 01 13 1	At dinnertime, the three members of the Baruch clan and their housekeeper, Hiri, all shared dinner together. Little Wharton raised a cute ruckus at the dinner table, filling it with laughter. By the time dinner came to an end, the old housekeeper carried Wharton back to his room, while Linley and his father, Hogg, began to chat.
+
+
+score: 0.615619, para: 01 6 16	Linley very much enjoyed this feeling of searching for treasures in the ancient room. But he had forgotten something. If he could come up with this idea, wouldn’t his father, his grandfather, and the other elders of the Baruch clan also have thought of this?
+
+

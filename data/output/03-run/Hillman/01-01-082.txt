@@ -1,0 +1,15 @@
+source: 01 1 82	“Captain.” Lorry immediately straightened, awaiting his orders.
+
+
+score: 0.647522, para: 01 8 45	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+
+score: 0.568674, para: 01 8 42	Linley gritted his teeth. “Uncle Hillman!” Linley was also worried for Uncle Hillman, as well as the citizens of Wushan town. He also ran in that direction. At this moment, Lorry and Roger were both panic-stricken at the thought of the Velocidragon, and didn’t notice Linley following behind them.
+
+
+score: 0.544450, para: 01 9 1	“Captain, what’s going on up ahead?” Lorry said in a quiet voice to Hillman.
+
+
+score: 0.535526, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+

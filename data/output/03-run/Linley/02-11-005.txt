@@ -1,0 +1,30 @@
+source: 02 11 5	“Linley, even if this tome falls into the hands of outsiders, it would be useless to them, as there is simply no way an outsider can train in accordance with the Secret Dragonblood Training Method. As for our family history, so what if someone learns about it? What’s more, we have multiple copies of this tome as well. This one is also just a copy. After so many years have passed, the original has long since turned to dust.” Hogg laughed as he spoke.
+
+
+score: 0.654698, para: 02 10 58	Linley looked suspiciously at the thick book he had just accepted. There were no words on the cover, but when he opened it, there were four big words printed on the first page – Secret Dragonblood Training Tome.
+
+
+score: 0.631143, para: 02 4 48	Linley’s words died unspoken on his lips. At the same time, he suspiciously asked, “Grandpa Doehring, I have you to teach me, right? With you teaching me, why would I need to go to a magus academy? Isn’t that a waste of family resources?”
+
+
+score: 0.629456, para: 02 12 25	The real reason that Linley continued his fighter training was this. “In the future, if I have the chance to drink fresh dragon’s blood, I will be able to practice according to the Secret Dragonblood Training Tome. I have to keep up my physical training. The body is like a vessel, while battle-qi is like wine. The body is extremely important. The earlier I begin building my fundamentals, the faster my improvement will be when I study the Secret Dragonblood Training Tome in the future.”
+
+
+score: 0.606857, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.606217, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.601659, para: 01 3 40	“Linley, at this point in time, the Baruch family just consists of you, me, and your little brother. I don’t have any extravagant hopes. I’ve never dared to dream of becoming a Dragonblood Warrior.” Hogg laughed at himself satirically. How could becoming a Dragonblood Warrior be an easy task?
+
+
+score: 0.599907, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.598343, para: 02 2 6	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.593758, para: 02 13 33	Reynolds wrinkled his little nose. “This fellow called Linley is from the Holy Union. He no doubt had a much easier time being accepted than me. I bet he isn’t as talented as I am.” Reynolds was extremely confident.
+
+

@@ -1,0 +1,14 @@
+source_doc: 1 23	This was his first step into the world of magic. Linley was filled with amazement.
+
+
+score: 0.715979, para: 1 15	Hillman’s face was filled with urgency.
+
+
+score: 0.641580, para: 1 1	Staring at Linley, Hillman couldn’t help but be filled with surprise and joy.
+
+
+score: 0.615420, para: 1 12	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+score: 0.607224, para: 2 7	Peering out through the window, Linley saw that the streets were still filled with people.
+
+

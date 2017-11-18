@@ -1,0 +1,15 @@
+source_doc: 1 1	“My lord father always told me, if you want to become a man without peer, then you must work harder than other men.” Linley unconsciously mimicked his father’s manner of speech.
+
+
+score: 0.686080, para: 1 2	“Uncle Hillman, I know already. My lord father already reminded me three times. My lord father has never been so insistent about anything. I won’t go off and play.” Linley grinned, revealing his pearly white teeth, perfect but for the fact that one was missing.
+
+
+score: 0.669452, para: 1 22	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.635739, para: 1 12	“Father, I’d like to ask, is it possible for a member of the Dragonblood Warrior clan to become a magus?” Linley’s hands unconsciously balled up, clenching his bedsheets. He stared hard at his father.
+
+
+score: 0.632707, para: 1 12	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+

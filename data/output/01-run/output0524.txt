@@ -1,0 +1,15 @@
+source_doc: 1 13	Linley immediately understood.
+
+
+score: 1.000000, para: 1 1	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+
+score: 1.000000, para: 1 22	“Magical incantations!” Linley immediately said.
+
+
+score: 1.000000, para: 1 23	Hearing this news, Doehring Cowart was immediately ecstatic.
+
+
+score: 0.970032, para: 2 3	Doehring Cowart immediately understood.
+
+

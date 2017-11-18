@@ -1,0 +1,15 @@
+source_doc: 1 20	“Grandpa Doehring, how does one test for magical aptitude?” Linley couldn’t help but grow eager.
+
+
+score: 0.739349, para: 2 6	“Linley, this…what…what is this?” Only now did Hillman recover from his stupor. His eyes couldn’t help but grow round with shock. “Linley, what was that black magical formation just now? What just happened? Are you okay?”
+
+
+score: 0.736958, para: 1 18	“So many casualties?” Hogg couldn’t help but begin to grow worried.
+
+
+score: 0.676158, para: 1 17	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.670516, para: 2 1	Book 2, Growing Up, Chapter 1 – Magical Beast, Shadowmouse
+
+

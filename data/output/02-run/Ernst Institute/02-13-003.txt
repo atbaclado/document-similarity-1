@@ -1,0 +1,8 @@
+source: 02 13 3	Outside of the Ernst Institute, few visible signs of human presence could be seen, just an empty mountain range.
+
+score: 0.536788, para: 02 16 25	Linley had it all planned out. Every day, he would spend some time outside training in magic. As for the place he would do the training…Linley had already chosen a place, a mountain located right behind the Ernst Institute. Being located near a mountain range, naturally there were many mountains near the Institute.
+
+score: 0.536788, para: 02 16 25	Linley had it all planned out. Every day, he would spend some time outside training in magic. As for the place he would do the training…Linley had already chosen a place, a mountain located right behind the Ernst Institute. Being located near a mountain range, naturally there were many mountains near the Institute.
+
+score: 0.536788, para: 02 16 25	Linley had it all planned out. Every day, he would spend some time outside training in magic. As for the place he would do the training…Linley had already chosen a place, a mountain located right behind the Ernst Institute. Being located near a mountain range, naturally there were many mountains near the Institute.
+

@@ -1,0 +1,30 @@
+source: 01 8 49	“Thank you, Uncle Hillman. I definitely won’t run around.” Linley was overjoyed.
+
+
+score: 0.709672, para: 02 5 49	“Farewell, father.” Linley said respectfully, and then smiled at little Wharton. “Wharton, your big brother is gonna leave now.”
+
+
+score: 0.627216, para: 02 21 33	Next to Linley, Doehring Cowart’s eyes lit up and he said to him, “Linley, this brother of yours definitely is extraordinary. Based on how he dismounted and his eyes, I can feel that this Cass is an expert who is a good deal stronger than even your Uncle Hillman. In addition, that hawk on his shoulder should be a magical beast of the seventh rank – the “Blue-eyed Thunderhawk.”
+
+
+score: 0.621757, para: 01 3 59	“Father, you don’t believe me?” Raising his head, Linley looked at his father questioningly.
+
+
+score: 0.616946, para: 02 4 1	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+
+score: 0.616895, para: 02 4 20	“This little guy is so adorable.” Linley was really beginning to like this little Shadowmouse more and more.
+
+
+score: 0.610453, para: 01 20 37	“Grandpa Doehring, why didn’t Uncle Hiri see you just then?” Linley mentally asked Doehring Cowart.
+
+
+score: 0.608377, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.607707, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+
+score: 0.606050, para: 01 2 48	“I wonder why father summoned me?” Although he was young, Linley could sense that this time, his father had called him for something important.
+
+

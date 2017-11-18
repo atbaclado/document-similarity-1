@@ -1,0 +1,20 @@
+source: 02 14 50	“George, you are ten? But you look the same as me.” Reynolds said to the side.
+
+score: 0.649969, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+score: 0.649969, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+score: 0.649969, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+score: 0.574022, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+score: 0.574022, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+score: 0.574022, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+score: 0.554014, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+score: 0.554014, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+score: 0.554014, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+

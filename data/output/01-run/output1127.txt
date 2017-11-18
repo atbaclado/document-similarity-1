@@ -1,0 +1,15 @@
+source_doc: 2 4	“What, you don’t want to go?” Hogg’s face, previously smiling, immediately grew cold as he frowned.
+
+
+score: 0.687891, para: 1 5	Hogg’s face grew cold.
+
+
+score: 0.669186, para: 2 6	“OW!” Feeling the sudden, fierce pain, Linley immediately jumped up in the air.
+
+
+score: 0.642378, para: 2 3	Doehring Cowart immediately understood.
+
+
+score: 0.642378, para: 2 11	Linley immediately understood.
+
+

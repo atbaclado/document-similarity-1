@@ -1,0 +1,15 @@
+source_doc: 1 3	After just a short period of time, Hogg returned with a twenty-centimeter long needle that was extremely thin as he walked out from the private room.
+
+
+score: 0.625718, para: 2 4	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+
+score: 0.622868, para: 1 1	After a short period of time, the stunned children returned to their homes. Hillman, Roger, and Lorry were the last to leave. Watching the children depart in clusters of three or five, a smile appeared on Hillman’s face.
+
+
+score: 0.616964, para: 1 15	While running as fast as he could, Linley’s mind returned to the Black Dragon, its gray-robed rider, and the green-robed man. He couldn’t help but turn once again and look back at the eastern sky. Since all the buildings in the small town were fairly low in height, he could clearly see for hundreds of meters.
+
+
+score: 0.615643, para: 2 2	“Who can say? It all comes down to your luck. But I believe that in a short period of time, it won’t go anywhere.” Doehring Cowart said.
+
+

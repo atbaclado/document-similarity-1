@@ -1,0 +1,15 @@
+source_doc: 2 4	“This little guy is so adorable.” Linley was really beginning to like this little Shadowmouse more and more.
+
+
+score: 0.848722, para: 2 6	“What’s the little Shadowmouse saying?” Linley didn’t really understand.
+
+
+score: 0.799063, para: 2 5	The little Shadowmouse really liked Linley.
+
+
+score: 0.786856, para: 2 6	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+
+score: 0.786856, para: 2 6	The little Shadowmouse said, somewhat excitedly, “Bei….bei….”
+
+

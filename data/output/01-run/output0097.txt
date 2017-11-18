@@ -1,0 +1,15 @@
+source_doc: 1 1	“This kid really has the daring to dream big. The country of Fenlai has millions of citizens, but even so, after countless centuries, it hasn’t produced a single Saint-level warrior. To want to become a Saint-level warrior…” In Hillman’s mind, he fully understood how difficult it was to become a Saint-level warrior.
+
+
+score: 0.694680, para: 1 3	“Linley, at this point in time, the Baruch family just consists of you, me, and your little brother. I don’t have any extravagant hopes. I’ve never dared to dream of becoming a Dragonblood Warrior.” Hogg laughed at himself satirically. How could becoming a Dragonblood Warrior be an easy task?
+
+
+score: 0.677444, para: 1 19	Linley felt as though his entire mind had been turned muddy. This old grandpa had suddenly appeared out of nowhere, and claimed that he was a Grand Magus from the era of the Pouant Empire, which had been destroyed five thousand years ago. What could be more ridiculous than this?
+
+
+score: 0.668570, para: 1 5	“Linley, do you know that amongst the hundreds of millions of people in the Holy Union, there are at least several million who have studied sculpting. But in the entire Holy Union, the number of true masters can be counted on one hand. In addition, if you don’t have a good instructor, you simply cannot succeed on your own.”
+
+
+score: 0.655664, para: 1 17	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+

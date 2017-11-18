@@ -1,0 +1,30 @@
+source: 02 16 25	Linley had it all planned out. Every day, he would spend some time outside training in magic. As for the place he would do the training…Linley had already chosen a place, a mountain located right behind the Ernst Institute. Being located near a mountain range, naturally there were many mountains near the Institute.
+
+
+score: 0.765424, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+
+score: 0.676179, para: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+
+
+score: 0.653155, para: 02 13 2	The Ernst Institutewas located in a rustic area approximately twenty kilometers south of the Holy Capital of Fenlai City. The Ernst Institute was founded and financially supported by the Radiant Church. Naturally, it was wealthy and knew how to throw around money. They took up a very large space, with a circumference of ten kilometers. Such a huge academy was nearly the size of a city.
+
+
+score: 0.643775, para: 02 19 1	The mountain behind the Ernst Institute, a place of tranquility.
+
+
+score: 0.605609, para: 02 25 21	At a waterfall in the mountains behind the Ernst Institute.
+
+
+score: 0.561515, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+
+score: 0.559872, para: 02 24 26	As he said these words, Linley had already left the gates of the Ernst Institute and entered the back mountains. As he passed through the mountain forests, Doehring Cowart suddenly said, “Linley, go to a place next to the mountainside.”
+
+
+score: 0.551756, para: 02 22 50	“Looks like some of the trainees who went to the Mountain Range of Magical Beasts were wounded. What group is this? We haven’t even been at the Ernst Institute for a year, but we’ve seen so many high level students who were injured outside.” Yale said casually.
+
+
+score: 0.536788, para: 02 13 3	Outside of the Ernst Institute, few visible signs of human presence could be seen, just an empty mountain range.
+
+

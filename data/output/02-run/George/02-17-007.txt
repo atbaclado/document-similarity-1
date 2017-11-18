@@ -1,0 +1,20 @@
+source: 02 17 7	George loved to participate in student unions and fellowships, and he was excellent in ferreting out news and making new friends. Although he had only been in school for half a year, amongst the first grade students of the Ernst Institute, George had become a mover and a shaker.
+
+score: 0.660041, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+score: 0.660041, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+score: 0.660041, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+score: 0.577196, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+score: 0.577196, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+score: 0.577196, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+score: 0.541283, para: 02 20 15	George had just been yelled at by Rand, so right now, he was in no mood to give Rand any face either. “Rand, let me tell you something. Know your own limits. Many of the experts in our school simply don’t deign to participate in the yearly tournament. Don’t really believe that you are something special.”
+
+score: 0.541283, para: 02 20 15	George had just been yelled at by Rand, so right now, he was in no mood to give Rand any face either. “Rand, let me tell you something. Know your own limits. Many of the experts in our school simply don’t deign to participate in the yearly tournament. Don’t really believe that you are something special.”
+
+score: 0.541283, para: 02 20 15	George had just been yelled at by Rand, so right now, he was in no mood to give Rand any face either. “Rand, let me tell you something. Know your own limits. Many of the experts in our school simply don’t deign to participate in the yearly tournament. Don’t really believe that you are something special.”
+

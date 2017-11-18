@@ -1,0 +1,15 @@
+source_doc: 2 3	“I read about this as well in a book regarding raising monkeys. ‘Saying three in the morning and then raising to four in the afternoon’ is much more effective than ‘saying four in the morning and then lowering to three in the afternoon’. Linley grinned.
+
+
+score: 0.624355, para: 1 17	Wharton also knew that he had made a mistake. Lowering his head, he said, “Big brother, I’m sorry.”
+
+
+score: 0.582220, para: 2 6	Hillman looked at Linley with shock. “Linley, are you saying that you’ve been raising, raising a magical beast?”
+
+
+score: 0.522764, para: 1 14	“Now, time to do our morning exercises. Same as always – face the sun, and begin the ‘qi-absorbing exercise’.” Hillman crisply began the day’s program, and immediately the three groups of children began to practice the ‘qi-absorbing stance’.
+
+
+score: 0.518076, para: 1 14	After saying these words, Hillman took a deep breath as he thought to himself, “What story should I tell them today?” Every day, when morning exercises were completed, Hillman would tell the children stories. This had turned into a routine.”
+
+

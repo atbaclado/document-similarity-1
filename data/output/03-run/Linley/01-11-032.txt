@@ -1,0 +1,30 @@
+source: 01 11 32	“This…this is what a magus is?” For the first time, the concept of a magus clearly imprinted itself in Linley’s mind.
+
+
+score: 0.734188, para: 02 17 61	Linley’s wind-style magus instructor, the sixth-ranked magus Trey, frowned. “Hmm, the earth magic spell, ‘Shattered Rocks’? Based on its power, it should be of the second rank. An entry-level magus has come to the mountain to train? Who is it?”
+
+
+score: 0.714675, para: 02 18 65	What was the big deal about becoming a magus of the second rank? Even before the magus testing event, he had already become a magus of the first rank. A full year had passed since then. If he still had not become a magus of the second rank, then all his hard work would’ve been totally pointless.
+
+
+score: 0.589307, para: 01 22 16	“Haha. Of course. Linley, did you think that a powerful magus could simply rely on the elemental essence already in his body? Impossible! Let’s look at forbidden-level magical spells. The mageforce in the body of a Saint-level magus can only provide 1% of the amount of essence needed. The other 99% can only be provided by natural, elemental essence.”
+
+
+score: 0.579124, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.574951, para: 01 22 17	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+
+score: 0.573981, para: 01 17 25	Linley stared at this battle in awe. “This earthen giant must have been conjured by the magic of the gray-robed magus.” Linley could easily come to this conclusion, since the gray-robed magus was a mighty magus, after all.
+
+
+score: 0.565926, para: 02 18 56	Yale pursed his lips. “Punk, you became a magus of the first rank on the road from the O’Brien Empire to the Ernst Institute. I wager that by now, you aren’t too off from becoming the magus of the second rank. That really is unfair.”
+
+
+score: 0.553952, para: 02 4 63	Linley chuckled, then turned to look at Hogg. “Father, there must be many magus academies. Which ones are good? Right, are there any combined magus academy/warrior academy schools?”
+
+
+score: 0.553099, para: 02 5 28	Because Linley, after all, was already a magus of the first rank.
+
+

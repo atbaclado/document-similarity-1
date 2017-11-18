@@ -1,0 +1,20 @@
+source: 02 4 49	“No.” Doehring Cowart said seriously. “I haven’t interacted with the Yulan continent for over five thousand years. Five thousand years, Linley! You must understand that many magi in the world have been continuously researching and developing new spells during this time period. Who knows how many new spells have been developed in the interim.”
+
+score: 0.640446, para: 01 22 31	“What’s the point of having mageforce, if you don’t know exactly how to shape it into a magical spell?” Doehring Cowart let out a long sigh. “The world of magic is an extremely complicated one. Magical research is very difficult and dangerous. But due to intra-empire struggles, countless magi engage in the research of new types of spells.”
+
+score: 0.640446, para: 01 22 31	“What’s the point of having mageforce, if you don’t know exactly how to shape it into a magical spell?” Doehring Cowart let out a long sigh. “The world of magic is an extremely complicated one. Magical research is very difficult and dangerous. But due to intra-empire struggles, countless magi engage in the research of new types of spells.”
+
+score: 0.640446, para: 01 22 31	“What’s the point of having mageforce, if you don’t know exactly how to shape it into a magical spell?” Doehring Cowart let out a long sigh. “The world of magic is an extremely complicated one. Magical research is very difficult and dangerous. But due to intra-empire struggles, countless magi engage in the research of new types of spells.”
+
+score: 0.640446, para: 01 22 31	“What’s the point of having mageforce, if you don’t know exactly how to shape it into a magical spell?” Doehring Cowart let out a long sigh. “The world of magic is an extremely complicated one. Magical research is very difficult and dangerous. But due to intra-empire struggles, countless magi engage in the research of new types of spells.”
+
+score: 0.629759, para: 01 23 26	But Doehring Cowart continued, “Generally speaking, only one in ten thousand can become a magus, principally because there’s a high requirement when it comes to spiritual energy. The absolute minimum requirement for a magus is having five times more spiritual energy than someone of the same age. Ten times puts you roughly in the middle of the pack, as far as the average magus goes.”
+
+score: 0.629759, para: 01 23 26	But Doehring Cowart continued, “Generally speaking, only one in ten thousand can become a magus, principally because there’s a high requirement when it comes to spiritual energy. The absolute minimum requirement for a magus is having five times more spiritual energy than someone of the same age. Ten times puts you roughly in the middle of the pack, as far as the average magus goes.”
+
+score: 0.629759, para: 01 23 26	But Doehring Cowart continued, “Generally speaking, only one in ten thousand can become a magus, principally because there’s a high requirement when it comes to spiritual energy. The absolute minimum requirement for a magus is having five times more spiritual energy than someone of the same age. Ten times puts you roughly in the middle of the pack, as far as the average magus goes.”
+
+score: 0.629759, para: 01 23 26	But Doehring Cowart continued, “Generally speaking, only one in ten thousand can become a magus, principally because there’s a high requirement when it comes to spiritual energy. The absolute minimum requirement for a magus is having five times more spiritual energy than someone of the same age. Ten times puts you roughly in the middle of the pack, as far as the average magus goes.”
+
+score: 0.612411, para: 01 21 34	Doehring Cowart laughed as he said, “At the earliest levels, earth-style magi have access to simple spells such as a shield of earth, or a wall of earth. Upon becoming a magus of the fifth rank, you will gain access to the ‘Earthguard’ spell, which will continuously grow in power along with you.”
+

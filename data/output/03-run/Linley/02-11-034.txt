@@ -1,0 +1,18 @@
+source: 02 11 34	“Linley, it’s getting late. You should go back and get some rest.” Hogg laughed.
+
+
+score: 0.593458, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.582347, para: 01 17 26	“Linley, how are you feeling?” Hogg said with concern.
+
+
+score: 0.530157, para: 01 1 75	“Hold, gotta hold. I’m the best!” Linley kept encouraging himself. Linley’s body had always been very strong, even as a baby. He had virtually never gotten sick. Given that he also worked very hard, for him to excel was nothing special.
+
+
+score: 0.516044, para: 02 5 3	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.502963, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+

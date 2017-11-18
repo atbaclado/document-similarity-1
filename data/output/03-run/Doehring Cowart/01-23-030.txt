@@ -1,0 +1,15 @@
+source: 01 23 30	Right. Doehring Cowart was a Saint-level Grand Magus!
+
+
+score: 0.662504, para: 02 4 43	Doehring Cowart was a Saint-level Grand Magus. Would any magus academies require a Saint-level Grand Magus to teach there?
+
+
+score: 0.544914, para: 02 24 41	Doehring Cowart stared at him. “Linley, you don’t believe me? As a venerable Saint-level Grand Magus of the Pouant Empire, in the past, there were several sculptures I made which nobles offered a million gold coins to purchase. But how could I, a Saint-level Grand Magus, be willing to give the sculptures which I was the most proud of to others?”
+
+
+score: 0.526296, para: 02 3 8	Doehring Cowart was startled. He had never had any grandchildren, and why would a revered Saint-level Grand Magus like himself stoop to coaxing other kids?
+
+
+score: 0.516326, para: 02 1 48	Doehring Cowart felt very happy. “If little Linley really can tame this Shadowmouse, in the future, I can be a bit more at ease.” Doehring Cowart knew very well that as a spirit, he had no mageforce of his own at all. A Saint-level Grand Magus without mageforce really didn’t have many attacking abilities.
+
+

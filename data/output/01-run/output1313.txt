@@ -1,0 +1,15 @@
+source_doc: 2 8	“Wind elemental essence?” Linley was stunned. “The first time you taught me to process elemental essence, you told me to not be distracted, so although I did notice some green-colored specks of light around me, I didn’t pay any attention to them. But later on, when I began to absorb earth elemental essence, I would be surrounded by earth essence and the green specks would no longer appear.
+
+
+score: 0.743395, para: 1 22	A large amount of earth essence began to swirl around Linley. Normally, most places only had an ordinary density of earth essence, but right now, Doehring Cowart was using his powerful spiritual energy to increase the density of earth essence near Linley by a hundredfold.
+
+
+score: 0.736310, para: 1 22	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+
+score: 0.735764, para: 1 22	“Haha. Of course. Linley, did you think that a powerful magus could simply rely on the elemental essence already in his body? Impossible! Let’s look at forbidden-level magical spells. The mageforce in the body of a Saint-level magus can only provide 1% of the amount of essence needed. The other 99% can only be provided by natural, elemental essence.”
+
+
+score: 0.729241, para: 1 21	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+

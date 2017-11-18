@@ -1,0 +1,9 @@
+source: 01 1 128	Lorry and Roger were both speechless.
+
+
+score: 0.676951, para: 01 8 46	“Linley, why did you…” Lorry and Roger didn’t know what to say.
+
+
+score: 0.587932, para: 01 8 34	Linley could also feel the fear which was in the hearts of Roger and Lorry.
+
+

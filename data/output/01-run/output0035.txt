@@ -1,0 +1,15 @@
+source_doc: 1 1	“Good kid!” Hillman secretly praised. Despite being just six years old, he could maintain the ‘Qi Building Stance’ for as long as the ten year old kids.
+
+
+score: 0.684544, para: 1 4	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+
+score: 0.635430, para: 1 5	Philip carefully studied Hogg for a moment, then chuckled. “Fine, Hogg. I’ll give you some face. Six hundred gold it is. Housekeeper, bring me six hundred gold.” The caretaker for his manor, who had been waiting outside the entire time, immediately ran over with the gold.
+
+
+score: 0.633246, para: 1 2	“I hope at least half of these hundred and twenty six will be able to return alive,” Hillman prayed silently.
+
+
+score: 0.599753, para: 1 23	But Doehring Cowart continued, “Generally speaking, only one in ten thousand can become a magus, principally because there’s a high requirement when it comes to spiritual energy. The absolute minimum requirement for a magus is having five times more spiritual energy than someone of the same age. Ten times puts you roughly in the middle of the pack, as far as the average magus goes.”
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 23	“What an adorable little mouse. And how amazingly fast!” Hiding by the doorway, Linley exclaimed silently.
+
+
+score: 0.739606, para: 2 4	“Looks like it is time for me to confess.” Linley said to himself, then looked at Hogg and nodded. “Father, recently I discovered a cute animal living in our back courtyard, an extremely cute animal. So I often bring him some food.”
+
+
+score: 0.697955, para: 1 5	“What an adorable child.” Philip seemed very pleased.
+
+
+score: 0.688472, para: 1 2	Wharton frowned, an extremely cute expression. After pondering, he excitedly said, “Today I learned about using rags!”
+
+
+score: 0.685128, para: 1 20	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+

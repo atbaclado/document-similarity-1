@@ -1,0 +1,27 @@
+source: 01 7 39	“Yes sir!” Linley raised his head high and said in a bright voice.
+
+
+score: 0.706060, para: 01 1 153	Linley raised his small head proudly. Self-confidently, he smiled. “Uncle Hillman, you just wait and see.”
+
+
+score: 0.677108, para: 01 3 41	Linley raised his head, staring at his father.
+
+
+score: 0.593694, para: 02 5 39	“You don’t even know what I’m saying,” Linley shook his head helplessly.
+
+
+score: 0.575323, para: 02 6 13	Hillman looked at Linley with shock. “Linley, are you saying that you’ve been raising, raising a magical beast?”
+
+
+score: 0.555827, para: 01 3 59	“Father, you don’t believe me?” Raising his head, Linley looked at his father questioningly.
+
+
+score: 0.541802, para: 02 6 12	The little Shadowmouse seemed to understand Linley’s words, and his small head nodded.
+
+
+score: 0.522963, para: 01 1 140	Following this, Linley sucked in a deep breath. Raising his head to look at Hillman, his voice filled with eagerness, he said, “Uncle Hillman, are Saint-level warriors really that powerful? Then what about me? Is it possible that I will become a Saint-level warrior?” In Linley’s heart, there was a desire which all children possess.
+
+
+score: 0.514923, para: 02 3 13	“I read about this as well in a book regarding raising monkeys. ‘Saying three in the morning and then raising to four in the afternoon’ is much more effective than ‘saying four in the morning and then lowering to three in the afternoon’. Linley grinned.
+
+

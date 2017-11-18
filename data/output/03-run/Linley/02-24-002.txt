@@ -1,0 +1,21 @@
+source: 02 24 2	It was morning. Linley had eaten breakfast, and was now headed to the back mountains, preparing to begin training.
+
+
+score: 0.554586, para: 02 25 15	After the New Year, little Wharton and his older brother, Linley, had only a few days to spent in each other’s company. And then, under the auspices of Housekeeper Hiri, Wharton headed towards the O’Brien Empire. Linley had no choice but to wistfully watch little Wharton depart. Crying nonstop, six year old Wharton parted from ten year old Linley and headed off.
+
+
+score: 0.542832, para: 02 6 1	The little Shadowmouse had previously watched Linley go hunting rabbits in the mountain, but this time, Linley wasn’t headed for the mountain. He was headed off in a totally different direction, traveling on a road. The little Shadowmouse immediately panicked.
+
+
+score: 0.522609, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.515511, para: 01 23 17	“Grandpa Doehring, what do I need to do?” Linley stared at Doehring Cowart, mentally preparing himself.
+
+
+score: 0.511913, para: 02 12 50	Linley unwillingly took one last glance at his family, and then finally forced himself to turn away and begin traveling in the direction of the Ernst Institute.
+
+
+score: 0.504294, para: 01 10 22	This was the first time Linley had seen a fight become so vicious and cruel. It was also the first time Linley had seen someone being eaten alive by a huge Velocidragon. The half-eaten leg, in particular, deeply buried itself in Linley’s mind.
+
+

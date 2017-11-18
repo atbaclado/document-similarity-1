@@ -1,0 +1,15 @@
+source_doc: 1 1	A look of pleased surprise appeared in Hillman’s eyes.
+
+
+score: 0.712373, para: 1 17	“I, I’m fine.” An excited smile appeared on Hogg’s face.
+
+
+score: 0.646592, para: 1 13	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.628512, para: 2 9	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+
+score: 0.611776, para: 2 10	“Lord Hogg.” Hillman was very excited as well.
+
+

@@ -1,0 +1,30 @@
+source: 01 4 57	Although his father’s words were simple, Linley clearly understood the deeper meaning.
+
+
+score: 0.660770, para: 02 9 2	Linley understood this as well.
+
+
+score: 0.651301, para: 01 9 12	Listening to the conversation from far away, Linley, by Hillman’s side, now understood everything.
+
+
+score: 0.610443, para: 02 17 46	Linley immediately began to quietly mouth the words to a spell. The words had long since been memorized by Linley to the point where he could recite them without thinking. As the words to the spell continued, Linley could feel his entire spirit enter a special mode.
+
+
+score: 0.604291, para: 02 5 27	“I won’t let you down, father.” Linley’s words were filled with confidence.
+
+
+score: 0.591558, para: 01 1 117	“Destroy a mountain?” Hillman’s words had a huge impact on Linley.
+
+
+score: 0.582062, para: 02 24 19	Linley understood this in his heart.
+
+
+score: 0.581012, para: 02 17 55	Linley would never be able to forget the words his father had said to him when he left. “If you cannot bring it back, even when I die, I won’t forgive you!” These words had pierced Linley’s heart like a sharp knife, and he was constantly reminded of them.
+
+
+score: 0.580777, para: 02 3 33	Linley smiled at the Shadowmouse, then tossed the wild hare in front of the doorway. Perhaps the Shadowmouse couldn’t understand human speech, but Linley understood that an intelligent magical beast should be able to understand the meaning of a smile.
+
+
+score: 0.568451, para: 01 3 56	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+

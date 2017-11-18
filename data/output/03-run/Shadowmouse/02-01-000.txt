@@ -1,0 +1,9 @@
+source: 02 1 0	Book 2, Growing Up, Chapter 1 – Magical Beast, Shadowmouse
+
+
+score: 0.567397, para: 02 4 13	Now this little Shadowmouse was doing the same!
+
+
+score: 0.541956, para: 02 6 6	Next to them, Hillman turned his head towards them. Upon seeing the little Shadowmouse, he was shocked. “A magical beast! Is it a Stoneater Rat?” Hillman didn’t know too much about the various types of magical beasts, but there once was an entire army which had been devoured by Stoneater Rats, so most soldiers knew and feared rat-type magical beasts.
+
+

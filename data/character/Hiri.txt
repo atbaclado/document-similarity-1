@@ -1,0 +1,55 @@
+01 2 46	“Young master Linley, your father is looking for you. Let me carry young master Wharton.” A brandy-nosed old man walked over. This brandy-nosed old man was the Baruch clan’s housekeeper, Hiri (Xi’li). In the entire manor, aside from the housekeeper, there wasn’t even a serving girl.
+
+01 2 54	“Linley, come with me. Let’s go to the ancestral hall. Uncle Hiri, you know about the matters of my clan, so you can come as well.” Hogg smiled.
+
+01 12 4	“Yes, milord.” Hiri nodded.
+
+01 12 16	“My lord, young master Linley has already went home.” Hiri said from the side. “Although, when he left, he seemed to be in a daze. No clue what he was thinking about.”
+
+01 16 44	Hiri was facing Linley, and simply couldn’t see the giant boulder headed towards the warehouse. But Linley saw everything clearly. When the boulder descended and shattered the room, how could little Wharton survive?
+
+01 16 45	“Young master Linley?” Seeing how Linley was acting, Hiri couldn’t help but feel shocked.
+
+01 16 46	Three more boulders came crashing down near Linley, but moving like a panther, Linley continued to charge forwards, his gaze fixed on little Wharton as he finally entered the warehouse. Hiri, turning around, only now became aware of that two-meter long boulder descending towards the warehouse. His face immediately turned white.
+
+01 16 52	“Young master-“ Housekeeper Hiri’s eyes immediately turned red. The battle-qi in his body exploded, and like a bolt of red lightning, he flew towards them. Using his own body as a protective barrier, he also used his two hands to push at a huge piece of the falling roof which was going to fall on Linley’s body. Hiri and that collapsing ceiling arrived next to Linley at almost the same time.
+
+01 16 54	In the blink of an eye, Wharton, Linley, and Hiri were totally trapped and pressed down under the falling rubble.
+
+01 16 55	Hogg was in the courtyard, wielding an enormous sword, deflecting one boulder after another. But when he turned his head towards Linley, he saw Linley risk everything to protect Wharton, and then Housekeeper Hiri fly towards them to protect them both. His mind immediately went blank.
+
+01 16 58	Right now, there was no way for Hogg to tell if Hiri had managed to position himself in front of Linley in time, or if the falling rocks had slammed into Linley first.
+01 17 5	“Smash!” Before Hogg had arrived, the rubble covering Hiri, Linley, and Wharton had been blasted apart.
+
+01 17 6	Housekeeper Hiri stood up from within the rubble.
+
+01 17 28	“Young master Linley, you actually lost quite a bit of blood. If you lose too much, you could die.” Housekeeper Hiri immediately retrieved some white gauze from within the warehouse and wrapped it around the injury on Linley’s head.
+
+01 17 30	Uncle Hiri smiled at Hogg. “Not bad. Linley is in excellent physical shape, and he hasn’t fainted. There shouldn’t be too much to worry about. In the coming days, he just needs to eat more meat to replenish his blood, and he’ll be fine.”
+
+01 17 44	“Yes, lord.” Hiri nodded.
+
+01 18 20	Footsteps. Uncle Hiri emerged from within the living room. “Lord.”
+
+01 18 22	Hiri chuckled. “Lord, please be at ease. I’ve already washed and cleaned young master Linley’s wounds, then re-bandaged them. I’ve made him eat a big meal, and then change his clothes and go to bed. By the time he wakes up, he’ll be much better.”
+
+01 18 24	“Lord, are you worrying about the people of Wushan township?” Hiri asked.
+
+01 18 26	Hiri nodded as well.
+
+01 18 45	Due to Linley’s head injury, Hiri had instructed everybody not to bother Linley and to let him get some rest. While Wushan township was a whirlwind of activity, Linley’s bedroom was peaceful and quiet. Linley himself had been drawn deeply into a world of dreams.
+
+01 20 17	“Creaaak.” The bedroom door swung open, and Housekeeper Hiri stuck his head inside. Seeing that Linley was awake, he couldn’t help but smile. “Young master Linley, I didn’t expect that you would have already awoken. How do you feel, young master?”
+
+01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+01 20 21	“Oh. Got it.” Linley snuck another peek at Doehring Cowart, his heart filled with questions. “What’s going on. From Uncle Hiri’s expression, it seems as though he can’t see Grandpa Doehring at all.”
+
+01 20 23	“No-, nothing.” Linley immediately crawled out of bed. “Uncle Hiri, let’s go eat dinner.”
+
+01 20 42	Just as Linley spoke, he saw that next to him, a white-haired old man suddenly appeared out of nowhere. It was Doehring Cowart. But Hogg, Housekeeper Hiri, and his younger brother Wharton still continued to eat and chat, not noticing Doehring Cowart’s existence in the slightest.
+
+02 10 17	Housekeeper Hiri came over as well. He was also stunned by Hogg’s reaction. Hiri had no idea what had just happened.
+
+02 10 20	“Yes, Lord Hogg,” Hillman and Hiri responded.
+

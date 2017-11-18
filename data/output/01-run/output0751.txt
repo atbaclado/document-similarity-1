@@ -1,0 +1,15 @@
+source_doc: 1 19	Linley smiled brightly. “My name is Linley! Linley Baruch!”
+
+
+score: 0.701709, para: 2 3	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.679470, para: 1 12	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+
+score: 0.675740, para: 2 6	“Bebe.” Linley was grinning so widely, his face was about to split.
+
+
+score: 0.669349, para: 1 20	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+

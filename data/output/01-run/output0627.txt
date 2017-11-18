@@ -1,0 +1,15 @@
+source_doc: 1 15	Right now, the Black Dragon was growling in a low voice nonstop.
+
+
+score: 0.666847, para: 1 7	“Now, what name should I choose for this black ring? Earthworm Ring? No way, that sounds terrible.” Linley mumbled for a few moments, then his eyes lit up. “Haha, that sinuous object can also be considered a ‘dragon’, right? A dragon curled around the ring…then let’s call it, the Coiling Dragon Ring!” Although in his heart, Linley felt like the carving looked more like an earthworm, but he still chose the name ‘Coiling Dragon Ring’ for it.
+
+
+score: 0.661949, para: 1 18	“The ‘Stellar Sword Saint’ Dillon? Pity. I can’t kill him yet.” The gray-robed man said in a low voice. And then the Black Dragon underneath his feat, as though knowing his master’s wishes, flapped its enormous wings and went flying off into the southeastern direction.
+
+
+score: 0.651539, para: 1 19	He, too, would step on top of the head of a Black Dragon and make the heavens tremble.
+
+
+score: 0.649681, para: 1 23	Doehring Cowart flew out from within the Coiling Dragon Ring. Standing next to Linley, he looked at the black mouse with some surprise. “A magical beast, a Shadowmouse? And judging by its size, a Shadowmouse infant.”
+
+

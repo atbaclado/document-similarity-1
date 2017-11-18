@@ -1,0 +1,24 @@
+source: 02 7 6	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+
+score: 0.693338, para: 01 6 19	“Nothing in this room. Next one…” Linley exited the first room and entered the second.
+
+
+score: 0.564607, para: 02 17 28	After departing from the school, Linley entered the mountain in the rear.
+
+
+score: 0.543129, para: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.537225, para: 01 22 47	After half an hour of instruction, Linley finally entered the meditative state for the first time.
+
+
+score: 0.533778, para: 01 2 60	The cold wind blowing, Linley couldn’t help but shiver. But Linley didn’t make a sound, because he could feel that something was different today. Following his father, Linley entered the ancestral hall as well.
+
+
+score: 0.514867, para: 02 24 26	As he said these words, Linley had already left the gates of the Ernst Institute and entered the back mountains. As he passed through the mountain forests, Doehring Cowart suddenly said, “Linley, go to a place next to the mountainside.”
+
+
+score: 0.514325, para: 02 6 25	“OW!” Feeling the sudden, fierce pain, Linley immediately jumped up in the air.
+
+

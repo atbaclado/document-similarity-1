@@ -1,0 +1,30 @@
+source: 02 1 49	There was no way for him to protect Linley.
+
+
+score: 0.570214, para: 02 4 53	Linley couldn’t help but be moved.
+
+
+score: 0.563230, para: 02 2 7	Linley now understood.
+
+
+score: 0.563230, para: 02 2 12	Linley nodded.
+
+
+score: 0.563230, para: 02 2 26	Linley understood.
+
+
+score: 0.556835, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.542590, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.542590, para: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.542590, para: 02 5 23	Linley nodded.
+
+
+score: 0.538857, para: 01 4 36	Wharton was only a child, while Linley was much more mature.
+
+

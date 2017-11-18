@@ -1,0 +1,15 @@
+source_doc: 1 7	Each of the thunderous footsteps seemed to caused a vibration powerful enough to shake Linley’s heart.
+
+
+score: 0.593326, para: 1 16	“Rumble, rumble…” Suddenly, a terrifying sound could be heard from the heavens, followed by a terrifying screech which shook the entire Wushan township. Linley couldn’t help but once again turn his head towards the eastern sky to take a look. That single glance stunned him once again.
+
+
+score: 0.587607, para: 1 15	Suddenly, the enormous Black Dragon let out a furious roar as its two huge wings began to flap vigorously. It emanated a terrifying pressure, causing everyone, Hillman included, to feel their legs grow soft and to feel as though they couldn’t breathe.
+
+
+score: 0.586951, para: 1 1	Hillman breathed deeply. All of the veins on his muscular body popped out prominently, as Hillman directly struck at a nearby bluish boulder. His fist shattered the air, creating a howling sound that made all of the watching children widen their eyes even further. Hillman’s mighty fist smashed directly onto the boulder.
+
+
+score: 0.585944, para: 1 14	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+

@@ -1,0 +1,30 @@
+source: 01 16 39	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+
+score: 0.661544, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.561991, para: 01 17 18	“Wharton? Why were you at the doorway earlier?” Linley rubbed his little brother’s head and said in a reproving tone.
+
+
+score: 0.557052, para: 01 20 53	“Big brother, see ya.” Chubby little Wharton waved at Linley with a grease-covered hand.
+
+
+score: 0.549009, para: 01 2 43	Counting on his fingers, little Wharton said, “First I used the rags to wipe the floors, then the toilet chamber pots, and lastly I wiped….wiped….right, I wiped the plates!” He looked excitedly at Linley, awaiting Linley’s praise.
+
+
+score: 0.536878, para: 02 4 12	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.532662, para: 02 25 15	After the New Year, little Wharton and his older brother, Linley, had only a few days to spent in each other’s company. And then, under the auspices of Housekeeper Hiri, Wharton headed towards the O’Brien Empire. Linley had no choice but to wistfully watch little Wharton depart. Crying nonstop, six year old Wharton parted from ten year old Linley and headed off.
+
+
+score: 0.524163, para: 01 2 45	“What, did I do it wrong? I really wiped them clean.” In little Wharton’s tiny head, his eyes were filled with an uncomprehending look as he stared at his big brother.
+
+
+score: 0.520647, para: 02 4 60	“Magus, ooo, ooo, like that fire-breathing magus?” While listening, little Wharton clapped his little hands together.
+
+
+score: 0.517177, para: 01 2 37	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+

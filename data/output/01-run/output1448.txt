@@ -1,0 +1,15 @@
+source_doc: 2 11	Linley even hoped that…
+
+
+score: 0.750905, para: 1 5	This price was much lower than what Hogg had hoped for. He had been hoping for at least eight hundred.
+
+
+score: 0.701821, para: 2 1	Linley also agreed with Doehring Cowart’s words.
+
+
+score: 0.649763, para: 2 4	Linley couldn’t help but be moved.
+
+
+score: 0.634956, para: 2 1	Doehring Cowart laughed. “Linley, if they weren’t so fast, why would they be called Shadowmice?”
+
+

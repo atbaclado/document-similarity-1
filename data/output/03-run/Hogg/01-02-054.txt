@@ -1,0 +1,30 @@
+source: 01 2 54	“Linley, come with me. Let’s go to the ancestral hall. Uncle Hiri, you know about the matters of my clan, so you can come as well.” Hogg smiled.
+
+
+score: 0.665193, para: 01 5 46	“Enough. The ancestral hall needs some cleaning. After lunch, go and clean it up.” Hogg said coldly.
+
+
+score: 0.663130, para: 01 3 45	Hogg proudly said, “Our ancestral heirloom – the warblade, “Slaughterer”. This was the weapon used by the very first leader of the Baruch clan, the very first Dragonblood Warrior of the Yulan continent. Alas…his descendants were unfilial. Six hundred years ago, because of poverty, a descendant who loved luxury actually sold our ancestral weapon for money.”
+
+
+score: 0.637394, para: 02 5 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+
+score: 0.600473, para: 01 3 53	The ancestral heirloom was lost. This humiliation constantly weighed on Hogg’s heart. He felt ashamed and helpless, and unable to face his forefathers.
+
+
+score: 0.594916, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.578973, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.558629, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.556370, para: 01 12 12	“Hillman, take some men to assist Uncle Hiri. After finishing up, please address the issue of the commoners who lost their houses.” Hogg instructed.
+
+
+score: 0.553576, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+

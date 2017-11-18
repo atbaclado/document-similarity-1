@@ -1,0 +1,15 @@
+source_doc: 2 7	The Holy Emperor of the Radiant Church had an extremely high status. He had the authority to depose any of the kings of the various kingdoms! This is why in Fenlai City, the tallest building was the Cathedral of the Radiant Church.
+
+
+score: 0.807559, para: 2 5	“Ernst? The legendary Holy Emperor of the Radiant Church?” The nearby Doehring Cowart started.
+
+
+score: 0.788889, para: 2 5	“I didn’t imagine that kid, Ernst, ended up having such accomplishments. And he even became a legendary Holy Emperor of the Radiant Church!” Doehring Cowart sighed.
+
+
+score: 0.763496, para: 2 5	“What is it, Grandpa Doehring?” Linley asked questioningly. “I bet all of the hundreds of millions of citizens in the six kingdoms and fifteen dukedoms of the Holy Union know about the legendary Holy Emperor Ernst of the Radiant Church.” Linley, also, knew much about the affairs and history of the legendary Holy Emperor Ernst.
+
+
+score: 0.721051, para: 2 5	That’s right. In the past, when the Pouant Empire was still unified, the Radiant Church, the Cult of Shadows, and even the Pavilion of Divinities all had many churches within the empire. But all of those churches were under the control of the Pouant Empire.
+
+

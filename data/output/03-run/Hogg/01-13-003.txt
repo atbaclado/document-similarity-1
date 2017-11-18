@@ -1,0 +1,30 @@
+source: 01 13 3	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+
+score: 0.762859, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.704708, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.691793, para: 01 12 50	Hogg waved his hand, motioning for Linley to calm down, before saying, “Linley, there have been magi in the lineage of our Dragonblood Warrior clan. However, there’s only been two in total. Linley, you should know that the most important thing for a magus is ‘natural talent’. Normally, only one person in ten thousand has the talent to become a magus. One in ten thousand! The chance really is very low. So, you’d best not have too much hope.”
+
+
+score: 0.667455, para: 01 12 1	Only after seeing the magical beast of the seventh rank, the Velocidragon, and its mysterious magus master depart, did Hogg calm down.
+
+
+score: 0.660652, para: 01 11 41	Hogg turned towards the magus, his heart filled with ruefulness. “He’s actually a magus of the eighth rank. And a dual-element magus! Perhaps the entire kingdom of Fenlai has only a handful of people more powerful than him. Someone like him actually came to our little town…”
+
+
+score: 0.657278, para: 01 12 35	“Not bad, not bad,” Hogg said proudly as he looked at Linley. “You really are a scion of our Dragonblood Warrior clan. You have our superior qualities. If a descendant of the Dragonblood Warriors were to be terrified of death, terrified of blood, of slaughter, then it would be an absolute joke.”
+
+
+score: 0.656105, para: 02 4 66	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+
+
+score: 0.642853, para: 01 2 72	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+
+
+score: 0.642197, para: 01 2 70	“Linley, have you heard of the legendary Four Supreme Warriors of the Yulan continent?” Turning his head, Hogg looked at Linley.
+
+

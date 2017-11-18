@@ -1,0 +1,20 @@
+source: 02 20 10	“Right, if you have the skills, compete using magic! Are you even a student of the Ernst Institute?” Rand’s nearby friends immediately called out in support.
+
+score: 0.551625, para: 02 13 55	Within the Ernst Institute, as a one-time event, there were many instructional signs telling students where each location was. Clearly, this was intended to help assist the new students.
+
+score: 0.551625, para: 02 13 55	Within the Ernst Institute, as a one-time event, there were many instructional signs telling students where each location was. Clearly, this was intended to help assist the new students.
+
+score: 0.551625, para: 02 13 55	Within the Ernst Institute, as a one-time event, there were many instructional signs telling students where each location was. Clearly, this was intended to help assist the new students.
+
+score: 0.550424, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.550424, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.550424, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.547801, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.547801, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.547801, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+

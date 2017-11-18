@@ -1,0 +1,18 @@
+source: 02 25 43	Year 9997 of the Yulan calendar was the seventh year Linley had spent at the Ernst Institute. This year, Linley was fifteen years old.
+
+
+score: 0.704889, para: 02 16 1	For the academic calendar of the Ernst Institute, every month, the first twenty eight days had classes. Only the last two days were free.
+
+
+score: 0.547560, para: 02 17 1	Spring left and autumn came. In the blink of an eye, Linley had spent half a year at the Ernst Institute.
+
+
+score: 0.516902, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.502535, para: 02 19 14	The yearly tournament went on for a bit over a month, which naturally was the wildest, most rowdy month each year at the Ernst Institute. During this frenetic period, Linley would only occasionally watch the battles of the fifth and sixth grade students. All of the rest of his time, he would quietly train by himself.
+
+
+score: 0.502232, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+

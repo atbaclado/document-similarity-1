@@ -1,0 +1,30 @@
+source: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+
+score: 0.808540, para: 01 13 7	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.725831, para: 02 14 19	“Yeah, what’s ‘losing virginity’?” Linley also looked curiously at Yale.
+
+
+score: 0.670390, para: 01 19 14	“Original name? What do you mean, original name?” Linley looked questioningly at the old man.
+
+
+score: 0.660891, para: 01 19 28	“Then Gramps, how is it that you appeared from within the ring just now?” Linley looked doubtfully at the old man.
+
+
+score: 0.637163, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+
+score: 0.613349, para: 02 18 63	“Not necessarily. I also feel Linley’s been really sneaky.” Yale also looked at Linley. “Linley, have you become a magus of the second rank?”
+
+
+score: 0.608707, para: 02 1 23	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+
+score: 0.607608, para: 02 3 36	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.602432, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+

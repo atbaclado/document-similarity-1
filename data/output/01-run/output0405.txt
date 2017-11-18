@@ -1,0 +1,15 @@
+source_doc: 1 8	“Linley, why did you…” Lorry and Roger didn’t know what to say.
+
+
+score: 0.948438, para: 1 1	Hillman was stunned. Besides him, Roger and Lorry were also speechless.
+
+
+score: 0.804116, para: 1 15	“Understood, Captain!” Lorry and Roger totally understood what their captain was thinking.
+
+
+score: 0.725151, para: 1 1	Lorry and Roger were both speechless.
+
+
+score: 0.702856, para: 1 1	Roger and Lorry also gazed at the group of children. On the continent, virtually all of the children of commoners had to train hard from an early age. Seeing the kids, Roger and Lorry reminisced back to their own youth.
+
+

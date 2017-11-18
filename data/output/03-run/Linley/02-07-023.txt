@@ -1,0 +1,30 @@
+source: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+
+score: 0.747527, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.736488, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.706458, para: 02 15 24	“Reynolds, I’ll tell you a secret. Bebe loves to eat roast meat. If in the future, you can feed him some roast ducks or roast chickens, I believe that he won’t be very hostile to you.” Linley laughed upon seeing Reynolds eyes shine.
+
+
+score: 0.686399, para: 02 3 43	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.682069, para: 01 20 23	“No-, nothing.” Linley immediately crawled out of bed. “Uncle Hiri, let’s go eat dinner.”
+
+
+score: 0.675850, para: 01 21 2	He quickly removed his shoes, then jumped onto the bed and sat down. “Grandpa Doehring, come out now. Help me test my magical aptitude.” Linley was extremely impatient. When he was eating dinner just now, all of his thoughts were turned towards this.
+
+
+score: 0.671202, para: 02 3 36	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.669702, para: 01 20 50	Linley grinned at his father, but continued to devour his food with haste. In the twinkling of an eye, he had stripped the leg of mutton of all flesh. Linley let out a comfortable burp, then used the napkin to wipe his lips. Standing, he said, “Father, Uncle Hiri, I’m done eating. I feel like my head is still a bit dizzy, so I’m going to go and get some more rest. Wharton, see ya.” Linley was the first to finish eating.
+
+
+score: 0.667724, para: 02 25 66	“Quiet. If you keep on making a fuss, then today I won’t help you cook meat.” As soon as Linley spoke these words, Bebe immediately shut his mouth and didn’t make a sound.
+
+

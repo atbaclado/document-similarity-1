@@ -1,0 +1,30 @@
+source: 02 25 69	Linley turned his head and smiled at Doehring Cowart as he engaged in mental conversation. “Grandpa Doehring, is something the matter?”
+
+
+score: 0.678242, para: 01 22 22	“Compared to mageforce, however, mental energy is even more important!” Doehring Cowart smiled as he spoke. “By now, you should have realized that so-called mental energy is really spiritual energy, a form of controlling energy!”
+
+
+score: 0.653758, para: 02 13 49	Linley smiled and nodded.
+
+
+score: 0.632421, para: 02 7 48	“This kid, Linley, is so hard working. Even at night, he is training his mental energy.” Seeing Linley seated cross-legged with his eyes closed, Hillman couldn’t help but silently praise him. Mental energy was extremely important to both magi and warriors!
+
+
+score: 0.607904, para: 01 23 17	“Grandpa Doehring, what do I need to do?” Linley stared at Doehring Cowart, mentally preparing himself.
+
+
+score: 0.590865, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+
+score: 0.578642, para: 02 14 10	“Oh, Reynolds, Linley, I am so happy to see you fellows. Hey, where did my exercise equipment go?” Yale turned his head and stared at his servants.
+
+
+score: 0.573250, para: 01 12 33	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+
+score: 0.561640, para: 01 17 18	“Wharton? Why were you at the doorway earlier?” Linley rubbed his little brother’s head and said in a reproving tone.
+
+
+score: 0.550786, para: 01 19 35	Linley smiled brightly. “My name is Linley! Linley Baruch!”
+
+

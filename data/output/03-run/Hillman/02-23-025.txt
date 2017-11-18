@@ -1,0 +1,27 @@
+source: 02 23 25	Hillman nodded. “The O’Brien Academy’s yearly tuition is approximately five thousand gold coins. Your father intends to have Housekeeper Hiri escort Wharton there and take care of him. The tuition fee really is high. In ten years, it’ll be fifty thousand gold coins.”
+
+
+score: 0.605149, para: 01 18 32	Hillman let out a pain-filled sigh. “We just ran some calculations. Over three hundred people died, and a thousand were injured.” The entire township only had a population of five thousand. This meant the casualty ratio was about 20%! And this was for those who lived in stone houses. This really was a diaster.
+
+
+score: 0.600092, para: 02 13 42	Hillman, besides Linley, laughed. “Linley, the tuition waiver and rent waiver provided by the Ernst Institute is only for members of the Holy Union. All others have to pay an extremely high fee.”
+
+
+score: 0.594447, para: 01 2 8	A hundred and twenty six children, all age seventeen, respectfully bowed towards Hillman. These youngsters normally did not attend training. They had all become adults, and had their own jobs to do. But since they had all been trained by Hillman since they were toddlers, they all considered Hillman to have been their benevolent master.
+
+
+score: 0.580267, para: 01 2 11	“I hope at least half of these hundred and twenty six will be able to return alive,” Hillman prayed silently.
+
+
+score: 0.524612, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+
+score: 0.513626, para: 01 8 50	At this point in time, Hillman’s group was roughly a hundred meters away from the Velocidragon. They quietly watched the events in the center of town unfold. In front of the huge Velocidragon, a group of youngsters could be seen. Four men, three women.
+
+
+score: 0.511354, para: 01 1 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+
+score: 0.505064, para: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+

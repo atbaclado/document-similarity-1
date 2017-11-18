@@ -1,0 +1,30 @@
+source: 02 1 46	How could a seven or eight year old Linley resist?
+
+
+score: 0.763277, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+
+score: 0.721811, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.716343, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.716343, para: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.716343, para: 02 5 23	Linley nodded.
+
+
+score: 0.715695, para: 02 2 7	Linley now understood.
+
+
+score: 0.715695, para: 02 2 12	Linley nodded.
+
+
+score: 0.715695, para: 02 2 26	Linley understood.
+
+
+score: 0.702735, para: 01 4 36	Wharton was only a child, while Linley was much more mature.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 1	“Haha.” Linley grinned widely. In his heart, he felt very happy at being praised by Hillman.
+
+
+score: 0.705930, para: 2 6	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+
+score: 0.696935, para: 1 17	“I, I’m fine.” An excited smile appeared on Hogg’s face.
+
+
+score: 0.680902, para: 2 4	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.679782, para: 1 12	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+

@@ -1,0 +1,30 @@
+source: 01 12 12	“Hillman, take some men to assist Uncle Hiri. After finishing up, please address the issue of the commoners who lost their houses.” Hogg instructed.
+
+
+score: 0.577561, para: 01 7 35	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.561040, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.556115, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+
+score: 0.553803, para: 01 18 37	“Lord Hogg, all the commoners in Wushan township greatly appreciate your kindness and generosity. Everybody knows how much you have done for us. Please don’t be too vexed.” Hillman said from the side.
+
+
+score: 0.549065, para: 01 8 42	Linley gritted his teeth. “Uncle Hillman!” Linley was also worried for Uncle Hillman, as well as the citizens of Wushan town. He also ran in that direction. At this moment, Lorry and Roger were both panic-stricken at the thought of the Velocidragon, and didn’t notice Linley following behind them.
+
+
+score: 0.547664, para: 01 15 37	“Captain, Lord Hogg ordered us to come assist you!” Twelve warriors had come flying out of the Baruch clan manor. As soon as they saw Hillman, they shouted at him.
+
+
+score: 0.536876, para: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+
+score: 0.530120, para: 02 5 47	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+
+score: 0.523403, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+

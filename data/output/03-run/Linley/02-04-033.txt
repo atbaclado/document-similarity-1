@@ -1,0 +1,30 @@
+source: 02 4 33	Within the Baruch clan’s living room, candlelight flickered from within as Linley and his family, along with Housekeeper Hiri, were enjoying supper together on the long dining table.
+
+
+score: 0.664032, para: 01 13 1	At dinnertime, the three members of the Baruch clan and their housekeeper, Hiri, all shared dinner together. Little Wharton raised a cute ruckus at the dinner table, filling it with laughter. By the time dinner came to an end, the old housekeeper carried Wharton back to his room, while Linley and his father, Hogg, began to chat.
+
+
+score: 0.621561, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.591195, para: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+
+score: 0.578743, para: 02 7 20	There was a small restaurant near the guesthouse, so Linley and Hillman decided to have dinner there.
+
+
+score: 0.575975, para: 01 2 50	This desk clock can be considered a high quality object. Generally, only wealthy or noble families had such a clock. At this moment, Linley’s father was seated next to the fireplace. The flames in the fireplace burned, constantly crackling and popping.
+
+
+score: 0.564224, para: 01 20 36	What Linley didn’t know was…when the rain of stones descended on the town, aside from men and women, even many animals were killed. The Baruch clan aside, even some poor families who rarely ate meat were enjoying an extravagant meal today.
+
+
+score: 0.561546, para: 02 7 19	The Fragrant Pavilion Road, bustling with activity, often had many opulent carriages pass through it. After wandering the Fragrant Pavilion Road for a time, Hillman and Linley headed directly for an ordinary guesthouse to settle down.
+
+
+score: 0.560835, para: 01 2 33	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+
+score: 0.560311, para: 01 6 25	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+

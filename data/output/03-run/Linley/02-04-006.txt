@@ -1,0 +1,30 @@
+source: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.795141, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.728783, para: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.716506, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+
+score: 0.702302, para: 02 3 28	Linley stood at the doorway.
+
+
+score: 0.685057, para: 01 6 19	“Nothing in this room. Next one…” Linley exited the first room and entered the second.
+
+
+score: 0.667685, para: 01 6 22	He stared up at the sky.
+
+
+score: 0.627810, para: 02 6 41	Linley stared at the little Shadowmouse.
+
+
+score: 0.622955, para: 02 3 43	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.619760, para: 02 7 54	Linley and Hillman had arrived here as well.
+
+

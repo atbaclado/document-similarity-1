@@ -1,0 +1,30 @@
+source: 02 23 36	“Who should I sell the stone carving screen in the bedroom to? Philip is too stingy, he won’t give a good price.” Hogg was pondering nonstop.
+
+
+score: 0.619598, para: 01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+
+
+score: 0.570443, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.546390, para: 01 5 48	Looking at Linley, Hogg sighed in his heart. “Sculpting? Oh, child. Do you know that in the past, I also practiced sculpting? I spent ten full years of my life trying to learn. But unfortunately, my sculptures weren’t worth a single coin.” Hogg, too, had once foolishly dreamed of becoming a master sculptor and thereby improving his clan’s situation.
+
+
+score: 0.532363, para: 01 5 21	Philip’s eyes couldn’t help but narrow, but then he laughed. “Haha…Hogg, don’t be angry. I’m not saying that I don’t wish to buy it. I’m just telling the truth. How about this. I’ll buy this sculpture for five hundred gold coins. What do you think?”
+
+
+score: 0.526303, para: 01 5 27	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+
+score: 0.525405, para: 01 4 37	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.512038, para: 01 5 19	Philip turned to look at Hogg. “Hogg, I must say, although I like this stone sculpture very much, the artisanship of this ‘Fierce Lion’ sculpture cannot be considered to be top tier, much less the masterpieces of those grandmaster sculptors.”
+
+
+score: 0.510725, para: 02 11 16	Hogg, of course, couldn’t discover Doehring Cowart’s existence at all. Hogg laughed bitterly at Linley. “Linley, did you see that? Based on our ancestor’s method, the Dragonblood is lurking hidden within all of our veins. To call it forth, there are just two methods. But the second method requires one to drink the blood of a living dragon. How can that be an easy task? What’s more…Linley, flip to the back and take a look.”
+
+
+score: 0.510047, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+

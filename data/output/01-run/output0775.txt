@@ -1,0 +1,15 @@
+source_doc: 1 20	“Linley, don’t be worried. Your aptitude for magic hasn’t even been assessed yet. Who knows if it will be high or low? Perhaps you will have a tremendous talent for magic.” Doehring Cowart stroked his white beard as he smiled.
+
+
+score: 0.660723, para: 1 21	“This is why I told you that earth-style magic is the mightiest elemental style of them all.” Doehring Cowart’s white beard fluttered about, making him look all the more self-satisfied.
+
+
+score: 0.649472, para: 1 22	“Linley, a large amount of mageforce draws out an even larger amount of elemental essence. If such a huge amount of force is not controlled by spiritual energy…what do you think the end result would be?” Doehring Cowart stroked his white beard as he quietly watched Linley.
+
+
+score: 0.632693, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.629777, para: 1 5	A middle aged man with long, golden hair and a nobleman’s aura strode into the hall by Hogg’s side. Linley immediately was able to guess that this middle-aged man must be ‘Philip’.
+
+

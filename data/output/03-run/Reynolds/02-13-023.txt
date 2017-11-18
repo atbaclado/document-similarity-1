@@ -1,0 +1,30 @@
+source: 02 13 23	“Coming.” Reynolds went to take the test.
+
+
+score: 1.000000, para: 02 14 33	Linley and Reynolds both started.
+
+
+score: 1.000000, para: 02 22 46	“Right on, right on,” Reynolds said from the side.
+
+
+score: 0.705688, para: 02 14 50	“George, you are ten? But you look the same as me.” Reynolds said to the side.
+
+
+score: 0.687273, para: 02 14 15	“I’m eight years old. How about you, Yale?” Reynolds clearly was very open-minded.
+
+
+score: 0.679736, para: 02 18 55	“Haha, I’m definitely attending,” Reynolds said confidently.
+
+
+score: 0.662924, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+
+score: 0.634668, para: 02 17 15	Knowing Linley’s temperament, Yale, Reynolds, and George all nodded.
+
+
+score: 0.579194, para: 02 15 7	“Whoah, what’s that?” Reynolds was so startled he jumped.
+
+
+score: 0.568822, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+

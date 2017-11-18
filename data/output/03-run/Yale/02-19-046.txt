@@ -1,0 +1,30 @@
+source: 02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+
+score: 0.678394, para: 02 20 77	“Yale, tomorrow, bring Linley. I’ll go with you to the Golden Bank of the Four Empires local branch to transfer money. Ten thousand golds. I’ll keep my word.” Rand took a long look at the distant Linley. This defeat at Linley’s hands had totally woken Rand up from the arrogant haze of being a genius.
+
+
+score: 0.619811, para: 02 20 79	“Linley, thank you!” Rand said, bowing, causing Yale and others to be startled. And then, Rand stared at Linley and said resolutely, “But there will come a day when I will defeat you.”
+
+
+score: 0.602373, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.601449, para: 02 20 25	“Young master Yale is here? Ugh. Forget it. He can do as he wishes. Even if he smashes the entire hotel, it’s none of my business.” The hotel manager rubbed and shook his head helplessly. He couldn’t dare to offend young master Yale.
+
+
+score: 0.587521, para: 02 14 20	Staring at his two dormmates, Yale became momentarily speechless as well. Besides Linley, the ghostly form of Doehring Cowart was holding his belly as he laughed uproariously. This made Linley ask him curiously, “Grandpa Doehring, why are you laughing?”
+
+
+score: 0.575429, para: 02 15 45	“Expelled?” Yale stared. “If I really were to be expelled, my old man would probably kill me.” Expulsion by the Ernst Institute would result in an unbearably humiliating reputation. No one would be willing to shoulder it. After all, to have been accepted meant they were all talented people.
+
+
+score: 0.574197, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.571522, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.569096, para: 02 14 32	“Bah, bros, my money is your money. If you run out, just come find me! In the future, we’ll probably be living together for decades. We’ll be bros for decades. Why quibble about ‘yours’ and ‘mine’?” Yale was extremely expansive, but just as he finished speaking…
+
+

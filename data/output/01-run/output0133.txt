@@ -1,0 +1,15 @@
+source_doc: 1 2	Counting on his fingers, little Wharton said, “First I used the rags to wipe the floors, then the toilet chamber pots, and lastly I wiped….wiped….right, I wiped the plates!” He looked excitedly at Linley, awaiting Linley’s praise.
+
+
+score: 0.716018, para: 1 20	Linley grinned at his father, but continued to devour his food with haste. In the twinkling of an eye, he had stripped the leg of mutton of all flesh. Linley let out a comfortable burp, then used the napkin to wipe his lips. Standing, he said, “Father, Uncle Hiri, I’m done eating. I feel like my head is still a bit dizzy, so I’m going to go and get some more rest. Wharton, see ya.” Linley was the first to finish eating.
+
+
+score: 0.688966, para: 1 7	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.671012, para: 1 6	“The ancestral hall is cleaned every month. Frankly speaking, in just a month, the ancestral hall won’t get too dirty. All I have to do is just casually wipe it down. I have almost an hour before training starts. What should I do?” Bored, Linley looked around in all directions.
+
+
+score: 0.667445, para: 2 4	“Squeeaaaak!” The little Shadowmouse looked at Linley with its innocent black eyes and began to squeak with impatience, as though telling Linley to hurry up and give him the food already.
+
+

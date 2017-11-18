@@ -1,0 +1,13 @@
+source_doc: 2 6	And with his squeaks to accompany them, Linley, Hillman, and the Shadowmouse disappeared off into the distance.
+
+score: 0.601065, para: 2 4	“Squeak, squeak!” The little Shadowmouse immediately ran up to Linley, and began hopping up and down while squeaking at him.
+
+
+score: 0.594817, para: 2 5	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+score: 0.559450, para: 2 2	“Bond of equals?” Linley said curiously. “What is that? I’ve never heard of it.”
+
+
+score: 0.547603, para: 2 5	Linley was lying on the grass near the back courtyard, while the little Shadowmouse was hopping up and down around Linley. It was squeaking nonstop, but Linley paid him no mind.
+
+

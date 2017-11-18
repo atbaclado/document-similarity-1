@@ -1,0 +1,15 @@
+source_doc: 2 8	“Age, eight. Elemental essence affinities – Earth and Wind, affinity level of exceptional for both! Fire affinity, average.” That bald elder felt his heart thumping wildly. Most magi had average elemental essence affinity. Even high elemental essence affinities were quite rare, and as for exceptional affinity…exceptional affinity was ridiculously rare!
+
+
+score: 0.893315, para: 1 23	“Good. Extremely good. Your affinity for earth elemental essence is extremely high.” Doehring Cowart’s face was wreathed in smiles. “Based on what I know, only perhaps one in a thousand magi would have as strong an affinity for earth elemental essence as you. Truly.”
+
+
+score: 0.811371, para: 1 23	“Grandpa Doehring, why aren’t you talking? How is the strength of my affinity for earth elemental essence?” Linley said nervously.
+
+
+score: 0.797870, para: 1 22	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+
+score: 0.783068, para: 1 22	“Haha. Of course. Linley, did you think that a powerful magus could simply rely on the elemental essence already in his body? Impossible! Let’s look at forbidden-level magical spells. The mageforce in the body of a Saint-level magus can only provide 1% of the amount of essence needed. The other 99% can only be provided by natural, elemental essence.”
+
+

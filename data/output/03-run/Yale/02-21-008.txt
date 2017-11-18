@@ -1,0 +1,21 @@
+source: 02 21 8	Yale’s arm was around Linley’s shoulders, and he whistled a little tune while delightedly peering at the nearby Rand and his bros.
+
+
+score: 0.619238, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.612434, para: 02 20 79	“Linley, thank you!” Rand said, bowing, causing Yale and others to be startled. And then, Rand stared at Linley and said resolutely, “But there will come a day when I will defeat you.”
+
+
+score: 0.589194, para: 02 20 77	“Yale, tomorrow, bring Linley. I’ll go with you to the Golden Bank of the Four Empires local branch to transfer money. Ten thousand golds. I’ll keep my word.” Rand took a long look at the distant Linley. This defeat at Linley’s hands had totally woken Rand up from the arrogant haze of being a genius.
+
+
+score: 0.561630, para: 02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+
+score: 0.544646, para: 02 14 20	Staring at his two dormmates, Yale became momentarily speechless as well. Besides Linley, the ghostly form of Doehring Cowart was holding his belly as he laughed uproariously. This made Linley ask him curiously, “Grandpa Doehring, why are you laughing?”
+
+
+score: 0.530392, para: 02 20 86	After speaking, Linley glanced expressively at his three bros. Yale and the others knew what he was thinking, and immediately, the four bros ignored everyone around them and departed, leaving behind that young lady, Danni, who frowned unhappily.
+
+

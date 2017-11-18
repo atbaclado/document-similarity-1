@@ -1,0 +1,15 @@
+source_doc: 2 4	Linley’s heart began to beat faster. If he could one day step atop the head of a dragon and control cataclysmic power, if he too could feel the power of standing at the very pinnacle of mankind, that must be an amazing feeling. When he thought of this, Linley felt his blood begin to boil.
+
+
+score: 0.733871, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.730691, para: 1 1	“Warriors are divided into nine ranks. I, a mere warrior of the sixth rank, can easily shatter boulders and kick down a large tree! But a ninth rank warrior, even within our country of Fenlai, would be considered a top level expert. But above the ninth rank warriors are the Four Supreme Warriors. They have surpassed the ninth rank warriors and can be considered the pinnacle of warriors. They belong to the level of legendary Saint-level warriors!” Hillman’s eyes were filled with excitement. “The legendary Saint-level warriors can melt giant icebergs, make the boundless sea roar with angry waves, make tall mountains crumble, make cities with millions of people collapse, and make meteors fall from the sky! They are absolutely undefeatable, the highest possible power.”
+
+
+score: 0.706482, para: 1 14	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+
+score: 0.705107, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+

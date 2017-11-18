@@ -1,0 +1,30 @@
+source: 02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+
+score: 0.703524, para: 01 20 3	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+
+score: 0.668172, para: 01 13 50	After all, he only had a ten-thousand in one chance. If he didn’t have the natural talent for it, then there was no way he could become a magus.
+
+
+score: 0.665618, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+
+score: 0.639527, para: 02 19 28	“Rand? Right. I’ve heard you guys discuss him before. He was one of the new students who had exceptional elemental affinity and spiritual essence, right?” Linley remembered the name ‘Rand’.
+
+
+score: 0.636090, para: 01 20 10	“Linley, don’t be worried. Your aptitude for magic hasn’t even been assessed yet. Who knows if it will be high or low? Perhaps you will have a tremendous talent for magic.” Doehring Cowart stroked his white beard as he smiled.
+
+
+score: 0.632095, para: 02 17 4	The four bros of dorm 1987 had just finished lunch. They were wearing a set of sky-blue robes, the school uniform of the Institute. Because of constant physical training, Linley appeared all the more mesmerizing, with his elegant form covered by the sky-blue robes. This was why quite a few of the young girls in the wind magic class liked to chat with Linley.
+
+
+score: 0.616703, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.606735, para: 02 19 54	“Hmph.” Rand glanced at the table where Linley and the others were sitting. “Juice? You guys are still drinking juice? Oh, Yale, I really feel embarassed for you. The four bros of my dorm are all drinking victory wine. You guys are drinking juice?”
+
+
+score: 0.602440, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+

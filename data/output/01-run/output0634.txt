@@ -1,0 +1,15 @@
+source_doc: 1 16	“Yes, father!” Linley was startled awake. He immediately clambered to his feet and began running in the direction of the warehouse again.
+
+
+score: 0.695850, para: 1 15	“Yes, father!” Linley repeatedly nodded, and immediately ran in the direction of the storage room.
+
+
+score: 0.687146, para: 2 7	Linley and Hillman were staying in the same room. There were two beds in this room. Immediately upon entering, the little Shadowmouse, Bebe, leapt out from within Linley’s clothes and immediately began circling around Linley while squeaking loudly.
+
+
+score: 0.684312, para: 2 3	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.677377, para: 1 11	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+

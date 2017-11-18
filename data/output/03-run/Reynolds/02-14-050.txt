@@ -1,0 +1,30 @@
+source: 02 14 50	“George, you are ten? But you look the same as me.” Reynolds said to the side.
+
+
+score: 0.705688, para: 02 13 23	“Coming.” Reynolds went to take the test.
+
+
+score: 0.705688, para: 02 22 46	“Right on, right on,” Reynolds said from the side.
+
+
+score: 0.649969, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+
+score: 0.649536, para: 02 18 55	“Haha, I’m definitely attending,” Reynolds said confidently.
+
+
+score: 0.578698, para: 02 13 38	“Oh.” Reynolds was a year younger than Linley, but judging from appearances, seemed three years younger.
+
+
+score: 0.554014, para: 02 15 10	“Linley, you have a magical beast companion?” Reynolds and George were also shocked.
+
+
+score: 0.544128, para: 02 17 9	“Haha, I knew Linley definitely wouldn’t go.” Reynolds laughed loudly.
+
+
+score: 0.542994, para: 02 19 24	“I’m pissed just thinking about this year’s competition. It was so close! I was so close to entering the semifinals. Maybe I would’ve been able to enter the top three.” Reynolds was extremely dissatisfied. Reynolds was the youngest of the four, and also the proudest of them.
+
+
+score: 0.540423, para: 02 17 11	“Right. Really cute girls.” Reynolds opened his eyes wide and nodded.
+
+

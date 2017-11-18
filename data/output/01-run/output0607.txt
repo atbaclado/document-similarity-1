@@ -1,0 +1,15 @@
+source_doc: 1 15	Hillman paused. He mumbled the words, “Rudi? Rudi?”
+
+
+score: 0.628353, para: 1 22	Linley had seen how the magus who rode the Velocidragon first mumbled many magical words before casting his spell.
+
+
+score: 0.615955, para: 2 4	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.611238, para: 1 4	Hillman, off to the side, nodded with satisfaction.
+
+
+score: 0.611238, para: 1 18	Hiri nodded as well.
+
+

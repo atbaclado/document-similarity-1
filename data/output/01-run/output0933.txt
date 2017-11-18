@@ -1,0 +1,15 @@
+source_doc: 1 23	In addition, each day, after eating dinner, Linley would spend a large amount of time in the meditative state.
+
+
+score: 0.625699, para: 2 2	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.617714, para: 1 20	“Linley, eat more slowly.” Hogg saw how fast Linley was eating and couldn’t help but laugh.
+
+
+score: 0.602638, para: 1 22	After half an hour of instruction, Linley finally entered the meditative state for the first time.
+
+
+score: 0.595253, para: 2 8	By way of explaining, an ordinary magus might take ten hours to produce a certain amount of mageforce, but Linley would only require a single hour to get the same result.
+
+

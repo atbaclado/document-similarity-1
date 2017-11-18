@@ -1,0 +1,14 @@
+source_doc: 2 5	“Grandpa Doehring, you knew Holy Emperor Ernst?” Linley was somewhat surprised.
+
+
+score: 0.715430, para: 1 4	“Within our Holy Union, there are six kingdoms and fifte…sevente…” Linley suddenly frowned.
+
+
+score: 0.694854, para: 2 7	The Holy Emperor of the Radiant Church had an extremely high status. He had the authority to depose any of the kings of the various kingdoms! This is why in Fenlai City, the tallest building was the Cathedral of the Radiant Church.
+
+
+score: 0.687854, para: 1 4	How many duchies were there in the Holy Union? Linley’s memory was a bit hazy. He wasn’t sure if it was fifteen, or if it was seventeen. He couldn’t be sure.
+
+
+score: 0.682503, para: 2 4	“The most elite school in the O’Brien Empire is the O’Brien Academy, which is reputed to be the number one warrior academy in the entire Yulan continent. But as far as magus academies go…” Hogg chuckled. “The number one magus academy in the entire Yulan continent belongs to our Holy Union. Its name comes from a legendary Holy Emperor of the Holy Church, ‘Holy Emperor Ernst’. The ‘Ernst Institute’.”
+

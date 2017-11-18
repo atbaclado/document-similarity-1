@@ -1,0 +1,15 @@
+source_doc: 2 2	Linley’s footsteps suddenly halted, as he saw up ahead a dull-yellow colored rabbit eating grass.
+
+
+score: 0.644446, para: 1 20	“Linley, eat more slowly.” Hogg saw how fast Linley was eating and couldn’t help but laugh.
+
+
+score: 0.643510, para: 2 3	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.643379, para: 1 23	Walking on the blue tiled steps of the stone walkway, Linley’s footsteps were firm and swift, but made little sound.
+
+
+score: 0.641244, para: 2 4	Doehring Cowart was walking by Linley’s side as well, but aside from Linley, no one else could see him. Doehring Cowart was smiling so widely that his white whiskers were leaning horizontal. “Linley, over these past nine days, the little Shadowmouse has lost all fear of you. Today, you are even giving him cooked meat. He’s going to be extremely excited and will become even closer to you.”
+
+

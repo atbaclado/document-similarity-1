@@ -1,0 +1,30 @@
+source: 02 14 8	“My name is Linley. I’m from the Holy Union’s Kingdom of Fenlai.” Linley smiled as well.
+
+
+score: 0.705741, para: 01 19 35	Linley smiled brightly. “My name is Linley! Linley Baruch!”
+
+
+score: 0.665222, para: 02 5 8	“What is it, Grandpa Doehring?” Linley asked questioningly. “I bet all of the hundreds of millions of citizens in the six kingdoms and fifteen dukedoms of the Holy Union know about the legendary Holy Emperor Ernst of the Radiant Church.” Linley, also, knew much about the affairs and history of the legendary Holy Emperor Ernst.
+
+
+score: 0.615103, para: 01 19 11	Linley immediately peered up at him and said, “What ‘Worldring’? This ring around my chest was left behind by elders of my ancestral clan. Its name is the ‘Coiling Dragon Ring’!”
+
+
+score: 0.613437, para: 02 16 16	“My name is Linley. I’m from the Holy Union.” Linley as well walked to the front of the classroom and gave a basic introduction of himself.
+
+
+score: 0.608981, para: 01 4 50	“Within our Holy Union, there are six kingdoms and fifte…sevente…” Linley suddenly frowned.
+
+
+score: 0.593368, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.589396, para: 01 12 50	Hogg waved his hand, motioning for Linley to calm down, before saying, “Linley, there have been magi in the lineage of our Dragonblood Warrior clan. However, there’s only been two in total. Linley, you should know that the most important thing for a magus is ‘natural talent’. Normally, only one person in ten thousand has the talent to become a magus. One in ten thousand! The chance really is very low. So, you’d best not have too much hope.”
+
+
+score: 0.582848, para: 01 4 49	Linley was about to immediately continue, but Hogg cut him off. “Let me ask you, within our Holy Union, how many kingdoms and duchies are there?”
+
+
+score: 0.582055, para: 01 4 55	“Linley, you must remember, we are currently living within the Holy Union. You must know everything about the Holy Union!” Hogg coldly looked at his son. “In the entire Yulan continent, the most important entities are the four empires and the two alliances.”
+
+

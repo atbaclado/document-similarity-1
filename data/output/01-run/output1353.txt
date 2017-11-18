@@ -1,0 +1,15 @@
+source_doc: 2 9	This was a simple demonstration of the status which an Ernst Institute student held!
+
+
+score: 0.571502, para: 2 7	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+
+score: 0.550520, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.522258, para: 2 7	For example, the number one magus academy, the Ernst Institute. Because it admited so few students, any students who hailed from the Holy Union did not have to pay any fees at all! After all, everyone who could be admitted to the Ernst Institute had to be genius-level. In the future, their possibilities were limitless.
+
+
+score: 0.515032, para: 2 3	“Looks like the educational methods of the Baruch clan are rather effective after all.” Doehring Cowart silently sighed with praise. Education can raise a person’s intelligence, but most commoners didn’t have access to education. Most commoners could not meet either the entry requirements or the fee requirements for good magus academies or warrior academies.
+
+

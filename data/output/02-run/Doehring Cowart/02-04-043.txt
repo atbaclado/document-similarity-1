@@ -1,0 +1,20 @@
+source: 02 4 43	Doehring Cowart was a Saint-level Grand Magus. Would any magus academies require a Saint-level Grand Magus to teach there?
+
+score: 0.662504, para: 01 23 30	Right. Doehring Cowart was a Saint-level Grand Magus!
+
+score: 0.662504, para: 01 23 30	Right. Doehring Cowart was a Saint-level Grand Magus!
+
+score: 0.662504, para: 01 23 30	Right. Doehring Cowart was a Saint-level Grand Magus!
+
+score: 0.662504, para: 01 23 30	Right. Doehring Cowart was a Saint-level Grand Magus!
+
+score: 0.656689, para: 02 3 8	Doehring Cowart was startled. He had never had any grandchildren, and why would a revered Saint-level Grand Magus like himself stoop to coaxing other kids?
+
+score: 0.656689, para: 02 3 8	Doehring Cowart was startled. He had never had any grandchildren, and why would a revered Saint-level Grand Magus like himself stoop to coaxing other kids?
+
+score: 0.656689, para: 02 3 8	Doehring Cowart was startled. He had never had any grandchildren, and why would a revered Saint-level Grand Magus like himself stoop to coaxing other kids?
+
+score: 0.617886, para: 02 24 41	Doehring Cowart stared at him. “Linley, you don’t believe me? As a venerable Saint-level Grand Magus of the Pouant Empire, in the past, there were several sculptures I made which nobles offered a million gold coins to purchase. But how could I, a Saint-level Grand Magus, be willing to give the sculptures which I was the most proud of to others?”
+
+score: 0.617886, para: 02 24 41	Doehring Cowart stared at him. “Linley, you don’t believe me? As a venerable Saint-level Grand Magus of the Pouant Empire, in the past, there were several sculptures I made which nobles offered a million gold coins to purchase. But how could I, a Saint-level Grand Magus, be willing to give the sculptures which I was the most proud of to others?”
+

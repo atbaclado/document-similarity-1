@@ -1,0 +1,9 @@
+source: 01 1 125	Lorry and Roger were astonished. “You don’t have any idea, and yet you lied to the kids?”
+
+
+score: 0.575760, para: 01 8 46	“Linley, why did you…” Lorry and Roger didn’t know what to say.
+
+
+score: 0.547704, para: 01 8 34	Linley could also feel the fear which was in the hearts of Roger and Lorry.
+
+

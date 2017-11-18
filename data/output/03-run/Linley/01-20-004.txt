@@ -1,0 +1,30 @@
+source: 01 20 4	If any other magus had been present and heard his words, they would have been astonished.
+
+
+score: 0.742296, para: 02 24 44	“Oh ho, so no one’s ever heard of you?” Linley began to chortle.
+
+
+score: 0.641024, para: 01 22 9	Linley had seen how the magus who rode the Velocidragon first mumbled many magical words before casting his spell.
+
+
+score: 0.637401, para: 02 13 30	Linley chuckled when he heard this.
+
+
+score: 0.602547, para: 02 18 65	What was the big deal about becoming a magus of the second rank? Even before the magus testing event, he had already become a magus of the first rank. A full year had passed since then. If he still had not become a magus of the second rank, then all his hard work would’ve been totally pointless.
+
+
+score: 0.600003, para: 02 24 4	“That guy is Linley, the number one magus amongst us first graders.” A clear voice rang out from not too far up ahead.
+
+
+score: 0.584213, para: 02 17 61	Linley’s wind-style magus instructor, the sixth-ranked magus Trey, frowned. “Hmm, the earth magic spell, ‘Shattered Rocks’? Based on its power, it should be of the second rank. An entry-level magus has come to the mountain to train? Who is it?”
+
+
+score: 0.579373, para: 01 2 70	“Linley, have you heard of the legendary Four Supreme Warriors of the Yulan continent?” Turning his head, Hogg looked at Linley.
+
+
+score: 0.574146, para: 01 22 11	“I’ve seen magi cast spells. All of them recited magical incantations first.” Linley immediately argued.
+
+
+score: 0.566416, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+

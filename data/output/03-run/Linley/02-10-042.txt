@@ -1,0 +1,30 @@
+source: 02 10 42	“Young master Linley, congratulations on being admitted to the Ernst Institute. In the future, young master Linley will no doubt become a mighty, powerful magus.” A clan guard laughed as he toasted Linley politely.
+
+
+score: 0.652109, para: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+
+score: 0.622143, para: 02 3 18	“Young master Linley is so formidable. He caught another wild hare.” The commoners in the town grinned as they watched him pass by.
+
+
+score: 0.613342, para: 01 1 68	“Haha.” Linley grinned widely. In his heart, he felt very happy at being praised by Hillman.
+
+
+score: 0.610744, para: 02 25 32	A white-robed Doehring Cowart smiled at him cheerily from the side. “Linley, starting today, you can just barely be considered to have mastered the basics. Have you felt that special feeling yet? But your work can only be considered to be a superficial pseudo-artwork. It’s only worthy of being placed in the standard hall at the Proulx Institute. If you show it off there, I would be humiliated. Destroy it.”
+
+
+score: 0.601981, para: 01 2 46	“Young master Linley, your father is looking for you. Let me carry young master Wharton.” A brandy-nosed old man walked over. This brandy-nosed old man was the Baruch clan’s housekeeper, Hiri (Xi’li). In the entire manor, aside from the housekeeper, there wasn’t even a serving girl.
+
+
+score: 0.601710, para: 02 2 32	“Young master Linley, headed to the back mountain again?” Uncle Hiri, broom in hand, was dusting the floor. He saw Linley and smiled at him.
+
+
+score: 0.600501, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.594948, para: 02 12 34	But after pausing for a long time, Hogg only said a few simple sentences. “Linley, remember the ardent desire that the elders of the Baruch clan have held for centuries, and remember the humiliation of the Baruch clan!”
+
+
+score: 0.581985, para: 02 22 32	“Doehring Cowart, how can these people possibly compare to Grandmaster Proulx?” Linley shook his head and laughed helplessly. Proulx was the number one sculptor in the entire history of the Yulan continent.
+
+

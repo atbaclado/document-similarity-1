@@ -1,0 +1,30 @@
+source: 02 10 56	“Wait a moment. I am going to get something.” Hogg suddenly turned and entered a hidden room next to the ancestral hall. Shortly afterwards, he returned with a thick book in hand. “Linley, take this and give it a good read. Memorize everything.”
+
+
+score: 0.624549, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.607484, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+
+score: 0.599659, para: 02 11 16	Hogg, of course, couldn’t discover Doehring Cowart’s existence at all. Hogg laughed bitterly at Linley. “Linley, did you see that? Based on our ancestor’s method, the Dragonblood is lurking hidden within all of our veins. To call it forth, there are just two methods. But the second method requires one to drink the blood of a living dragon. How can that be an easy task? What’s more…Linley, flip to the back and take a look.”
+
+
+score: 0.595915, para: 01 5 3	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+
+score: 0.593052, para: 01 11 54	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.591645, para: 02 11 21	Hogg said with a solemn face, “Linley, this Secret Dragonblood Training Tome was written by our founder and first ancestor, the very first Dragonblood Warrior to appear in the Yulan continent, Baruch! He naturally must have had his own reasons for writing this down. Nonetheless, in our family history, there have been two descendants who drank the blood of a Saint-level dragon, and in the end, both of their veins erupted and they died.”
+
+
+score: 0.584844, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.574158, para: 01 11 42	Hogg’s only desire, at this point, was that the mysterious magus would leave as soon as possible, and let Wushan town return to its normal tranquilness.
+
+
+score: 0.571717, para: 01 11 43	The mysterious magus suddenly leapt down directly from the back of the Velocidragon. He was at least two stories up, but he descended easily with a single jump.
+
+

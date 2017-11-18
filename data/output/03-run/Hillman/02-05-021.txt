@@ -1,0 +1,30 @@
+source: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.670990, para: 01 7 35	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.609632, para: 02 23 21	“I came here today to tell you this wonderful news. Your father said to me that right now, the strongest people in Wushan township are myself and him. We are both warriors of the sixth rank! Our level of expertise isn’t enough to provide good tutelage for your little brother, and the training methods of your clan are written down but unclear.” Hillman’s face grew solemn. “Thus your father has decided to send your little brother to the O’Brien Empire’s ‘O’Brien Academy’ to study. In that mighty military Empire, in the finest military academy, your little brother will receive the best tutelage available.”
+
+
+score: 0.608615, para: 02 7 24	“Linley, get an early night’s rest. Tomorrow morning, you will participate in the magus assessment and recruitment event.” Hillman instructed.
+
+
+score: 0.600817, para: 01 2 8	A hundred and twenty six children, all age seventeen, respectfully bowed towards Hillman. These youngsters normally did not attend training. They had all become adults, and had their own jobs to do. But since they had all been trained by Hillman since they were toddlers, they all considered Hillman to have been their benevolent master.
+
+
+score: 0.598386, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.583075, para: 02 7 67	Glancing at the group of nobles, Linley chuckled quietly. “Uncle Hillman, I won’t pay any mind to their likes.” Under the tutelage of his father Hogg, Linley wouldn’t pay too much heed to that group of self-centered, arrogant nobles.
+
+
+score: 0.574832, para: 02 10 36	“Fine, enough of that topic. Uncle Hiri, Hillman, lead the guards to make the arrangements right away. Tonight, I am going to host a magnificent banquet.” Hogg laughed loudly. Right now, his laughter was extremely full and carefree.
+
+
+score: 0.572992, para: 01 8 49	“Thank you, Uncle Hillman. I definitely won’t run around.” Linley was overjoyed.
+
+
+score: 0.561040, para: 01 12 12	“Hillman, take some men to assist Uncle Hiri. After finishing up, please address the issue of the commoners who lost their houses.” Hogg instructed.
+
+

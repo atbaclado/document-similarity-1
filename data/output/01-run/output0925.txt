@@ -1,0 +1,15 @@
+source_doc: 1 23	“As long as you work hard, Linley, I am fully confident that you can reach the eighth rank. But as to whether or not you can become a magus of the ninth rank, or even a Saint-level magus? That will depend on your own comprehension and your experiences.” Doehring Cowart said seriously. “If you do not work hard, I’m afraid you might not even become a magus of the sixth rank. At that point in time, you’ll have no one else to blame.”
+
+
+score: 0.792418, para: 1 8	“At least a magus of the seventh rank. Perhaps even a magus of the eighth rank!” Roger’s fists couldn’t help but tremble as well. “I never imagined such an important individual would come to our home.”
+
+
+score: 0.726805, para: 1 12	And a magus of the eighth rank? Even if he was in the presence of a king, he would not need to kneel or show obeisance. He could just chat while staying standing. From this, one could tell how exalted a level an eighth rank magus held.
+
+
+score: 0.713171, para: 1 21	“When utilized by a magus of the fifth or sixth rank, it will cover your entire body with a layer of stone armor. But upon reaching the seventh rank, it will transform into an armor of jadeite. Upon reaching the eighth rank, this Earthguard armor will be made up of crystal jade. And upon reaching the ninth rank, it will be composed of platinum. Finally, when a Saint-level magus executes the Earthguard spell, the protective armor will be made out of diamonds. The defensive power of this spell…” as he spoke, a smile appeared on Doehring Cowart’s face.
+
+
+score: 0.711408, para: 2 1	“Grandpa Doehring, based on what you just said, a Shadowmouse of the third or fourth rank would have pure black fur. Only upon reaching the fifth rank would its fur turn blue. So are you saying that little guy there is a magical beast of the third or fourth rank?” Linley followed up with more questions.
+
+

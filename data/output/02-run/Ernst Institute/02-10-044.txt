@@ -1,0 +1,20 @@
+source: 02 10 44	Upon hearing that Linley had been admitted to the Ernst Institute, everyone present had become excited. One could easily understand that entering the Ernst Institute meant entering a certain destiny. In the future, Linley definitely would not be constrained by tiny little Wushan township.
+
+score: 0.684758, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+score: 0.684758, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+score: 0.684758, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+score: 0.626052, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.626052, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.626052, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.613876, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+
+score: 0.613876, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+
+score: 0.613876, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+

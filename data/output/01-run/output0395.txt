@@ -1,0 +1,15 @@
+source_doc: 1 8	By his side, Roger nodded as well. “Right. In order to subdue a Velocidragon, one must force the Velocidragon to willingly submit to being a servant. In other words…the violet-robed man must be significantly more powerful than the Velocidragon. Based on his clothing, he should be a magus.”
+
+
+score: 0.674368, para: 1 13	“The requirements for the former are very difficult. For a magical beast to willingly subordinate himself to you, perhaps the only way is to defeat the magical beast in direct combat. Only then would he willingly follow you. For example, if you wanted to subdue a Velocidragon, you would first have to be able to defeat that Velocidragon in battle.” His father’s words rendered Linley speechless.
+
+
+score: 0.629151, para: 1 22	“Grandpa Doehring.” Linley said in a low voice as he frowned. “In some books, I read about some military tactics. In it, one of the things it said was…to subdue an enemy, first subdue their king. For example, bandits. If you first kill the bandit leader, the bandit army will naturally crumble to pieces and fall apart. So spiritual energy should serve a similar purpose as the ‘controlling energy’ which the bandit leader exerts on his subordinates. Without spiritual energy to control a large amount of mageforce and elemental essence, this power would run wild.”
+
+
+score: 0.612642, para: 2 4	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.610732, para: 1 5	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+
+

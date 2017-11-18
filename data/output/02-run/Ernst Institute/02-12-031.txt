@@ -1,0 +1,20 @@
+source: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.734456, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.734456, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.734456, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.708429, para: 02 9 33	Across the entire massive Yulan continent, each year the Ernst Institute only enrolled a scant hundred students!
+
+score: 0.708429, para: 02 9 33	Across the entire massive Yulan continent, each year the Ernst Institute only enrolled a scant hundred students!
+
+score: 0.708429, para: 02 9 33	Across the entire massive Yulan continent, each year the Ernst Institute only enrolled a scant hundred students!
+
+score: 0.687632, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.687632, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.687632, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+

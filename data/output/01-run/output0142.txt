@@ -1,0 +1,15 @@
+source_doc: 1 2	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+
+score: 0.761990, para: 1 3	In Linley’s eyes, his clan was nothing more than just an ancient clan which had fallen on hard times. How could it be related to the legendary Dragonblood Warrior?
+
+
+score: 0.755999, para: 2 10	An ancient clan which had lasted five thousand years. The Dragonblood Warrior clan. Linley felt pride in his heart. But their ancestral heirloom had been lost.
+
+
+score: 0.754244, para: 2 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+
+score: 0.744281, para: 2 10	The Baruch clan had been in a downward spiral for too long. This ancient clan needed a mighty personage to restore it to its former glories!
+
+

@@ -1,0 +1,18 @@
+source: 01 15 2	At present, the group of children and the three instructors were about several hundred meters away from the Black Dragon. To see a hundred-meter long Black Dragon from such a close distance is an awe-inspiring experience which simply can’t be explained with words.
+
+
+score: 0.583717, para: 01 19 50	In Linley’s mind, the huge body of the Velocidragon, the terrifying spectacle of the Dance of the Fire Serpents, and the countless boulders falling from the sky began to play over and over again, along with the spectacle of that proud man who stood on top of the Black Dragon.
+
+
+score: 0.570470, para: 01 18 7	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+
+score: 0.559084, para: 01 18 1	In the eastern sky, the gray-robed man still stood on the head of the Black Dragon which lay coiled in the sky. A self-assured smile was on his face, as he watched the green-robed man battle against his earthen giant.
+
+
+score: 0.550655, para: 01 19 52	He, too, would step on top of the head of a Black Dragon and make the heavens tremble.
+
+
+score: 0.549731, para: 01 18 6	“Dillon, you’d best just hand it over. The World Protector that I summoned isn’t something that you can overcome.” The gray-robed man riding the Black Dragon said calmly.
+
+

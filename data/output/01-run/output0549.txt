@@ -1,0 +1,15 @@
+source_doc: 1 13	He wanted a Velocidragon of his own, but how could he possibly have the power to defeat one?
+
+
+score: 0.771684, para: 1 8	“Too terrifying. Is there anyone who can possibly defeat such a creature?” Linley was scared stiff.
+
+
+score: 0.563489, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.552549, para: 1 11	The seven fire serpents had disappeared by now, but Linley could still feel the terrifying, seismic presence and power emanating from the area. The entire battlefield had been annihilated, leaving nothing left but the finest of debris. The debris all radiated tremendous heat, as though testifying to the power of the battle they had just endured.
+
+
+score: 0.550559, para: 2 4	Linley’s heart began to beat faster. If he could one day step atop the head of a dragon and control cataclysmic power, if he too could feel the power of standing at the very pinnacle of mankind, that must be an amazing feeling. When he thought of this, Linley felt his blood begin to boil.
+
+

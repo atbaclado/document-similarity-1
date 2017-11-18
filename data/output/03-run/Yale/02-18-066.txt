@@ -1,0 +1,12 @@
+source: 02 18 66	“You really reached it?” Yale, Reynolds, and George’s eyes all bulged out. None of them expected it to be true.
+
+
+score: 0.595206, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.558505, para: 02 19 58	“Oh, and this one.” Rand’s eyes shone as he stared at Linley. “How come I never knew that in Yale’s dorm, there was someone such as you?”
+
+
+score: 0.506254, para: 02 20 42	“Let’s go.” Yale’s eyes were shining.
+
+

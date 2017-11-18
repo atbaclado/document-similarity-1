@@ -1,0 +1,14 @@
+source_doc: 2 4	“And Linley, you must know that Wushan township is not the stage on which you will perform. You must step onto a far wider stage.” Doehring Cowart said seriously.
+
+
+score: 0.668692, para: 2 3	“There’s no way that tiny little Wushan township is big enough for Linley.” Watching Linley enter the meditative trance to practice magic, Doehring Cowart felt a hint of excitement. “Sooner or later, he will bring an adult Violet Shadowmouse and step onto the endlessly broad stage that is the world of the Yulan continent.”
+
+score: 0.545954, para: 1 7	“Whoah, it’s hard! What’s under my foot?” Linley felt that the item underneath his foot was extraordinarily tough, and immediately stepped aside to take a closer look.
+
+
+score: 0.540274, para: 1 23	This was his first step into the world of magic. Linley was filled with amazement.
+
+
+score: 0.525122, para: 1 17	“Lord Hogg, Wushan township is in bad shape. Just then-….Lord Hogg? What’s wrong?” Hillman rushed into the manor. Just as he was beginning to report on the town’s situation, he saw that Hogg was standing there in a daze, not making a single sound.
+
+

@@ -1,0 +1,14 @@
+source_doc: 2 9	He could be arrogant towards those common folk, but he had to be courteous to the representatives of mighty magus academies.
+
+
+score: 0.642602, para: 1 19	Doehring Cowart was a mighty Grand Magus of the Pouant Empire, and thus had an extremely high personal status. Back then, he would have ranked amongst the top five personages in the Yulan continent. He fell only because he had been despicably ambushed by Grand Magus Hamelin and another Saint-level combatant.
+
+
+score: 0.627248, para: 1 19	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.
+
+score: 0.618981, para: 2 7	Seeing Linley’s reaction, some of the nearby noble ladies began to titter quietly amongst themselves while pointing at Linley. Clearly, Linley’s reaction was that of a ‘country bumpkin entering the city’. The nobility of the capital had a clear sense of innate superiority towards those country bumpkins.
+
+
+score: 0.609062, para: 2 7	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+

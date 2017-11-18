@@ -1,0 +1,20 @@
+source: 01 1 89	And Hillman really was a formidable warrior. He knew the important parts of training, and also knew how to increase the difficulty one step at a time. He knew what sort of tools to use with what ages. If it was too hard, it could make a child’s body collapse.
+
+score: 0.974424, para: 01 89 89	And Hillman really was a formidable warrior. He knew the important parts of training, and also knew how to increase the difficulty one step at a time. He knew what sort of tools to use with what ages. If it was too hard, it could make a child’s body collapse.
+
+score: 0.974424, para: 01 89 89	And Hillman really was a formidable warrior. He knew the important parts of training, and also knew how to increase the difficulty one step at a time. He knew what sort of tools to use with what ages. If it was too hard, it could make a child’s body collapse.
+
+score: 0.974424, para: 01 89 89	And Hillman really was a formidable warrior. He knew the important parts of training, and also knew how to increase the difficulty one step at a time. He knew what sort of tools to use with what ages. If it was too hard, it could make a child’s body collapse.
+
+score: 0.573897, para: 01 94 98	“All of you must remember. Your body is like a vessel, like a wineglass. Battle qi is like the wine! The amount of wine a vessel can hold is dependent on the size of the vessel. Same goes for the body; a person’s ability to practice battle qi is based on the extent of his training. If his body is too weak, even if he gains access to powerful battle qi manuals, his body won’t be able to hold much battle qi, and he still won’t become a powerful warrior.” Hillman imparted many important bits of advice to the children.
+
+score: 0.573897, para: 01 94 98	“All of you must remember. Your body is like a vessel, like a wineglass. Battle qi is like the wine! The amount of wine a vessel can hold is dependent on the size of the vessel. Same goes for the body; a person’s ability to practice battle qi is based on the extent of his training. If his body is too weak, even if he gains access to powerful battle qi manuals, his body won’t be able to hold much battle qi, and he still won’t become a powerful warrior.” Hillman imparted many important bits of advice to the children.
+
+score: 0.573897, para: 01 94 98	“All of you must remember. Your body is like a vessel, like a wineglass. Battle qi is like the wine! The amount of wine a vessel can hold is dependent on the size of the vessel. Same goes for the body; a person’s ability to practice battle qi is based on the extent of his training. If his body is too weak, even if he gains access to powerful battle qi manuals, his body won’t be able to hold much battle qi, and he still won’t become a powerful warrior.” Hillman imparted many important bits of advice to the children.
+
+score: 0.552455, para: 01 97 101	After practicing the ‘Qi Building Stance’, the waist, back, thighs, shoulders, and other parts of the body would be harmonized. Now, almost all of the children were sitting, relaxed, on the ground. Hillman’s training program was nearly perfect in the difficulty levels he assessed on each age group.
+
+score: 0.552455, para: 01 97 101	After practicing the ‘Qi Building Stance’, the waist, back, thighs, shoulders, and other parts of the body would be harmonized. Now, almost all of the children were sitting, relaxed, on the ground. Hillman’s training program was nearly perfect in the difficulty levels he assessed on each age group.
+
+score: 0.552455, para: 01 97 101	After practicing the ‘Qi Building Stance’, the waist, back, thighs, shoulders, and other parts of the body would be harmonized. Now, almost all of the children were sitting, relaxed, on the ground. Hillman’s training program was nearly perfect in the difficulty levels he assessed on each age group.
+

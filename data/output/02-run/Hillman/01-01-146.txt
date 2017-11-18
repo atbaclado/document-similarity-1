@@ -1,0 +1,20 @@
+source: 01 1 146	But he was facing Linley’s earnest gaze.
+
+score: 0.877108, para: 01 139 146	But he was facing Linley’s earnest gaze.
+
+score: 0.877108, para: 01 139 146	But he was facing Linley’s earnest gaze.
+
+score: 0.877108, para: 01 139 146	But he was facing Linley’s earnest gaze.
+
+score: 0.539096, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+score: 0.539096, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+score: 0.539096, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+score: 0.539096, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+score: 0.500428, para: 02 6 36	“Linley, are you okay?” Hillman was starting to fear for Linley.
+
+score: 0.500428, para: 02 6 36	“Linley, are you okay?” Hillman was starting to fear for Linley.
+

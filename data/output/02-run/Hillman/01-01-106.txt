@@ -1,0 +1,20 @@
+source: 01 1 106	Hillman smiled. He enjoyed telling stories to the children. This was a way to make the kids eager to train. Hillman had always felt that only by making the children voluntarily train would the children have great results.
+
+score: 0.985649, para: 01 103 106	Hillman smiled. He enjoyed telling stories to the children. This was a way to make the kids eager to train. Hillman had always felt that only by making the children voluntarily train would the children have great results.
+
+score: 0.985649, para: 01 103 106	Hillman smiled. He enjoyed telling stories to the children. This was a way to make the kids eager to train. Hillman had always felt that only by making the children voluntarily train would the children have great results.
+
+score: 0.985649, para: 01 103 106	Hillman smiled. He enjoyed telling stories to the children. This was a way to make the kids eager to train. Hillman had always felt that only by making the children voluntarily train would the children have great results.
+
+score: 0.756069, para: 01 122 127	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+score: 0.756069, para: 01 122 127	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+score: 0.756069, para: 01 122 127	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+score: 0.661848, para: 01 100 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.661848, para: 01 100 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+score: 0.661848, para: 01 100 104	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+

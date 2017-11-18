@@ -1,0 +1,30 @@
+source: 01 1 114	After hearing Hillman’s words, many of the kids had been scared silly. They all immediately nodded. Wushan was over a thousand meters high, and thousands of meters in circumference. In the eyes of men, it would definitely be considered a huge mountain.
+
+
+score: 0.730233, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.693820, para: 01 8 50	At this point in time, Hillman’s group was roughly a hundred meters away from the Velocidragon. They quietly watched the events in the center of town unfold. In front of the huge Velocidragon, a group of youngsters could be seen. Four men, three women.
+
+
+score: 0.685460, para: 01 10 31	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.668178, para: 02 6 22	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+
+score: 0.648469, para: 01 23 70	“Such speed…I bet even Uncle Hillman, a warrior of the sixth rank, can’t catch it. How can it be so fast?” Seeing the cute mouse move tens of meters in just the blink of an eye, Linley felt astonished.
+
+
+score: 0.636188, para: 01 15 41	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+
+score: 0.624784, para: 01 15 15	Hillman and the others were hundreds of meters away from the Black Dragon. No matter how sharp their ears were, there was no way for them to hear the words being exchanged by the two parties.
+
+
+score: 0.602385, para: 01 14 28	“We do.” Hearing Hillman’s words and seeing how relaxed Hillman was, all of the children immediately replied vigorously.
+
+
+score: 0.592078, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+

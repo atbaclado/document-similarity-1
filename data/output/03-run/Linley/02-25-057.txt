@@ -1,0 +1,30 @@
+source: 02 25 57	On the street, there were many people who, upon seeing Linley, began to discuss him amongst themselves. As the acknowledged genius of the Ernst Institute, no matter where he went, people would discuss him. But although Linley’s strength continued to increase, he still refused to participate in the yearly tournaments.
+
+
+score: 0.649388, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+
+
+score: 0.634441, para: 02 19 28	“Rand? Right. I’ve heard you guys discuss him before. He was one of the new students who had exceptional elemental affinity and spiritual essence, right?” Linley remembered the name ‘Rand’.
+
+
+score: 0.630458, para: 01 20 44	Hearing and seeing were two different things. When he personally witnessed all the other people at the dinner table be unaware of Grandpa Doehring’s presence, Linley felt deeply astonished.
+
+
+score: 0.621761, para: 02 24 7	Over the past few days, he would often run into people discussing him. Since he had defeated Rand, the victor of the first grade tournament, everyone had tacitly agreed that he was the number one expert amongst first graders.
+
+
+score: 0.608073, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+
+score: 0.597562, para: 02 12 25	The real reason that Linley continued his fighter training was this. “In the future, if I have the chance to drink fresh dragon’s blood, I will be able to practice according to the Secret Dragonblood Training Tome. I have to keep up my physical training. The body is like a vessel, while battle-qi is like wine. The body is extremely important. The earlier I begin building my fundamentals, the faster my improvement will be when I study the Secret Dragonblood Training Tome in the future.”
+
+
+score: 0.593491, para: 02 24 45	“You don’t believe me?” Doehring Cowart stared at him. “Back in the day, when Proulx was just a young kid, he came to me and earnestly begged me to allow him to view my sculptures. After analyzing my sculptures, that kid Proulx had a mental breakthrough which in the end allowed him to become a grandmaster sculptor. As a matter of fact, he can even be considered a student of mine.”
+
+
+score: 0.590816, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.590063, para: 02 8 32	As time went on, the people in the main hall grew more and more numerous. The magical testing event would go on for seven days, so most people didn’t see the urge to come right away at the beginning. When Linley’s turn came, the line of test-takers had already stretched out the main doors of the cathedral.
+
+

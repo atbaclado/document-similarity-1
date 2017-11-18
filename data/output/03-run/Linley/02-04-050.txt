@@ -1,0 +1,30 @@
+source: 02 4 50	Linley suddenly understood.
+
+
+score: 0.947555, para: 02 1 27	Linley suddenly understood. “So that is how it is!”
+
+
+score: 0.759409, para: 01 5 38	“Father, I want to learn to be a sculptor!” Linley suddenly said.
+
+
+score: 0.747452, para: 01 20 39	Linley suddenly understood.
+
+
+score: 0.747452, para: 01 23 29	Linley suddenly came to the same realization.
+
+
+score: 0.747452, para: 02 25 68	“Linley.” Doehring Cowart suddenly said.
+
+
+score: 0.743965, para: 02 6 3	The little Shadowmouse suddenly rushed in Linley’s direction.
+
+
+score: 0.718647, para: 02 3 14	Doehring Cowart suddenly felt that although Linley was only eight, he wasn’t any inferior to many young adults.
+
+
+score: 0.659414, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.659414, para: 02 5 12	But then, Linley thought things through.
+
+

@@ -1,0 +1,27 @@
+source: 01 1 72	As Hillman spoke, he continued to walk about, carefully inspecting the youths to see if their movements were correct.
+
+
+score: 0.581997, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.550956, para: 01 17 43	“Hillman, in a little while, accompany me in inspecting the situation of the residents of Wushan township.” Hogg said, and then looked at Hiri. “Uncle Hiri, after these two Saint-level combatants depart, take Linley home to change his clothes and make sure he gets some rest.”
+
+
+score: 0.537647, para: 01 14 25	“Uncle Hillman is coming.” Linley saw Hillman, Lorry, and Roger walking towards them from afar, and immediately spoke up. Immediately, all of the children calmed down and in a very orderly fashion, lined up into three groups.
+
+
+score: 0.523151, para: 02 6 19	“Uncle Hillman, let’s go. Hehe, the little Shadowmouse is smart. He knows what I’m saying.” Linley said to Hillman. Hillman, who had been watching this spectacle with amazement, chuckled and then continued walking forward with Linley.
+
+
+score: 0.522563, para: 01 7 44	Not just Linley. Hillman, Roger, and Lorry all turned towards the east, their expressions growing solemn. The vibrations were growing stronger and clearer. All of the youths present could clearly feel that the regular vibrations were coming from an enormous creature headed their way.
+
+
+score: 0.506925, para: 02 6 63	“That’s enough, Uncle Hillman,” Linley chortled. “Let’s hurry, we have a lot of road to make up. The capital is still really far away.” As he spoke, Linley pulled Hillman by the hand, not allowing him to speak as they continued heading towards the capital.
+
+
+score: 0.502079, para: 01 15 33	Lorry and Roger immediately turned around and lifted up the children who were slow runners. They carried two in each arm and two on their backs as well. Hillman joined them as well, quickly beginning to pick up child after child.
+
+
+score: 0.501525, para: 01 15 29	Only now did the rest of the children awaken from their stupor. Although they didn’t understand why Hillman was pushing them to go back to their homes and wanted to continue watching the Saint-level combatants, Hillman’s awe-inspiring presence was still enough to send all of the children running speedily for their homes.
+
+

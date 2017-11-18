@@ -1,0 +1,15 @@
+source_doc: 1 10	“Uncle Hillman, I’m not afraid.” Linley turned his head to glance at Hillman.
+
+
+score: 0.625836, para: 1 17	“It really did come too fast.” Hogg turned his head to stare at the eastern sky.
+
+
+score: 0.606858, para: 2 6	The little Shadowmouse seemed to understand Linley’s words, and his small head nodded.
+
+
+score: 0.591813, para: 1 12	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+
+score: 0.590012, para: 1 20	Seeing Linley constantly glance at the corner of his bed, Uncle Hiri asked curiously, “Young master Linley, why are you staring at the side of your bed? Did you drop something? I can help you look for it.”
+
+

@@ -1,0 +1,30 @@
+source: 01 11 51	Hearing the words of the mysterious magus, Hogg felt a sense of relief.
+
+
+score: 0.655188, para: 01 12 1	Only after seeing the magical beast of the seventh rank, the Velocidragon, and its mysterious magus master depart, did Hogg calm down.
+
+
+score: 0.629415, para: 01 3 56	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+
+score: 0.598927, para: 01 13 20	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.573091, para: 01 3 3	“You don’t believe me?” A trace of arrogance could be seen on Hogg’s face. “Linley, go up and take a close look at those spirit tablets. By now, you can read all the words on them. On the back of every single spirit tablet is the history of those departed forefathers. The three spirit tablets at the very top, are three who are Dragonblood Warriors!”
+
+
+score: 0.564794, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.557779, para: 01 13 35	Seeing the expression on Linley’s face, Hogg couldn’t help but laugh. “There’s only two ways to acquire a magical beast companion. The first is to make the magical beast willingly subordinate himself to you and serve you. The second way is to use a soul-binding magical array to enslave the magical beast.”
+
+
+score: 0.556648, para: 01 17 39	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+
+score: 0.556579, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+
+score: 0.552656, para: 01 13 36	“The requirements for the former are very difficult. For a magical beast to willingly subordinate himself to you, perhaps the only way is to defeat the magical beast in direct combat. Only then would he willingly follow you. For example, if you wanted to subdue a Velocidragon, you would first have to be able to defeat that Velocidragon in battle.” His father’s words rendered Linley speechless.
+
+

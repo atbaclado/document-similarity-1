@@ -1,0 +1,9 @@
+source: 01 17 26	“Linley, how are you feeling?” Hogg said with concern.
+
+
+score: 0.582347, para: 02 11 34	“Linley, it’s getting late. You should go back and get some rest.” Hogg laughed.
+
+
+score: 0.519568, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+

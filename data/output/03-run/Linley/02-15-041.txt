@@ -1,0 +1,30 @@
+source: 02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+
+score: 0.644823, para: 02 12 33	“Linley, today you are going to go to the Ernst Institute and formally become an Ernst Institute student. When you graduate from the Ernst Institute, you will be a powerful magus! Before you depart, as your father, I want to say to you…” On this last day, Hogg had a belly full of things he wanted to speak to Linley.
+
+
+score: 0.626080, para: 02 17 6	“Right, Linley, today the rest of us are going to attend the new students fellowship. Are you going?” George chortled.
+
+
+score: 0.575748, para: 02 16 24	“From today forward, I will only attend the earth magic class once a month.” Linley didn’t want to waste his time.
+
+
+score: 0.558826, para: 02 18 22	Trey smiled and nodded. “Linley, this yearly tournament is an excellent opportunity to train one’s self. I expect all of the elites of the first grade students will attend. Why aren’t you enrolling? This is a rare opportunity.”
+
+
+score: 0.555553, para: 02 18 74	Linley really didn’t care about the yearly tournament in the slightest. But the vast majority of the students at the Ernst Institute were extremely excited about it. And not just the students. Even some of the full magi residing at the Ernst Institute would pay close attention to the tournament results.
+
+
+score: 0.553710, para: 02 16 17	After the self-introductions were complete, the earth-style magus Wendi began to brag about earth-style magic’s power. Only in the second hour of the class did he actually begin to instruct in earth-style magic.
+
+
+score: 0.553267, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.552660, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+
+score: 0.550742, para: 02 13 39	Linley and Reynolds accepted their Ernst Institute student ID’s, then acquired their residence keys. At the Ernst Institute, all students, regardless of wealth and economic background, had to live together. Tuition fees and residence fees were totally waived.
+
+

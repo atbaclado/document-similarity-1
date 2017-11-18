@@ -1,0 +1,15 @@
+source_doc: 1 10	On the Yulan continent, when a man grew up, it would be very likely that he would experience life-and-death struggles. But since Linley was just a child who had not done so yet, he had to repeatedly tell himself to calm down. And slowly, the terror and horror in his heart really did begin to lessen.
+
+
+score: 0.663778, para: 1 14	After saying these words, Hillman took a deep breath as he thought to himself, “What story should I tell them today?” Every day, when morning exercises were completed, Hillman would tell the children stories. This had turned into a routine.”
+
+
+score: 0.660114, para: 2 2	Linley’s calm mind immediately grew agitated again, and he turned to look at Doehring Cowart with shining eyes.
+
+
+score: 0.653939, para: 1 1	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+
+score: 0.648722, para: 1 8	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+

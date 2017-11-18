@@ -1,0 +1,14 @@
+source_doc: 1 15	“Quick, hide in the cellar beneath the storage room.” Hogg was standing in the middle of the courtyard. Upon seeing Linley, he immediately ordered him in. The cellar beneath the storage room was the largest, most sturdy cellar within the Baruch clan’s manor. Anyone hiding there definitely would be able to survive.
+
+
+score: 0.631994, para: 1 6	On the ancient walls were many rotted wooden cabinets, each of which had many drawers. Linley pulled open each and every drawer, but the drawers were totally empty, almost immaculately so. The only thing inside of them? Some dust.
+
+
+score: 0.629554, para: 2 7	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+
+score: 0.613244, para: 2 5	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+score: 0.610833, para: 2 11	Hogg, of course, couldn’t discover Doehring Cowart’s existence at all. Hogg laughed bitterly at Linley. “Linley, did you see that? Based on our ancestor’s method, the Dragonblood is lurking hidden within all of our veins. To call it forth, there are just two methods. But the second method requires one to drink the blood of a living dragon. How can that be an easy task? What’s more…Linley, flip to the back and take a look.”
+
+

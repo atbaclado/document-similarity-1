@@ -1,0 +1,15 @@
+source: 01 2 48	“I wonder why father summoned me?” Although he was young, Linley could sense that this time, his father had called him for something important.
+
+
+score: 0.577746, para: 01 17 32	Just then, when he saw Linley charge over to protect Wharton, Hogg had truly been scared silly. He had truly been terrified that his sons would’ve died, just like that.
+
+
+score: 0.548436, para: 01 20 42	Just as Linley spoke, he saw that next to him, a white-haired old man suddenly appeared out of nowhere. It was Doehring Cowart. But Hogg, Housekeeper Hiri, and his younger brother Wharton still continued to eat and chat, not noticing Doehring Cowart’s existence in the slightest.
+
+
+score: 0.543484, para: 02 25 15	After the New Year, little Wharton and his older brother, Linley, had only a few days to spent in each other’s company. And then, under the auspices of Housekeeper Hiri, Wharton headed towards the O’Brien Empire. Linley had no choice but to wistfully watch little Wharton depart. Crying nonstop, six year old Wharton parted from ten year old Linley and headed off.
+
+
+score: 0.535932, para: 01 16 48	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+

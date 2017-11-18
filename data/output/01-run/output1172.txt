@@ -1,0 +1,14 @@
+source_doc: 2 5	“I won’t let you down, father.” Linley’s words were filled with confidence.
+
+
+score: 0.789780, para: 1 15	Hillman’s face was filled with urgency.
+
+
+score: 0.724109, para: 1 4	Linley remembered his father’s words very clearly.
+
+
+score: 0.686988, para: 1 12	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+score: 0.656270, para: 2 7	Peering out through the window, Linley saw that the streets were still filled with people.
+
+

@@ -1,0 +1,14 @@
+source_doc: 1 12	Only after seeing the magical beast of the seventh rank, the Velocidragon, and its mysterious magus master depart, did Hogg calm down.
+
+
+score: 0.782889, para: 2 2	No wonder there was no need for setting up a soul-binding magical formation. This bond was initiated by the magical beast itself. Doehring Cowart continued, “Every single magical beast, upon birth, has the ability to initiate a ‘bond of equals’, but in their entire life, a magical beast may only enter this bond a single time. It isn’t like the soul-binding master-servant relationship, where once the master dissolves the relationship, someone else can use another soul-binding technique to tame the beast again.”
+
+
+score: 0.775718, para: 2 1	“Magical beasts are divided into nine ranks. Magical beasts of the first rank are the weakest. And of course, above the ninth rank are magical beasts at the Saint-level!” Doehring Cowart smiled at Linley. “Linley, the weakest type of Stoneater Rat is the Grey Stoneater Rat. Stoneater Rats of the first to third ranks are all grey in color, with some minor shading differences. A Stoneater Rat, upon reaching the fourth rank, will see its fur turn pure silver. Upon reaching the seventh rank, its fur will turn gold! A gold-colored Stoneater Rat will at least be a magical beast of the seventh rank, and at most a magical beast of the eighth rank.”
+
+
+score: 0.772916, para: 1 23	Aside from the Vampiric Iron Bull, the Griffin, the Velocidragon, and the Black Dragon magical beasts he had seen, this was the first time Linley had seen any other magical beasts. This adorable black mouse was actually a magical beast? A magical beast, with magical abilities?
+
+score: 0.759941, para: 2 1	His overheated mind suddenly calmed down. Laughing bitterly, he said, “Now I remember. To tame a magical beast, the first way is to forcibly subdue him, and the second way is to use a soul-binding magical formation, which can only be utilized by a magus of the seventh rank, at least.
+
+

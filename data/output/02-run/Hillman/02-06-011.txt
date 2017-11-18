@@ -1,0 +1,16 @@
+source: 02 6 11	“Uncle Hillman, he’s the pet that I’ve been feeding and raising in the back courtyard.” Linley hurriedly said. “Little Shadowmouse, isn’t that right?”
+
+score: 0.535797, para: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+score: 0.535797, para: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+score: 0.535797, para: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+score: 0.500781, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+score: 0.500781, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+score: 0.500781, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+score: 0.500781, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+

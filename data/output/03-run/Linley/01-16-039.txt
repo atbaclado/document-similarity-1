@@ -1,0 +1,30 @@
+source: 01 16 39	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+
+score: 0.760308, para: 01 15 34	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.686583, para: 02 9 50	“Squeaaaaak!” After exiting the cathedral, the little Shadowmouse shouted out, sensing Linley’s excitement.
+
+
+score: 0.669152, para: 01 23 62	His ears twitched as he turned and stared towards a far-off building. “I heard something?” He immediately stealthily walked in that direction. His footsteps made almost no sound. Normally, just while walking ordinarily, he could mask his footsteps. Now that he was intentionally trying to hide them, he made even less noise.
+
+
+score: 0.661544, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.609204, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.608090, para: 01 1 60	“This must be Linley’s [Lin’lei] first day at training. Who would’ve thought he’d be so formidable?” Lorry said, amazed. Next time him, Roger and Hillman also noticed. Looking in that direction, they saw that to the north, a single brown haired boy was still holding firm. His lips tightened, the boy stared determinedly in front, both fists tightly clenched so hard that his fists were white.
+
+
+score: 0.605859, para: 02 6 45	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+
+score: 0.601338, para: 01 20 24	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.600855, para: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+

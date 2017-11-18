@@ -1,0 +1,30 @@
+source: 01 3 14	Beside him, Hogg said in a low voice, “The first three generations of the Baruch family were all Dragonblood Warriors. Upon becoming a Dragonblood Warrior, one’s life expectancy would dramatically increase. The second generation Dragonblood Warrior didn’t get married or have children until after he was seven hundred years old.”
+
+
+score: 0.713228, para: 01 12 19	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+
+score: 0.659226, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.626011, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.611068, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.605383, para: 02 11 24	In the past, when the first, second, and third generation of Baruch clan members were all Dragonblood Warriors, the clan was in its glorious ascendancy. At that period in time, it wasn’t impossible to procure the blood of a Saint-level dragon.
+
+
+score: 0.601859, para: 01 4 19	A warrior of the ninth rank could be considered the most powerful expert in the entire country of Fenlai. A warrior of the eighth rank, although unable to restore the Baruch family to its former glories, would be able to dramatically improve its current situation.
+
+
+score: 0.600977, para: 01 5 7	“We’re selling off more family belongings?” Linley knew that the ‘Fierce Lion’ sculpture was one which his father deeply liked. But the Baruch clan, which took very little taxes from Wushan township, really was in dire economic straits.
+
+
+score: 0.596764, para: 02 5 6	Unfortunately, the type of family which could collect the warblade ‘Slaughterer’ was not an ordinary one, and the current Baruch clan was far too weak.
+
+
+score: 0.579992, para: 02 11 21	Hogg said with a solemn face, “Linley, this Secret Dragonblood Training Tome was written by our founder and first ancestor, the very first Dragonblood Warrior to appear in the Yulan continent, Baruch! He naturally must have had his own reasons for writing this down. Nonetheless, in our family history, there have been two descendants who drank the blood of a Saint-level dragon, and in the end, both of their veins erupted and they died.”
+
+

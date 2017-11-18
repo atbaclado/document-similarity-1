@@ -1,0 +1,30 @@
+source: 02 3 5	The rabbit in his clutches, Linley immediately began running down the mountain.
+
+
+score: 0.683923, para: 01 1 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+
+score: 0.670345, para: 02 4 7	“Squeak, squeak!” The little Shadowmouse immediately ran up to Linley, and began hopping up and down while squeaking at him.
+
+
+score: 0.603056, para: 02 2 22	“Then what should I do?” Linley immediately lost his confidence.
+
+
+score: 0.601249, para: 02 6 1	The little Shadowmouse had previously watched Linley go hunting rabbits in the mountain, but this time, Linley wasn’t headed for the mountain. He was headed off in a totally different direction, traveling on a road. The little Shadowmouse immediately panicked.
+
+
+score: 0.597422, para: 02 2 42	“Wild rabbits have a fast reaction time, and run fast also. Best if I use magic.” Linley immediately began to chant the words to a magical incantation.
+
+
+score: 0.590532, para: 02 2 40	Linley’s footsteps suddenly halted, as he saw up ahead a dull-yellow colored rabbit eating grass.
+
+
+score: 0.587474, para: 02 7 22	Linley and Hillman were staying in the same room. There were two beds in this room. Immediately upon entering, the little Shadowmouse, Bebe, leapt out from within Linley’s clothes and immediately began circling around Linley while squeaking loudly.
+
+
+score: 0.580955, para: 02 4 50	Linley suddenly understood.
+
+
+score: 0.571739, para: 02 2 41	Even a very cautious wild rabbit wasn’t able to detect Linley in the slightest.
+
+

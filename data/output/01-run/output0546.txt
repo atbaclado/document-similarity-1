@@ -1,0 +1,15 @@
+source_doc: 1 13	Linley immediately asked, “Father, how can a person acquire a magical beast companion?”
+
+
+score: 0.778603, para: 1 12	“Magical beasts…I wonder how someone acquires a magical beast.” Linley desired to have a magical beast of his own as well.
+
+
+score: 0.743190, para: 2 2	No wonder there was no need for setting up a soul-binding magical formation. This bond was initiated by the magical beast itself. Doehring Cowart continued, “Every single magical beast, upon birth, has the ability to initiate a ‘bond of equals’, but in their entire life, a magical beast may only enter this bond a single time. It isn’t like the soul-binding master-servant relationship, where once the master dissolves the relationship, someone else can use another soul-binding technique to tame the beast again.”
+
+
+score: 0.713731, para: 2 2	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.685077, para: 2 2	“Adult magical beasts have very high intelligence, so if you want to move the heart of an adult magical beast and make it view you as family, it is almost impossible.” Doehring Cowart sighed. “But juveniles are different. It is much like how human babies have low intelligence and can easily be tricked into liking you by, say, giving them some tasty food. The intelligence of magical beast babies is even lower. As long as you often feed him, he will like you. Then, spend some time playing with him. In a short period of time, this magical beast will come to adore you. This is especially true for an infant magical beast who has been separated from his community. Those are even easier to tame.”
+
+

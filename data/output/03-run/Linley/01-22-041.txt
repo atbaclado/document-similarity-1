@@ -1,0 +1,12 @@
+source: 01 22 41	“Meditative state?” Linley felt his heartbeat quicken.
+
+
+score: 0.530954, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 0.530954, para: 01 21 14	Linley’s heart was trembling.
+
+
+score: 0.530954, para: 02 23 17	Linley’s heart was full of excitement.
+
+

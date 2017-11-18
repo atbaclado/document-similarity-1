@@ -1,0 +1,15 @@
+source_doc: 1 21	Doehring Cowart laughed as he said, “At the earliest levels, earth-style magi have access to simple spells such as a shield of earth, or a wall of earth. Upon becoming a magus of the fifth rank, you will gain access to the ‘Earthguard’ spell, which will continuously grow in power along with you.”
+
+
+score: 0.741308, para: 1 22	Doehring Cowart laughed as he spoke. “In most magus academies, you can only study spells up to the sixth rank. Spells of the seventh, eighth, and ninth ranks, as well as Saint-level spells, are considered secrets. Only if you join a kingdom will you gain access to those special spells.”
+
+
+score: 0.736749, para: 1 13	“Let’s not discuss Saint-level magi for now. Even a magus of the eighth or ninth rank would be capable of using spells which contain shocking power and are able to change the course of a battle. This is why magi have such a high social standing.” Hogg said with a light chuckle.
+
+
+score: 0.709201, para: 1 17	“The legendary earth-style incantation of the tenth rank, a forbidden spell – the earth element ‘World Protector’. The power of this ‘World Protector’is extremely terrifying. It’s considered the most powerful offensive spell available to an earth-style magus.” Staring at the earthen giant, Hogg’s face had grown cold as he spoke.
+
+
+score: 0.679388, para: 1 13	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+

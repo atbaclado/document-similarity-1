@@ -1,0 +1,30 @@
+source: 02 13 32	“My turn.” Linley ran towards the test giver as well.
+
+
+score: 0.554346, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+
+score: 0.537357, para: 01 21 2	He quickly removed his shoes, then jumped onto the bed and sat down. “Grandpa Doehring, come out now. Help me test my magical aptitude.” Linley was extremely impatient. When he was eating dinner just now, all of his thoughts were turned towards this.
+
+
+score: 0.522546, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.519760, para: 01 6 24	Having made up his mind, Linley raced towards the large room.
+
+
+score: 0.519486, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.519384, para: 01 21 5	“You can only test for my aptitude for earth element magic?” Linley felt a little disappointed.
+
+
+score: 0.517082, para: 02 17 54	He had just taken another step towards his goals.
+
+
+score: 0.514664, para: 01 15 34	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.512475, para: 01 16 37	“Young master Linley, hurry!” A man came charging out from within the warehouse. It was Uncle Hiri, the housekeeper. His body was currently covered with red battle-qi, and he ran directly towards Linley.
+
+

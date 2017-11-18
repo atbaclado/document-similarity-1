@@ -1,0 +1,30 @@
+source: 01 1 150	Hillman, Roger, and Lorry all stared at Linley in surprise.
+
+
+score: 0.696513, para: 01 8 45	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+
+score: 0.647599, para: 01 14 49	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+
+score: 0.628379, para: 01 10 23	Hillman, Roger, and Lorry exchanged troubled glances as they watched Linley.
+
+
+score: 0.628056, para: 01 8 42	Linley gritted his teeth. “Uncle Hillman!” Linley was also worried for Uncle Hillman, as well as the citizens of Wushan town. He also ran in that direction. At this moment, Lorry and Roger were both panic-stricken at the thought of the Velocidragon, and didn’t notice Linley following behind them.
+
+
+score: 0.617795, para: 01 9 1	“Captain, what’s going on up ahead?” Lorry said in a quiet voice to Hillman.
+
+
+score: 0.585712, para: 01 8 40	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+
+score: 0.550451, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+
+score: 0.548847, para: 01 8 3	“A magical beast of the seventh rank. Velocidragon*!” Hillman’s facial expression contorted, while Lorry and Roger, by his side, felt their legs grow weak.
+
+
+score: 0.516136, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+

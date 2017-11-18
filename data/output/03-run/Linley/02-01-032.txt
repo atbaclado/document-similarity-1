@@ -1,0 +1,30 @@
+source: 02 1 32	Linley could imagine it as well.
+
+
+score: 0.606473, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.565699, para: 01 5 38	“Father, I want to learn to be a sculptor!” Linley suddenly said.
+
+
+score: 0.562038, para: 02 6 32	“Is this..can this be?” Linley had a wild guess in his heart.
+
+
+score: 0.561497, para: 02 2 7	Linley now understood.
+
+
+score: 0.561497, para: 02 2 12	Linley nodded.
+
+
+score: 0.561497, para: 02 2 26	Linley understood.
+
+
+score: 0.553745, para: 01 2 40	“Wharton, what did you learn today?” Linley asked, smiling.
+
+
+score: 0.544427, para: 02 7 30	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+
+score: 0.533484, para: 02 6 12	The little Shadowmouse seemed to understand Linley’s words, and his small head nodded.
+
+

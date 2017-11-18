@@ -1,0 +1,30 @@
+source: 02 4 49	“No.” Doehring Cowart said seriously. “I haven’t interacted with the Yulan continent for over five thousand years. Five thousand years, Linley! You must understand that many magi in the world have been continuously researching and developing new spells during this time period. Who knows how many new spells have been developed in the interim.”
+
+
+score: 0.640446, para: 01 22 31	“What’s the point of having mageforce, if you don’t know exactly how to shape it into a magical spell?” Doehring Cowart let out a long sigh. “The world of magic is an extremely complicated one. Magical research is very difficult and dangerous. But due to intra-empire struggles, countless magi engage in the research of new types of spells.”
+
+
+score: 0.629759, para: 01 23 26	But Doehring Cowart continued, “Generally speaking, only one in ten thousand can become a magus, principally because there’s a high requirement when it comes to spiritual energy. The absolute minimum requirement for a magus is having five times more spiritual energy than someone of the same age. Ten times puts you roughly in the middle of the pack, as far as the average magus goes.”
+
+
+score: 0.612411, para: 01 21 34	Doehring Cowart laughed as he said, “At the earliest levels, earth-style magi have access to simple spells such as a shield of earth, or a wall of earth. Upon becoming a magus of the fifth rank, you will gain access to the ‘Earthguard’ spell, which will continuously grow in power along with you.”
+
+
+score: 0.585935, para: 01 22 33	Doehring Cowart laughed as he spoke. “In most magus academies, you can only study spells up to the sixth rank. Spells of the seventh, eighth, and ninth ranks, as well as Saint-level spells, are considered secrets. Only if you join a kingdom will you gain access to those special spells.”
+
+
+score: 0.583989, para: 02 2 6	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.583979, para: 02 5 15	When Doehring Cowart was still alive, Ernst had still been developing himself. When Ernst had finally entered the Saint-level, Doehring Cowart had already been standing at the very pinnacle of the Yulan continent for a long time. Even amongst Saint-level combatants, Doehring Cowart would have been considered one of the greatest.
+
+
+score: 0.578779, para: 02 1 36	“To be so powerful when still so young, eight or nine times out of ten, means that it is the infant of a Violet Shadowmouse. I really wonder how he managed to make his way to your clan’s manor, without a single adult Shadowmouse guard.” Doehring Cowart said with an air of amazement.
+
+
+score: 0.570358, para: 02 24 54	“Written, recorded history goes back only a few tens of thousands of years at most. In the long ages before then, before the writing system had even been invented, stonesculpting had already existed.” Doehring Cowart said with a sigh. “Hundreds of thousands of years, or even millions of years ago, our ancestors would record their memories and their visions in sculptures. This is the most ancient method of recording culture and history.”
+
+
+score: 0.559936, para: 02 22 41	“Oh, not bad, not bad. I didn’t expect that in five thousand years, the art of stone-sculpting would reach such a height.” Doehring Cowart said in amazement. “If these can improve a bit more, they will be able to approximate Proulx’s level.”
+
+

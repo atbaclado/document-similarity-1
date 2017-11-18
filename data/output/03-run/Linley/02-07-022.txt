@@ -1,0 +1,30 @@
+source: 02 7 22	Linley and Hillman were staying in the same room. There were two beds in this room. Immediately upon entering, the little Shadowmouse, Bebe, leapt out from within Linley’s clothes and immediately began circling around Linley while squeaking loudly.
+
+
+score: 0.796558, para: 02 4 7	“Squeak, squeak!” The little Shadowmouse immediately ran up to Linley, and began hopping up and down while squeaking at him.
+
+
+score: 0.706709, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.696000, para: 01 16 52	“Young master-“ Housekeeper Hiri’s eyes immediately turned red. The battle-qi in his body exploded, and like a bolt of red lightning, he flew towards them. Using his own body as a protective barrier, he also used his two hands to push at a huge piece of the falling roof which was going to fall on Linley’s body. Hiri and that collapsing ceiling arrived next to Linley at almost the same time.
+
+
+score: 0.686148, para: 02 5 31	Linley was lying on the grass near the back courtyard, while the little Shadowmouse was hopping up and down around Linley. It was squeaking nonstop, but Linley paid him no mind.
+
+
+score: 0.681608, para: 02 4 17	It seemed as though this time, the little Shadowmouse had enjoyed his meal very much. He was so happy that he immediately began to hop up and down while squeaking at Linley, while even hugging Linley’s leg with his own front arms. Linley couldn’t help but feel pleased; this was the first time that the little Shadowmouse had acted so intimately towards him, even after eating.
+
+
+score: 0.673858, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+
+score: 0.665622, para: 02 3 36	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.665460, para: 02 4 1	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+
+score: 0.664695, para: 02 6 1	The little Shadowmouse had previously watched Linley go hunting rabbits in the mountain, but this time, Linley wasn’t headed for the mountain. He was headed off in a totally different direction, traveling on a road. The little Shadowmouse immediately panicked.
+
+

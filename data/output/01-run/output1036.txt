@@ -1,0 +1,15 @@
+source_doc: 2 2	“Yup.” Linley assented as he sped up his pace.
+
+
+score: 0.600316, para: 2 4	Just as Linley walked into the courtyard….
+
+
+score: 0.572426, para: 1 1	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.559105, para: 2 7	Linley and Hillman had arrived here as well.
+
+
+score: 0.555005, para: 1 4	Hillman, off to the side, nodded with satisfaction.
+
+

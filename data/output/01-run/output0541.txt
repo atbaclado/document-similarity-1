@@ -1,0 +1,15 @@
+source_doc: 1 13	Linley slapped himself on the head, then laughed, somewhat embarassed.
+
+
+score: 0.696416, para: 2 6	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+
+score: 0.696416, para: 2 6	The little Shadowmouse said, somewhat excitedly, “Bei….bei….”
+
+
+score: 0.644840, para: 1 15	Hillman felt slightly dizzy.
+
+
+score: 0.642037, para: 1 21	Linley found this somewhat hard to believe.
+
+

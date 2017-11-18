@@ -1,0 +1,15 @@
+source_doc: 1 2	This desk clock can be considered a high quality object. Generally, only wealthy or noble families had such a clock. At this moment, Linley’s father was seated next to the fireplace. The flames in the fireplace burned, constantly crackling and popping.
+
+
+score: 0.689086, para: 2 10	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.673617, para: 2 10	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+
+
+score: 0.634707, para: 1 6	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+
+score: 0.591068, para: 1 20	Hearing and seeing were two different things. When he personally witnessed all the other people at the dinner table be unaware of Grandpa Doehring’s presence, Linley felt deeply astonished.
+
+

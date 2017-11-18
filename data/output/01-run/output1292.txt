@@ -1,0 +1,15 @@
+source_doc: 2 7	“An earl in any kingdom?” Linley immediately understood.
+
+
+score: 0.647767, para: 2 3	Doehring Cowart immediately understood.
+
+
+score: 0.647767, para: 2 11	Linley immediately understood.
+
+
+score: 0.622407, para: 1 1	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+
+score: 0.622407, para: 1 13	Linley immediately understood.
+
+

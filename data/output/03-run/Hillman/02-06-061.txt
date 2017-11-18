@@ -1,0 +1,30 @@
+source: 02 6 61	Hillman was a worldly man, and of course he knew that taming a magical beast was an extremely difficult, extremely arduous matter. But just now, Linley had actually subdued a magical beast.
+
+
+score: 0.658491, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.638902, para: 01 14 29	“Great.” Hillman’s facial expression suddenly turned serious. “That huge creature is known as a Velocidragon. The magus on top of the Velocidragon is incredibly powerful. But everyone should know one thing!”
+
+
+score: 0.626825, para: 02 1 28	“Grandpa Doehring, then based on your words, this Shadowmouse is really amazingly fast. The Shadowmouse in front of me is slightly faster than even Uncle Hillman, but you are telling me that it is comparable to a Shadowmouse of the fourth rank. For a magical beast of the fourth rank to be faster than a warrior of the sixth rank…” Linley couldn’t help but sigh in amazement.
+
+
+score: 0.614304, para: 01 14 30	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.606237, para: 01 15 9	“A man in gray who was able to subdue a Black Dragon? And a Saint-level combatant who can fly?” The eight year old Linley was totally stunned, even after having witnessed the previous day’s amazing battle. Not only him; even Hillman, a warrior of the sixth rank, was totally flabbergasted.
+
+
+score: 0.605026, para: 01 1 33	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+
+score: 0.588501, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.586113, para: 01 9 2	A hint of a smile played at Hillman’s lips. “That mysterious magus seems to be at odds with that party over there. Just stay here and watch. No need for us to interfere.” Hillman himself was only a warrior of the sixth rank. In truth, he didn’t dare to interfere either.
+
+
+score: 0.583583, para: 01 12 6	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+

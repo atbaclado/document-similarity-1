@@ -1,0 +1,15 @@
+source_doc: 1 21	“Grandpa Doehring, it seems like the earth-style has lots more forbidden spells? Why is that?” Linley said curiously.
+
+
+score: 0.528310, para: 1 2	“Wharton, you can do it!” Linley encouraged him.
+
+
+score: 0.528013, para: 1 15	Hillman’s face was filled with urgency.
+
+
+score: 0.526591, para: 1 10	“Don’t look.” Hillman covered Linley’s eyes.
+
+
+score: 0.525449, para: 1 19	Linley secretly nodded.
+
+

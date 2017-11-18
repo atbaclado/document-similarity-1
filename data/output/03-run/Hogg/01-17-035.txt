@@ -1,0 +1,30 @@
+source: 01 17 35	“It really did come too fast.” Hogg turned his head to stare at the eastern sky.
+
+
+score: 0.579465, para: 02 12 44	On the road headed east of Wushan township, Linley turned his head saw the hundreds of familiar faces which had come to send him off, with his father, Hogg, and his younger brother Wharton standing in the lead.
+
+
+score: 0.545494, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.541523, para: 01 5 41	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+
+score: 0.535409, para: 01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+
+
+score: 0.532738, para: 01 3 32	Raising his head, Linley stared at his father, feeling extremely agitated. “Is the density of dragonblood in my veins sufficient? Why has father stared at the Dragonblood Needle for so long?” Linley had a bad premonition…
+
+
+score: 0.523928, para: 01 5 30	Hogg sternly shook his head firmly. “The grandfather clock is not for sale! As for the sculpture, six hundred gold. Take it or leave it.”
+
+
+score: 0.523609, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.519061, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.500868, para: 01 5 27	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+

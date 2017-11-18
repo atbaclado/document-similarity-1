@@ -1,0 +1,15 @@
+source_doc: 1 15	“Quick, let’s move. Don’t stand there in a daze, move!” Hillman shouted loudly while shoving some children away.
+
+
+score: 0.766625, para: 1 16	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+
+score: 0.641960, para: 1 14	“You hear that? I told you, that Velocidragon creature is really powerful!” Hadley began shouting loudly.
+
+
+score: 0.627249, para: 2 9	“Squeaaaaak!” After exiting the cathedral, the little Shadowmouse shouted out, sensing Linley’s excitement.
+
+
+score: 0.619122, para: 1 1	All of the children stared worshipfully at Hillman.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 17	Wharton slowly crawled out from under Linley. His body was small, and he had been fully covered by Linley, so he didn’t experience any injuries at all.
+
+
+score: 0.674289, para: 1 10	Ground beneath the Velocidragon’s saw-like teeth, Luke’s entire body was turned into mincemeat. Half of one bloody leg escaped the Velocidragon’s mouth and fell down to the ground. Gleaming white bone could be seen protruding from the bloody half-leg.
+
+
+score: 0.673557, para: 1 4	“That’s enough, Wharton. My entire body is covered with sweat. Let me wash myself first.” Linley patted Wharton on the face and laughed.
+
+
+score: 0.668567, para: 1 4	Right now, Linley was only wearing trousers. His upper body was covered with sweat, and his body, as taut as a drawn bowstring, was lying on the ground. His hands were pressed fiercely to the ground, as straight as tree trunks, while the rest of his body was motionless. He was supporting himself from a push-up position, with just his hands and the tips of his toes! His entire body was taut!
+
+
+score: 0.655821, para: 1 4	“That feels wonderful.” Flat on the floor, his entire body relaxed, Linley could clearly feel how numb his entire body was. All the muscles on his body, after undergoing that training, were slowly growing. Although the growth wouldn’t be noticeable from just one or two exercises, after a long period of time, the effects would be pronounced.
+
+

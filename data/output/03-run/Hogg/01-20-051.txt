@@ -1,0 +1,21 @@
+source: 01 20 51	“Still feeling dizzy? Then go and get some rest.” Hogg hurriedly said.
+
+
+score: 0.568560, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.547802, para: 01 18 23	Only now did Hogg feel relieved, and he nodded. But his forehead was still furrowed.
+
+
+score: 0.542657, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+
+score: 0.538822, para: 02 5 3	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.534815, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.505911, para: 01 3 46	As he spoke, Hogg was filled with so much fury that his body actually trembled.
+
+

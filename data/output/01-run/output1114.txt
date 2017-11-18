@@ -1,0 +1,15 @@
+source_doc: 2 4	“I really wonder when this little Shadowmouse will initiate a ‘bond of equals’ with me.” Linley mumbled. There was nothing he could do. The ‘bond of equals’ could only be initiated by magical beasts, so he could only passively wait.
+
+
+score: 0.711797, para: 2 2	Doehring Cowart laughed loudly. “Because, the ‘bond of equals’ is not initiated by people. Rather, it is initiated by the magical beast.”
+
+
+score: 0.673579, para: 2 2	Doehring Cowart said with a self-satisfied smile, “It’s simple. The ‘soul-binding’ technique used by the soul-binding magical formation creates a master-servant bond. And naturally, if one can subdue a magical beast, one is qualified to become its master. Right now, there’s no way for us to initiate a ‘master-servant bond’, so we can only take a step back…and initiate a ‘bond of equals’ with the Shadowmouse.”
+
+
+score: 0.669264, para: 2 2	No wonder there was no need for setting up a soul-binding magical formation. This bond was initiated by the magical beast itself. Doehring Cowart continued, “Every single magical beast, upon birth, has the ability to initiate a ‘bond of equals’, but in their entire life, a magical beast may only enter this bond a single time. It isn’t like the soul-binding master-servant relationship, where once the master dissolves the relationship, someone else can use another soul-binding technique to tame the beast again.”
+
+
+score: 0.654419, para: 2 2	“But it is extremely difficult to convince a magical beast to willingly initiate the ‘bond of equals’,” Doehring Cowart continued more seriously. “You need to convince a magical beast that you are like family and make it decide that it cannot bear to part from you. Only then would it willingly enter a ‘bond of equals’ with you.”
+
+

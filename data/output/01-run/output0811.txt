@@ -1,0 +1,15 @@
+source_doc: 1 20	“Linley, eat more slowly.” Hogg saw how fast Linley was eating and couldn’t help but laugh.
+
+
+score: 0.726142, para: 1 17	Uncle Hiri smiled at Hogg. “Not bad. Linley is in excellent physical shape, and he hasn’t fainted. There shouldn’t be too much to worry about. In the coming days, he just needs to eat more meat to replenish his blood, and he’ll be fine.”
+
+
+score: 0.686262, para: 2 3	And then he immediately began to eat the wild hare. His sharp teeth chewed at an incredibly fast rate. Although the Shadowmouse had a small body, this wild hare which was physically larger than the Shadowmouse was fully devoured by it, aside from the fur. Even the bones weren’t spared.
+
+
+score: 0.657843, para: 2 2	“Relax. Based on my method, you won’t have any problems at all. Based on this ‘clumsy idea’ that I have, all you need is time and patience. Don’t get agitated or impatient.” Doehring Cowart slowly began to explain his ‘clumsy idea’. “Linley, a Shadowmouse is an omnivore; it will eat anything. Bones, rocks, meat. But its favorite food is still meat, especially roasted meat. This is based on the experience of elders.”
+
+
+score: 0.644446, para: 2 2	Linley’s footsteps suddenly halted, as he saw up ahead a dull-yellow colored rabbit eating grass.
+
+

@@ -1,0 +1,30 @@
+source: 02 15 45	“Expelled?” Yale stared. “If I really were to be expelled, my old man would probably kill me.” Expulsion by the Ernst Institute would result in an unbearably humiliating reputation. No one would be willing to shoulder it. After all, to have been accepted meant they were all talented people.
+
+
+score: 0.669217, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.617810, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+
+score: 0.607824, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+
+score: 0.604065, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+
+
+score: 0.586627, para: 02 10 44	Upon hearing that Linley had been admitted to the Ernst Institute, everyone present had become excited. One could easily understand that entering the Ernst Institute meant entering a certain destiny. In the future, Linley definitely would not be constrained by tiny little Wushan township.
+
+
+score: 0.567752, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+
+score: 0.560849, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+
+score: 0.546832, para: 02 13 44	The old man next to him smiled at Linley. “That’s right. This isn’t just the rule for the Ernst Institute; the number one warrior academy in the Yulan continent, the O’Brien Academy, does the same. They provide a full tuition waiver for their own Empire’s students, but charge an astronomical fee for students coming from other places.”
+
+
+score: 0.538874, para: 02 13 22	One of the intake processes for new students was to retake the magus test. After all, the Ernst Institute was afraid that someone might steal an admissions letter and falsely enroll.
+
+

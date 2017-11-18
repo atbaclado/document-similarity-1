@@ -1,0 +1,30 @@
+source: 01 1 68	“Haha.” Linley grinned widely. In his heart, he felt very happy at being praised by Hillman.
+
+
+score: 0.655156, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+
+score: 0.615408, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+
+score: 0.603185, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+
+score: 0.566109, para: 01 4 26	Hillman, off to the side, nodded with satisfaction.
+
+
+score: 0.557740, para: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+
+score: 0.556272, para: 02 5 47	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+
+score: 0.556058, para: 02 6 19	“Uncle Hillman, let’s go. Hehe, the little Shadowmouse is smart. He knows what I’m saying.” Linley said to Hillman. Hillman, who had been watching this spectacle with amazement, chuckled and then continued walking forward with Linley.
+
+
+score: 0.533141, para: 01 22 20	Doehring Cowart smiled and nodded. “Right. Therefore, the ‘mageforce’ of a magus is extremely important. If he doesn’t have enough mageforce, he will not be able to cast a spell.”
+
+
+score: 0.526562, para: 01 2 7	“Uncle Hillman, thank you!”
+
+

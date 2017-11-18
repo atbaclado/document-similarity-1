@@ -1,0 +1,30 @@
+source: 02 11 6	Linley immediately laughed as well.
+
+
+score: 0.848590, para: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+
+score: 0.700084, para: 01 13 9	Linley immediately understood.
+
+
+score: 0.700084, para: 01 22 8	“Magical incantations!” Linley immediately said.
+
+
+score: 0.700084, para: 02 13 45	Linley wasn’t stupid. He immediately understood.
+
+
+score: 0.675620, para: 02 18 21	Linley involuntarily glanced up and immediately called out respectfully, “Instructor Trey.” The nearby Delia also paid her respects.
+
+
+score: 0.650421, para: 01 20 32	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+
+score: 0.648594, para: 02 4 29	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.642413, para: 02 4 58	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.626370, para: 02 13 30	Linley chuckled when he heard this.
+
+

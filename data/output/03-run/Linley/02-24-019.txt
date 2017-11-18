@@ -1,0 +1,24 @@
+source: 02 24 19	Linley understood this in his heart.
+
+
+score: 0.739970, para: 02 9 2	Linley understood this as well.
+
+
+score: 0.736260, para: 02 4 24	Linley understood this logic.
+
+
+score: 0.636724, para: 01 22 34	Linley had read many books and therefore understood this principle.
+
+
+score: 0.614226, para: 01 9 12	Listening to the conversation from far away, Linley, by Hillman’s side, now understood everything.
+
+
+score: 0.582062, para: 01 4 57	Although his father’s words were simple, Linley clearly understood the deeper meaning.
+
+
+score: 0.531050, para: 02 3 33	Linley smiled at the Shadowmouse, then tossed the wild hare in front of the doorway. Perhaps the Shadowmouse couldn’t understand human speech, but Linley understood that an intelligent magical beast should be able to understand the meaning of a smile.
+
+
+score: 0.509523, para: 02 11 38	“Grandpa Doehring, what do you think. If no one has ever succeeded using this method, how could it have been discovered?” Linley simply couldn’t understand the logic.
+
+

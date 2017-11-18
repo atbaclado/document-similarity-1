@@ -1,0 +1,21 @@
+source: 01 1 102	“Today’s training ends now,” Hillman announced.
+
+
+score: 0.644511, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+
+score: 0.519474, para: 01 2 4	“Today’s evening training session ends now.” Hillman smiled. “Before leaving, however, everyone needs to first congratulate this next crop of children who are about to leave Wushan and join the army.”
+
+
+score: 0.517942, para: 02 6 10	Hillman was startled.
+
+
+score: 0.517942, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+
+score: 0.517942, para: 02 6 31	Linley and Hillman watched, stunned.
+
+
+score: 0.517942, para: 02 6 60	“You…tamed him?” Hillman was stunned.
+
+

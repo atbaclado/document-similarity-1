@@ -1,0 +1,15 @@
+source_doc: 1 1	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+
+score: 0.607606, para: 1 12	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+
+score: 0.589689, para: 1 12	“Father, so long as there is any hope, I will persevere.” A solemn look was on Linley’s face.
+
+
+score: 0.540746, para: 1 2	Hillman stared at the children, and said in a clear voice, “Brats, listen up! You are all men of Wushan town. The men of Wushan town must straighten their chests and welcome any challenges, and accept no fear. Am I understood?”
+
+
+score: 0.537366, para: 1 12	Linley couldn’t prevent a look of joy from appearing on his face.
+
+

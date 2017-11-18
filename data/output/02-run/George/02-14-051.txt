@@ -1,0 +1,8 @@
+source: 02 14 51	George immediately began to laugh.
+
+score: 0.654264, para: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+score: 0.654264, para: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+score: 0.654264, para: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+

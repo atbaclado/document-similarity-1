@@ -1,0 +1,15 @@
+source_doc: 2 10	“Father, here’s the acceptance letter from the Ernst Institute.” Linley directly handed the admissions envelope to his father. Hogg was stunned for a moment, then quickly accepted the red envelope and removed the letter from within it. He carefully scanned the letter.
+
+
+score: 0.609627, para: 2 9	“Uncle Hillman, let’s go.” Linley placed the red envelope into his clothes, and then left the main hall with Hillman.
+
+
+score: 0.551280, para: 2 9	In fact, immediately upon knowing Linley’s test results, he had recorded Linley’s details into the paperwork in the envelope. Because the white robed man believed without a doubt – no one would refuse an offer from the Ernst Institute!
+
+
+score: 0.547457, para: 2 4	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.533978, para: 1 18	Hogg was seated at a table, his forehead furrowed. As the controller of Wushan township, he absolutely had to think carefully about how to take care of his people.
+
+

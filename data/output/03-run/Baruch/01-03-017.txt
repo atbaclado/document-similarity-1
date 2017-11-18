@@ -1,0 +1,30 @@
+source: 01 3 17	“After Hazard Baruch, the fourth Dragonblood Warrior appeared, nearly a thousand years later. And then, after fifteen hundred years passed, which is to say tens of generations later, the fifth Dragonblood Warrior finally appeared in our clan. But in the thousand years from then until now, not a single Dragonblood Warrior has shown up.”
+
+
+score: 0.666006, para: 01 4 19	A warrior of the ninth rank could be considered the most powerful expert in the entire country of Fenlai. A warrior of the eighth rank, although unable to restore the Baruch family to its former glories, would be able to dramatically improve its current situation.
+
+
+score: 0.651764, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.647252, para: 01 6 6	The ancient Baruch mansion had five thousand years of history.
+
+
+score: 0.636765, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.635167, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.583741, para: 01 12 19	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+
+score: 0.575522, para: 01 15 37	“Captain, Lord Hogg ordered us to come assist you!” Twelve warriors had come flying out of the Baruch clan manor. As soon as they saw Hillman, they shouted at him.
+
+
+score: 0.545115, para: 01 2 72	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+
+
+score: 0.542247, para: 02 23 26	Fifty thousand gold coins would approximately equate to the entire value of all of the Baruch clan’s possessions, if sold off.
+
+

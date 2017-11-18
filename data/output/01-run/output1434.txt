@@ -1,0 +1,15 @@
+source_doc: 2 11	“Linley, it’s getting late. You should go back and get some rest.” Hogg laughed.
+
+
+score: 0.792264, para: 2 5	“Alright, you can go now.” Hogg laughed.
+
+
+score: 0.768278, para: 1 4	“Just this?” Hogg frowned.
+
+
+score: 0.768278, para: 1 5	“Five hundred?” Hogg frowned.
+
+
+score: 0.768278, para: 1 12	“It is possible.” Hogg nodded.
+
+

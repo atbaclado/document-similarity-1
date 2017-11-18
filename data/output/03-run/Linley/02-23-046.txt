@@ -1,0 +1,15 @@
+source: 02 23 46	“9900 gold coins? Linley’s?”
+
+
+score: 0.670993, para: 02 14 29	His own father gave him only a hundred gold coins each year for living costs. In fact, in Linley’s eyes, a hundred gold coins was more than enough. After all, most commoners would only make twenty or thirty gold coins in wages after a year of hard labor.
+
+
+score: 0.661695, para: 02 20 31	He only had a hundred gold coins each year for living expenses. He wasn’t rich like some people.
+
+
+score: 0.560908, para: 02 21 4	Linley knew that while he continued to live at the Ernst Institute, if he put a huge pile of gold coins in his dorm, it wouldn’t be safe. The safest option was to put them all in a magicrystal card.
+
+
+score: 0.537731, para: 02 7 33	“A million gold coins?” Linley felt his throat go dry.
+
+

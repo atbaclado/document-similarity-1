@@ -1,0 +1,15 @@
+source_doc: 1 13	At dinnertime, the three members of the Baruch clan and their housekeeper, Hiri, all shared dinner together. Little Wharton raised a cute ruckus at the dinner table, filling it with laughter. By the time dinner came to an end, the old housekeeper carried Wharton back to his room, while Linley and his father, Hogg, began to chat.
+
+
+score: 0.733151, para: 1 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+
+score: 0.722900, para: 2 5	As dinner progressed, the conversation amongst the Baruch clan manors was quite cheerful.
+
+
+score: 0.683439, para: 1 20	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.668727, para: 2 4	Within the Baruch clan’s living room, candlelight flickered from within as Linley and his family, along with Housekeeper Hiri, were enjoying supper together on the long dining table.
+
+

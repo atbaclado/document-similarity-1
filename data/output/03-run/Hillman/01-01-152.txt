@@ -1,0 +1,30 @@
+source: 01 1 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.648600, para: 01 17 4	Hogg’s body trembled. Only then did he regain his usual faculties. “Linley.” Hogg charged violently towards the warehouse at an astonishing speed. Seeing this, Hillman guessed what had happened and immediately followed Hogg.
+
+
+score: 0.641690, para: 01 7 35	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.626705, para: 02 7 48	“This kid, Linley, is so hard working. Even at night, he is training his mental energy.” Seeing Linley seated cross-legged with his eyes closed, Hillman couldn’t help but silently praise him. Mental energy was extremely important to both magi and warriors!
+
+
+score: 0.622855, para: 01 14 34	“Now, time to do our morning exercises. Same as always – face the sun, and begin the ‘qi-absorbing exercise’.” Hillman crisply began the day’s program, and immediately the three groups of children began to practice the ‘qi-absorbing stance’.
+
+
+score: 0.616187, para: 01 15 33	Lorry and Roger immediately turned around and lifted up the children who were slow runners. They carried two in each arm and two on their backs as well. Hillman joined them as well, quickly beginning to pick up child after child.
+
+
+score: 0.616183, para: 01 23 53	Due to his daily physical training exercises, Linley’s body was growing sturdier and sturdier. Because he often entered the meditative state and absorbed earth essence, Linley became calmer and more tranquil. Linley’s transformation caused his father Hogg and Hillman to both be amazed and overjoyed.
+
+
+score: 0.615604, para: 01 10 31	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.612290, para: 02 6 22	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+
+score: 0.598072, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+

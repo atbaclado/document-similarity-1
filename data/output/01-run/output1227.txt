@@ -1,0 +1,15 @@
+source_doc: 2 6	“It really is the ‘bond of equals’?” Linley’s heart clenched. Even though he had guessed as much, he still felt stunned and excited.
+
+
+score: 0.735967, para: 2 10	Housekeeper Hiri came over as well. He was also stunned by Hogg’s reaction. Hiri had no idea what had just happened.
+
+
+score: 0.705221, para: 2 1	Hearing his words, Linley’s heart fluttered.
+
+
+score: 0.691809, para: 1 5	Hearing these words, Linley felt his heart twinge.
+
+
+score: 0.691809, para: 1 8	Linley’s heart trembled.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 5	“The price is too low.” Hogg shook his head.
+
+
+score: 0.789828, para: 1 12	Linley shook his head.
+
+
+score: 0.715479, para: 1 12	“No idea. Didn’t notice.” Hillman shook his head as well.
+
+
+score: 0.612283, para: 1 16	“Quick, go inside, quick!” Hogg was so agitated, he roared with fury.
+
+
+score: 0.601256, para: 1 4	“Just this?” Hogg frowned.
+
+

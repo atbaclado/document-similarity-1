@@ -1,0 +1,15 @@
+source_doc: 1 7	“Master Hillman is extremely rigorous. I’m afraid young master Linley is going to be punished.”
+
+
+score: 0.714067, para: 1 16	“How is that possible?!” Linley was truly scared silly.
+
+
+score: 0.703787, para: 1 19	“Yes, yes.” Doehring Cowart felt extremely happy.
+
+
+score: 0.683982, para: 2 2	He was extremely experienced in this. Ever since he was young, he accompanied his younger brother, Wharton, playing with him and coaxing him. Linley was very much a master in the art.
+
+
+score: 0.679308, para: 1 16	“Young master Linley?” Seeing how Linley was acting, Hiri couldn’t help but feel shocked.
+
+

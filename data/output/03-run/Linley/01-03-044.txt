@@ -1,0 +1,30 @@
+source: 01 3 44	“Our ancestral heirloom? What’s that? Why have I never heard about it?” Linley asked curiously.
+
+
+score: 0.811268, para: 01 2 55	“The ancestral hall?” Linley was astonished.
+
+
+score: 0.697090, para: 01 2 54	“Linley, come with me. Let’s go to the ancestral hall. Uncle Hiri, you know about the matters of my clan, so you can come as well.” Hogg smiled.
+
+
+score: 0.680631, para: 02 2 5	“Bond of equals?” Linley said curiously. “What is that? I’ve never heard of it.”
+
+
+score: 0.616439, para: 02 5 4	“Our ancestral heirloom. For our ancestral heirloom to be lost to us is a humiliation that must be washed away.” Linley could also feel his heart grow heavy.
+
+
+score: 0.604285, para: 02 10 49	Late night, the Baruch family ancestral hall. Only Linley and his father were present.
+
+
+score: 0.586684, para: 01 2 57	“But this isn’t the time to sacrifice to our ancestors. Why are we going to the ancestral hall?” Linley had a belly full of questions.
+
+
+score: 0.577059, para: 01 6 5	“The ancestral hall is cleaned every month. Frankly speaking, in just a month, the ancestral hall won’t get too dirty. All I have to do is just casually wipe it down. I have almost an hour before training starts. What should I do?” Bored, Linley looked around in all directions.
+
+
+score: 0.572574, para: 02 10 53	An ancient clan which had lasted five thousand years. The Dragonblood Warrior clan. Linley felt pride in his heart. But their ancestral heirloom had been lost.
+
+
+score: 0.569859, para: 01 6 16	Linley very much enjoyed this feeling of searching for treasures in the ancient room. But he had forgotten something. If he could come up with this idea, wouldn’t his father, his grandfather, and the other elders of the Baruch clan also have thought of this?
+
+

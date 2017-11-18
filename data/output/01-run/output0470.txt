@@ -1,0 +1,14 @@
+source_doc: 1 12	Hogg stared in all directions, seeing how so many houses had been reduced to rubble.
+
+
+score: 0.749811, para: 1 6	He stared up at the sky.
+
+
+score: 0.742988, para: 2 6	Linley stared at the little Shadowmouse.
+
+
+score: 0.721681, para: 1 7	Linley widened his eyes and stared east…
+
+score: 0.717877, para: 2 10	Linley stared at his father. From as far back as he could remember, he had never seen his father so happy.
+
+

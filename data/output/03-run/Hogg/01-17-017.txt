@@ -1,0 +1,12 @@
+source: 01 17 17	“I, I’m fine.” An excited smile appeared on Hogg’s face.
+
+
+score: 0.690432, para: 02 10 4	“Lord Hogg.” Hillman was very excited as well.
+
+
+score: 0.531534, para: 02 10 5	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+
+score: 0.528981, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+

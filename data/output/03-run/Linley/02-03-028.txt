@@ -1,0 +1,30 @@
+source: 02 3 28	Linley stood at the doorway.
+
+
+score: 0.805930, para: 02 10 51	Linley stood behind him without making a sound.
+
+
+score: 0.746368, para: 02 6 18	“Squeak. Squeaaaaak!” The little Shadowmouse stood there, watching Linley.
+
+
+score: 0.727732, para: 01 6 22	He stared up at the sky.
+
+
+score: 0.709201, para: 01 2 53	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+
+score: 0.702302, para: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.667808, para: 02 6 41	Linley stared at the little Shadowmouse.
+
+
+score: 0.648712, para: 02 6 64	And the little Shadowmouse, ‘Bebe’, stood happily on Linley’s shoulders and squeaked.
+
+
+score: 0.642718, para: 01 4 36	Wharton was only a child, while Linley was much more mature.
+
+
+score: 0.642718, para: 01 4 43	“Yes, father.” Linley said calmly.
+
+

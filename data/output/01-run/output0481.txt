@@ -1,0 +1,15 @@
+source_doc: 1 12	“My lord, young master Linley has already went home.” Hiri said from the side. “Although, when he left, he seemed to be in a daze. No clue what he was thinking about.”
+
+
+score: 0.696508, para: 1 14	“Young master Linley saw everything with his own eyes. Naturally, we would believe whatever young master Linley says.” Those youths nodded.
+
+
+score: 0.671356, para: 1 16	“Young master Linley?” Seeing how Linley was acting, Hiri couldn’t help but feel shocked.
+
+
+score: 0.655806, para: 1 1	“Saint-level warriors?” While walking, Linley was still thinking about that. “In the future, will I be able to become a Saint-level warrior?”
+
+
+score: 0.650626, para: 1 7	“Young master Linley, careful, don’t hurt yourself!”
+
+

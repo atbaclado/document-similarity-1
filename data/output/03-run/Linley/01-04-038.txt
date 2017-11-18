@@ -1,0 +1,30 @@
+source: 01 4 38	“Father!” Linley respectfully bowed.
+
+
+score: 0.609857, para: 01 5 12	“It would be my honor, sire.” Linley placed his right hand against his breast and respectfully bowed.
+
+
+score: 0.517854, para: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.513802, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.513802, para: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.513802, para: 02 5 23	Linley nodded.
+
+
+score: 0.510870, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.509824, para: 02 2 7	Linley now understood.
+
+
+score: 0.509824, para: 02 2 12	Linley nodded.
+
+
+score: 0.509824, para: 02 2 26	Linley understood.
+
+

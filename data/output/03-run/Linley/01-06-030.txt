@@ -1,0 +1,30 @@
+source: 01 6 30	Linley carefully searched the walls, even peeking behind the tattered curtains.
+
+
+score: 0.595297, para: 01 7 24	“String, string…” Linley hurriedly looked about for a thread on which he could hang the Coiling Dragon Ring. Suddenly, Linley’s gaze fell on a ruined old washcloth. His eyes lit up, and he immediately pulled a string out from within the washcloth.
+
+
+score: 0.584124, para: 01 7 20	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.581638, para: 01 7 3	“Just now, I searched the ground and didn’t see a single rock. This must have come from the shattered drawers.” Thinking about the collapsed drawers, Linley couldn’t help but feel angry, and he viciously stomped on the piece of ‘shattered wood’ beneath his feet.
+
+
+score: 0.569823, para: 01 2 45	“What, did I do it wrong? I really wiped them clean.” In little Wharton’s tiny head, his eyes were filled with an uncomprehending look as he stared at his big brother.
+
+
+score: 0.567630, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+
+score: 0.564388, para: 02 7 8	As they walked on Fragrant Pavilion Road, the primary road of East Fenlai City, Linley felt as though his eyes were dazzled. The litle Shadowmouse Bebe had been instructed by Linley to hide within his clothes, but he also took a sneak peek at the surroundings, and then began to squeak in shared excitement.
+
+
+score: 0.559689, para: 01 7 7	“Oh, a ring?” Linley’s eyes were bandit-sharp. He happily plucked the ring up, then used his filthy sleeves to give the black ring a vigorous rub-down. Only then could Linley make out what this item really looked like.
+
+
+score: 0.555716, para: 02 11 3	Linley carefully flipped through it.
+
+
+score: 0.551244, para: 02 3 23	Some of the stones still showed signs of being chewed on, but despite scanning inside the entire building, he couldn’t see even the shadow of the Shadowmouse. Linley couldn’t help but feel despondent and miserable. “Grandpa Doehring, the Shadowmouse isn’t here anymore. It was just an hour. Did it leave already?”
+
+

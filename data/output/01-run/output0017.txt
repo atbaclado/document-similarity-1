@@ -1,0 +1,14 @@
+source_doc: 1 1	Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+
+score: 0.714402, para: 1 19	“Right.” Seeing that Linley understood, the old man couldn’t help but smile and nod.
+
+
+score: 0.690192, para: 2 9	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+
+score: 0.685812, para: 1 3	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.685378, para: 2 4	Next to him, Doehring Cowart smiled merrily at the little Shadowmouse, which didn’t notice his presence at all. Doehring Cowart said with a smile, “Looks like he’s already feeling quite close to you.”
+
+

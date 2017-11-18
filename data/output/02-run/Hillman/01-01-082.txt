@@ -1,0 +1,20 @@
+source: 01 1 82	“Captain.” Lorry immediately straightened, awaiting his orders.
+
+score: 0.946810, para: 01 82 82	“Captain.” Lorry immediately straightened, awaiting his orders.
+
+score: 0.946810, para: 01 82 82	“Captain.” Lorry immediately straightened, awaiting his orders.
+
+score: 0.946810, para: 01 82 82	“Captain.” Lorry immediately straightened, awaiting his orders.
+
+score: 0.642909, para: 01 8 45	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+score: 0.642909, para: 01 8 45	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+score: 0.642909, para: 01 8 45	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+score: 0.642909, para: 01 8 45	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+score: 0.563996, para: 01 143 150	Hillman, Roger, and Lorry all stared at Linley in surprise.
+
+score: 0.563996, para: 01 143 150	Hillman, Roger, and Lorry all stared at Linley in surprise.
+

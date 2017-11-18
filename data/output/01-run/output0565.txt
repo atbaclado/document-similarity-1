@@ -1,0 +1,15 @@
+source_doc: 1 14	Those twelve to fifteen year old children all began to laugh. “Right on. This little scamp Hadley is always filled with nonsense.”
+
+
+score: 0.680277, para: 1 2	Staring at this group of energetic, eager seventeen year olds, Hillman was filled with countless mixed feelings. This was because Hillman knew that all of these children were eager to join the army, but after ten years of military service, how many of them would come back alive?
+
+
+score: 0.657298, para: 1 4	“Ley is really amazing. Just eight years old, but he’s able to match the thirteen year olds in doing the ‘Static Tension’ exercise.” Some of the children who had already given up were sprawled on the ground, chatting as they watched Linley.
+
+
+score: 0.655556, para: 1 4	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+
+score: 0.643543, para: 1 1	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+

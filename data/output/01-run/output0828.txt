@@ -1,0 +1,15 @@
+source_doc: 1 21	He had thought that the fire-style’s attacks were the most powerful, but from the sound of it, that was an absolute joke. Every single elemental style, at the level of forbidden spells, contained astonishing destructive power.
+
+
+score: 0.686616, para: 2 4	He couldn’t help but remember that huge Velocidragon, and the destructive power unleashed by the ‘Dance of the Fire Serpents’, as well as the Saint-level Grand Magus ‘Rudi’, who effortless controlled those countless boulders to cause an absolute calamity.
+
+
+score: 0.684306, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.675728, para: 1 22	“If you have no instructor? No matter how much mageforce you have or how high your spiritual energy is, you won’t be able to execute a single spell!” Doehring Cowart smiled faintly. “The profound secrets of every magical spell lies in how to control mageforce and elemental essence to form the spell.”
+
+
+score: 0.667571, para: 1 22	“Let me put it to you like this…a magus’ so-called ‘mageforce’ is really just pure, highly-refined elemental essence. Mageforce can be described as a ‘general’, whereas nature’s elemental essence is the soldiers. A magus summons his mageforce and uses it to direct nature’s elemental essence to form amazing spells. Understood?” Doehring Cowart smiled as he looked at Linley.
+
+

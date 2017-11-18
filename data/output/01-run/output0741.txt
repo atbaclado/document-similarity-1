@@ -1,0 +1,15 @@
+source_doc: 1 19	Upon hearing this, Linley was secretly shocked. “Year 4280? This year is year 9990!”
+
+
+score: 0.767235, para: 1 21	“That must have been a Saint-level Earthguard spell.” Linley felt secretly shocked.
+
+
+score: 0.741807, para: 2 4	Upon hearing these words, Hogg finally smiled.
+
+
+score: 0.627000, para: 2 3	“I really wonder what this young fella’s parents are up to.” Doehring Cowart was secretly suspicious.
+
+
+score: 0.610098, para: 1 17	Only now did Hogg secretly let go of a breath he had been holding.
+
+

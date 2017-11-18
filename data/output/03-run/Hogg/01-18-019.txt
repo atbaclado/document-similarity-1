@@ -1,0 +1,21 @@
+source: 01 18 19	Hogg was seated at a table, his forehead furrowed. As the controller of Wushan township, he absolutely had to think carefully about how to take care of his people.
+
+
+score: 0.522219, para: 01 3 30	“Hold it.” Holding the translucent Dragonblood Needle, Hogg lightly pricked Linley’s ring finger with it, easily piercing the skin. Linley felt a piercing pain, and the translucent needle immediately turned crimson as well.
+
+
+score: 0.512241, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.511887, para: 01 17 7	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+
+score: 0.505030, para: 01 16 55	Hogg was in the courtyard, wielding an enormous sword, deflecting one boulder after another. But when he turned his head towards Linley, he saw Linley risk everything to protect Wharton, and then Housekeeper Hiri fly towards them to protect them both. His mind immediately went blank.
+
+
+score: 0.504149, para: 02 10 11	“Father, here’s the acceptance letter from the Ernst Institute.” Linley directly handed the admissions envelope to his father. Hogg was stunned for a moment, then quickly accepted the red envelope and removed the letter from within it. He carefully scanned the letter.
+
+
+score: 0.504011, para: 01 3 32	Raising his head, Linley stared at his father, feeling extremely agitated. “Is the density of dragonblood in my veins sufficient? Why has father stared at the Dragonblood Needle for so long?” Linley had a bad premonition…
+
+

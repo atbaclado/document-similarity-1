@@ -1,0 +1,15 @@
+source_doc: 2 2	A vigorous, nimble shadow could be seen piercing through the mountain forests. Linley ran silently but nimbly and fast. After having absorbed earth essence for half a year, Linley didn’t just possess mageforce; his physical strength had been raised as well.
+
+
+score: 0.699883, para: 1 23	Due to his daily physical training exercises, Linley’s body was growing sturdier and sturdier. Because he often entered the meditative state and absorbed earth essence, Linley became calmer and more tranquil. Linley’s transformation caused his father Hogg and Hillman to both be amazed and overjoyed.
+
+
+score: 0.691620, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.691087, para: 2 8	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+
+score: 0.686002, para: 1 22	“Linley, a large amount of mageforce draws out an even larger amount of elemental essence. If such a huge amount of force is not controlled by spiritual energy…what do you think the end result would be?” Doehring Cowart stroked his white beard as he quietly watched Linley.
+
+

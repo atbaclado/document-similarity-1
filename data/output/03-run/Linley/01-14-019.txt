@@ -1,0 +1,30 @@
+source: 01 14 19	All of the children listened quietly to Linley.
+
+
+score: 0.677177, para: 02 16 18	Linley and the group of students just listened quietly. Next to Linley, Doehring Cowart appeared as well.
+
+
+score: 0.654304, para: 01 13 11	Linley quietly nodded.
+
+
+score: 0.559665, para: 02 16 23	After listening to this class, Linley made a decision.
+
+
+score: 0.555828, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+
+score: 0.538675, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.527998, para: 02 18 10	The two sat together and chatted. Time passed quite quickly, and before they realized it, class had started. Instructor Trey energetically explained in front, and Linley sat beneath him, listening intently. But Delia, every so often, would sneak a peek at Linley.
+
+
+score: 0.525638, para: 01 10 27	On the Yulan continent, when a man grew up, it would be very likely that he would experience life-and-death struggles. But since Linley was just a child who had not done so yet, he had to repeatedly tell himself to calm down. And slowly, the terror and horror in his heart really did begin to lessen.
+
+
+score: 0.513652, para: 01 20 44	Hearing and seeing were two different things. When he personally witnessed all the other people at the dinner table be unaware of Grandpa Doehring’s presence, Linley felt deeply astonished.
+
+
+score: 0.512175, para: 01 4 8	“Ley is really amazing. Just eight years old, but he’s able to match the thirteen year olds in doing the ‘Static Tension’ exercise.” Some of the children who had already given up were sprawled on the ground, chatting as they watched Linley.
+
+

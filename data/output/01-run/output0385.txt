@@ -1,0 +1,15 @@
+source_doc: 1 8	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+
+score: 0.718561, para: 1 18	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+
+score: 0.711953, para: 1 16	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+
+score: 0.711647, para: 1 16	“Rumble, rumble…” Suddenly, a terrifying sound could be heard from the heavens, followed by a terrifying screech which shook the entire Wushan township. Linley couldn’t help but once again turn his head towards the eastern sky to take a look. That single glance stunned him once again.
+
+
+score: 0.706516, para: 1 14	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+

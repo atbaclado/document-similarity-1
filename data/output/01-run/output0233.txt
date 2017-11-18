@@ -1,0 +1,14 @@
+source_doc: 1 4	“That’s enough, Wharton. My entire body is covered with sweat. Let me wash myself first.” Linley patted Wharton on the face and laughed.
+
+
+score: 0.685109, para: 1 17	Linley straightened his body and sat up. His clothes were covered with blood, as was his face and his hair. When the stone had struck him, it had caused a great deal of blood loss. At the moment, Linley also felt slightly woozy. Still staring at his father, Linley said in a weak, low voice, “Father, you are crying.”
+
+
+score: 0.684000, para: 1 6	“How unlucky! My entire body is covered with dust now, and I bet training is about to start. I’d best go take a quick shower and put on some new clothes.” With a wave of his arm, Linley pushed open the door and departed the ancient room.
+
+score: 0.673557, para: 1 17	Wharton slowly crawled out from under Linley. His body was small, and he had been fully covered by Linley, so he didn’t experience any injuries at all.
+
+
+score: 0.637200, para: 2 5	“The finest. Oh. The finest!” Little Wharton’s hands were covered in grease from eating, but still beamed as he waved his greasy hands.
+
+

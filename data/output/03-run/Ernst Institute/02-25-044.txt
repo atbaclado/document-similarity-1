@@ -1,0 +1,30 @@
+source: 02 25 44	Wearing a sky-blue robe, Linley was walking on a road within the Ernst Institute. On Linley’s shoulders, the little Shadowmouse ‘Bebe’ continued to stand. Although six or seven years had passed, Bebe’s body hadn’t changed in the slightest.
+
+
+score: 0.651663, para: 02 24 3	While walking on the road out of the Institute, the little Shadowmouse was on Linley’s shoulders, scanning about in all directions. There were quite a few people at the Ernst Institute who had magical beast companions, and thus no one cared at all that Linley had a little Shadowmouse as a companion. But just at that moment…
+
+
+score: 0.580952, para: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+
+
+score: 0.545390, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.539989, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+
+score: 0.538882, para: 02 10 10	Hogg, slowly regaining his mental faculties, suddenly hurried walked towards Linley and Hillman. In a disbelieving tone, he said, “Ernst, did you just say, Ernst Institute?” Right now, Hogg’s eyes were bulging and round.
+
+
+score: 0.535896, para: 02 19 14	The yearly tournament went on for a bit over a month, which naturally was the wildest, most rowdy month each year at the Ernst Institute. During this frenetic period, Linley would only occasionally watch the battles of the fifth and sixth grade students. All of the rest of his time, he would quietly train by himself.
+
+
+score: 0.533439, para: 02 21 7	“With these ten thousand gold coins, my living expenses at the Ernst Institute will be more than sufficiently covered, with lots left over. I can help father as well.” Linley felt very happy.
+
+
+score: 0.521470, para: 02 24 26	As he said these words, Linley had already left the gates of the Ernst Institute and entered the back mountains. As he passed through the mountain forests, Doehring Cowart suddenly said, “Linley, go to a place next to the mountainside.”
+
+
+score: 0.520661, para: 02 16 1	For the academic calendar of the Ernst Institute, every month, the first twenty eight days had classes. Only the last two days were free.
+
+

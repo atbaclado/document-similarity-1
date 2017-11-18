@@ -1,0 +1,15 @@
+source_doc: 2 2	“Oh? Grandpa Doehring, from your words, it sounds like there’s a lot of advantages to this ‘bond of equals’. Why don’t most people use it?” Linley queried.
+
+
+score: 0.631847, para: 1 20	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+
+score: 0.624600, para: 2 4	“This little guy is so adorable.” Linley was really beginning to like this little Shadowmouse more and more.
+
+
+score: 0.609249, para: 2 11	“Linley, don’t ask too much. Honestly, I only know a little bit about our family history as well. As far as what happened four thousand years ago, there’s no way we can clearly know what happened.” Hogg laughed towards Linley.
+
+
+score: 0.606993, para: 1 20	“There’s still some people who can sense my presence. Those whose spiritual presence are on par with me can feel my presence. But naturally…if I hide within the Coiling Dragon Ring, they definitely won’t be able to sense me.” Doehring Cowart’s voice sounded within Linley’s head.
+
+

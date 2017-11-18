@@ -1,0 +1,9 @@
+source: 02 16 23	After listening to this class, Linley made a decision.
+
+
+score: 0.559665, para: 01 14 19	All of the children listened quietly to Linley.
+
+
+score: 0.511667, para: 01 20 30	“I hear you.” Doehring Cowart’s voice rang out in Linley’s mind as well.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 3	Doehring Cowart suddenly felt that although Linley was only eight, he wasn’t any inferior to many young adults.
+
+
+score: 0.750825, para: 2 1	Linley suddenly understood. “So that is how it is!”
+
+
+score: 0.750825, para: 2 4	Linley suddenly understood.
+
+
+score: 0.736895, para: 1 1	“Lorry.” Hillman suddenly shouted.
+
+
+score: 0.736895, para: 1 20	Linley suddenly understood.
+
+

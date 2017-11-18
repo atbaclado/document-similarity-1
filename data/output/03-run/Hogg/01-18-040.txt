@@ -1,0 +1,9 @@
+source: 01 18 40	“Hillman, lead the guard squad to do some more scouting about the township. Uncle Hiri, go and get some rest.” Hogg directly instructed.
+
+
+score: 0.557573, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.551591, para: 02 10 36	“Fine, enough of that topic. Uncle Hiri, Hillman, lead the guards to make the arrangements right away. Tonight, I am going to host a magnificent banquet.” Hogg laughed loudly. Right now, his laughter was extremely full and carefree.
+
+

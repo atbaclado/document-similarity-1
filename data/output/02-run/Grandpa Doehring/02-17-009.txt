@@ -1,0 +1,18 @@
+source: 02 17 9	“Haha, I knew Linley definitely wouldn’t go.” Reynolds laughed loudly.
+
+score: 0.641978, para: 02 19 24	“I’m pissed just thinking about this year’s competition. It was so close! I was so close to entering the semifinals. Maybe I would’ve been able to enter the top three.” Reynolds was extremely dissatisfied. Reynolds was the youngest of the four, and also the proudest of them.
+
+score: 0.548097, para: 02 20 86	After speaking, Linley glanced expressively at his three bros. Yale and the others knew what he was thinking, and immediately, the four bros ignored everyone around them and departed, leaving behind that young lady, Danni, who frowned unhappily.02 21 32	Off in the distance, a bald rider immediately dismounted, walked in front of Yale, and bowed. “Cass pays his respects to young master Yale.”
+
+score: 0.532072, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+score: 0.520677, para: 01 21 33	“Personal protection? Grandpa Doehring, you’re saying that the earth-style has the strongest personal protection spells?” Linley looked questioningly at Doehring Cowart.
+
+score: 0.520677, para: 01 21 33	“Personal protection? Grandpa Doehring, you’re saying that the earth-style has the strongest personal protection spells?” Linley looked questioningly at Doehring Cowart.
+
+score: 0.520677, para: 01 21 33	“Personal protection? Grandpa Doehring, you’re saying that the earth-style has the strongest personal protection spells?” Linley looked questioningly at Doehring Cowart.
+
+score: 0.520677, para: 01 21 33	“Personal protection? Grandpa Doehring, you’re saying that the earth-style has the strongest personal protection spells?” Linley looked questioningly at Doehring Cowart.
+
+score: 0.516952, para: 01 22 20	Doehring Cowart smiled and nodded. “Right. Therefore, the ‘mageforce’ of a magus is extremely important. If he doesn’t have enough mageforce, he will not be able to cast a spell.”
+

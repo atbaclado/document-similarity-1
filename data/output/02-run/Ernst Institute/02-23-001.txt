@@ -1,0 +1,20 @@
+source: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+score: 0.684758, para: 02 10 44	Upon hearing that Linley had been admitted to the Ernst Institute, everyone present had become excited. One could easily understand that entering the Ernst Institute meant entering a certain destiny. In the future, Linley definitely would not be constrained by tiny little Wushan township.
+
+score: 0.684758, para: 02 10 44	Upon hearing that Linley had been admitted to the Ernst Institute, everyone present had become excited. One could easily understand that entering the Ernst Institute meant entering a certain destiny. In the future, Linley definitely would not be constrained by tiny little Wushan township.
+
+score: 0.684758, para: 02 10 44	Upon hearing that Linley had been admitted to the Ernst Institute, everyone present had become excited. One could easily understand that entering the Ernst Institute meant entering a certain destiny. In the future, Linley definitely would not be constrained by tiny little Wushan township.
+
+score: 0.659902, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+score: 0.659902, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+score: 0.659902, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+score: 0.621794, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+score: 0.621794, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+score: 0.621794, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+

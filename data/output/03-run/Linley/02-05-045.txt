@@ -1,0 +1,30 @@
+source: 02 5 45	“Yes, father.” Linley bowed as he said.
+
+
+score: 0.634985, para: 02 3 28	Linley stood at the doorway.
+
+
+score: 0.595846, para: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.570548, para: 01 6 22	He stared up at the sky.
+
+
+score: 0.570159, para: 01 3 41	Linley raised his head, staring at his father.
+
+
+score: 0.543222, para: 02 4 29	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.542888, para: 02 6 41	Linley stared at the little Shadowmouse.
+
+
+score: 0.537876, para: 02 2 7	Linley now understood.
+
+
+score: 0.537876, para: 02 2 12	Linley nodded.
+
+
+score: 0.537876, para: 02 2 26	Linley understood.
+
+

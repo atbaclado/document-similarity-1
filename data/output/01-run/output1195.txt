@@ -1,0 +1,15 @@
+source_doc: 2 5	Over the past month, the friendless little Shadowmouse had really come to view Linley as family.
+
+
+score: 0.673155, para: 2 6	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+
+score: 0.673155, para: 2 6	The little Shadowmouse said, somewhat excitedly, “Bei….bei….”
+
+
+score: 0.651592, para: 2 4	Now this little Shadowmouse was doing the same!
+
+
+score: 0.651592, para: 2 6	“What’s the little Shadowmouse saying?” Linley didn’t really understand.
+
+

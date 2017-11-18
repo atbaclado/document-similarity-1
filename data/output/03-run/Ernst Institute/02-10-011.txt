@@ -1,0 +1,12 @@
+source: 02 10 11	“Father, here’s the acceptance letter from the Ernst Institute.” Linley directly handed the admissions envelope to his father. Hogg was stunned for a moment, then quickly accepted the red envelope and removed the letter from within it. He carefully scanned the letter.
+
+
+score: 0.611371, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+
+score: 0.551688, para: 02 13 22	One of the intake processes for new students was to retake the magus test. After all, the Ernst Institute was afraid that someone might steal an admissions letter and falsely enroll.
+
+
+score: 0.530120, para: 02 9 43	In fact, immediately upon knowing Linley’s test results, he had recorded Linley’s details into the paperwork in the envelope. Because the white robed man believed without a doubt – no one would refuse an offer from the Ernst Institute!
+
+

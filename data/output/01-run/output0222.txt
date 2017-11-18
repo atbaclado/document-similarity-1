@@ -1,0 +1,15 @@
+source_doc: 1 4	Linley growled to himself, “I’m stronger than everyone else now, only because of the Dragonblood in my veins. But since I can’t practice battle qi, my only options are to work hard, and to work harder! Since great grandfather was able to become a warrior of the seventh rank, then I shall…I shall become a warrior of the eighth rank. Or even the ninth rank! Nothing is impossible!”
+
+
+score: 0.797741, para: 1 1	Hillman knew quite well how much he himself had to suffer in order to become a sixth-ranked warrior, and how many life-and-death battles he had to experience. Even a warrior of the sixth rank was very difficult to become. A seventh, eighth, and ninth ranked warrior was of course only harder. As for a Saint-level warrior? Even in his dreams, Hillman didn’t dare imagine himself as one.
+
+
+score: 0.766444, para: 2 1	“Grandpa Doehring, then based on your words, this Shadowmouse is really amazingly fast. The Shadowmouse in front of me is slightly faster than even Uncle Hillman, but you are telling me that it is comparable to a Shadowmouse of the fourth rank. For a magical beast of the fourth rank to be faster than a warrior of the sixth rank…” Linley couldn’t help but sigh in amazement.
+
+
+score: 0.727894, para: 1 13	Hogg shook his head. “Can’t you think this through yourself? Magi only have weak bodies in comparison to warriors of the same rank, and not in absolute terms. For example, a magi of the eighth rank might have the same physical strength of a warrior of the second or third rank, even if he never engaged in any physical training. But of course, compared to a warrior of the eighth rank, his body would be very weak indeed!”
+
+
+score: 0.721784, para: 1 13	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+

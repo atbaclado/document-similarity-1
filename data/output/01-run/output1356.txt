@@ -1,0 +1,14 @@
+source_doc: 2 9	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+
+score: 0.754497, para: 1 1	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+
+score: 0.741716, para: 1 1	A hint of a smile played at Hillman’s lips. He then moved to the front and took off his shirt. The lines running across the powerful muscles on his body made the eyes pop out of all of the kids. Even the children in the middle group and southern group couldn’t help but stare at him, admiring his physique.
+
+
+score: 0.729750, para: 2 4	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.727091, para: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+

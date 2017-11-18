@@ -1,0 +1,15 @@
+source_doc: 1 18	Hiri chuckled. “Lord, please be at ease. I’ve already washed and cleaned young master Linley’s wounds, then re-bandaged them. I’ve made him eat a big meal, and then change his clothes and go to bed. By the time he wakes up, he’ll be much better.”
+
+
+score: 0.633386, para: 1 2	“Um? Why did father change his clothes?” Seeing his father, Linley was filled with astonishment. While at home, his father normally wore only very simple clothes. Just then, while eating dinner, his father wore normal clothes. But now, he had switched to a set of very noble, beautiful apparel.
+
+
+score: 0.630521, para: 1 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+
+score: 0.629872, para: 1 20	Linley grinned at his father, but continued to devour his food with haste. In the twinkling of an eye, he had stripped the leg of mutton of all flesh. Linley let out a comfortable burp, then used the napkin to wipe his lips. Standing, he said, “Father, Uncle Hiri, I’m done eating. I feel like my head is still a bit dizzy, so I’m going to go and get some more rest. Wharton, see ya.” Linley was the first to finish eating.
+
+
+score: 0.629449, para: 1 7	Using the least amount of time possible, Linley washed himself clean, then hurriedly put on his training clothes.
+
+

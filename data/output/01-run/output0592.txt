@@ -1,0 +1,15 @@
+source_doc: 1 14	“Morning exercises are over.” Hillman said in a loud voice, facing the children.
+
+
+score: 0.587108, para: 1 7	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+
+score: 0.585404, para: 1 15	“All of you, go home! Go home and hide! Protect yourselves!” Hillman shouted again in a loud voice.
+
+
+score: 0.564914, para: 1 1	Hillman laughed as he shook his head. “No way. In the past, when I was in the army, every day I would train like crazy, while on the battlefield, I engage in bloody close combat. Nowadays, all I’m doing is relaxing and stretching my muscles a bit in the morning. I’m not filled with as much energy as in the past.”
+
+
+score: 0.564480, para: 1 1	But he was facing Linley’s earnest gaze.
+
+

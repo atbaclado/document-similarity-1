@@ -1,0 +1,20 @@
+source: 01 2 12	Hillman stared at the children, and said in a clear voice, “Brats, listen up! You are all men of Wushan town. The men of Wushan town must straighten their chests and welcome any challenges, and accept no fear. Am I understood?”
+
+score: 0.644099, para: 01 1 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+score: 0.644099, para: 01 1 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+score: 0.644099, para: 01 1 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+score: 0.644099, para: 01 1 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+score: 0.640782, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+score: 0.640782, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+score: 0.640782, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+score: 0.630344, para: 01 107 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+score: 0.630344, para: 01 107 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+

@@ -1,0 +1,30 @@
+source: 02 10 51	Linley stood behind him without making a sound.
+
+
+score: 0.805930, para: 02 3 28	Linley stood at the doorway.
+
+
+score: 0.722693, para: 02 18 40	Linley stood up unhappily, and then politely paid his respects. “Farewell, instructor.”
+
+
+score: 0.682537, para: 02 20 54	But Linley just stood there on the dueling area quietly.
+
+
+score: 0.644556, para: 01 2 53	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+
+score: 0.637469, para: 02 6 18	“Squeak. Squeaaaaak!” The little Shadowmouse stood there, watching Linley.
+
+
+score: 0.606091, para: 02 20 75	“Cough, cough.” Rand stood up, clutching his chest.
+
+
+score: 0.574128, para: 02 6 64	And the little Shadowmouse, ‘Bebe’, stood happily on Linley’s shoulders and squeaked.
+
+
+score: 0.567277, para: 01 6 22	He stared up at the sky.
+
+
+score: 0.554018, para: 01 16 39	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+

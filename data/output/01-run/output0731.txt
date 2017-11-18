@@ -1,0 +1,15 @@
+source_doc: 1 18	Linley’s eyes suddenly turned round. “You…you are a Saint-level magus instructor?”
+
+
+score: 0.807447, para: 1 11	Linley’s gaze suddenly turned towards the mysterious magus on the back of the Velocidragon. By appearances, the magus was much smaller and much weaker.
+
+
+score: 0.779549, para: 1 13	Hearing these words, Linley’s eyes shone.
+
+
+score: 0.779549, para: 1 16	“Linley!” Hogg’s eyes turned red.
+
+
+score: 0.779549, para: 1 23	“What’s that?” Linley’s eyes widened.
+
+

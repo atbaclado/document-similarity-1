@@ -1,0 +1,15 @@
+source_doc: 2 5	“Young master Linley, I’m sure that you will be able to enter the finest of magus academies.” Housekeeper Hiri chortled.
+
+
+score: 0.668393, para: 1 2	“Young master Linley, your father is looking for you. Let me carry young master Wharton.” A brandy-nosed old man walked over. This brandy-nosed old man was the Baruch clan’s housekeeper, Hiri (Xi’li). In the entire manor, aside from the housekeeper, there wasn’t even a serving girl.
+
+
+score: 0.618190, para: 1 14	“Young master Linley saw everything with his own eyes. Naturally, we would believe whatever young master Linley says.” Those youths nodded.
+
+
+score: 0.596958, para: 1 20	“Creaaak.” The bedroom door swung open, and Housekeeper Hiri stuck his head inside. Seeing that Linley was awake, he couldn’t help but smile. “Young master Linley, I didn’t expect that you would have already awoken. How do you feel, young master?”
+
+
+score: 0.596884, para: 1 12	Only after seeing the magical beast of the seventh rank, the Velocidragon, and its mysterious magus master depart, did Hogg calm down.
+
+

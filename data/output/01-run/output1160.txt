@@ -1,0 +1,15 @@
+source_doc: 2 5	“Naturally. Ernst was a genius who entered the Saint-level when he was merely fifty or so years old. But in my age, he could only be considered a promising latecomer.” Doehring Cowart said calmly.
+
+
+score: 0.659772, para: 1 20	But Doehring Cowart dared to claim that even if his student’s talent was poor, he still had the ability to make a magus out of the student. If anyone else had made this claim, they would be viewed as just wildly boasting…but the man who said these words was a five-thousand year old Saint-level Grand Magus!
+
+
+score: 0.635274, para: 1 19	Linley felt as though his entire mind had been turned muddy. This old grandpa had suddenly appeared out of nowhere, and claimed that he was a Grand Magus from the era of the Pouant Empire, which had been destroyed five thousand years ago. What could be more ridiculous than this?
+
+
+score: 0.609959, para: 1 14	Those thirteen and fourteen year olds were more mature as well. They knew that Linley was a noble and not like them. Almost all of them addressed him as ‘young master Linley’. Only Hadley and the rest of the rascally seven and eight year olds still continued to directly address him as ‘Linley’, without regard for propriety.
+
+
+score: 0.593179, para: 1 11	Hogg turned towards the magus, his heart filled with ruefulness. “He’s actually a magus of the eighth rank. And a dual-element magus! Perhaps the entire kingdom of Fenlai has only a handful of people more powerful than him. Someone like him actually came to our little town…”
+
+

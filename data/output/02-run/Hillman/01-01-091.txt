@@ -1,0 +1,20 @@
+source: 01 1 91	Upon hearing these words, all of the youths, including the youngest children resting off to the side, stared at Hillman with wide eyes.
+
+score: 0.968964, para: 01 92 91	Upon hearing these words, all of the youths, including the youngest children resting off to the side, stared at Hillman with wide eyes.
+
+score: 0.968964, para: 01 92 91	Upon hearing these words, all of the youths, including the youngest children resting off to the side, stared at Hillman with wide eyes.
+
+score: 0.968964, para: 01 92 91	Upon hearing these words, all of the youths, including the youngest children resting off to the side, stared at Hillman with wide eyes.
+
+score: 0.697102, para: 01 50 46	All of the children stared worshipfully at Hillman.
+
+score: 0.697102, para: 01 50 46	All of the children stared worshipfully at Hillman.
+
+score: 0.697102, para: 01 50 46	All of the children stared worshipfully at Hillman.
+
+score: 0.639478, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+score: 0.639478, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+score: 0.639478, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+

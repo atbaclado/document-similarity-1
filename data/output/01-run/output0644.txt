@@ -1,0 +1,15 @@
+source_doc: 1 16	“Wharton, go inside now!” Linley roared back angrily.
+
+
+score: 0.646712, para: 1 6	Having made up his mind, Linley raced towards the large room.
+
+
+score: 0.617360, para: 1 12	Linley shook his head.
+
+
+score: 0.615664, para: 2 4	Just as Linley walked into the courtyard….
+
+
+score: 0.600608, para: 2 4	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+

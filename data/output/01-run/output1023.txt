@@ -1,0 +1,15 @@
+source_doc: 2 2	He was extremely experienced in this. Ever since he was young, he accompanied his younger brother, Wharton, playing with him and coaxing him. Linley was very much a master in the art.
+
+
+score: 0.683982, para: 1 7	“Master Hillman is extremely rigorous. I’m afraid young master Linley is going to be punished.”
+
+
+score: 0.635417, para: 1 16	“Young master Linley?” Seeing how Linley was acting, Hiri couldn’t help but feel shocked.
+
+
+score: 0.582398, para: 1 22	Doehring Cowart smiled and nodded. “Right. Therefore, the ‘mageforce’ of a magus is extremely important. If he doesn’t have enough mageforce, he will not be able to cast a spell.”
+
+
+score: 0.575552, para: 1 21	This earth-style element really was a mighty one. When the Earthguard spell reached the Saint-level of power, it was composed entirely of diamonds! Linley knew that diamonds were an extremely hard and unyielding substance. And the ‘diamonds’ composing the Earthguard were no ordinary diamonds, but ones formed from magic, making them even tougher than real diamonds.
+
+

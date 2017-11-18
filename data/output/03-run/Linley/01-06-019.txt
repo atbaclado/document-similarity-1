@@ -1,0 +1,30 @@
+source: 01 6 19	“Nothing in this room. Next one…” Linley exited the first room and entered the second.
+
+
+score: 0.693338, para: 02 7 6	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+
+score: 0.685057, para: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.630389, para: 02 7 54	Linley and Hillman had arrived here as well.
+
+
+score: 0.613738, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.588607, para: 02 17 28	After departing from the school, Linley entered the mountain in the rear.
+
+
+score: 0.580083, para: 02 3 21	Taking a deep breath, Linley entered his family’s manor and went to the back courtyard, and one careful step at a time, approached the location where the Shadowmouse had appeared, his footsteps not making a single sound. In a short period of time, Linley returned to his earlier position.
+
+
+score: 0.558084, para: 02 3 28	Linley stood at the doorway.
+
+
+score: 0.545321, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+
+score: 0.540119, para: 01 7 2	When Linley had strode forward by three steps, reaching the doorway, he came to a sudden halt, because he could clearly feel that he had stepped on something hard.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 23	“But naturally, elemental affinity is just one part. Spiritual energy is the most important of all! After all, given enough time, mageforce will naturally strengthen. But it’s extremely difficult to improve the spiritual energy of a magus.” Doehring Cowart said solemnly.
+
+
+score: 0.760781, para: 1 22	“Right, a large amount of mageforce and elemental essence, when controlled by spiritual energy, can be formed into a spell! Sometimes, in order to execute a particularly powerful spell, too high of a demand is placed upon one’s spiritual energy. Thus, the assistance of magical incantations is needed.” Doehring Cowart smiled as he spoke.
+
+
+score: 0.757216, para: 1 22	Meditation was one of the basic underpinnings of all magus’. It was needed for both absorbing elemental essence to transform it into mageforce, and for improving one’s spiritual energy. The first time entering a meditative state was the most difficult and dangerous one, but of course, under the guidance of a Saint-level Grand Magus, Linley wouldn’t find it too difficult.
+
+
+score: 0.723572, para: 1 13	“The reason why powerful magi can live so long is because when magi absorb natural elemental energy into their body to generate pure mageforce, when the elemental energy flows through their body, it will naturally refine their apertures, their joints, and their flesh, making their bodies stronger and stronger. With a stronger body, naturally they will live longer. By the same logic, when warriors cultivate their battle-qi, they also absorb natural energy, which flows through their body and strengthens it. The more powerful a warrior is, the stronger his body will be. Naturally, he will live a long life.” Hogg explained everything in detail.
+
+
+score: 0.716144, para: 2 8	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+

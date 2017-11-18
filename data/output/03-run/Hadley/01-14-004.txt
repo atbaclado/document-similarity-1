@@ -1,0 +1,6 @@
+source: 01 14 4	All the children were staring at Hadley with wide eyes.
+
+
+score: 0.529528, para: 01 1 25	“Crap, the Head Monster is coming!” A golden-haired child with large, bright eyes named Hadley (Ha’de’li) said in a low voice.
+
+

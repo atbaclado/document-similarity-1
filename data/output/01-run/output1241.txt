@@ -1,0 +1,15 @@
+source_doc: 2 6	“Linley, this…what…what is this?” Only now did Hillman recover from his stupor. His eyes couldn’t help but grow round with shock. “Linley, what was that black magical formation just now? What just happened? Are you okay?”
+
+
+score: 0.739349, para: 1 20	“Grandpa Doehring, how does one test for magical aptitude?” Linley couldn’t help but grow eager.
+
+
+score: 0.698925, para: 2 1	“Linley.” Doehring Cowart suddenly looked at Linley with a strange look in his eyes. His voice carrying a hint of enticement he said, “Regardless of why the the infant Violet Shadowmouse is here…would you want to collect it as a companion? Shadowmice grow very rapidly, especially Violet Shadowmice. In ten years or so, it will finish its growth cycle. By that time, you would have a magical beast companion of at least the seventh, and possibly even the eighth rank.”
+
+
+score: 0.676675, para: 1 18	“So many casualties?” Hogg couldn’t help but begin to grow worried.
+
+
+score: 0.666543, para: 1 3	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+

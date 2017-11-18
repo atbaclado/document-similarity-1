@@ -1,0 +1,20 @@
+source: 01 1 61	A look of pleased surprise appeared in Hillman’s eyes.
+
+score: 0.947142, para: 01 65 61	A look of pleased surprise appeared in Hillman’s eyes.
+
+score: 0.947142, para: 01 65 61	A look of pleased surprise appeared in Hillman’s eyes.
+
+score: 0.947142, para: 01 65 61	A look of pleased surprise appeared in Hillman’s eyes.
+
+score: 0.621642, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+score: 0.621642, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+score: 0.621642, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+score: 0.589958, para: 02 6 58	Hillman, who only knew an inkling about magic, couldn’t help but feel shock and fear.
+
+score: 0.589958, para: 02 6 58	Hillman, who only knew an inkling about magic, couldn’t help but feel shock and fear.
+
+score: 0.589958, para: 02 6 58	Hillman, who only knew an inkling about magic, couldn’t help but feel shock and fear.
+

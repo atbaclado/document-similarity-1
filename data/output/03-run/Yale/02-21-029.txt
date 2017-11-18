@@ -1,0 +1,30 @@
+source: 02 21 29	“Second Uncle, what took you guys so long?” Yale said unhappily.
+
+
+score: 0.624427, para: 02 18 67	“Go enlist in the yearly tournament, Linley. You’ve gotta take part. Give those guys a good trampling and gain some prestige for dorm 1987.” Yale immediately said.
+
+
+score: 0.607835, para: 02 22 45	“Second bro, third bro, the two of you, ugh. I planned for us to have a good time tonight in Fenlai City, but you…ugh, you guys are so thin-skinned. I started having fun in those places when I was six years old.” Yale was still unhappily grumbling nonstop.
+
+
+score: 0.604259, para: 02 23 2	“Yale, you guys go on ahead, I’ll join you later.” Linley turned his head and said.
+
+
+score: 0.590248, para: 02 19 54	“Hmph.” Rand glanced at the table where Linley and the others were sitting. “Juice? You guys are still drinking juice? Oh, Yale, I really feel embarassed for you. The four bros of my dorm are all drinking victory wine. You guys are drinking juice?”
+
+
+score: 0.590049, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.581249, para: 02 22 10	“Uncle Cass, come in along with us. The other three can wait for us outside.” Yale instructed.
+
+
+score: 0.577068, para: 02 15 27	“No problem.” Yale said magnanimously.
+
+
+score: 0.569174, para: 02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+
+score: 0.541020, para: 02 14 32	“Bah, bros, my money is your money. If you run out, just come find me! In the future, we’ll probably be living together for decades. We’ll be bros for decades. Why quibble about ‘yours’ and ‘mine’?” Yale was extremely expansive, but just as he finished speaking…
+
+

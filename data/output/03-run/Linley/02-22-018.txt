@@ -1,0 +1,9 @@
+source: 02 22 18	Linley’s breath stopped.
+
+
+score: 0.816706, para: 01 23 14	Linley took a deep breath and nodded.
+
+
+score: 0.752766, para: 02 21 48	Linley sucked in a breath of cold air.
+
+

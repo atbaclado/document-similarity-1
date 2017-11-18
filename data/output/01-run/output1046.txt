@@ -1,0 +1,14 @@
+source_doc: 2 2	In scant seconds, Linley finished his incantation, and his eyes lit up as he stared at the hare.
+
+
+score: 0.780281, para: 1 7	Linley widened his eyes and stared east…
+
+score: 0.777266, para: 2 6	Linley stared at the little Shadowmouse.
+
+
+score: 0.756777, para: 2 3	The black Shadowmouse immediately moved and in the blink of an eye, appeared over ten meters away. His two guileless eyes stared towards the doorway, and he immediately saw Linley. His eyes were filled with caution.
+
+
+score: 0.739655, para: 1 5	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+

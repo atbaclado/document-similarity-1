@@ -1,0 +1,9 @@
+source: 01 1 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+
+score: 0.623491, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+
+score: 0.540913, para: 01 2 12	Hillman stared at the children, and said in a clear voice, “Brats, listen up! You are all men of Wushan town. The men of Wushan town must straighten their chests and welcome any challenges, and accept no fear. Am I understood?”
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 1	“Oh, Captain, how do you know about the power of Saint-level warriors, or the Four Supreme Warriors?” Lorry suddenly remembered to ask.
+
+
+score: 0.669166, para: 1 8	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+
+score: 0.654194, para: 1 15	“Understood, Captain!” Lorry and Roger totally understood what their captain was thinking.
+
+
+score: 0.648940, para: 1 9	“Captain, what’s going on up ahead?” Lorry said in a quiet voice to Hillman.
+
+
+score: 0.629941, para: 1 8	Linley gritted his teeth. “Uncle Hillman!” Linley was also worried for Uncle Hillman, as well as the citizens of Wushan town. He also ran in that direction. At this moment, Lorry and Roger were both panic-stricken at the thought of the Velocidragon, and didn’t notice Linley following behind them.
+
+

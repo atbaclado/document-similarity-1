@@ -1,0 +1,30 @@
+source: 02 21 41	“Hey, where is everyone going? Fenlai City has an incredible amount of places to have fun. East Fenlai City has lots of luxurious places to spend money with lots of beautiful waitresses, while West Fenlai City has many art museums, such as the famous Proulx Gallery.” Yale was very familiar with Fenlai City.
+
+
+score: 0.586659, para: 02 17 10	Putting his arm around Linley’s shoulders, Yale sighed, “Linley, my man, there’s no need to be this diligent when it comes to studying. Based on your talent, if you just expend a bit of effort, in thirty years you can easily become a magus of the sixth rank. Why do you have to work so crazy hard? You should learn to relax and enjoy life. There’s a lot of cute girls who will be at the fellowship, you know.”
+
+
+score: 0.580734, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+
+score: 0.556659, para: 02 22 17	“As for the masters’ hall, that’s even more amazing. In the innermost sanctum of the gallery, there are a very small number of masters’ sculptures. The price of these sculptures is frighteningly high. Any of them are easily worth tens of thousands of gold, and some of the masterpieces which first brought fame to their master sculptors are easily worth hundreds of thousands of gold pieces.” Yale explained to his three bros in detail.
+
+
+score: 0.552828, para: 02 18 72	“It would be such a waste if you didn’t participate. Someone else is going to get the glory, once again, in the yearly tournament.” Yale mumbled. “Too bad I’m not strong enough. If I had your strength, Linley, I would’ve given a dazzling display long ago. Then, I would be able to seduce some pretty girls.”
+
+
+score: 0.535488, para: 02 14 22	“Mm. You can leave now. Go back and tell my father that in the future, if there isn’t something urgent, not to bother me. Oh, right. Remember…every year, he can’t forget to transfer money into my magicite card. He should know very well that a magus needs a lot of money for his magistaff and socketable gems.” Yale said loudly and casually.
+
+
+score: 0.532567, para: 02 14 32	“Bah, bros, my money is your money. If you run out, just come find me! In the future, we’ll probably be living together for decades. We’ll be bros for decades. Why quibble about ‘yours’ and ‘mine’?” Yale was extremely expansive, but just as he finished speaking…
+
+
+score: 0.526401, para: 02 22 20	“But it is quite difficult for a master sculptor to produce a masterpiece, since they naturally don’t want to make any mistakes at all.” Yale sighed as he spoke. “A masterpiece that is worthy of being venerated throughout the ages, requires talent, ability, and sometimes a sudden spark of genius.”
+
+
+score: 0.513116, para: 02 22 16	Yale laughed as he explained. “But the experts’ hall is different. The experts’ exhibition is divided up into many individual rooms, with each sculpture in a room by itself. Generally speaking, an ‘expert’ is someone whose sculpting ability has received general acclaim, and most expert sculptures are worth around a thousand gold coins or so.”
+
+
+score: 0.512763, para: 02 19 19	The Huadeli Hotel, the most expensive hotel and restaurant within the Ernst Institute. Tonight, Yale was hosting the four bros of dorm 1987 to a lavish meal at the Huadeli Hotel.
+
+

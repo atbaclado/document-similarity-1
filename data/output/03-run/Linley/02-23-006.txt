@@ -1,0 +1,30 @@
+source: 02 23 6	Linley’s eyes shone.
+
+
+score: 1.000000, para: 01 13 31	Hearing these words, Linley’s eyes shone.
+
+
+score: 1.000000, para: 02 21 14	Reynolds, George, and Linley’s eyes all shone.
+
+
+score: 0.791896, para: 02 12 46	Seeing his father and his younger brother, Linley also waved, his eyes turning red.
+
+
+score: 0.749254, para: 02 25 71	Linley’s eyes involuntarily shone.
+
+
+score: 0.748606, para: 01 18 54	Linley’s eyes suddenly turned round. “You…you are a Saint-level magus instructor?”
+
+
+score: 0.722776, para: 02 19 58	“Oh, and this one.” Rand’s eyes shone as he stared at Linley. “How come I never knew that in Yale’s dorm, there was someone such as you?”
+
+
+score: 0.675869, para: 02 17 19	Linley turned aside to look, and his eyes brightened. “A magical beast!”
+
+
+score: 0.666140, para: 01 12 55	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+
+score: 0.656302, para: 01 7 47	Linley widened his eyes and stared east…
+
+

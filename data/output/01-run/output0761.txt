@@ -1,0 +1,15 @@
+source_doc: 1 19	Doehring Cowart had never had a child, nor grandchildren. Upon hearing Linley address him as Grandpa Doehring, Doehring Cowart’s heart, which had been lonely for thousands of years, suddenly felt warm.
+
+
+score: 0.667458, para: 1 12	Upon hearing these words, Linley immediately understood. His father was happy at how he had not been terrified by the sight of the Velocidragon eating Luke alive.
+
+
+score: 0.622831, para: 1 1	After hearing Hillman’s words, many of the kids had been scared silly. They all immediately nodded. Wushan was over a thousand meters high, and thousands of meters in circumference. In the eyes of men, it would definitely be considered a huge mountain.
+
+
+score: 0.619523, para: 1 16	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+
+score: 0.618085, para: 1 21	The formerly amiable Grandpa Doehring suddenly turned angry as he grumbled, “Linley, let me tell you that when it comes to attack power, each elemental style has its strengths!”
+
+

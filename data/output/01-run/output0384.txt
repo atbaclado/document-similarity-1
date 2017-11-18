@@ -1,0 +1,15 @@
+source_doc: 1 8	“Lord Magus, this is indeed Wushan town. Is there anything we can help you with, Lord Magus?” Hillman’s voice rang out.
+
+
+score: 0.774619, para: 1 20	“I hear you.” Doehring Cowart’s voice rang out in Linley’s mind as well.
+
+
+score: 0.729110, para: 1 5	“Is Hogg at home?” A clear voice rang out. The Baruch manor had no guards, so clearly, this person had already arrived within the manor grounds.
+
+
+score: 0.643931, para: 1 5	Hogg’s voice was very fierce.
+
+
+score: 0.643931, para: 1 17	“Linley. Linley!” Hogg’s voice was quavering.
+
+

@@ -1,0 +1,14 @@
+source_doc: 1 13	After all, he only had a ten-thousand in one chance. If he didn’t have the natural talent for it, then there was no way he could become a magus.
+
+score: 0.615027, para: 1 20	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+
+score: 0.597577, para: 1 20	“Linley, don’t be worried. Your aptitude for magic hasn’t even been assessed yet. Who knows if it will be high or low? Perhaps you will have a tremendous talent for magic.” Doehring Cowart stroked his white beard as he smiled.
+
+
+score: 0.531823, para: 1 20	But Doehring Cowart dared to claim that even if his student’s talent was poor, he still had the ability to make a magus out of the student. If anyone else had made this claim, they would be viewed as just wildly boasting…but the man who said these words was a five-thousand year old Saint-level Grand Magus!
+
+
+score: 0.522369, para: 1 23	“Grandpa Doehring, why aren’t you talking? How is the strength of my affinity for earth elemental essence?” Linley said nervously.
+
+

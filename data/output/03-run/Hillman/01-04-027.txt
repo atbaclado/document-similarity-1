@@ -1,0 +1,30 @@
+source: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+
+score: 0.765057, para: 01 1 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+
+score: 0.717172, para: 01 1 55	Hillman’s face was cold and callous, but in his heart, he secretly nodded. He was still very satisfied with the performance of these six and seven year olds.
+
+
+score: 0.678503, para: 01 2 11	“I hope at least half of these hundred and twenty six will be able to return alive,” Hillman prayed silently.
+
+
+score: 0.674593, para: 01 1 62	“Good kid!” Hillman secretly praised. Despite being just six years old, he could maintain the ‘Qi Building Stance’ for as long as the ten year old kids.
+
+
+score: 0.639040, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.607224, para: 01 1 154	This was a very normal morning for Wushan town. Afterwards, every morning was the same as this one. The group of Wushan youths would follow Hillman, warrior of the sixth rank, and train hard under his guidance. The only difference was, the six year old Linley was placed in the central squad of ten year olds.
+
+
+score: 0.599562, para: 02 6 9	“Uncle Hillman, hold it!” Linley finally managed to react.
+
+
+score: 0.598062, para: 01 2 10	Staring at this group of energetic, eager seventeen year olds, Hillman was filled with countless mixed feelings. This was because Hillman knew that all of these children were eager to join the army, but after ten years of military service, how many of them would come back alive?
+
+
+score: 0.559584, para: 01 1 42	The bluestone boulder trembled. Suddenly, six or seven giant cracks appeared on it, as with a ‘peng’ sound, it split into four or five pieces. But on Hillman’s fist, not the slightest injury could be seen.
+
+

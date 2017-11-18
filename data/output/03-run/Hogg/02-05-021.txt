@@ -1,0 +1,30 @@
+source: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.761349, para: 02 4 58	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.631190, para: 02 4 39	Hogg nodded. “People rarely visit the back courtyard, so its normal for there to be animals there. Right. In a week or so, the Fenlai City is going to begin another round of magical aptitude testing and magus recruitment. Do you want to participate?”
+
+
+score: 0.611103, para: 01 12 54	Hogg considered for a while, then said, “Linley, every year, when the army recruitment drive begins in deep autumn, in the royal capital of Fenlai City, there is a magus student recruitment testing drive. If you really wish to go, when autumn comes around, you can go take the test.”
+
+
+score: 0.595504, para: 01 2 58	Exiting the guest hall, Hogg, Linley, and Uncle Hiri, who still held Wharton, followed the blue stone path towards the back manor.
+
+
+score: 0.579135, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.574832, para: 02 10 36	“Fine, enough of that topic. Uncle Hiri, Hillman, lead the guards to make the arrangements right away. Tonight, I am going to host a magnificent banquet.” Hogg laughed loudly. Right now, his laughter was extremely full and carefree.
+
+
+score: 0.573966, para: 02 4 45	Hogg remembered clearly that ever since the battle between the dual-element magus of the eighth rank and the small party, Linley had very much wanted to become a magus. Why was he hesitating now? In Hogg’s heart, he too hoped that his son could become a magus.
+
+
+score: 0.566681, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.561040, para: 01 12 12	“Hillman, take some men to assist Uncle Hiri. After finishing up, please address the issue of the commoners who lost their houses.” Hogg instructed.
+
+

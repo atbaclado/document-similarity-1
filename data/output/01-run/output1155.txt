@@ -1,0 +1,15 @@
+source_doc: 2 5	He had dramatically raised the profile of the Radiant Church, and single-handedly created the Holy Union.
+
+
+score: 0.573938, para: 2 7	The Holy Emperor of the Radiant Church had an extremely high status. He had the authority to depose any of the kings of the various kingdoms! This is why in Fenlai City, the tallest building was the Cathedral of the Radiant Church.
+
+
+score: 0.543993, para: 2 7	In addition, it also served as the ‘Holy Capital’ of the Holy Union, because the Radiant Church itself was headquartered in the western part of Fenlai City.
+
+
+score: 0.527875, para: 2 7	This morning, many people were gathered around the entrance to the Cathedral of the Radiant Church. The vast majority of the people there were richly dressed noblemen. Countless carriages filled up the space in front of the Radiant Cathedral, and the various nobles chatted to each other.
+
+
+score: 0.523669, para: 2 9	His face suffused with happy red glow, the bald elder announced in a clear voice, “Spiritual essence, eighteen times that of his peers, high-level. High spiritual essence, exceptional elemental affinity.”
+
+

@@ -1,0 +1,30 @@
+source: 02 18 4	“Linley, you came.” Just as Linley sat down, a very adorable young lady sat down next to him.
+
+
+score: 0.627689, para: 02 24 5	Linley couldn’t help but stare at the direction of the voice, and saw two cute girls chatting to each other while staring at him. When Linley glanced at them, the two girls began to titter in a quiet voice.
+
+
+score: 0.602130, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.589333, para: 02 25 74	“Met the threshold? Grandpa Doehring, do you mean?…” Linley stared at Doehring Cowart in amazement.
+
+
+score: 0.587443, para: 01 5 11	“Oh, this adorable child must be your son, right Hogg?” Philip smiled very warmly at Linley. “Linley Baruch, right? May I address you as Linley?”
+
+
+score: 0.576846, para: 01 23 68	“What an adorable little mouse. And how amazingly fast!” Hiding by the doorway, Linley exclaimed silently.
+
+
+score: 0.576426, para: 02 10 37	Linley stared at his father. From as far back as he could remember, he had never seen his father so happy.
+
+
+score: 0.563617, para: 02 14 34	“Decades?” Linley stared at Yale in shock.
+
+
+score: 0.557761, para: 02 8 39	The bald elder quivered as he stared at the piece of paper in his hands. It was written clearly on top that Linley was eight years old.
+
+
+score: 0.557529, para: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+

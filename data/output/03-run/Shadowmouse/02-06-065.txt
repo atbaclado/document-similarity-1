@@ -1,0 +1,18 @@
+source: 02 6 65	And with his squeaks to accompany them, Linley, Hillman, and the Shadowmouse disappeared off into the distance.
+
+
+score: 0.593835, para: 02 4 7	“Squeak, squeak!” The little Shadowmouse immediately ran up to Linley, and began hopping up and down while squeaking at him.
+
+
+score: 0.593148, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+
+score: 0.542023, para: 02 5 31	Linley was lying on the grass near the back courtyard, while the little Shadowmouse was hopping up and down around Linley. It was squeaking nonstop, but Linley paid him no mind.
+
+
+score: 0.511497, para: 02 4 1	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+
+score: 0.508258, para: 02 12 52	Yulan calendar, year 9991. The nine year old Linley, accompanied by the young Shadowmouse, ‘Bebe’, and the Baruch clan’s guard captain, Hillman, departed from Wushan township.
+
+

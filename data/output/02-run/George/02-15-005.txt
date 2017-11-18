@@ -1,0 +1,20 @@
+source: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+score: 0.654264, para: 02 14 51	George immediately began to laugh.
+
+score: 0.654264, para: 02 14 51	George immediately began to laugh.
+
+score: 0.654264, para: 02 14 51	George immediately began to laugh.
+
+score: 0.631072, para: 02 19 26	George chuckled but didn’t speak.
+
+score: 0.631072, para: 02 19 26	George chuckled but didn’t speak.
+
+score: 0.631072, para: 02 19 26	George chuckled but didn’t speak.
+
+score: 0.587732, para: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+
+score: 0.587732, para: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+
+score: 0.587732, para: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+

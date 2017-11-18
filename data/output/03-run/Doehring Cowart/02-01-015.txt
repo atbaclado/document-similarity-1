@@ -1,0 +1,30 @@
+source: 02 1 15	“The weakest Stoneater Rat is a beast of the first rank. But the Shadowmouse is different! The weakest Shadowmouse is a magical beast of the third rank, with jet black fur. When its entire body turns blue in color, that is a sign that it has reached the fifth rank. And when all of its fur has turned violet, that means it has at least reached the seventh rank, and at most the eighth rank.” Doehring Cowart’s words were clear and precise.
+
+
+score: 0.695603, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+
+score: 0.680991, para: 01 21 35	“When utilized by a magus of the fifth or sixth rank, it will cover your entire body with a layer of stone armor. But upon reaching the seventh rank, it will transform into an armor of jadeite. Upon reaching the eighth rank, this Earthguard armor will be made up of crystal jade. And upon reaching the ninth rank, it will be composed of platinum. Finally, when a Saint-level magus executes the Earthguard spell, the protective armor will be made out of diamonds. The defensive power of this spell…” as he spoke, a smile appeared on Doehring Cowart’s face.
+
+
+score: 0.661537, para: 02 2 11	No wonder there was no need for setting up a soul-binding magical formation. This bond was initiated by the magical beast itself. Doehring Cowart continued, “Every single magical beast, upon birth, has the ability to initiate a ‘bond of equals’, but in their entire life, a magical beast may only enter this bond a single time. It isn’t like the soul-binding master-servant relationship, where once the master dissolves the relationship, someone else can use another soul-binding technique to tame the beast again.”
+
+
+score: 0.660338, para: 02 2 15	“Adult magical beasts have very high intelligence, so if you want to move the heart of an adult magical beast and make it view you as family, it is almost impossible.” Doehring Cowart sighed. “But juveniles are different. It is much like how human babies have low intelligence and can easily be tricked into liking you by, say, giving them some tasty food. The intelligence of magical beast babies is even lower. As long as you often feed him, he will like you. Then, spend some time playing with him. In a short period of time, this magical beast will come to adore you. This is especially true for an infant magical beast who has been separated from his community. Those are even easier to tame.”
+
+
+score: 0.655305, para: 02 2 6	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.649003, para: 01 23 31	“As long as you work hard, Linley, I am fully confident that you can reach the eighth rank. But as to whether or not you can become a magus of the ninth rank, or even a Saint-level magus? That will depend on your own comprehension and your experiences.” Doehring Cowart said seriously. “If you do not work hard, I’m afraid you might not even become a magus of the sixth rank. At that point in time, you’ll have no one else to blame.”
+
+
+score: 0.645514, para: 02 21 33	Next to Linley, Doehring Cowart’s eyes lit up and he said to him, “Linley, this brother of yours definitely is extraordinary. Based on how he dismounted and his eyes, I can feel that this Cass is an expert who is a good deal stronger than even your Uncle Hillman. In addition, that hawk on his shoulder should be a magical beast of the seventh rank – the “Blue-eyed Thunderhawk.”
+
+
+score: 0.626535, para: 02 14 39	Doehring Cowart’s voice rang out in his mind. “Linley, relax. For most people, decades will be needed to reach the sixth rank, yes. Under my tutelage, I can let you become a magus of the sixth rank in just ten years.”
+
+
+score: 0.593995, para: 02 16 22	Doehring Cowart laughed self-confidently. Stroking his white beard, he said, “Naturally. A Saint-level Grand Magus’ understanding of magic is far greater than that of a magus of the eighth or ninth rank. The Saint-level is a totally new realm of existence. Naturally, my teachings regarding magic are more profound and point more directly to the underlying nature of magic.”
+
+

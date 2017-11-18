@@ -1,0 +1,15 @@
+source_doc: 2 7	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+
+score: 0.682728, para: 1 6	“Nothing in this room. Next one…” Linley exited the first room and entered the second.
+
+
+score: 0.617591, para: 1 22	After half an hour of instruction, Linley finally entered the meditative state for the first time.
+
+
+score: 0.565240, para: 2 4	Just as Linley walked into the courtyard….
+
+
+score: 0.559107, para: 1 16	“Wharton, go inside now!” Linley roared back angrily.
+
+

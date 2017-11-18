@@ -1,0 +1,15 @@
+source_doc: 1 13	And the first barrier to this plan? The question of whether or not he even had the natural talent to use magic!
+
+
+score: 0.550844, para: 1 21	“You can only test for my aptitude for earth element magic?” Linley felt a little disappointed.
+
+
+score: 0.548186, para: 1 20	“Linley, don’t be worried. Your aptitude for magic hasn’t even been assessed yet. Who knows if it will be high or low? Perhaps you will have a tremendous talent for magic.” Doehring Cowart stroked his white beard as he smiled.
+
+
+score: 0.545874, para: 1 20	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+
+score: 0.537028, para: 1 22	“Magical aptitude is divided into two parts – the strength of one’s magical affinity for certain elements, and the strength of one’s mental energy.” Doehring Cowart began to explain the basics of the test.
+
+

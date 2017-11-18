@@ -1,0 +1,15 @@
+source_doc: 1 6	Linley was only eight years old, after all. Although the strict education of the clan helped him mature quickly, there was still a large gap between him and an adult. Naturally, he wouldn’t be able to consider things from a more complete point of view.
+
+
+score: 0.663728, para: 1 4	A warrior of the ninth rank could be considered the most powerful expert in the entire country of Fenlai. A warrior of the eighth rank, although unable to restore the Baruch family to its former glories, would be able to dramatically improve its current situation.
+
+
+score: 0.654009, para: 2 7	Having been nurtured and educated by the clan since his earliest days, Linley quickly managed to subdue his sense of excitement, making the expression on his face much more tranquil, at least superficially.
+
+
+score: 0.651651, para: 1 1	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.645098, para: 1 3	“However, our clan still has hope. Perhaps in the future, one of our descendants will have the requisite density of dragonblood in their veins, and meet the requirements to become a Dragonblood Warrior. If they meet the requirements, after just a few decades of training, they would be able to become a true, full Dragonblood Warrior. And at that time, the Baruch clan would once more be restored to the glorious days of yore, when we were known as the Dragonblood Warrior Clan!” Hogg’s eyes shone. “Linley, you are six and a half now. According to our rules, at your age, the test to see if your blood has a high density of dragonblood will be fairly accurate. Today, I am going to test you.”
+
+

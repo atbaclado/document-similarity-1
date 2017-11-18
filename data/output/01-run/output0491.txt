@@ -1,0 +1,15 @@
+source_doc: 1 12	For whatever reason, as he lay on the bed, Linley simply couldn’t fall asleep. He tossed and turned, his mind filled with images of the Velocidragon and the ‘Dance of the Fire Serpents’ which the magus had displayed.
+
+
+score: 0.672630, para: 2 5	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.670352, para: 1 7	“String, string…” Linley hurriedly looked about for a thread on which he could hang the Coiling Dragon Ring. Suddenly, Linley’s gaze fell on a ruined old washcloth. His eyes lit up, and he immediately pulled a string out from within the washcloth.
+
+
+score: 0.667941, para: 1 16	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+
+score: 0.665364, para: 1 14	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+

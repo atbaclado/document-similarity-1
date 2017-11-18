@@ -1,0 +1,15 @@
+source_doc: 1 12	And a magus of the eighth rank? Even if he was in the presence of a king, he would not need to kneel or show obeisance. He could just chat while staying standing. From this, one could tell how exalted a level an eighth rank magus held.
+
+
+score: 0.757076, para: 1 13	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+
+score: 0.742211, para: 1 8	“At least a magus of the seventh rank. Perhaps even a magus of the eighth rank!” Roger’s fists couldn’t help but tremble as well. “I never imagined such an important individual would come to our home.”
+
+
+score: 0.730208, para: 1 13	Linley was stunned. “Father, by what you say…only a magus of the seventh rank or higher can enslave a magical beast?”
+
+
+score: 0.726805, para: 1 23	“As long as you work hard, Linley, I am fully confident that you can reach the eighth rank. But as to whether or not you can become a magus of the ninth rank, or even a Saint-level magus? That will depend on your own comprehension and your experiences.” Doehring Cowart said seriously. “If you do not work hard, I’m afraid you might not even become a magus of the sixth rank. At that point in time, you’ll have no one else to blame.”
+
+

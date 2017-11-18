@@ -1,0 +1,15 @@
+source_doc: 1 6	“Nothing in this room. Next one…” Linley exited the first room and entered the second.
+
+
+score: 0.682728, para: 2 7	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+
+score: 0.673230, para: 2 4	Just as Linley walked into the courtyard….
+
+
+score: 0.636501, para: 1 1	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.610242, para: 2 7	Linley and Hillman had arrived here as well.
+
+

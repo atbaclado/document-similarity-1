@@ -1,0 +1,30 @@
+source: 01 14 14	“Young master Linley saw everything with his own eyes. Naturally, we would believe whatever young master Linley says.” Those youths nodded.
+
+
+score: 0.657815, para: 01 12 16	“My lord, young master Linley has already went home.” Hiri said from the side. “Although, when he left, he seemed to be in a daze. No clue what he was thinking about.”
+
+
+score: 0.633681, para: 01 2 46	“Young master Linley, your father is looking for you. Let me carry young master Wharton.” A brandy-nosed old man walked over. This brandy-nosed old man was the Baruch clan’s housekeeper, Hiri (Xi’li). In the entire manor, aside from the housekeeper, there wasn’t even a serving girl.
+
+
+score: 0.615959, para: 01 16 45	“Young master Linley?” Seeing how Linley was acting, Hiri couldn’t help but feel shocked.
+
+
+score: 0.599968, para: 02 13 46	“Linley, my young master has the same residence key as you. The two of you should be living in the same residence. I hope that in the future, the two of you can help each other out.” The old man said.
+
+
+score: 0.581985, para: 02 5 24	“Young master Linley, I’m sure that you will be able to enter the finest of magus academies.” Housekeeper Hiri chortled.
+
+
+score: 0.576936, para: 01 7 32	“Master Hillman is extremely rigorous. I’m afraid young master Linley is going to be punished.”
+
+
+score: 0.546417, para: 02 10 42	“Young master Linley, congratulations on being admitted to the Ernst Institute. In the future, young master Linley will no doubt become a mighty, powerful magus.” A clan guard laughed as he toasted Linley politely.
+
+
+score: 0.540376, para: 01 20 38	“Linley, I must inform you that aside from you, nobody can see me. Because right now, I’m just a spiritual projection, which has no matter. I’m invisible to the eye. Only you, as the master of the Coiling Dragon Ring, can see me.” Doehring Cowart explained in detail.
+
+
+score: 0.517361, para: 01 5 40	“If I can become a master sculptor, then…then father will no longer have to sell our family possessions.” This is what Linley was thinking.
+
+

@@ -1,0 +1,30 @@
+source: 02 13 10	“Hi there. I’m from the O’Brien Empire, and my name is Reynolds [Lei’nuo].” The student being processed for intake in front of Linley suddenly turned his head and warmly greeted Linley.
+
+
+score: 0.580947, para: 01 8 11	With a low-throated growl, white steam erupted from the nostrils of the Velocidragon, carrying with it the stench of sulfur. Those diamond-like eyes, nearly the size of a lantern, were also, strangely enough, red as well. The huge head of the Velocidragon turned towards Linley and the children. It’s cold gaze terrified all of the children, freezing them in their tracks.
+
+
+score: 0.579229, para: 02 21 27	Doehring Cowart was seated next to Linley, enjoying the sun. Upon seeing the cavalry division, his eyes lit up as well. Very shortly, the four carriages and hundreds of riders arrived at the main gate. Three magi came out to greet them at the gate.
+
+
+score: 0.568502, para: 01 20 24	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.561175, para: 01 5 11	“Oh, this adorable child must be your son, right Hogg?” Philip smiled very warmly at Linley. “Linley Baruch, right? May I address you as Linley?”
+
+
+score: 0.556365, para: 02 9 23	Seeing the swarm of people around him and how warmly they were treating him, Linley was stunned for a long moment, while in his heart, he sighed with amazement. In the blink of an eye, so many recruiters had learned his name. This was really too amazing.
+
+
+score: 0.556359, para: 02 10 11	“Father, here’s the acceptance letter from the Ernst Institute.” Linley directly handed the admissions envelope to his father. Hogg was stunned for a moment, then quickly accepted the red envelope and removed the letter from within it. He carefully scanned the letter.
+
+
+score: 0.553853, para: 01 2 62	With the candles in the hall becoming lit, the entire hall immediately became very bright. Linley could instantly see the many spirit tablets placed in the very front of the hall. That thick, dense cluster of spirit tablets spoke volumes as to the age of the Baruch clan.
+
+
+score: 0.548262, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.543808, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+

@@ -1,0 +1,30 @@
+source: 01 1 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+
+score: 0.681997, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+
+score: 0.604500, para: 01 8 22	“Everyone, stay here.” After he spoke, Hillman immediately chased after the departing Velocidragon.
+
+
+score: 0.604063, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+
+score: 0.575032, para: 01 15 38	“Quick, take these children home!” Hillman immediately ordered.
+
+
+score: 0.550810, para: 02 6 10	Hillman was startled.
+
+
+score: 0.550810, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+
+score: 0.550810, para: 02 6 31	Linley and Hillman watched, stunned.
+
+
+score: 0.550810, para: 02 6 60	“You…tamed him?” Hillman was stunned.
+
+
+score: 0.523949, para: 02 6 24	Hillman wasn’t even given enough time to react. That blur suddenly landed next to Linley’s legs, and immediately chomped down on Linley’s right leg.
+
+

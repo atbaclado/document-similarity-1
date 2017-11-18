@@ -1,0 +1,15 @@
+source_doc: 1 4	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.711409, para: 1 19	Linley felt as though his entire mind had been turned muddy. This old grandpa had suddenly appeared out of nowhere, and claimed that he was a Grand Magus from the era of the Pouant Empire, which had been destroyed five thousand years ago. What could be more ridiculous than this?
+
+
+score: 0.698693, para: 1 1	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.696943, para: 1 2	A hundred and twenty six children, all age seventeen, respectfully bowed towards Hillman. These youngsters normally did not attend training. They had all become adults, and had their own jobs to do. But since they had all been trained by Hillman since they were toddlers, they all considered Hillman to have been their benevolent master.
+
+
+score: 0.693194, para: 1 19	A look of excitement suddenly appeared in Linley’s eyes. “Grandpa Doehring, just now, you said that you are a Saint-level Grand Magus. Then, can you teach me how to use magic?” Linley’s heart was frantically pounding. The person in front of him was a five thousand year old Saint-level Grand Magus.
+
+

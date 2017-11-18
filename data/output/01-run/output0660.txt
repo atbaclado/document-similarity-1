@@ -1,0 +1,15 @@
+source_doc: 1 17	“Smash!” Before Hogg had arrived, the rubble covering Hiri, Linley, and Wharton had been blasted apart.
+
+
+score: 0.650340, para: 2 3	“Where’s the Shadowmouse?” Linley stared at the ancient building, but aside from some rubble and rotting leaves, he didn’t see anything.
+
+
+score: 0.594709, para: 1 7	“Just now, I searched the ground and didn’t see a single rock. This must have come from the shattered drawers.” Thinking about the collapsed drawers, Linley couldn’t help but feel angry, and he viciously stomped on the piece of ‘shattered wood’ beneath his feet.
+
+
+score: 0.578816, para: 1 7	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.568153, para: 1 6	In the end, the cabinet, which was twice as tall as Linley himself, collapsed. With a crashing sound, the cabinet smashed against the floor, breaking into seven or eight pieces, covering the room with even more dust. But hidden amidst the dust, unseen by Linley, was…
+
+

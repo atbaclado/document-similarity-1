@@ -1,0 +1,30 @@
+source: 02 10 49	Late night, the Baruch family ancestral hall. Only Linley and his father were present.
+
+
+score: 0.761001, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+
+score: 0.661111, para: 01 3 45	Hogg proudly said, “Our ancestral heirloom – the warblade, “Slaughterer”. This was the weapon used by the very first leader of the Baruch clan, the very first Dragonblood Warrior of the Yulan continent. Alas…his descendants were unfilial. Six hundred years ago, because of poverty, a descendant who loved luxury actually sold our ancestral weapon for money.”
+
+
+score: 0.629496, para: 01 2 56	The members of the Baruch clan only stayed in the front side of the manor. The areas in the far back, virtually no one went there to clean. Only the ancestral hall in the back did they ever visit, once a month, to clean.
+
+
+score: 0.608764, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+
+score: 0.608631, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+
+score: 0.595834, para: 02 5 6	Unfortunately, the type of family which could collect the warblade ‘Slaughterer’ was not an ordinary one, and the current Baruch clan was far too weak.
+
+
+score: 0.589768, para: 01 6 16	Linley very much enjoyed this feeling of searching for treasures in the ancient room. But he had forgotten something. If he could come up with this idea, wouldn’t his father, his grandfather, and the other elders of the Baruch clan also have thought of this?
+
+
+score: 0.578609, para: 02 23 33	Wushan township, within the Baruch clan manor’s main hall.
+
+
+score: 0.577844, para: 02 12 40	“Father, don’t worry. So long as I live, I will ensure that the ancestral heirloom of our Baruch clan is restored to us. I so swear!” Linley promised, meeting his father’s steely gaze, his own eyes filled with resolve as well.
+
+

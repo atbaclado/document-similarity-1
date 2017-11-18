@@ -1,0 +1,15 @@
+source_doc: 1 23	He crept closer, step by step.
+
+
+score: 0.649206, para: 1 7	When Linley had strode forward by three steps, reaching the doorway, he came to a sudden halt, because he could clearly feel that he had stepped on something hard.
+
+
+score: 0.640488, para: 1 20	Doehring Cowart only smiled, not moving at all.
+
+
+score: 0.625579, para: 2 9	Linley stepped into the magical formation.
+
+
+score: 0.600158, para: 1 1	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+

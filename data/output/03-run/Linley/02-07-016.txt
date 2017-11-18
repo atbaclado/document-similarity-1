@@ -1,0 +1,30 @@
+source: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.770732, para: 01 13 17	“But Linley, do you know the reason why powerful warriors and magi enjoy such a long life-span?” Hogg followed with a question.
+
+
+score: 0.746673, para: 01 8 28	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.733773, para: 02 17 34	“Magi? Perhaps a warrior of the eighth rank would be able to catch the little Shadowmouse, but only a Saint-level magus would be able to do the same.” Linley knew very well how strong the bodies of most magi were.
+
+
+score: 0.730043, para: 02 5 8	“What is it, Grandpa Doehring?” Linley asked questioningly. “I bet all of the hundreds of millions of citizens in the six kingdoms and fifteen dukedoms of the Holy Union know about the legendary Holy Emperor Ernst of the Radiant Church.” Linley, also, knew much about the affairs and history of the legendary Holy Emperor Ernst.
+
+
+score: 0.722261, para: 01 12 22	Again and again, the terrifying power of the ‘Dance of the Fire Serpents’ swam about in his mind’s eye. Those seven huge fire serpents and the tempest of flame they generated repeated in his mind over and over again, as well as how they instantly turned everything around them to ash, including the powerful warriors and magi of the small adventuring group.
+
+
+score: 0.712704, para: 01 13 3	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+
+score: 0.707148, para: 01 13 19	Linley had always considered it to be a fact of life that powerful warriors and magi could live for three or four hundred years. He had never considered the reason.
+
+
+score: 0.706103, para: 01 13 26	Hogg shook his head. “Can’t you think this through yourself? Magi only have weak bodies in comparison to warriors of the same rank, and not in absolute terms. For example, a magi of the eighth rank might have the same physical strength of a warrior of the second or third rank, even if he never engaged in any physical training. But of course, compared to a warrior of the eighth rank, his body would be very weak indeed!”
+
+
+score: 0.705014, para: 01 4 55	“Linley, you must remember, we are currently living within the Holy Union. You must know everything about the Holy Union!” Hogg coldly looked at his son. “In the entire Yulan continent, the most important entities are the four empires and the two alliances.”
+
+

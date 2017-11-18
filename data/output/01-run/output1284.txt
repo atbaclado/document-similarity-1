@@ -1,0 +1,15 @@
+source_doc: 2 7	A misty earth-colored haze billowed about within the dantian. This misty haze was the mageforce which had been derived from natural earth elemental essence. Based on Doehring Cowart’s teachings, from the first to sixth ranks, mageforce appeared as a haze. As a magus continued to progress, the quality of the mageforce would rise, and so too would its density.
+
+
+score: 0.679857, para: 1 22	“Oh? Instacast?” Linley looked questioningly at Doehring Cowart. Linley felt as though suddenly, the huge world of sorcery was slowly opening up before his very eyes, but still remained hazy and indistinct. Doehring Cowart, however, was dissipating the mysterious façade behind this world of magic.
+
+
+score: 0.672193, para: 1 18	“Ting!” The glow surrounding the Coiling Dragon ring suddenly began to contract rapidly, and then a single ray of hazy light flew out from within the ring. Descending next to Linley’s bed, it transformed into a person’s image.
+
+
+score: 0.633066, para: 1 21	Doehring Cowart self-confidently said, “How could the earth-style be weak? When the earth-style’s forbidden spell, ‘Heavenly Meteor’s Descent’, is executed, countless enormous boulders will rain from the sky and reduce a city to rubble in the twinkling of an eye. It also has the forbidden spell, ‘Heaven Collapses, Earth Shatters’. When this spell is used, the earth itself will begin to roil about like waves in the ocean. Houses will collapse, the earth itself will split apart, and magma will spew out from the cracks, killing countless people.”
+
+
+score: 0.629016, para: 2 8	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+

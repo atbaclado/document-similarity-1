@@ -1,0 +1,15 @@
+source_doc: 2 7	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+
+score: 0.722319, para: 2 4	Just as Linley walked into the courtyard….
+
+
+score: 0.675457, para: 1 11	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.658525, para: 1 23	His ears twitched as he turned and stared towards a far-off building. “I heard something?” He immediately stealthily walked in that direction. His footsteps made almost no sound. Normally, just while walking ordinarily, he could mask his footsteps. Now that he was intentionally trying to hide them, he made even less noise.
+
+
+score: 0.657013, para: 2 10	Linley stared at his father. From as far back as he could remember, he had never seen his father so happy.
+
+

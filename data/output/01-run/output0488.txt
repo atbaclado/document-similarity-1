@@ -1,0 +1,15 @@
+source_doc: 1 12	Linley suddenly had the desire to become a magus.
+
+
+score: 0.789179, para: 1 1	“Lorry.” Hillman suddenly shouted.
+
+
+score: 0.789179, para: 1 20	Linley suddenly understood.
+
+
+score: 0.789179, para: 1 23	Linley suddenly came to the same realization.
+
+
+score: 0.752600, para: 2 1	Linley suddenly understood. “So that is how it is!”
+
+

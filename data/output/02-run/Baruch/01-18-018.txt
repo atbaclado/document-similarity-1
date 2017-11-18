@@ -1,0 +1,20 @@
+source: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.807888, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+score: 0.807888, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+score: 0.807888, para: 02 12 32	At the moment, Linley was still within the Baruch clan manor, while Hillman and the others were all outside. The only people within the manor were Hogg, Linley, little Wharton, and Housekeeper Hiri.
+
+score: 0.769755, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+score: 0.769755, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+score: 0.769755, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+score: 0.769755, para: 01 23 57	In the ancestral hall within the Baruch clan manor.
+
+score: 0.687712, para: 02 10 6	The Baruch clan had been in a downward spiral for too long. This ancient clan needed a mighty personage to restore it to its former glories!
+
+score: 0.687712, para: 02 10 6	The Baruch clan had been in a downward spiral for too long. This ancient clan needed a mighty personage to restore it to its former glories!
+

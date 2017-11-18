@@ -1,0 +1,30 @@
+source: 01 3 55	“You?” Hogg chuckled. Eyes filled with love, he ruffled Linley’s hair.
+
+
+score: 0.713402, para: 01 12 55	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+
+score: 0.695178, para: 01 2 45	“What, did I do it wrong? I really wiped them clean.” In little Wharton’s tiny head, his eyes were filled with an uncomprehending look as he stared at his big brother.
+
+
+score: 0.649746, para: 01 2 53	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+
+score: 0.638489, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.637688, para: 02 2 45	In scant seconds, Linley finished his incantation, and his eyes lit up as he stared at the hare.
+
+
+score: 0.629130, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.628563, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.610718, para: 01 16 48	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+
+score: 0.610648, para: 02 4 10	“Squeeaaaak!” The little Shadowmouse looked at Linley with its innocent black eyes and began to squeak with impatience, as though telling Linley to hurry up and give him the food already.
+
+

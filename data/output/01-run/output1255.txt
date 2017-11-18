@@ -1,0 +1,15 @@
+source_doc: 2 7	As they walked on Fragrant Pavilion Road, the primary road of East Fenlai City, Linley felt as though his eyes were dazzled. The litle Shadowmouse Bebe had been instructed by Linley to hide within his clothes, but he also took a sneak peek at the surroundings, and then began to squeak in shared excitement.
+
+
+score: 0.714490, para: 1 20	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.699533, para: 1 23	His ears twitched as he turned and stared towards a far-off building. “I heard something?” He immediately stealthily walked in that direction. His footsteps made almost no sound. Normally, just while walking ordinarily, he could mask his footsteps. Now that he was intentionally trying to hide them, he made even less noise.
+
+
+score: 0.697932, para: 2 4	“Squeeaaaak!” The little Shadowmouse looked at Linley with its innocent black eyes and began to squeak with impatience, as though telling Linley to hurry up and give him the food already.
+
+
+score: 0.693689, para: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+

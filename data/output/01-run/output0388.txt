@@ -1,0 +1,15 @@
+source_doc: 1 8	“Uncle Lorry, what is that? Is that a magical beast?” Linley was the first to ask.
+
+
+score: 0.974480, para: 2 2	“Initiated by the magical beast?!” Linley was stunned.
+
+
+score: 0.779689, para: 1 12	“Magical beasts…I wonder how someone acquires a magical beast.” Linley desired to have a magical beast of his own as well.
+
+
+score: 0.775699, para: 2 9	Linley stepped into the magical formation.
+
+
+score: 0.774699, para: 1 13	Linley wanted a magical beast of his own as well, such as a powerful Velocidragon.
+
+

@@ -1,0 +1,30 @@
+source: 02 22 50	“Looks like some of the trainees who went to the Mountain Range of Magical Beasts were wounded. What group is this? We haven’t even been at the Ernst Institute for a year, but we’ve seen so many high level students who were injured outside.” Yale said casually.
+
+
+score: 0.624831, para: 02 15 16	Yale shook his head. “I’m not even a magus of the first rank yet. Based on my strength, maybe I could train a magical beast of the first or second rank, but what would I do with such a weak critter? And the infants of magical beasts of the seventh or eighth ranks are extremely hard to acquire. What’s more, the infants of those beasts are more powerful than me, even as babies.”
+
+
+score: 0.620688, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+
+score: 0.618444, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+
+score: 0.596914, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+
+score: 0.524798, para: 02 15 9	“Magical beast, it’s a magical beast! I’ve seen them in books.” Yale suddenly shouted.
+
+
+score: 0.522663, para: 02 15 13	“Good heavens, that’s a magical beast! Linley, you are really formidable. I’ve dreamed of having one since I was young.” Yale stared at Bebe, his eyes shining. “Although I have access to soulbinding formation scrolls, I don’t have the ability to force a magical beast to submit to me.”
+
+
+score: 0.513726, para: 02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+
+score: 0.511508, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.506692, para: 02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+

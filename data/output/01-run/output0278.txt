@@ -1,0 +1,15 @@
+source_doc: 1 5	Philip turned to look at Hogg. “Hogg, I must say, although I like this stone sculpture very much, the artisanship of this ‘Fierce Lion’ sculpture cannot be considered to be top tier, much less the masterpieces of those grandmaster sculptors.”
+
+
+score: 0.574697, para: 1 7	Linley laughed to himself, “The carving skill for this ring is really terrible. I bet even an average carver could make something more attractive. Alas, what a waste. This black ring doesn’t even have a single diamond on it, much less any valuable magic crystals.”
+
+
+score: 0.535542, para: 1 1	“Warriors are divided into nine ranks. I, a mere warrior of the sixth rank, can easily shatter boulders and kick down a large tree! But a ninth rank warrior, even within our country of Fenlai, would be considered a top level expert. But above the ninth rank warriors are the Four Supreme Warriors. They have surpassed the ninth rank warriors and can be considered the pinnacle of warriors. They belong to the level of legendary Saint-level warriors!” Hillman’s eyes were filled with excitement. “The legendary Saint-level warriors can melt giant icebergs, make the boundless sea roar with angry waves, make tall mountains crumble, make cities with millions of people collapse, and make meteors fall from the sky! They are absolutely undefeatable, the highest possible power.”
+
+
+score: 0.532884, para: 1 4	“Today, we will study art,” Hogg said coldly. “As the descendent of a noble family, you must have a thorough understanding and appreciation of art. Art is what gives noblemen an aura of gravitas!” Hogg pulled out a large tome as thick as a fist, immediately opening it.
+
+
+score: 0.531113, para: 1 7	At first glance, Linley felt that the sinuous carving on the ring seemed to be that of an earthworm.
+
+

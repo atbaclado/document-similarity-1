@@ -1,0 +1,15 @@
+source_doc: 1 6	“If I am able to find some valuable things and give them to father, no doubt he will be very happy.” Linley took a deep breath, then immediately entered a decrepit room next to the ancestral hall. Step by step, he walked carefully, wielding a sturdy wooden stick in his hands, which he used to strike down the cobwebs, allowing himself a more careful examination.
+
+
+score: 0.699028, para: 1 14	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.695523, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.685332, para: 1 11	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.683728, para: 2 3	Taking a deep breath, Linley entered his family’s manor and went to the back courtyard, and one careful step at a time, approached the location where the Shadowmouse had appeared, his footsteps not making a single sound. In a short period of time, Linley returned to his earlier position.
+
+

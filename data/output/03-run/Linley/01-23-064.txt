@@ -1,0 +1,12 @@
+source: 01 23 64	When Linley reached the door to the building and took a peek inside…
+
+
+score: 0.545218, para: 02 7 8	As they walked on Fragrant Pavilion Road, the primary road of East Fenlai City, Linley felt as though his eyes were dazzled. The litle Shadowmouse Bebe had been instructed by Linley to hide within his clothes, but he also took a sneak peek at the surroundings, and then began to squeak in shared excitement.
+
+
+score: 0.530373, para: 02 17 40	“Grandpa Doehring, I feel like I have reached the level of a magus of the second rank. I want you to take a look and see for yourself.” Linley finally said.
+
+
+score: 0.512982, para: 01 20 17	“Creaaak.” The bedroom door swung open, and Housekeeper Hiri stuck his head inside. Seeing that Linley was awake, he couldn’t help but smile. “Young master Linley, I didn’t expect that you would have already awoken. How do you feel, young master?”
+
+

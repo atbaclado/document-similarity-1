@@ -1,0 +1,30 @@
+source: 02 12 38	These words made Linley’s heart tremble.
+
+
+score: 0.765951, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 0.765951, para: 01 21 14	Linley’s heart was trembling.
+
+
+score: 0.765951, para: 02 23 17	Linley’s heart was full of excitement.
+
+
+score: 0.664872, para: 02 17 55	Linley would never be able to forget the words his father had said to him when he left. “If you cannot bring it back, even when I die, I won’t forgive you!” These words had pierced Linley’s heart like a sharp knife, and he was constantly reminded of them.
+
+
+score: 0.657828, para: 02 17 46	Linley immediately began to quietly mouth the words to a spell. The words had long since been memorized by Linley to the point where he could recite them without thinking. As the words to the spell continued, Linley could feel his entire spirit enter a special mode.
+
+
+score: 0.615752, para: 02 1 39	Hearing his words, Linley’s heart fluttered.
+
+
+score: 0.607075, para: 01 5 6	Hearing these words, Linley felt his heart twinge.
+
+
+score: 0.601051, para: 01 8 29	Linley’s heart trembled.
+
+
+score: 0.592269, para: 02 20 76	Rand knew in his heart that just then, Linley had shown mercy.
+
+

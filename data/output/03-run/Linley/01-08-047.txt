@@ -1,0 +1,30 @@
+source: 01 8 47	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.704557, para: 01 2 67	“Our clan’s history? What can it be?” In his heart, Linley was eager to know, but he didn’t dare to make a sound.
+
+
+score: 0.660074, para: 01 2 36	“Wharton, you can do it!” Linley encouraged him.
+
+
+score: 0.642250, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.642250, para: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.642250, para: 02 5 23	Linley nodded.
+
+
+score: 0.632731, para: 02 1 37	Linley also agreed with Doehring Cowart’s words.
+
+
+score: 0.619252, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+
+score: 0.619252, para: 02 6 28	“I’m fine,” Linley chuckled.
+
+
+score: 0.619252, para: 02 6 31	Linley and Hillman watched, stunned.
+
+

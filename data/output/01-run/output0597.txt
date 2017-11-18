@@ -1,0 +1,15 @@
+source_doc: 1 15	At present, the group of children and the three instructors were about several hundred meters away from the Black Dragon. To see a hundred-meter long Black Dragon from such a close distance is an awe-inspiring experience which simply can’t be explained with words.
+
+
+score: 0.689826, para: 1 1	After hearing Hillman’s words, many of the kids had been scared silly. They all immediately nodded. Wushan was over a thousand meters high, and thousands of meters in circumference. In the eyes of men, it would definitely be considered a huge mountain.
+
+
+score: 0.681250, para: 2 9	“How weak. Compared to the overawing presence of the Black Dragon from half a year ago, it simply isn’t even close to being on the same level.” Linley was relaxed enough to even think about that.
+
+
+score: 0.670601, para: 1 8	At this point in time, Hillman’s group was roughly a hundred meters away from the Velocidragon. They quietly watched the events in the center of town unfold. In front of the huge Velocidragon, a group of youngsters could be seen. Four men, three women.
+
+
+score: 0.653448, para: 2 5	Hogg stood there, straight as a ramrod. Staring directly at Linley, he said, “Linley, Wushan township is located fairly close to the capital, just ninety or so kilometers away. You should be able to make it to the capital before nightfall. Remember, when you reach the capital, don’t cause any trouble. There are too many rich and powerful people in the capital.”
+
+

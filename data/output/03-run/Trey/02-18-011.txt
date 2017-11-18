@@ -1,0 +1,21 @@
+source: 02 18 11	“Alright, today’s class is over for now. But before class ends, there’s something I must inform you all about.” Instructor Trey smiled as he spoke.
+
+
+score: 0.747658, para: 02 16 28	“Greetings, everyone,” a handsome, yellow-haired youngster said with a smile. “I am a sixth grade student, Trey [Te’lei]. From today onwards, I will be responsible for teaching you wind-style magic. I live in dorm 0298, so if you have any questions after class ends, you can come find me there.”
+
+
+score: 0.634427, para: 02 16 30	“Before this, let’s all first introduce ourselves.” Trey smiled.
+
+
+score: 0.607524, para: 02 17 66	Standing next to a large tree, Trey saw Linley from afar.
+
+
+score: 0.600088, para: 02 17 62	Just then, Trey had utilized the ‘Windscout’ spell, and had sensed the earth-style magic which Linley had just cast.
+
+
+score: 0.567039, para: 02 17 63	Based on the magic vibrations, Trey was able to determine what spell it was.
+
+
+score: 0.544451, para: 02 17 68	Naturally, Trey recognized his own student. “This kid called Linley never talks in class. Even when experimenting in new spells, others will try them out, but he will just stand and watch from afar, never showing his strength. It seems…this kid called Linley is already a magus of the second rank. I remember him being one of our new students. Didn’t expect him to be so talented.”
+
+

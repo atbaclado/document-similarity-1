@@ -1,0 +1,30 @@
+source: 02 12 52	Yulan calendar, year 9991. The nine year old Linley, accompanied by the young Shadowmouse, ‘Bebe’, and the Baruch clan’s guard captain, Hillman, departed from Wushan township.
+
+
+score: 0.581367, para: 01 8 22	“Everyone, stay here.” After he spoke, Hillman immediately chased after the departing Velocidragon.
+
+
+score: 0.563704, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+
+score: 0.563189, para: 01 1 7	The leader’s name was Hillman (Xi’er’man). He was the captain of the guard for the Baruch (Ba’lu’ke) clan, the noble clan which owned Wushan town.
+
+
+score: 0.541023, para: 01 5 16	“Mr. Hillman, your strength amazes me. My own manor doesn’t have anyone as fierce as you, guard captain, even though I control twelve towns.” Philip smiled as he spoke, but the implicit meaning in his words was quite clear; he wanted to invite Hillman to work for him.
+
+
+score: 0.536943, para: 01 18 40	“Hillman, lead the guard squad to do some more scouting about the township. Uncle Hiri, go and get some rest.” Hogg directly instructed.
+
+
+score: 0.526121, para: 02 7 54	Linley and Hillman had arrived here as well.
+
+
+score: 0.520561, para: 01 1 118	After a short period of time, the stunned children returned to their homes. Hillman, Roger, and Lorry were the last to leave. Watching the children depart in clusters of three or five, a smile appeared on Hillman’s face.
+
+
+score: 0.517317, para: 02 9 49	Watched by a crowd of nobles, commoners, and church officials, Linley and Hillman departed the cathedral.
+
+
+score: 0.512777, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+

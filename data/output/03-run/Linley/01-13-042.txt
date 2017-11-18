@@ -1,0 +1,30 @@
+source: 01 13 42	“Last I heard, the going price was around ten thousand gold coins. And what’s more is, even if you had the money, there’s almost no market for it due to its rarity.” Hogg’s words forced Linley to laugh bitterly at himself.
+
+
+score: 0.650927, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.649693, para: 02 23 43	“Gold coins? So much gold. There must be at least ten thousand gold coins here.” Hogg stared at Hillman, astonished. “Hillman, you say that Linley asked you to bring this here?”
+
+
+score: 0.645716, para: 02 20 52	“Today, I am going to engage in a magical duel with this kid Linley, with the loser paying ten thousand gold coins and having to avoid the other in the future. Everyone, please be my witnesses.” Rand said. He enjoyed the feeling of being watched by many. He didn’t suffer from any stage fright at all.
+
+
+score: 0.632757, para: 02 21 7	“With these ten thousand gold coins, my living expenses at the Ernst Institute will be more than sufficiently covered, with lots left over. I can help father as well.” Linley felt very happy.
+
+
+score: 0.627525, para: 01 3 56	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+
+score: 0.612771, para: 02 14 29	His own father gave him only a hundred gold coins each year for living costs. In fact, in Linley’s eyes, a hundred gold coins was more than enough. After all, most commoners would only make twenty or thirty gold coins in wages after a year of hard labor.
+
+
+score: 0.612029, para: 02 21 50	What an enormous sum that was. Even if his clan sold off their ancestral home, they most likely would only be able to scrape up a hundred thousand gold coins.
+
+
+score: 0.601606, para: 01 9 14	“Wow, the price of that diamond…” Linley was shocked. “For it to be worth so much money, clearly this d’Bero shadow diamond must have some significance attached to it. Otherwise, it wouldn’t cause this magus to be willing to lower his status and try to forcibly buy it.”
+
+
+score: 0.579022, para: 02 1 6	“Linley, the Stoneater Rat race is an extremely terrifying race, primarily because they have huge numbers, and extremely sharp teeth, far sharper than the Shadowmouse race. When large numbers of Stoneater Rats appear, even an army of a hundred thousand people cannot hope to withstand them.” Doehring Cowart sighed as he spoke.
+
+

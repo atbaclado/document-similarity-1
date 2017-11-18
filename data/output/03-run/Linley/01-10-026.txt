@@ -1,0 +1,9 @@
+source: 01 10 26	Linley really was intelligent. He had read many books, and knew what path he had embarked on for the future.
+
+
+score: 0.698644, para: 01 11 37	Linley knew the path that he would take in the future.
+
+
+score: 0.502531, para: 01 22 38	He could feel himself embarking on a new path.
+
+

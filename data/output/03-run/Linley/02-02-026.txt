@@ -1,0 +1,30 @@
+source: 02 2 26	Linley understood.
+
+
+score: 0.954324, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.935187, para: 01 4 36	Wharton was only a child, while Linley was much more mature.
+
+
+score: 0.935187, para: 01 4 43	“Yes, father.” Linley said calmly.
+
+
+score: 0.935187, para: 01 4 56	Linley nodded.
+
+
+score: 0.935187, para: 01 4 59	Listening to his father’s words, Linley agreed.
+
+
+score: 0.935187, para: 02 4 35	Linley was startled.
+
+
+score: 0.935187, para: 02 4 65	Linley nodded. Everyone knew that.
+
+
+score: 0.922531, para: 02 1 52	Linley was startled.
+
+
+score: 0.901772, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+

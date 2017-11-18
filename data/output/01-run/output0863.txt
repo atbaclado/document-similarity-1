@@ -1,0 +1,14 @@
+source_doc: 1 22	“Elemental essence?” Linley was surprised. “Grandpa Doehring, are you saying that in order to cast magical spells, we need to draw upon external elemental essences?”
+
+
+score: 0.713939, para: 1 13	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.668561, para: 1 23	Aside from the Vampiric Iron Bull, the Griffin, the Velocidragon, and the Black Dragon magical beasts he had seen, this was the first time Linley had seen any other magical beasts. This adorable black mouse was actually a magical beast? A magical beast, with magical abilities?
+
+score: 0.659200, para: 1 21	“And earth-style?” Linley didn’t forget about the earth-style elemental magic.
+
+
+score: 0.658265, para: 1 13	Seeing the expression on Linley’s face, Hogg couldn’t help but laugh. “There’s only two ways to acquire a magical beast companion. The first is to make the magical beast willingly subordinate himself to you and serve you. The second way is to use a soul-binding magical array to enslave the magical beast.”
+
+

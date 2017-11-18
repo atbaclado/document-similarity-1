@@ -1,0 +1,15 @@
+source_doc: 2 2	Doehring Cowart laughed loudly. “Because, the ‘bond of equals’ is not initiated by people. Rather, it is initiated by the magical beast.”
+
+
+score: 0.711797, para: 2 4	“I really wonder when this little Shadowmouse will initiate a ‘bond of equals’ with me.” Linley mumbled. There was nothing he could do. The ‘bond of equals’ could only be initiated by magical beasts, so he could only passively wait.
+
+
+score: 0.557050, para: 2 9	Linley stepped into the magical formation.
+
+
+score: 0.546489, para: 2 10	Hogg didn’t know whether to laugh or to cry. The ‘cute pet’ was actually a magical beast?
+
+
+score: 0.535219, para: 2 9	Standing alone in the magical formation, Linley continued to resist the overawing presence.
+
+

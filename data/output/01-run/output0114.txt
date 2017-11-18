@@ -1,0 +1,15 @@
+source_doc: 1 2	Hillman stared at the children, and said in a clear voice, “Brats, listen up! You are all men of Wushan town. The men of Wushan town must straighten their chests and welcome any challenges, and accept no fear. Am I understood?”
+
+
+score: 0.675246, para: 1 5	Philip laughed as he turned to look at the grandfather clock in the hall. His eyes gleaming, he said, “Hogg, if you were to sell this clock, however, I would be willing to pay a thousand gold.”
+
+
+score: 0.644147, para: 1 1	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+
+score: 0.634984, para: 2 6	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+
+score: 0.633075, para: 2 10	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+

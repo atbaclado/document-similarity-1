@@ -1,0 +1,20 @@
+source: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+score: 0.681997, para: 01 1 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+score: 0.681997, para: 01 1 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+score: 0.681997, para: 01 1 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+score: 0.681997, para: 01 1 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+score: 0.611463, para: 01 14 34	“Now, time to do our morning exercises. Same as always – face the sun, and begin the ‘qi-absorbing exercise’.” Hillman crisply began the day’s program, and immediately the three groups of children began to practice the ‘qi-absorbing stance’.
+
+score: 0.611463, para: 01 14 34	“Now, time to do our morning exercises. Same as always – face the sun, and begin the ‘qi-absorbing exercise’.” Hillman crisply began the day’s program, and immediately the three groups of children began to practice the ‘qi-absorbing stance’.
+
+score: 0.611463, para: 01 14 34	“Now, time to do our morning exercises. Same as always – face the sun, and begin the ‘qi-absorbing exercise’.” Hillman crisply began the day’s program, and immediately the three groups of children began to practice the ‘qi-absorbing stance’.
+
+score: 0.611463, para: 01 14 34	“Now, time to do our morning exercises. Same as always – face the sun, and begin the ‘qi-absorbing exercise’.” Hillman crisply began the day’s program, and immediately the three groups of children began to practice the ‘qi-absorbing stance’.
+
+score: 0.606404, para: 01 8 22	“Everyone, stay here.” After he spoke, Hillman immediately chased after the departing Velocidragon.
+

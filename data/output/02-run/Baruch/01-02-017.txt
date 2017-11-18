@@ -1,0 +1,20 @@
+source: 01 2 17	“After Hazard Baruch, the fourth Dragonblood Warrior appeared, nearly a thousand years later. And then, after fifteen hundred years passed, which is to say tens of generations later, the fifth Dragonblood Warrior finally appeared in our clan. But in the thousand years from then until now, not a single Dragonblood Warrior has shown up.”
+
+score: 0.999524, para: 01 3 17	“After Hazard Baruch, the fourth Dragonblood Warrior appeared, nearly a thousand years later. And then, after fifteen hundred years passed, which is to say tens of generations later, the fifth Dragonblood Warrior finally appeared in our clan. But in the thousand years from then until now, not a single Dragonblood Warrior has shown up.”
+
+score: 0.999524, para: 01 3 17	“After Hazard Baruch, the fourth Dragonblood Warrior appeared, nearly a thousand years later. And then, after fifteen hundred years passed, which is to say tens of generations later, the fifth Dragonblood Warrior finally appeared in our clan. But in the thousand years from then until now, not a single Dragonblood Warrior has shown up.”
+
+score: 0.999524, para: 01 3 17	“After Hazard Baruch, the fourth Dragonblood Warrior appeared, nearly a thousand years later. And then, after fifteen hundred years passed, which is to say tens of generations later, the fifth Dragonblood Warrior finally appeared in our clan. But in the thousand years from then until now, not a single Dragonblood Warrior has shown up.”
+
+score: 0.999524, para: 01 3 17	“After Hazard Baruch, the fourth Dragonblood Warrior appeared, nearly a thousand years later. And then, after fifteen hundred years passed, which is to say tens of generations later, the fifth Dragonblood Warrior finally appeared in our clan. But in the thousand years from then until now, not a single Dragonblood Warrior has shown up.”
+
+score: 0.709754, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+score: 0.709754, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+score: 0.709754, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+score: 0.709754, para: 01 3 18	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+score: 0.699620, para: 01 3 14	Beside him, Hogg said in a low voice, “The first three generations of the Baruch family were all Dragonblood Warriors. Upon becoming a Dragonblood Warrior, one’s life expectancy would dramatically increase. The second generation Dragonblood Warrior didn’t get married or have children until after he was seven hundred years old.”
+

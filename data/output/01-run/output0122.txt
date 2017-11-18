@@ -1,0 +1,15 @@
+source_doc: 1 2	Linley was already beginning to grow permanent teeth.
+
+
+score: 0.881683, para: 1 20	“Grandpa Doehring!” Linley was beginning to grow impatient.
+
+
+score: 0.756194, para: 1 18	“So many casualties?” Hogg couldn’t help but begin to grow worried.
+
+
+score: 0.653193, para: 2 4	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+
+score: 0.621148, para: 1 20	“Grandpa Doehring, how does one test for magical aptitude?” Linley couldn’t help but grow eager.
+
+

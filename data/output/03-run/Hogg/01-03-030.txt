@@ -1,0 +1,30 @@
+source: 01 3 30	“Hold it.” Holding the translucent Dragonblood Needle, Hogg lightly pricked Linley’s ring finger with it, easily piercing the skin. Linley felt a piercing pain, and the translucent needle immediately turned crimson as well.
+
+
+score: 0.639505, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.610853, para: 01 17 7	“Uncle Hiri, what’s the situation?” Hogg’s voice was trembling. At the same time, he stared at the prone bodies. The first thing he saw was Linley, head covered with blood. The sight of the blood was so piercing to the eye that Hogg felt his head grow foggy, and his body swayed, almost falling down.
+
+
+score: 0.580322, para: 01 18 23	Only now did Hogg feel relieved, and he nodded. But his forehead was still furrowed.
+
+
+score: 0.546422, para: 01 5 10	A middle aged man with long, golden hair and a nobleman’s aura strode into the hall by Hogg’s side. Linley immediately was able to guess that this middle-aged man must be ‘Philip’.
+
+
+score: 0.522219, para: 01 18 19	Hogg was seated at a table, his forehead furrowed. As the controller of Wushan township, he absolutely had to think carefully about how to take care of his people.
+
+
+score: 0.513645, para: 01 4 53	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.507213, para: 01 4 37	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.506347, para: 01 5 3	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+
+score: 0.505664, para: 01 5 41	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+

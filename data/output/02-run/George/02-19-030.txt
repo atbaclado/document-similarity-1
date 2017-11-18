@@ -1,0 +1,20 @@
+source: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+score: 0.577196, para: 02 17 7	George loved to participate in student unions and fellowships, and he was excellent in ferreting out news and making new friends. Although he had only been in school for half a year, amongst the first grade students of the Ernst Institute, George had become a mover and a shaker.
+
+score: 0.577196, para: 02 17 7	George loved to participate in student unions and fellowships, and he was excellent in ferreting out news and making new friends. Although he had only been in school for half a year, amongst the first grade students of the Ernst Institute, George had become a mover and a shaker.
+
+score: 0.577196, para: 02 17 7	George loved to participate in student unions and fellowships, and he was excellent in ferreting out news and making new friends. Although he had only been in school for half a year, amongst the first grade students of the Ernst Institute, George had become a mover and a shaker.
+
+score: 0.563291, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+score: 0.563291, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+score: 0.563291, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+score: 0.558012, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+score: 0.558012, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+score: 0.558012, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+

@@ -1,0 +1,15 @@
+source_doc: 1 1	All of the children stared worshipfully at Hillman.
+
+
+score: 0.824400, para: 1 6	He stared up at the sky.
+
+
+score: 0.789244, para: 2 10	Linley stared at his father. From as far back as he could remember, he had never seen his father so happy.
+
+
+score: 0.784317, para: 2 6	Linley stared at the little Shadowmouse.
+
+
+score: 0.770789, para: 1 23	“A magical beast? Shadowmouse? It is so big! How can it be an infant?” Linley stared at Doehring Cowart in surprise.
+
+

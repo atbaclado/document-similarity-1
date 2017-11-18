@@ -1,0 +1,14 @@
+source_doc: 1 12	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+score: 0.767676, para: 1 13	Hearing these words, Linley’s eyes shone.
+
+
+score: 0.767676, para: 1 16	“Linley!” Hogg’s eyes turned red.
+
+
+score: 0.767676, para: 1 23	“What’s that?” Linley’s eyes widened.
+
+
+score: 0.767421, para: 2 10	Hogg took a deep breath, then looked at Linley, his eyes filled with boundless excitement. “Good, good.”
+
+

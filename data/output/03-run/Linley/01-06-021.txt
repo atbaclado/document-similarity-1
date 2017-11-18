@@ -1,0 +1,30 @@
+source: 01 6 21	“All these decorations are ruined. There isn’t a single one worth money.” Linley exited yet another empty room.
+
+
+score: 0.617123, para: 01 4 1	The spring wind came, turning green the poplar trees near the empty space outside of Wushan town. On the empty ground, a group of youths were ardently training. Almost a year had passed since the Dragonblood test, and Linley was eight years old now. Over the course of this period of time, Hillman clearly saw that Linley had only become even harder working!
+
+
+score: 0.567987, para: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.566329, para: 02 3 21	Taking a deep breath, Linley entered his family’s manor and went to the back courtyard, and one careful step at a time, approached the location where the Shadowmouse had appeared, his footsteps not making a single sound. In a short period of time, Linley returned to his earlier position.
+
+
+score: 0.560863, para: 02 3 43	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.552474, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+
+score: 0.547423, para: 01 4 37	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.546568, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.545032, para: 02 17 31	He naturally began to use the wind-style ‘Supersonic’ spell, turning his entire body as light as a leaf. Like a spirit, he wound his way through the mountains. After running for several kilometers, Linley reached his target destination, an empty area next to some flowing water.
+
+
+score: 0.542420, para: 02 3 23	Some of the stones still showed signs of being chewed on, but despite scanning inside the entire building, he couldn’t see even the shadow of the Shadowmouse. Linley couldn’t help but feel despondent and miserable. “Grandpa Doehring, the Shadowmouse isn’t here anymore. It was just an hour. Did it leave already?”
+
+

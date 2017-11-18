@@ -1,0 +1,30 @@
+source: 01 1 127	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+
+score: 0.716822, para: 01 14 28	“We do.” Hearing Hillman’s words and seeing how relaxed Hillman was, all of the children immediately replied vigorously.
+
+
+score: 0.713300, para: 01 14 46	After saying these words, Hillman took a deep breath as he thought to himself, “What story should I tell them today?” Every day, when morning exercises were completed, Hillman would tell the children stories. This had turned into a routine.”
+
+
+score: 0.677772, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.673277, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+
+score: 0.639992, para: 02 7 55	“Uncle Hillman, there’s so many people here today. Many nobles brought their children here.” Linley laughed towards Hillman. At this time, the little Shadowmouse, Bebe, was hiding within Linley’s clothes, occasionally peeking out to see his surroundings.
+
+
+score: 0.607413, para: 01 8 40	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+
+score: 0.590762, para: 02 23 15	Hillman laughed loudly and nodded. “Right. Your father was absolutely ecstatic. He excitedly drank wine with me until midnight. Your father said that his two sons are the absolute prides of his life. One is a mighty magus, and the other is a Dragonblood Warrior. Haha…”
+
+
+score: 0.581535, para: 01 15 29	Only now did the rest of the children awaken from their stupor. Although they didn’t understand why Hillman was pushing them to go back to their homes and wanted to continue watching the Saint-level combatants, Hillman’s awe-inspiring presence was still enough to send all of the children running speedily for their homes.
+
+
+score: 0.579347, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+

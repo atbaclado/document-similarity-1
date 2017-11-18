@@ -1,0 +1,30 @@
+source: 01 21 4	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+
+score: 0.695530, para: 01 22 3	Doehring Cowart began to laugh. “Fine, I’ll test you right away.”
+
+
+score: 0.650880, para: 02 8 18	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+
+score: 0.649909, para: 01 22 5	“Magical aptitude is divided into two parts – the strength of one’s magical affinity for certain elements, and the strength of one’s mental energy.” Doehring Cowart began to explain the basics of the test.
+
+
+score: 0.605561, para: 01 22 4	“First, let me tell you that the test for magical aptitude is a two-part test, so the test I am administering will also have two parts.” Doehring Cowart was behaving in an unusually generous manner. After having been trapped along in the Coiling Dragon Ring for five thousand years, of course he was now in a wonderful mood when faced with such a cute little child.
+
+
+score: 0.602105, para: 01 20 10	“Linley, don’t be worried. Your aptitude for magic hasn’t even been assessed yet. Who knows if it will be high or low? Perhaps you will have a tremendous talent for magic.” Doehring Cowart stroked his white beard as he smiled.
+
+
+score: 0.536610, para: 01 23 15	“Now, it’s time for the second test, to test your spiritual energy.” Doehring Cowart looked at Linley solemnly.
+
+
+score: 0.526996, para: 02 19 17	“Linley, your current assignment is to train hard and build up your strength. As far as combat experience goes, when you become a magus of the fifth rank, you should enter the Mountain Range of Magical Beasts and enter a series of genuine life-and-death experiences.” Doehring Cowart persuaded Linley.
+
+
+score: 0.517431, para: 01 22 40	“Come, let’s begin the test of the strength of your elemental affinities. Sit down with legs crossed, close your eyes, and enter a meditative state.” Doehring Cowart said gently.
+
+
+score: 0.506795, para: 01 23 20	“I am the spirit of the Coiling Dragon Ring, while you are the master of the Coiling Dragon Ring. I am totally capable of sensing the strength of your spirit! There’s no need to test it at all. I can tell you right now!” Doehring Cowart smiled at Linley.
+
+

@@ -1,0 +1,30 @@
+source: 01 21 22	He could tell that Grandpa Doehring was exclusively talking about wide-range, castatrophe-level magic.
+
+
+score: 0.626437, para: 01 14 11	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+
+score: 0.598278, para: 02 2 3	“Grandpa Doehring, quick, tell me, what’s your plan?” Linley excitedly spoke to him mentally.
+
+
+score: 0.596036, para: 02 17 68	Naturally, Trey recognized his own student. “This kid called Linley never talks in class. Even when experimenting in new spells, others will try them out, but he will just stand and watch from afar, never showing his strength. It seems…this kid called Linley is already a magus of the second rank. I remember him being one of our new students. Didn’t expect him to be so talented.”
+
+
+score: 0.573145, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.569203, para: 02 2 8	“Oh? Grandpa Doehring, from your words, it sounds like there’s a lot of advantages to this ‘bond of equals’. Why don’t most people use it?” Linley queried.
+
+
+score: 0.567098, para: 01 20 19	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+
+score: 0.566399, para: 02 4 57	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+
+score: 0.561753, para: 01 20 44	Hearing and seeing were two different things. When he personally witnessed all the other people at the dinner table be unaware of Grandpa Doehring’s presence, Linley felt deeply astonished.
+
+
+score: 0.559046, para: 01 19 47	Doehring Cowart had never had a child, nor grandchildren. Upon hearing Linley address him as Grandpa Doehring, Doehring Cowart’s heart, which had been lonely for thousands of years, suddenly felt warm.
+
+

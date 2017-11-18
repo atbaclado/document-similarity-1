@@ -1,0 +1,14 @@
+source_doc: 1 11	Linley’s gaze suddenly turned towards the mysterious magus on the back of the Velocidragon. By appearances, the magus was much smaller and much weaker.
+
+
+score: 0.807447, para: 1 18	Linley’s eyes suddenly turned round. “You…you are a Saint-level magus instructor?”
+
+
+score: 0.709764, para: 1 12	Only after seeing the magical beast of the seventh rank, the Velocidragon, and its mysterious magus master depart, did Hogg calm down.
+
+
+score: 0.663791, para: 1 14	“Great.” Hillman’s facial expression suddenly turned serious. “That huge creature is known as a Velocidragon. The magus on top of the Velocidragon is incredibly powerful. But everyone should know one thing!”
+
+
+score: 0.658477, para: 1 19	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.
+

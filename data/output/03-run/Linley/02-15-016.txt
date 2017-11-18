@@ -1,0 +1,30 @@
+source: 02 15 16	Yale shook his head. “I’m not even a magus of the first rank yet. Based on my strength, maybe I could train a magical beast of the first or second rank, but what would I do with such a weak critter? And the infants of magical beasts of the seventh or eighth ranks are extremely hard to acquire. What’s more, the infants of those beasts are more powerful than me, even as babies.”
+
+
+score: 0.853939, para: 02 1 5	“Magical beasts are divided into nine ranks. Magical beasts of the first rank are the weakest. And of course, above the ninth rank are magical beasts at the Saint-level!” Doehring Cowart smiled at Linley. “Linley, the weakest type of Stoneater Rat is the Grey Stoneater Rat. Stoneater Rats of the first to third ranks are all grey in color, with some minor shading differences. A Stoneater Rat, upon reaching the fourth rank, will see its fur turn pure silver. Upon reaching the seventh rank, its fur will turn gold! A gold-colored Stoneater Rat will at least be a magical beast of the seventh rank, and at most a magical beast of the eighth rank.”
+
+
+score: 0.771216, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.760896, para: 01 8 28	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.755192, para: 01 13 48	“If I really want to acquire a magical beast companion, based on my family’s economic situation, I would have to become a magus of the seventh rank first. That’s the only way.” Linley secretly pondered all the possibilities, but he knew very well how difficult this would be.
+
+
+score: 0.736301, para: 02 1 28	“Grandpa Doehring, then based on your words, this Shadowmouse is really amazingly fast. The Shadowmouse in front of me is slightly faster than even Uncle Hillman, but you are telling me that it is comparable to a Shadowmouse of the fourth rank. For a magical beast of the fourth rank to be faster than a warrior of the sixth rank…” Linley couldn’t help but sigh in amazement.
+
+
+score: 0.732781, para: 01 8 24	Lorry cleared his throat, a look of terror still in his eyes. But he still nodded. “Yes, it is. But it’s a very powerful one, a magical beast of the seventh rank. A Velocidragon!”
+
+
+score: 0.716144, para: 01 13 3	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+
+score: 0.715239, para: 02 17 34	“Magi? Perhaps a warrior of the eighth rank would be able to catch the little Shadowmouse, but only a Saint-level magus would be able to do the same.” Linley knew very well how strong the bodies of most magi were.
+
+
+score: 0.713250, para: 02 17 25	“This should be a magical beast of the fifth or sixth rank,” Linley decided.
+
+

@@ -1,0 +1,30 @@
+source: 01 14 29	“Great.” Hillman’s facial expression suddenly turned serious. “That huge creature is known as a Velocidragon. The magus on top of the Velocidragon is incredibly powerful. But everyone should know one thing!”
+
+
+score: 0.685749, para: 01 8 3	“A magical beast of the seventh rank. Velocidragon*!” Hillman’s facial expression contorted, while Lorry and Roger, by his side, felt their legs grow weak.
+
+
+score: 0.638902, para: 02 6 61	Hillman was a worldly man, and of course he knew that taming a magical beast was an extremely difficult, extremely arduous matter. But just now, Linley had actually subdued a magical beast.
+
+
+score: 0.636890, para: 01 15 18	Suddenly, the enormous Black Dragon let out a furious roar as its two huge wings began to flap vigorously. It emanated a terrifying pressure, causing everyone, Hillman included, to feel their legs grow soft and to feel as though they couldn’t breathe.
+
+
+score: 0.613134, para: 01 1 33	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+
+score: 0.597344, para: 01 1 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+
+score: 0.593534, para: 01 12 6	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+
+score: 0.589625, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.570570, para: 01 15 9	“A man in gray who was able to subdue a Black Dragon? And a Saint-level combatant who can fly?” The eight year old Linley was totally stunned, even after having witnessed the previous day’s amazing battle. Not only him; even Hillman, a warrior of the sixth rank, was totally flabbergasted.
+
+
+score: 0.561049, para: 01 22 20	Doehring Cowart smiled and nodded. “Right. Therefore, the ‘mageforce’ of a magus is extremely important. If he doesn’t have enough mageforce, he will not be able to cast a spell.”
+
+

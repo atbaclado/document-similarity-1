@@ -1,0 +1,30 @@
+source: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.786046, para: 02 24 11	Dixie was nine years old as well, and in fact was actually a month younger than Linley. But this nine year old child had already become a magus of the third rank. Although it became harder and harder to progress in the higher ranks, a nine-year old magus of the third rank was still very astonishing.
+
+
+score: 0.783782, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.751127, para: 02 25 53	“Look, it is Linley. Two years ago, he became a magus of the fourth rank, and just last year, he became a magus of the fifth rank in just one year! Too amazing. I predict that Linley will become a magus of the sixth rank before Dixie does.”
+
+
+score: 0.730195, para: 02 17 56	Right now, Doehring Cowart was chortling happily. “But Linley, you must understand that a magus of the second rank counts for little. Based on our ranking systems, magi of the first and second rank are all considered ‘entry-level magi’. Magi of the third and fourth ranks are considered ‘mid-level magi’, and fifth and sixth ranks are ‘high-level magi’. A magus of the seventh rank is called a ‘senior magus’, a magus of the eighth rank is a ‘master magus’, and a magus of the ninth rank is a ‘arch magus’. These ranks of seven through nine are the highest. The road you have to travel is a long way.”
+
+
+score: 0.725835, para: 01 23 31	“As long as you work hard, Linley, I am fully confident that you can reach the eighth rank. But as to whether or not you can become a magus of the ninth rank, or even a Saint-level magus? That will depend on your own comprehension and your experiences.” Doehring Cowart said seriously. “If you do not work hard, I’m afraid you might not even become a magus of the sixth rank. At that point in time, you’ll have no one else to blame.”
+
+
+score: 0.712346, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+
+score: 0.704128, para: 01 13 48	“If I really want to acquire a magical beast companion, based on my family’s economic situation, I would have to become a magus of the seventh rank first. That’s the only way.” Linley secretly pondered all the possibilities, but he knew very well how difficult this would be.
+
+
+score: 0.698662, para: 02 25 40	In year 9996 of the Yulan calendar, when Linley was fourteen and a half, he reached the rank of a magus of the fifth rank. From the fourth rank to the fifth rank, he only spent a year and a half. It was even faster than when he advanced from the third to the fourth rank.
+
+
+score: 0.696528, para: 01 13 3	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+

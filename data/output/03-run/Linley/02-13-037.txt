@@ -1,0 +1,30 @@
+source: 02 13 37	“Reynolds, don’t just stand there looking silly. Let’s go.” Linley laughed.
+
+
+score: 0.655639, para: 02 12 13	Just from the look on Bebe’s face, Linley knew what was up.
+
+
+score: 0.603387, para: 01 1 96	“How long was I able to hold out?” Linley opened his eyes wide, looking around him.
+
+
+score: 0.589302, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.539119, para: 01 20 22	Seeing Linley constantly glance at the corner of his bed, Uncle Hiri asked curiously, “Young master Linley, why are you staring at the side of your bed? Did you drop something? I can help you look for it.”
+
+
+score: 0.537435, para: 02 3 36	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.536096, para: 01 6 34	“After searching for all this time, I didn’t even find a single valuable item. All I did was cover myself with sweat and dust.” Linley stared at his clothes. They really were filthy, now. Linley couldn’t help but feel discontented.
+
+
+score: 0.532281, para: 01 16 48	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+
+score: 0.525768, para: 01 20 19	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+
+score: 0.518317, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+

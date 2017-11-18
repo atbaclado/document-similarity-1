@@ -1,0 +1,9 @@
+source: 01 16 55	Hogg was in the courtyard, wielding an enormous sword, deflecting one boulder after another. But when he turned his head towards Linley, he saw Linley risk everything to protect Wharton, and then Housekeeper Hiri fly towards them to protect them both. His mind immediately went blank.
+
+
+score: 0.564640, para: 01 20 17	“Creaaak.” The bedroom door swung open, and Housekeeper Hiri stuck his head inside. Seeing that Linley was awake, he couldn’t help but smile. “Young master Linley, I didn’t expect that you would have already awoken. How do you feel, young master?”
+
+
+score: 0.549688, para: 01 17 28	“Young master Linley, you actually lost quite a bit of blood. If you lose too much, you could die.” Housekeeper Hiri immediately retrieved some white gauze from within the warehouse and wrapped it around the injury on Linley’s head.
+
+

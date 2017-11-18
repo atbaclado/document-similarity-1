@@ -1,0 +1,30 @@
+source: 02 3 2	“I am both a warrior of the first rank and a magus of the first rank, but in terms of attack power, my magic is stronger.” Grabbing the wild rabbit, Linley couldn’t help but laugh and sigh.
+
+
+score: 0.740843, para: 02 15 34	But a voice right next to Linley’s ear kept on grumbling. “Nothing more than some promising latter-day youths. This guy is actually bragging about killing a Violet-Tattooed Black Bear? A Saint-level combatant who can only kill ninth level magical beasts and not Saint-level magical beasts can only be considered a newbie Saint-level.”
+
+
+score: 0.730989, para: 02 1 1	“Magical beast ‘Shadowmouse’? Grandpa Doehring, what special qualities does a Shadowmouse possess, and what rank does it have amongst magical beasts?” Linley and Doehring Cowart were mentally communicating, but at the same time, Linley was staring excitedly at him.
+
+
+score: 0.729566, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.717712, para: 02 1 5	“Magical beasts are divided into nine ranks. Magical beasts of the first rank are the weakest. And of course, above the ninth rank are magical beasts at the Saint-level!” Doehring Cowart smiled at Linley. “Linley, the weakest type of Stoneater Rat is the Grey Stoneater Rat. Stoneater Rats of the first to third ranks are all grey in color, with some minor shading differences. A Stoneater Rat, upon reaching the fourth rank, will see its fur turn pure silver. Upon reaching the seventh rank, its fur will turn gold! A gold-colored Stoneater Rat will at least be a magical beast of the seventh rank, and at most a magical beast of the eighth rank.”
+
+
+score: 0.715280, para: 01 8 28	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.708453, para: 02 17 34	“Magi? Perhaps a warrior of the eighth rank would be able to catch the little Shadowmouse, but only a Saint-level magus would be able to do the same.” Linley knew very well how strong the bodies of most magi were.
+
+
+score: 0.694071, para: 02 2 6	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.692035, para: 01 13 3	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+
+score: 0.690719, para: 02 15 16	Yale shook his head. “I’m not even a magus of the first rank yet. Based on my strength, maybe I could train a magical beast of the first or second rank, but what would I do with such a weak critter? And the infants of magical beasts of the seventh or eighth ranks are extremely hard to acquire. What’s more, the infants of those beasts are more powerful than me, even as babies.”
+
+

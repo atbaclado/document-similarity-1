@@ -1,0 +1,15 @@
+source_doc: 1 14	The empty training field immediately settled down. Only the footsteps of Hillman and the other two could be heard.
+
+
+score: 0.669534, para: 1 7	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.638932, para: 2 2	After departing from the back gate of the manor, Linley began to run at a normal pace, and his footsteps began to sound again.
+
+
+score: 0.635978, para: 1 7	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+
+score: 0.621376, para: 1 2	In the blink of an eye, another half year had passed. Training hard and strengthening his body, Linley passed through the gentle, warm spring, the blazing summer, and the chilly autumn. The white poplar tree next to the empty training field of Wushan would always scatter some dried leaves onto the ground whenever the wind blew. The leaves slowly whirled down, covering the entire training ground.
+
+

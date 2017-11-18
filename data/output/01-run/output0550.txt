@@ -1,0 +1,15 @@
+source_doc: 1 13	“As for the second method, it is extremely complicated to set up a soul-binding magical array. Only a magus of the seventh rank, at the very least, could set up such an array.” Hogg said in a composed voice.
+
+
+score: 0.716362, para: 1 12	Only after seeing the magical beast of the seventh rank, the Velocidragon, and its mysterious magus master depart, did Hogg calm down.
+
+
+score: 0.699905, para: 2 6	Hillman was a worldly man, and of course he knew that taming a magical beast was an extremely difficult, extremely arduous matter. But just now, Linley had actually subdued a magical beast.
+
+
+score: 0.687130, para: 2 2	No wonder there was no need for setting up a soul-binding magical formation. This bond was initiated by the magical beast itself. Doehring Cowart continued, “Every single magical beast, upon birth, has the ability to initiate a ‘bond of equals’, but in their entire life, a magical beast may only enter this bond a single time. It isn’t like the soul-binding master-servant relationship, where once the master dissolves the relationship, someone else can use another soul-binding technique to tame the beast again.”
+
+
+score: 0.679387, para: 1 8	Lorry cleared his throat, a look of terror still in his eyes. But he still nodded. “Yes, it is. But it’s a very powerful one, a magical beast of the seventh rank. A Velocidragon!”
+
+

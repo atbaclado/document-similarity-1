@@ -1,0 +1,27 @@
+source: 01 1 48	Hillman turned his head. Staring at the children, he was very satisfied with the children’s reactions.
+
+
+score: 0.684753, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+
+score: 0.522030, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+
+score: 0.519559, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+
+score: 0.516940, para: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+
+score: 0.511906, para: 01 8 47	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.510753, para: 01 14 49	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+
+score: 0.507540, para: 01 2 14	“Good!” Hillman stood ramrod straight as well. His cold gaze was filled with a military aura.
+
+
+score: 0.502828, para: 01 2 12	Hillman stared at the children, and said in a clear voice, “Brats, listen up! You are all men of Wushan town. The men of Wushan town must straighten their chests and welcome any challenges, and accept no fear. Am I understood?”
+
+

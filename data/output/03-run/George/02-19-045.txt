@@ -1,0 +1,30 @@
+source: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+
+
+score: 0.624070, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.620210, para: 02 21 10	Reynolds and George were both calmly smiling as well, and were joking with Linley to the side.
+
+
+score: 0.599096, para: 02 20 15	George had just been yelled at by Rand, so right now, he was in no mood to give Rand any face either. “Rand, let me tell you something. Know your own limits. Many of the experts in our school simply don’t deign to participate in the yearly tournament. Don’t really believe that you are something special.”
+
+
+score: 0.593541, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+
+score: 0.587732, para: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+
+score: 0.572253, para: 02 22 47	George and Linley glanced at each other, and couldn’t help but chuckle bitterly.
+
+
+score: 0.567957, para: 02 20 43	Reynolds and George were also excited. Linley nodded as well as he calmly chuckled, “Someone wants to give us ten thousand gold? How can we refuse?”
+
+
+score: 0.524125, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.507829, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+

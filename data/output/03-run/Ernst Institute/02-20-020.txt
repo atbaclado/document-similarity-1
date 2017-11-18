@@ -1,0 +1,21 @@
+source: 02 20 20	“Number one?” Rand ground out. “Number one isn’t something that is simply proclaimed. It comes through competition. If you have the ability, then come duel with me.” Rand was very confident in his magical ability. After all, he had won the yearly tournament for first graders.”
+
+
+score: 0.566277, para: 02 19 14	The yearly tournament went on for a bit over a month, which naturally was the wildest, most rowdy month each year at the Ernst Institute. During this frenetic period, Linley would only occasionally watch the battles of the fifth and sixth grade students. All of the rest of his time, he would quietly train by himself.
+
+
+score: 0.556634, para: 02 18 13	“The older students all know that our Ernst Institute has a tradition. At the last two months of every year, a yearly tournament will be held. The yearly tournament is always the most noisy, energetic time at the Ernst Institute. The students who achieve victory in the yearly tournament will likely have a higher chance of being rated ‘superior’ upon their graduation. When they graduate, most likely they will be invited by the Four Great Empires.” Instructor Trey laughed.
+
+
+score: 0.533311, para: 02 23 30	Linley tugged Hillman and said, “I won this magicrystal card from a rich kid who lost a magic duel with me. Let’s go to the Golden Bank of the Four Empires.” Right now, the guards at the Ernst Institute’s entrance no longer attempted to bar Hillman’s passage, because they recognized Linley, who had left earlier this morning.
+
+
+score: 0.527539, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.525036, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+
+score: 0.500063, para: 02 14 49	George smiled. “Although the magus academies of the Yulan Empire are very good, they are still a bit weaker than the Ernst Institute. If you’re going to go to school, you should go to the best. Although the journey was a bit long, it could be considered a form of training as well.”
+
+

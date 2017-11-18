@@ -1,0 +1,30 @@
+source: 01 1 47	That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this? And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+
+
+score: 0.643938, para: 01 14 3	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.615287, para: 01 14 30	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.608439, para: 01 5 14	By his side, Hogg laughed. “Philip, stop wasting time with the child. Look, the ‘Fierce Lion’ you have desired for so long has arrived.” As he spoke, Hillman easily carried in the large sculpture into the hall, and then easily set it down.
+
+
+score: 0.606730, para: 01 11 20	Over a hundred meters away, Hillman swallowed hard, his own heart filled with a thread of inescapable fear. “Not only is he a magus of the eighth rank…he is a dual element magus!”
+
+
+score: 0.572745, para: 01 15 18	Suddenly, the enormous Black Dragon let out a furious roar as its two huge wings began to flap vigorously. It emanated a terrifying pressure, causing everyone, Hillman included, to feel their legs grow soft and to feel as though they couldn’t breathe.
+
+
+score: 0.571146, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.569539, para: 01 23 70	“Such speed…I bet even Uncle Hillman, a warrior of the sixth rank, can’t catch it. How can it be so fast?” Seeing the cute mouse move tens of meters in just the blink of an eye, Linley felt astonished.
+
+
+score: 0.567556, para: 01 5 5	“Dear Philip, I am very happy to see you as well. Hillman, quickly go and bring me the stone sculpture, ‘Fierce Lion’. Philip, come, let’s go to the main hall and wait. The sculpture will be here shortly.”
+
+
+score: 0.566677, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+

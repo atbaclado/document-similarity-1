@@ -1,0 +1,15 @@
+source_doc: 1 3	The ancestral heirloom was lost. This humiliation constantly weighed on Hogg’s heart. He felt ashamed and helpless, and unable to face his forefathers.
+
+
+score: 0.778049, para: 2 5	“Our ancestral heirloom. For our ancestral heirloom to be lost to us is a humiliation that must be washed away.” Linley could also feel his heart grow heavy.
+
+
+score: 0.651174, para: 2 5	As a scion of the ancient Dragonblood Warrior clan, he felt proud of his ancient and mighty lineage. But the mighty Dragonblood Warrior clan had lost its own ancestral heirloom. What a humiliation! Hogg and countless elders who had passed away had all felt ashamed whenever they thought about it.
+
+
+score: 0.648395, para: 2 10	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.633082, para: 2 10	An ancient clan which had lasted five thousand years. The Dragonblood Warrior clan. Linley felt pride in his heart. But their ancestral heirloom had been lost.
+
+

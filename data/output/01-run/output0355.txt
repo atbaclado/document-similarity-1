@@ -1,0 +1,14 @@
+source_doc: 1 7	Using the least amount of time possible, Linley washed himself clean, then hurriedly put on his training clothes.
+
+
+score: 0.629449, para: 1 18	Hiri chuckled. “Lord, please be at ease. I’ve already washed and cleaned young master Linley’s wounds, then re-bandaged them. I’ve made him eat a big meal, and then change his clothes and go to bed. By the time he wakes up, he’ll be much better.”
+
+
+score: 0.618736, para: 1 2	In the blink of an eye, another half year had passed. Training hard and strengthening his body, Linley passed through the gentle, warm spring, the blazing summer, and the chilly autumn. The white poplar tree next to the empty training field of Wushan would always scatter some dried leaves onto the ground whenever the wind blew. The leaves slowly whirled down, covering the entire training ground.
+
+
+score: 0.616360, para: 1 1	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.611493, para: 1 6	“How unlucky! My entire body is covered with dust now, and I bet training is about to start. I’d best go take a quick shower and put on some new clothes.” With a wave of his arm, Linley pushed open the door and departed the ancient room.
+

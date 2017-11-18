@@ -1,0 +1,30 @@
+source: 01 2 70	“Linley, have you heard of the legendary Four Supreme Warriors of the Yulan continent?” Turning his head, Hogg looked at Linley.
+
+
+score: 0.700887, para: 01 12 35	“Not bad, not bad,” Hogg said proudly as he looked at Linley. “You really are a scion of our Dragonblood Warrior clan. You have our superior qualities. If a descendant of the Dragonblood Warriors were to be terrified of death, terrified of blood, of slaughter, then it would be an absolute joke.”
+
+
+score: 0.669275, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.642197, para: 01 13 3	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+
+score: 0.619476, para: 02 15 34	But a voice right next to Linley’s ear kept on grumbling. “Nothing more than some promising latter-day youths. This guy is actually bragging about killing a Violet-Tattooed Black Bear? A Saint-level combatant who can only kill ninth level magical beasts and not Saint-level magical beasts can only be considered a newbie Saint-level.”
+
+
+score: 0.618452, para: 02 12 20	“It’s getting late. I’ll need to start warrior training soon.” Linley stood up and grabbed the dead hare as he began heading down the mountain. Doehring Cowart flew by his side, unhappily saying, “Linley, in the future, you will be a magus. Why are you still engaging in warrior training?”
+
+
+score: 0.617666, para: 01 4 17	Linley growled to himself, “I’m stronger than everyone else now, only because of the Dragonblood in my veins. But since I can’t practice battle qi, my only options are to work hard, and to work harder! Since great grandfather was able to become a warrior of the seventh rank, then I shall…I shall become a warrior of the eighth rank. Or even the ninth rank! Nothing is impossible!”
+
+
+score: 0.617226, para: 01 13 17	“But Linley, do you know the reason why powerful warriors and magi enjoy such a long life-span?” Hogg followed with a question.
+
+
+score: 0.616963, para: 02 1 1	“Magical beast ‘Shadowmouse’? Grandpa Doehring, what special qualities does a Shadowmouse possess, and what rank does it have amongst magical beasts?” Linley and Doehring Cowart were mentally communicating, but at the same time, Linley was staring excitedly at him.
+
+
+score: 0.613215, para: 02 21 33	Next to Linley, Doehring Cowart’s eyes lit up and he said to him, “Linley, this brother of yours definitely is extraordinary. Based on how he dismounted and his eyes, I can feel that this Cass is an expert who is a good deal stronger than even your Uncle Hillman. In addition, that hawk on his shoulder should be a magical beast of the seventh rank – the “Blue-eyed Thunderhawk.”
+
+

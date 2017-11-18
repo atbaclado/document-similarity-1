@@ -1,0 +1,15 @@
+source_doc: 1 20	“Creaaak.” The bedroom door swung open, and Housekeeper Hiri stuck his head inside. Seeing that Linley was awake, he couldn’t help but smile. “Young master Linley, I didn’t expect that you would have already awoken. How do you feel, young master?”
+
+
+score: 0.696406, para: 1 16	“Young master-“ Housekeeper Hiri’s eyes immediately turned red. The battle-qi in his body exploded, and like a bolt of red lightning, he flew towards them. Using his own body as a protective barrier, he also used his two hands to push at a huge piece of the falling roof which was going to fall on Linley’s body. Hiri and that collapsing ceiling arrived next to Linley at almost the same time.
+
+
+score: 0.666049, para: 1 17	“Young master Linley, you actually lost quite a bit of blood. If you lose too much, you could die.” Housekeeper Hiri immediately retrieved some white gauze from within the warehouse and wrapped it around the injury on Linley’s head.
+
+
+score: 0.638321, para: 1 18	At this point in time, the Coiling Dragon ring directly fell back onto Linley’s chest, powerless. Linley’s eyelids flickered, and then slowly opened. Upon seeing an old man whom he had never met before at the head of his bed, he couldn’t help but feel shocked. “You…who are you?!”
+
+
+score: 0.633891, para: 2 3	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+

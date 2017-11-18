@@ -1,0 +1,30 @@
+source: 01 5 3	Hogg frowned, placing down the thick tome in front of him. “Linley, today we’ll come to a stop here.” Revealing a wisp of a smile, Hogg turned around and walked towards the guest hall.
+
+
+score: 0.676274, para: 01 4 37	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.652561, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.645455, para: 02 7 8	As they walked on Fragrant Pavilion Road, the primary road of East Fenlai City, Linley felt as though his eyes were dazzled. The litle Shadowmouse Bebe had been instructed by Linley to hide within his clothes, but he also took a sneak peek at the surroundings, and then began to squeak in shared excitement.
+
+
+score: 0.636461, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.635605, para: 01 20 50	Linley grinned at his father, but continued to devour his food with haste. In the twinkling of an eye, he had stripped the leg of mutton of all flesh. Linley let out a comfortable burp, then used the napkin to wipe his lips. Standing, he said, “Father, Uncle Hiri, I’m done eating. I feel like my head is still a bit dizzy, so I’m going to go and get some more rest. Wharton, see ya.” Linley was the first to finish eating.
+
+
+score: 0.628437, para: 02 8 39	The bald elder quivered as he stared at the piece of paper in his hands. It was written clearly on top that Linley was eight years old.
+
+
+score: 0.622966, para: 01 23 62	His ears twitched as he turned and stared towards a far-off building. “I heard something?” He immediately stealthily walked in that direction. His footsteps made almost no sound. Normally, just while walking ordinarily, he could mask his footsteps. Now that he was intentionally trying to hide them, he made even less noise.
+
+
+score: 0.620242, para: 02 12 12	“Woosh!” A black shadow from far away came flashing towards them, appearing on Linley’s shoulders in the blink of an eye. It was the Shadowmouse, ‘Bebe’. Young Bebe leaned towards Linley, making a chewing motion with his mouth, while pointing at a nearby dead hare.
+
+
+score: 0.612586, para: 02 6 4	Just as Linley was walking, he suddenly discovered that his legs had been hugged from behind. Lowering his head, he saw that it was the little Shadowmouse. The little Shadowmouse was standing up on his hind legs, his two forelegs tightly clenched around Linley. He stared at Linley with two quavering, pitiable eyes, as though he were about to cry.
+
+

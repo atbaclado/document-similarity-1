@@ -1,0 +1,30 @@
+source: 01 4 7	Beads of sweat rolled down from Linley’s forehead. The sweat entered Linley’s left eye, and he couldn’t help but wince at the pain.
+
+
+score: 0.723331, para: 01 6 34	“After searching for all this time, I didn’t even find a single valuable item. All I did was cover myself with sweat and dust.” Linley stared at his clothes. They really were filthy, now. Linley couldn’t help but feel discontented.
+
+
+score: 0.643664, para: 01 3 28	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.635816, para: 01 16 32	“Whoosh!” A boulder that must’ve weighed hundreds of pounds shot right past Linley, coming to a crashing rest not too far away from his feet, creating a huge crater. Linley felt cold sweat pour down his back. Just a tiny bit of a difference in trajectory, and his little life would’ve been over.
+
+
+score: 0.612843, para: 02 5 25	“The finest. Oh. The finest!” Little Wharton’s hands were covered in grease from eating, but still beamed as he waved his greasy hands.
+
+
+score: 0.598223, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.597807, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.591413, para: 02 14 4	“Hey, just put it down there. Right. Put the box down there. Put it down carefully. If you break it, there’s no way you can afford to compensate for it!” From within dorm 1987, the clear voice of another youth could be heard. Linley and Reynolds glanced at each other, then entered curiously. Immediately upon entering, they saw several muscular men busily moving things about.
+
+
+score: 0.588363, para: 01 6 44	“How unlucky! My entire body is covered with dust now, and I bet training is about to start. I’d best go take a quick shower and put on some new clothes.” With a wave of his arm, Linley pushed open the door and departed the ancient room.
+
+
+score: 0.583766, para: 01 7 20	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+

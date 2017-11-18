@@ -1,0 +1,20 @@
+source: 02 22 50	“Looks like some of the trainees who went to the Mountain Range of Magical Beasts were wounded. What group is this? We haven’t even been at the Ernst Institute for a year, but we’ve seen so many high level students who were injured outside.” Yale said casually.
+
+score: 0.705258, para: 02 17 29	The mountain behind the Ernst Institute was an extremely wide ranging one. Long, long ago, magical beasts used to live in this mountain, but as time went on, all of the magical beasts were exterminated by the magi of the Institute. By now, there were only a few normal beasts still living here.
+
+score: 0.705258, para: 02 17 29	The mountain behind the Ernst Institute was an extremely wide ranging one. Long, long ago, magical beasts used to live in this mountain, but as time went on, all of the magical beasts were exterminated by the magi of the Institute. By now, there were only a few normal beasts still living here.
+
+score: 0.705258, para: 02 17 29	The mountain behind the Ernst Institute was an extremely wide ranging one. Long, long ago, magical beasts used to live in this mountain, but as time went on, all of the magical beasts were exterminated by the magi of the Institute. By now, there were only a few normal beasts still living here.
+
+score: 0.677242, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+score: 0.677242, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+score: 0.677242, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+score: 0.649024, para: 02 17 26	At the Ernst Institute, there were indeed quite a few people who had magical beasts. Aside from the magi who had been invited to come to the Institute, some fifth and sixth grade students were able to buy soulbinding formation scrolls and had managed to tame some magical beasts to serve as their mounts.
+
+score: 0.649024, para: 02 17 26	At the Ernst Institute, there were indeed quite a few people who had magical beasts. Aside from the magi who had been invited to come to the Institute, some fifth and sixth grade students were able to buy soulbinding formation scrolls and had managed to tame some magical beasts to serve as their mounts.
+
+score: 0.649024, para: 02 17 26	At the Ernst Institute, there were indeed quite a few people who had magical beasts. Aside from the magi who had been invited to come to the Institute, some fifth and sixth grade students were able to buy soulbinding formation scrolls and had managed to tame some magical beasts to serve as their mounts.
+

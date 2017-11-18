@@ -1,0 +1,15 @@
+source_doc: 2 10	“Yes, Lord Hogg,” Hillman and Hiri responded.
+
+
+score: 0.974707, para: 1 12	“Yes, lord Hogg.” Hillman assented.
+
+
+score: 0.669515, para: 2 5	Because Linley, after all, was already a magus of the first rank.
+
+
+score: 0.669515, para: 2 9	Enter the Yulan continent’s number one magus academy, the Ernst Institute? What did that represent?
+
+
+score: 0.628148, para: 1 15	“Captain, Lord Hogg ordered us to come assist you!” Twelve warriors had come flying out of the Baruch clan manor. As soon as they saw Hillman, they shouted at him.
+
+

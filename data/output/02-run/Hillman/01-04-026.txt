@@ -1,0 +1,20 @@
+source: 01 4 26	Hillman, off to the side, nodded with satisfaction.
+
+score: 0.768843, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+score: 0.768843, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+score: 0.768843, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+score: 0.702399, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+score: 0.702399, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+score: 0.702399, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+score: 0.702399, para: 01 12 11	“It definitely is worth celebrating,” Hillman nodded and laughed as well.
+
+score: 0.573868, para: 02 7 18	“This is heaven for rich people or people with status.” Hillman nodded and sighed.
+
+score: 0.573868, para: 02 7 18	“This is heaven for rich people or people with status.” Hillman nodded and sighed.
+

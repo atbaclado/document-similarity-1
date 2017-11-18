@@ -1,0 +1,30 @@
+source: 01 17 13	Housekeeper Hiri said from off to the side, “I was still a little too slow. There was one piece of rubble that I managed to block, but before it struck young master Linley in the head. Although I believe that the strike shouldn’t have been too heavy.”
+
+
+score: 0.626388, para: 01 6 10	“If I am able to find some valuable things and give them to father, no doubt he will be very happy.” Linley took a deep breath, then immediately entered a decrepit room next to the ancestral hall. Step by step, he walked carefully, wielding a sturdy wooden stick in his hands, which he used to strike down the cobwebs, allowing himself a more careful examination.
+
+
+score: 0.624793, para: 01 7 3	“Just now, I searched the ground and didn’t see a single rock. This must have come from the shattered drawers.” Thinking about the collapsed drawers, Linley couldn’t help but feel angry, and he viciously stomped on the piece of ‘shattered wood’ beneath his feet.
+
+
+score: 0.576314, para: 01 14 18	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+
+score: 0.573764, para: 01 11 30	“Just then…just then, was he the one who cast the ‘Dance of the Fire Serpents’?” Linley really found it a little hard to believe. A person who seemed a full size smaller than Uncle Hillman was actually able to cast such an apocalyptic spell.
+
+
+score: 0.571339, para: 01 6 36	“Hmph. I’m leaving.” Linley angrily used the stick in his hand to strike hard against a nearby cabinet, as though he wanted to give vent to all the anger which had built up over an hour of fruitless searching.
+
+
+score: 0.553581, para: 01 20 17	“Creaaak.” The bedroom door swung open, and Housekeeper Hiri stuck his head inside. Seeing that Linley was awake, he couldn’t help but smile. “Young master Linley, I didn’t expect that you would have already awoken. How do you feel, young master?”
+
+
+score: 0.552258, para: 01 16 58	Right now, there was no way for Hogg to tell if Hiri had managed to position himself in front of Linley in time, or if the falling rocks had slammed into Linley first.
+
+
+score: 0.552006, para: 02 3 23	Some of the stones still showed signs of being chewed on, but despite scanning inside the entire building, he couldn’t see even the shadow of the Shadowmouse. Linley couldn’t help but feel despondent and miserable. “Grandpa Doehring, the Shadowmouse isn’t here anymore. It was just an hour. Did it leave already?”
+
+
+score: 0.548932, para: 02 25 29	Linley let out a soft breath and brushed away some small pieces of excess stone still remaining. The entire statue had taken shape. A half-meter long lively-looking mouse stood in front of Linley. At a glance, one might mistake it for a real mouse. This caused the little Shadowmouse, Bebe, to begin squeaking wildly.
+
+

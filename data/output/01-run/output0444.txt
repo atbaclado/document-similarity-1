@@ -1,0 +1,15 @@
+source_doc: 1 11	Over a hundred meters away, Hillman swallowed hard, his own heart filled with a thread of inescapable fear. “Not only is he a magus of the eighth rank…he is a dual element magus!”
+
+
+score: 0.643592, para: 1 1	In their hearts, they were filled with veneration towards Hillman. Hillman, a mighty warrior of the sixth rank, a warrior birthed from life and death struggles! Even in large cities, he would be an amazing individual. In the tiny town of Wushan, he was a man who every single person venerated.
+
+
+score: 0.642295, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.630339, para: 1 19	Linley felt as though his entire mind had been turned muddy. This old grandpa had suddenly appeared out of nowhere, and claimed that he was a Grand Magus from the era of the Pouant Empire, which had been destroyed five thousand years ago. What could be more ridiculous than this?
+
+
+score: 0.621008, para: 1 1	That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this? And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+
+

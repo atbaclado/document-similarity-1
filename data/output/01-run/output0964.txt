@@ -1,0 +1,15 @@
+source_doc: 2 1	Doehring Cowart was recalling a catastrophe he had witnessed long ago.
+
+
+score: 0.505914, para: 1 10	That sudden display was simply too bloody. Even a fully grown adult, when faced with such a terrifying scene for the first time, would be panicked. Linley was just an eight year old child.
+
+
+score: 0.488424, para: 2 3	Only Doehring Cowart was aware of this all, as he watched Linley mature.
+
+
+score: 0.481099, para: 2 8	Doehring Cowart watched with interest from the side.
+
+
+score: 0.476694, para: 1 17	Hogg’s body trembled. Only then did he regain his usual faculties. “Linley.” Hogg charged violently towards the warehouse at an astonishing speed. Seeing this, Hillman guessed what had happened and immediately followed Hogg.
+
+

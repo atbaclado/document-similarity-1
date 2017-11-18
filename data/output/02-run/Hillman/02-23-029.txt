@@ -1,0 +1,20 @@
+source: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+score: 0.663805, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+score: 0.663805, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+score: 0.663805, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+score: 0.637163, para: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+score: 0.637163, para: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+score: 0.637163, para: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+score: 0.637163, para: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+score: 0.617193, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+score: 0.617193, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+

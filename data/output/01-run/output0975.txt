@@ -1,0 +1,15 @@
+source_doc: 2 1	“It moved really fast, tens of meters in the blink of an eye. But since it is a Shadowmouse, I guess that isn’t out of the ordinary.” Linley still remembered its earlier movements clearly.
+
+
+score: 0.747975, para: 1 23	“Such speed…I bet even Uncle Hillman, a warrior of the sixth rank, can’t catch it. How can it be so fast?” Seeing the cute mouse move tens of meters in just the blink of an eye, Linley felt astonished.
+
+
+score: 0.692608, para: 2 3	The black Shadowmouse immediately moved and in the blink of an eye, appeared over ten meters away. His two guileless eyes stared towards the doorway, and he immediately saw Linley. His eyes were filled with caution.
+
+
+score: 0.675109, para: 2 4	As time passed, the little Shadowmouse, which had not known much love from others, began to fear Linley less and less. By the eighth day, when Linley put down the rabbit, he moved away only two steps, and that little Shadowmouse still immediately ran over to eat, and even squeaked twice at Linley.
+
+
+score: 0.662558, para: 2 6	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+

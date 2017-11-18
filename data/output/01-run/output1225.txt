@@ -1,0 +1,15 @@
+source_doc: 2 6	“Is this..can this be?” Linley had a wild guess in his heart.
+
+
+score: 0.702672, para: 2 3	The next afternoon, Linley killed another wild hare as well as a wild chicken. He gave the wild hare to Uncle Hiri to prepare for dinner, and then tossed the wild chicken in the exact same location as he had tossed the hare; at the doorway to that courtyard.
+
+
+score: 0.701757, para: 2 3	None of the people of Mt. Wushan found it strange for Linley to be running home with a wild hare in hand. In truth, ever since Linley had learned the ‘Earth Spike’ spell, he often brought wild hares home.
+
+
+score: 0.687484, para: 2 10	“Lord Hogg, Linley really did tame this Shadowmouse. I personally witnessed it. This little Shadowmouse is also the reason why in recent days, Linley has often caught wild animals to feed to the ‘adorable pet’ he had behind the back courtyard.” Hillman explained.
+
+
+score: 0.658962, para: 2 2	Even a very cautious wild rabbit wasn’t able to detect Linley in the slightest.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 3	“I am both a warrior of the first rank and a magus of the first rank, but in terms of attack power, my magic is stronger.” Grabbing the wild rabbit, Linley couldn’t help but laugh and sigh.
+
+
+score: 0.731561, para: 1 13	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+
+score: 0.730838, para: 2 1	“Magical beast ‘Shadowmouse’? Grandpa Doehring, what special qualities does a Shadowmouse possess, and what rank does it have amongst magical beasts?” Linley and Doehring Cowart were mentally communicating, but at the same time, Linley was staring excitedly at him.
+
+
+score: 0.717806, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.716677, para: 2 1	“Magical beasts are divided into nine ranks. Magical beasts of the first rank are the weakest. And of course, above the ninth rank are magical beasts at the Saint-level!” Doehring Cowart smiled at Linley. “Linley, the weakest type of Stoneater Rat is the Grey Stoneater Rat. Stoneater Rats of the first to third ranks are all grey in color, with some minor shading differences. A Stoneater Rat, upon reaching the fourth rank, will see its fur turn pure silver. Upon reaching the seventh rank, its fur will turn gold! A gold-colored Stoneater Rat will at least be a magical beast of the seventh rank, and at most a magical beast of the eighth rank.”
+
+

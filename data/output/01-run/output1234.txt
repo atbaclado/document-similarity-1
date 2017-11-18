@@ -1,0 +1,15 @@
+source_doc: 2 6	Linley stared at the little Shadowmouse.
+
+
+score: 0.805104, para: 2 10	Linley stared at his father. From as far back as he could remember, he had never seen his father so happy.
+
+
+score: 0.791886, para: 1 23	“A magical beast? Shadowmouse? It is so big! How can it be an infant?” Linley stared at Doehring Cowart in surprise.
+
+
+score: 0.784317, para: 1 1	All of the children stared worshipfully at Hillman.
+
+
+score: 0.781798, para: 1 2	“What, did I do it wrong? I really wiped them clean.” In little Wharton’s tiny head, his eyes were filled with an uncomprehending look as he stared at his big brother.
+
+

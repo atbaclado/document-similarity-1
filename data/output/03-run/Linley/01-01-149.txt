@@ -1,0 +1,30 @@
+source: 01 1 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+
+score: 0.644824, para: 02 7 24	“Linley, get an early night’s rest. Tomorrow morning, you will participate in the magus assessment and recruitment event.” Hillman instructed.
+
+
+score: 0.620350, para: 02 2 34	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.617768, para: 02 12 25	The real reason that Linley continued his fighter training was this. “In the future, if I have the chance to drink fresh dragon’s blood, I will be able to practice according to the Secret Dragonblood Training Tome. I have to keep up my physical training. The body is like a vessel, while battle-qi is like wine. The body is extremely important. The earlier I begin building my fundamentals, the faster my improvement will be when I study the Secret Dragonblood Training Tome in the future.”
+
+
+score: 0.568545, para: 02 25 17	Linley continued to be a solitary figure at the Ernst Institute. The vast majority of his time each day was spend in arduous training at the back mountains.
+
+
+score: 0.567042, para: 01 5 38	“Father, I want to learn to be a sculptor!” Linley suddenly said.
+
+
+score: 0.557539, para: 01 23 43	Every day, Linley would spend only six hours sleeping. All of his other time was spent in physical training, intellectual studies, magical instruction, and meditation. Six hours of sleep a day, frankly speaking, was simply not enough. In truth, entering the meditative state was extremely taxing, far more tiring than most people’s lives. Every day, Linley entered a very deep sleep for those six hours.
+
+
+score: 0.555868, para: 02 16 3	But since the majority of students were single element, they only had to take two hours of classes a day. Linley was dual-element, which meant each day he had just four hours of classes. But because these classes were on a voluntary basis, if you didn’t want to go, no one would force you.
+
+
+score: 0.552423, para: 01 7 23	Using the least amount of time possible, Linley washed himself clean, then hurriedly put on his training clothes.
+
+
+score: 0.546248, para: 02 3 55	These acitivities continued. Day after day, Linley continued to undergo meditative training while preparing wild rabbits and other animals for the little Shadowmouse to eat. Nobody in the entire Wushan township, including Hogg and Hillman, knew that Linley was learning magic. Similarly, none of them knew that Linley was taking care of a juvenile magical beast that already possessed power of the fourth rank!
+
+

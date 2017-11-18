@@ -1,0 +1,15 @@
+source_doc: 1 3	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.749771, para: 2 4	Linley tentatively stretched his hand out and placed it on the little Shadowmouse’s head. The little Shadowmouse didn’t dodge in the slightest. Instead, it contentedly half-closed its eyes. Linley immediately felt more confident, and began to stroke his fur, causing the Shadowmouse to feel so comfortable that it began to snore.
+
+
+score: 0.726025, para: 1 1	Linley gritted his teeth. He could clearly feel that the tightness in his waist had already reached the limits of his endurance, to the point where it was almost going numb. “My body feels so heavy. I’m almost unable to control it. Hold, gotta hold for just a bit more.” By this point in time, of the six to eight year olds, only Linley remained.
+
+
+score: 0.721069, para: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.714241, para: 1 16	“Whoosh!” A boulder that must’ve weighed hundreds of pounds shot right past Linley, coming to a crashing rest not too far away from his feet, creating a huge crater. Linley felt cold sweat pour down his back. Just a tiny bit of a difference in trajectory, and his little life would’ve been over.
+
+

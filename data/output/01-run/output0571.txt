@@ -1,0 +1,15 @@
+source_doc: 1 14	Those thirteen and fourteen year olds were more mature as well. They knew that Linley was a noble and not like them. Almost all of them addressed him as ‘young master Linley’. Only Hadley and the rest of the rascally seven and eight year olds still continued to directly address him as ‘Linley’, without regard for propriety.
+
+
+score: 0.703348, para: 1 1	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+
+score: 0.693776, para: 1 2	A hundred and twenty six children, all age seventeen, respectfully bowed towards Hillman. These youngsters normally did not attend training. They had all become adults, and had their own jobs to do. But since they had all been trained by Hillman since they were toddlers, they all considered Hillman to have been their benevolent master.
+
+
+score: 0.661170, para: 2 8	Linley then accepted the ten gold coins and headed towards the line. The youths there ranged in age from six or seven years old to seventeen years old. These children organized themselves into two long lines, while the cathedral pursers collected the fees from each of them.
+
+
+score: 0.651760, para: 1 4	“Ley is really amazing. Just eight years old, but he’s able to match the thirteen year olds in doing the ‘Static Tension’ exercise.” Some of the children who had already given up were sprawled on the ground, chatting as they watched Linley.
+
+

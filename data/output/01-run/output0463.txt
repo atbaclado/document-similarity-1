@@ -1,0 +1,15 @@
+source_doc: 1 11	At this point, Hogg had no choice but to stiffen his spine and step forward. He respectfully said, “Mighty lord magus, I am the leader of Wushan town.”
+
+
+score: 0.575390, para: 1 19	He, too, would step on top of the head of a Black Dragon and make the heavens tremble.
+
+
+score: 0.572118, para: 2 4	Linley’s heart began to beat faster. If he could one day step atop the head of a dragon and control cataclysmic power, if he too could feel the power of standing at the very pinnacle of mankind, that must be an amazing feeling. When he thought of this, Linley felt his blood begin to boil.
+
+
+score: 0.556427, para: 1 12	“Yes, lord Hogg.” Hillman assented.
+
+
+score: 0.555979, para: 1 12	Hillman nodded as well. “I was absolutely terrified. When I saw that magical beast of the seventh rank, the Velocidragon, and that mysterious magus, I knew that Wushan township didn’t have the slightest ability to fight back in any way. If such an exalted personage as a magus of the eighth rank decided to destroy our town on a whim, I doubt anyone would dare to criticize him, much less sanction or punish him.”
+
+

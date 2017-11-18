@@ -1,0 +1,15 @@
+source_doc: 1 16	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+
+score: 0.780121, para: 1 15	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.766625, para: 1 15	“Quick, let’s move. Don’t stand there in a daze, move!” Hillman shouted loudly while shoving some children away.
+
+
+score: 0.722119, para: 1 15	“All of you, go home! Go home and hide! Protect yourselves!” Hillman shouted again in a loud voice.
+
+
+score: 0.720045, para: 2 9	“Squeaaaaak!” After exiting the cathedral, the little Shadowmouse shouted out, sensing Linley’s excitement.
+
+

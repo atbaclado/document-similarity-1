@@ -1,0 +1,15 @@
+source_doc: 1 17	“I…I’m fine.” A low, hoarse voice. Linley forced himself to lift up his head and stare at Hogg, managing a weak smile.
+
+
+score: 0.644446, para: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.626229, para: 1 14	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+
+score: 0.621638, para: 1 8	Hillman helplessly shook his head. He knew how stubborn Linley could be, and how hard it was to force him to change his mind. “Fine. Then stay behind me, do not go too far. As long as you stay next to me, I am confident that I can protect you.”
+
+
+score: 0.619964, para: 1 2	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+

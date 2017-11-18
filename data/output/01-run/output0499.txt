@@ -1,0 +1,15 @@
+source_doc: 1 12	“That Velocidragon caused such a stir. How could I not? As soon as the Velocidragon arrived at Wushan township, I came out as well, but I was off to a different side. I could clearly see the expressions on your face and on Hillman’s,” Hogg nodded.
+
+
+score: 0.647163, para: 2 7	Linley and Hillman had arrived here as well.
+
+
+score: 0.618722, para: 2 7	“Grandpa Doehring.” Linley immediately greeted him.
+
+
+score: 0.595431, para: 1 1	After a short period of time, the stunned children returned to their homes. Hillman, Roger, and Lorry were the last to leave. Watching the children depart in clusters of three or five, a smile appeared on Hillman’s face.
+
+
+score: 0.592682, para: 2 5	Linley didn’t think about it anymore, and immediately followed Uncle Hillman as they departed from the manor.
+
+

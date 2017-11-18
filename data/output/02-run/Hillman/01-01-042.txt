@@ -1,0 +1,20 @@
+source: 01 1 42	The bluestone boulder trembled. Suddenly, six or seven giant cracks appeared on it, as with a ‘peng’ sound, it split into four or five pieces. But on Hillman’s fist, not the slightest injury could be seen.
+
+score: 0.989758, para: 01 45 42	The bluestone boulder trembled. Suddenly, six or seven giant cracks appeared on it, as with a ‘peng’ sound, it split into four or five pieces. But on Hillman’s fist, not the slightest injury could be seen.
+
+score: 0.989758, para: 01 45 42	The bluestone boulder trembled. Suddenly, six or seven giant cracks appeared on it, as with a ‘peng’ sound, it split into four or five pieces. But on Hillman’s fist, not the slightest injury could be seen.
+
+score: 0.989758, para: 01 45 42	The bluestone boulder trembled. Suddenly, six or seven giant cracks appeared on it, as with a ‘peng’ sound, it split into four or five pieces. But on Hillman’s fist, not the slightest injury could be seen.
+
+score: 0.668570, para: 01 51 47	That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this? And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+
+score: 0.668570, para: 01 51 47	That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this? And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+
+score: 0.668570, para: 01 51 47	That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this? And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+
+score: 0.657681, para: 01 38 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+score: 0.657681, para: 01 38 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+
+score: 0.657681, para: 01 38 37	“Too light! Lorry (Luo’rui), if you have some free time after training, go and get some larger boulders for me.” With a casual toss, Hillman sent the boulder flying several dozen meters. Crash! It smote the ground next to a large tree, and the entire ground trembled. Hillman casually walked in front of some random stones.
+

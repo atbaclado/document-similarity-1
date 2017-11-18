@@ -1,0 +1,15 @@
+source_doc: 1 10	Linley really was intelligent. He had read many books, and knew what path he had embarked on for the future.
+
+
+score: 0.752772, para: 1 11	Linley knew the path that he would take in the future.
+
+
+score: 0.598947, para: 1 22	He could feel himself embarking on a new path.
+
+
+score: 0.549838, para: 1 2	Exiting the guest hall, Hogg, Linley, and Uncle Hiri, who still held Wharton, followed the blue stone path towards the back manor.
+
+
+score: 0.533872, para: 1 13	He had read of this in his books as well.
+
+

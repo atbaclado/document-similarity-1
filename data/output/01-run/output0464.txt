@@ -1,0 +1,15 @@
+source_doc: 1 11	“Oh.” The mysterious magus’ face was still covered by his violet robes, preventing anyone from seeing his face. He lightly said, “Your town suffered some serious damages today. I annihilated this small adventuring party. On their bodies, there is sure to be a good amount of gold coins. The gold coins, no doubt, have been melted and reforged by my ‘Dance of the Fire Serpents’, but they are still worth some money. Just consider them yours, as my recompense for what Wushan town just went through.”
+
+
+score: 0.791606, para: 1 12	“Uncle Hiri.” Hogg immediately turned to look at his housetaker Hiri. “Immediately order some people to recover all of the melted gold from within those piles of ashes. This adventuring party was quite extraordinary as well. No doubt, they had a great deal of wealth on them. I hope they had enough to recompense the losses we have suffered today”
+
+
+score: 0.653547, para: 1 21	Linley suddenly remembered the two Saint-level combatants who were fighting in the sky. He remembered how the green-robed man had landed that huge hazy sword-tip attack on the gray-robed man, whose robe shattered and revealed a diamond-like armor beneath it.
+
+
+score: 0.648597, para: 1 3	“Baruch, the very first Dragonblood Warrior of the Yulan continent. In the year 4560 of the Yulan calendar, outside the walls of the city of Linnan, Baruch did battle against a Black Dragon and a Titanic Frost Wyrm. In the end, he slew both the Titanic Frost Wyrm and the Black Dragon, causing his fame to be spread across the world. In the year 4579 of the Yulan calendar, along the coastline of the northern sea of the continent, Baruch did battle against a Nine-Headed Serpent Emperor. On that day, the waves crashed unceasingly and nearby cities crumbled, but after a vicious fight lasting a full day and night, Baruch finally executed the Nine-Headed Serpent Emperor….finally, Baruch founded the Baruch clan, and became the first leader of the Baruch clan!”
+
+
+score: 0.646836, para: 1 15	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+

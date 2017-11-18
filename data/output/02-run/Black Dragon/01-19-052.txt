@@ -1,0 +1,20 @@
+source: 01 19 52	He, too, would step on top of the head of a Black Dragon and make the heavens tremble.
+
+score: 0.677948, para: 01 18 6	“Dillon, you’d best just hand it over. The World Protector that I summoned isn’t something that you can overcome.” The gray-robed man riding the Black Dragon said calmly.
+
+score: 0.677948, para: 01 18 6	“Dillon, you’d best just hand it over. The World Protector that I summoned isn’t something that you can overcome.” The gray-robed man riding the Black Dragon said calmly.
+
+score: 0.677948, para: 01 18 6	“Dillon, you’d best just hand it over. The World Protector that I summoned isn’t something that you can overcome.” The gray-robed man riding the Black Dragon said calmly.
+
+score: 0.677948, para: 01 18 6	“Dillon, you’d best just hand it over. The World Protector that I summoned isn’t something that you can overcome.” The gray-robed man riding the Black Dragon said calmly.
+
+score: 0.652962, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.652962, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.652962, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.652962, para: 01 15 4	On top of the head of the Black Dragon, a gray-robed man stood, arrogant in demeanor. The wind howled about him, but although the man’s gray robes fluttered a bit, he himself maintained a ramrod straight posture, as though he were a carved sculpture. His gaze was focused on a middle-aged, green-robed man who hovered in the middle of the air in front of him. The green-robed man wore a sword behind his back.
+
+score: 0.643826, para: 01 18 7	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+

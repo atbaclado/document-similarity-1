@@ -1,0 +1,15 @@
+source_doc: 1 1	“Remember, focus your concentration, maintain a calm mind, and breath naturally!” Hillman said coldly as he walked amidst the children.
+
+
+score: 0.707678, para: 1 22	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+
+score: 0.697237, para: 2 2	Linley’s calm mind immediately grew agitated again, and he turned to look at Doehring Cowart with shining eyes.
+
+
+score: 0.655028, para: 2 8	“Grandpa Doehring.” Seeing Doehring Cowart, Linley felt himself calm down.
+
+
+score: 0.653827, para: 2 7	With a calm smile, Linley sat down on the bed and entered the meditative trance, beginning to gather energy.
+
+

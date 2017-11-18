@@ -1,0 +1,14 @@
+source_doc: 1 22	Seeing Linley in a meditative state, Doehring Cowart let out a faint smile, then waved his hand.
+
+
+score: 0.620705, para: 2 7	With a calm smile, Linley sat down on the bed and entered the meditative trance, beginning to gather energy.
+
+
+score: 0.611943, para: 1 20	“Big brother, see ya.” Chubby little Wharton waved at Linley with a grease-covered hand.
+
+score: 0.607466, para: 1 23	After awakening from the meditative state, Linley felt as though he was full of energy, totally different from before. Even while fully awake, Linley felt as though he could still sense some of the oscillations from the nearby earth essences, even though he couldn’t sense them as clearly as when he was in the meditative state.
+
+
+score: 0.590665, para: 2 6	Linley placed the little Shadowmouse on the floor, then waved his hand at it. “Go back.” And then he pointed to the road. “I’m going that way. To the capital.”
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 23	Due to his daily physical training exercises, Linley’s body was growing sturdier and sturdier. Because he often entered the meditative state and absorbed earth essence, Linley became calmer and more tranquil. Linley’s transformation caused his father Hogg and Hillman to both be amazed and overjoyed.
+
+
+score: 0.704238, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.699883, para: 2 2	A vigorous, nimble shadow could be seen piercing through the mountain forests. Linley ran silently but nimbly and fast. After having absorbed earth essence for half a year, Linley didn’t just possess mageforce; his physical strength had been raised as well.
+
+
+score: 0.694129, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.691901, para: 1 13	“The reason why powerful magi can live so long is because when magi absorb natural elemental energy into their body to generate pure mageforce, when the elemental energy flows through their body, it will naturally refine their apertures, their joints, and their flesh, making their bodies stronger and stronger. With a stronger body, naturally they will live longer. By the same logic, when warriors cultivate their battle-qi, they also absorb natural energy, which flows through their body and strengthens it. The more powerful a warrior is, the stronger his body will be. Naturally, he will live a long life.” Hogg explained everything in detail.
+
+

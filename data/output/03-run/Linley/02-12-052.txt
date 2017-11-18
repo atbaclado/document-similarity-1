@@ -1,0 +1,30 @@
+source: 02 12 52	Yulan calendar, year 9991. The nine year old Linley, accompanied by the young Shadowmouse, ‘Bebe’, and the Baruch clan’s guard captain, Hillman, departed from Wushan township.
+
+
+score: 0.642083, para: 02 5 53	Linley didn’t think about it anymore, and immediately followed Uncle Hillman as they departed from the manor.
+
+
+score: 0.563189, para: 01 1 7	The leader’s name was Hillman (Xi’er’man). He was the captain of the guard for the Baruch (Ba’lu’ke) clan, the noble clan which owned Wushan town.
+
+
+score: 0.550951, para: 01 4 29	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.541361, para: 02 7 29	“Grandpa Doehring.” Linley immediately greeted him.
+
+
+score: 0.534423, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+
+score: 0.526121, para: 02 7 54	Linley and Hillman had arrived here as well.
+
+
+score: 0.525251, para: 01 2 58	Exiting the guest hall, Hogg, Linley, and Uncle Hiri, who still held Wharton, followed the blue stone path towards the back manor.
+
+
+score: 0.517317, para: 02 9 49	Watched by a crowd of nobles, commoners, and church officials, Linley and Hillman departed the cathedral.
+
+
+score: 0.516995, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+

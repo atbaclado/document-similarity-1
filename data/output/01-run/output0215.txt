@@ -1,0 +1,15 @@
+source_doc: 1 4	A very simple yet very effective training exercise. If a person could reach the level of being able to maintain this pose for an hour, then his body would no longer fear ordinary swords or sabres.
+
+
+score: 0.688348, para: 1 22	Smiling, Doehring Cowart nodded. “Right. To cast a spell, your body must be able to provide a sufficient amount of mageforce, and then use mental energy to control that mageforce to summon sufficient elemental essence to form it into a spell!”
+
+
+score: 0.679438, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.674992, para: 1 1	And Hillman really was a formidable warrior. He knew the important parts of training, and also knew how to increase the difficulty one step at a time. He knew what sort of tools to use with what ages. If it was too hard, it could make a child’s body collapse.
+
+
+score: 0.664549, para: 1 12	Linley felt a thread of desire in his heart. “Although I am a member of the Dragonblood Warriors clan, the density of Dragonblood in my veins is too low. The fact that anyone with Dragonblood is totally unable to utilize any other battle-qi cultivating methods is something which will hold back my ability to develop my warrior abilities to the maximum. I wonder if it would be possible for me to be a magus, instead.”
+
+

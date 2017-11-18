@@ -1,0 +1,14 @@
+source_doc: 1 7	Linley widened his eyes and stared east…
+
+score: 0.880033, para: 1 3	Linley widened his eyes and began to read.
+
+
+score: 0.796170, para: 1 6	He stared up at the sky.
+
+
+score: 0.780281, para: 2 2	In scant seconds, Linley finished his incantation, and his eyes lit up as he stared at the hare.
+
+
+score: 0.767048, para: 1 5	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 9	Even the nearby nobles began to look at Linley with a new light in their eyes. For a person to have exceptional elemental affinity meant that they could generate mageforce in an extremely short period of time. The rest of the time could be spent on cultivating spiritual energy. His future prospects would therefore be unlimited.
+
+
+score: 0.719577, para: 2 8	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+
+
+score: 0.713106, para: 1 21	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+
+score: 0.709416, para: 1 23	“But naturally, elemental affinity is just one part. Spiritual energy is the most important of all! After all, given enough time, mageforce will naturally strengthen. But it’s extremely difficult to improve the spiritual energy of a magus.” Doehring Cowart said solemnly.
+
+
+score: 0.705744, para: 1 22	“Right, a large amount of mageforce and elemental essence, when controlled by spiritual energy, can be formed into a spell! Sometimes, in order to execute a particularly powerful spell, too high of a demand is placed upon one’s spiritual energy. Thus, the assistance of magical incantations is needed.” Doehring Cowart smiled as he spoke.
+
+

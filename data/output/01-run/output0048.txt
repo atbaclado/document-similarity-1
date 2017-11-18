@@ -1,0 +1,15 @@
+source_doc: 1 1	Staring at Linley, Hillman couldn’t help but be filled with surprise and joy.
+
+
+score: 0.748404, para: 1 15	Hillman’s face was filled with urgency.
+
+
+score: 0.672441, para: 1 22	Linley couldn’t help but frown.
+
+
+score: 0.657248, para: 2 6	Hillman, who only knew an inkling about magic, couldn’t help but feel shock and fear.
+
+
+score: 0.654549, para: 2 4	Linley couldn’t help but be moved.
+
+

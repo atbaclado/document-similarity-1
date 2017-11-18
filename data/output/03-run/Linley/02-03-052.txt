@@ -1,0 +1,30 @@
+source: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.747527, para: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+
+score: 0.706709, para: 02 7 22	Linley and Hillman were staying in the same room. There were two beds in this room. Immediately upon entering, the little Shadowmouse, Bebe, leapt out from within Linley’s clothes and immediately began circling around Linley while squeaking loudly.
+
+
+score: 0.698345, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+
+score: 0.681709, para: 01 20 23	“No-, nothing.” Linley immediately crawled out of bed. “Uncle Hiri, let’s go eat dinner.”
+
+
+score: 0.681419, para: 02 6 24	Hillman wasn’t even given enough time to react. That blur suddenly landed next to Linley’s legs, and immediately chomped down on Linley’s right leg.
+
+
+score: 0.679966, para: 02 6 1	The little Shadowmouse had previously watched Linley go hunting rabbits in the mountain, but this time, Linley wasn’t headed for the mountain. He was headed off in a totally different direction, traveling on a road. The little Shadowmouse immediately panicked.
+
+
+score: 0.675889, para: 01 7 20	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.674981, para: 02 4 7	“Squeak, squeak!” The little Shadowmouse immediately ran up to Linley, and began hopping up and down while squeaking at him.
+
+
+score: 0.673958, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+

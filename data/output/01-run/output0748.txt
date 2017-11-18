@@ -1,0 +1,15 @@
+source_doc: 1 19	“Then Gramps, how is it that you appeared from within the ring just now?” Linley looked doubtfully at the old man.
+
+
+score: 0.742762, para: 1 13	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.730329, para: 2 1	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+
+score: 0.708203, para: 1 12	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+
+score: 0.698479, para: 1 7	“Oh, a ring?” Linley’s eyes were bandit-sharp. He happily plucked the ring up, then used his filthy sleeves to give the black ring a vigorous rub-down. Only then could Linley make out what this item really looked like.
+
+

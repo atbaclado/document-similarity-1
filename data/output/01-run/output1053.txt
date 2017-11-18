@@ -1,0 +1,15 @@
+source_doc: 2 3	“Um, no, I haven’t.” Doehring Cowart was forced to admit.
+
+
+score: 0.695683, para: 1 20	Linley immediately forced out a smile. Nodding, he said, “Thank you for asking, Uncle Hiri. I’m much better now.”
+
+
+score: 0.670859, para: 2 1	Linley was startled.
+
+
+score: 0.670859, para: 2 2	Linley now understood.
+
+
+score: 0.670859, para: 2 2	Linley nodded.
+
+

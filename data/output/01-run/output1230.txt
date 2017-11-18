@@ -1,0 +1,15 @@
+source_doc: 2 6	“I’m fine. I’m wonderful!” Linley could feel his spirit and the little Shadowmouse’s spirit interlinking.
+
+
+score: 0.692646, para: 1 3	“You don’t believe me?” A trace of arrogance could be seen on Hogg’s face. “Linley, go up and take a close look at those spirit tablets. By now, you can read all the words on them. On the back of every single spirit tablet is the history of those departed forefathers. The three spirit tablets at the very top, are three who are Dragonblood Warriors!”
+
+
+score: 0.669655, para: 2 1	Linley couldn’t help but feel a bit disappointed.
+
+
+score: 0.668518, para: 1 22	“If he still can’t sense any earth essence around him even under these conditions, then there’s no hope for him at all.” Doehring Cowart said to himself.
+
+
+score: 0.643169, para: 2 8	“Afterwards, whenever I trained, I only sensed earth elemental essence nearby. I didn’t think about those green specks of light.” Linley was feeling extremely happy as well.
+
+

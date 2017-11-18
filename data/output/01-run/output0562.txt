@@ -1,0 +1,15 @@
+source_doc: 1 14	“Hadley, yesterday you were with us on the east side as well. You didn’t dare go over. How could you see all this?” A thirteen year old brown-haired child snorted.
+
+
+score: 0.684642, para: 1 4	After morning exercises ended, Linley bid farewell to his group of friends and went towards the Baruch clan manor. If a stranger had seen him, the eight year old Linley surely would have been assumed to be eleven or twelve years old, and not just a mere child of eight.
+
+
+score: 0.674296, para: 1 21	Linley didn’t dare to even breathe.
+
+
+score: 0.642596, para: 2 11	“Linley, don’t ask too much. Honestly, I only know a little bit about our family history as well. As far as what happened four thousand years ago, there’s no way we can clearly know what happened.” Hogg laughed towards Linley.
+
+
+score: 0.641586, para: 2 1	“To be so powerful when still so young, eight or nine times out of ten, means that it is the infant of a Violet Shadowmouse. I really wonder how he managed to make his way to your clan’s manor, without a single adult Shadowmouse guard.” Doehring Cowart said with an air of amazement.
+
+

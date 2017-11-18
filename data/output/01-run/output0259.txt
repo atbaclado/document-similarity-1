@@ -1,0 +1,14 @@
+source_doc: 1 4	“Today, we will study art,” Hogg said coldly. “As the descendent of a noble family, you must have a thorough understanding and appreciation of art. Art is what gives noblemen an aura of gravitas!” Hogg pulled out a large tome as thick as a fist, immediately opening it.
+
+
+score: 0.669524, para: 1 2	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+
+score: 0.656383, para: 2 7	Seeing Linley’s reaction, some of the nearby noble ladies began to titter quietly amongst themselves while pointing at Linley. Clearly, Linley’s reaction was that of a ‘country bumpkin entering the city’. The nobility of the capital had a clear sense of innate superiority towards those country bumpkins.
+
+
+score: 0.653023, para: 2 5	Linley couldn’t help but feel a deep sense of veneration for Doehring Cowart from his heart. A Saint-level Grand Magus of the Pouant Empire, and one of the most powerful persons in the Yulan continent. And now, Doehring Cowart was carefully instructing himself in magic. How fortunate Linley was!
+
+
+score: 0.639279, para: 1 2	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+

@@ -1,0 +1,18 @@
+source: 02 15 27	“No problem.” Yale said magnanimously.
+
+
+score: 0.624611, para: 02 21 43	“It’s only the afternoon. Those places are only fun in the evening. But of course, we can go now as well.” Yale said laughingly.
+
+
+score: 0.602802, para: 02 19 34	“Right. Third bro, you didn’t participate. If you had, hmph…” Yale harrumphed.
+
+
+score: 0.577068, para: 02 21 29	“Second Uncle, what took you guys so long?” Yale said unhappily.
+
+
+score: 0.551923, para: 02 20 8	“Hey, Rand, weren’t you bragging about how you were number one amongst the first graders?” Yale mocked.
+
+
+score: 0.526560, para: 02 22 10	“Uncle Cass, come in along with us. The other three can wait for us outside.” Yale instructed.
+
+

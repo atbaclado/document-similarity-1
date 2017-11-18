@@ -1,0 +1,15 @@
+source_doc: 1 1	“The Captain is as formidable as ever.” Lorry, one of the two other middle-aged men, laughed, as Hillman walked back towards them.
+
+
+score: 0.648849, para: 1 6	Having made up his mind, Linley raced towards the large room.
+
+
+score: 0.641499, para: 1 7	When Linley had strode forward by three steps, reaching the doorway, he came to a sudden halt, because he could clearly feel that he had stepped on something hard.
+
+
+score: 0.634844, para: 1 11	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+
+score: 0.616515, para: 2 4	Just as Linley walked into the courtyard….
+
+

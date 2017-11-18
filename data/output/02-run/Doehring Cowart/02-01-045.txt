@@ -1,0 +1,20 @@
+source: 02 1 45	Doehring Cowart continued to try and entice Linley.
+
+score: 0.565819, para: 02 3 9	“Um, no, I haven’t.” Doehring Cowart was forced to admit.
+
+score: 0.565819, para: 02 3 9	“Um, no, I haven’t.” Doehring Cowart was forced to admit.
+
+score: 0.565819, para: 02 3 9	“Um, no, I haven’t.” Doehring Cowart was forced to admit.
+
+score: 0.555128, para: 02 2 13	“But it is extremely difficult to convince a magical beast to willingly initiate the ‘bond of equals’,” Doehring Cowart continued more seriously. “You need to convince a magical beast that you are like family and make it decide that it cannot bear to part from you. Only then would it willingly enter a ‘bond of equals’ with you.”
+
+score: 0.555128, para: 02 2 13	“But it is extremely difficult to convince a magical beast to willingly initiate the ‘bond of equals’,” Doehring Cowart continued more seriously. “You need to convince a magical beast that you are like family and make it decide that it cannot bear to part from you. Only then would it willingly enter a ‘bond of equals’ with you.”
+
+score: 0.555128, para: 02 2 13	“But it is extremely difficult to convince a magical beast to willingly initiate the ‘bond of equals’,” Doehring Cowart continued more seriously. “You need to convince a magical beast that you are like family and make it decide that it cannot bear to part from you. Only then would it willingly enter a ‘bond of equals’ with you.”
+
+score: 0.543233, para: 02 22 41	“Oh, not bad, not bad. I didn’t expect that in five thousand years, the art of stone-sculpting would reach such a height.” Doehring Cowart said in amazement. “If these can improve a bit more, they will be able to approximate Proulx’s level.”
+
+score: 0.543233, para: 02 22 41	“Oh, not bad, not bad. I didn’t expect that in five thousand years, the art of stone-sculpting would reach such a height.” Doehring Cowart said in amazement. “If these can improve a bit more, they will be able to approximate Proulx’s level.”
+
+score: 0.543233, para: 02 22 41	“Oh, not bad, not bad. I didn’t expect that in five thousand years, the art of stone-sculpting would reach such a height.” Doehring Cowart said in amazement. “If these can improve a bit more, they will be able to approximate Proulx’s level.”
+

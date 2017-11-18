@@ -1,0 +1,15 @@
+source_doc: 1 4	“Big brother!” Upon seeing Linley, the healthy-looking Wharton rushed over.
+
+
+score: 0.794404, para: 2 6	The little Shadowmouse suddenly rushed in Linley’s direction.
+
+
+score: 0.701447, para: 2 6	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+
+score: 0.672776, para: 1 17	“Lord Hogg, Wushan township is in bad shape. Just then-….Lord Hogg? What’s wrong?” Hillman rushed into the manor. Just as he was beginning to report on the town’s situation, he saw that Hogg was standing there in a daze, not making a single sound.
+
+
+score: 0.661488, para: 1 3	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 9	“Captain, what’s going on up ahead?” Lorry said in a quiet voice to Hillman.
+
+
+score: 0.770846, para: 1 1	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+
+score: 0.660026, para: 1 5	Hogg’s voice was very fierce.
+
+
+score: 0.660026, para: 1 17	“Linley. Linley!” Hogg’s voice was quavering.
+
+
+score: 0.648940, para: 1 1	“Oh, Captain, how do you know about the power of Saint-level warriors, or the Four Supreme Warriors?” Lorry suddenly remembered to ask.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 9	The Velocidragon alone was something he would not be able to fight off, much less the mysterious magus.
+
+
+score: 0.625881, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.621418, para: 1 19	“Gramps, are you going to be forever bound to the ring and unable to ever regain your freedom?” Linley felt rather bad for him.
+
+
+score: 0.608615, para: 1 1	“Saint-level warriors?” While walking, Linley was still thinking about that. “In the future, will I be able to become a Saint-level warrior?”
+
+
+score: 0.602551, para: 1 14	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+

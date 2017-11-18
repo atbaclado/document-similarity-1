@@ -1,0 +1,30 @@
+source: 02 20 65	Rand couldn’t even maintain his footing on the shaking earth. He just barely dodged two of the stones.
+
+
+score: 0.578783, para: 02 4 19	Linley tentatively stretched his hand out and placed it on the little Shadowmouse’s head. The little Shadowmouse didn’t dodge in the slightest. Instead, it contentedly half-closed its eyes. Linley immediately felt more confident, and began to stroke his fur, causing the Shadowmouse to feel so comfortable that it began to snore.
+
+
+score: 0.576750, para: 01 8 48	Hillman helplessly shook his head. He knew how stubborn Linley could be, and how hard it was to force him to change his mind. “Fine. Then stay behind me, do not go too far. As long as you stay next to me, I am confident that I can protect you.”
+
+
+score: 0.576200, para: 01 16 58	Right now, there was no way for Hogg to tell if Hiri had managed to position himself in front of Linley in time, or if the falling rocks had slammed into Linley first.
+
+
+score: 0.564149, para: 01 3 28	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+
+score: 0.554803, para: 02 3 23	Some of the stones still showed signs of being chewed on, but despite scanning inside the entire building, he couldn’t see even the shadow of the Shadowmouse. Linley couldn’t help but feel despondent and miserable. “Grandpa Doehring, the Shadowmouse isn’t here anymore. It was just an hour. Did it leave already?”
+
+
+score: 0.547730, para: 01 7 3	“Just now, I searched the ground and didn’t see a single rock. This must have come from the shattered drawers.” Thinking about the collapsed drawers, Linley couldn’t help but feel angry, and he viciously stomped on the piece of ‘shattered wood’ beneath his feet.
+
+
+score: 0.545854, para: 01 12 51	Linley shook his head.
+
+
+score: 0.545343, para: 02 2 37	A vigorous, nimble shadow could be seen piercing through the mountain forests. Linley ran silently but nimbly and fast. After having absorbed earth essence for half a year, Linley didn’t just possess mageforce; his physical strength had been raised as well.
+
+
+score: 0.538944, para: 01 16 36	But if he kept on having to dodge like this, how would he manage to hide within the warehouse?
+
+

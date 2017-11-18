@@ -1,0 +1,30 @@
+source: 01 20 32	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+
+score: 0.790010, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+
+score: 0.722023, para: 01 12 33	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+
+score: 0.689376, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+
+score: 0.679090, para: 02 25 74	“Met the threshold? Grandpa Doehring, do you mean?…” Linley stared at Doehring Cowart in amazement.
+
+
+score: 0.674376, para: 02 5 49	“Farewell, father.” Linley said respectfully, and then smiled at little Wharton. “Wharton, your big brother is gonna leave now.”
+
+
+score: 0.668229, para: 02 12 14	“You want me to cook it?” Linley laughed as he spoke.
+
+
+score: 0.665526, para: 02 4 29	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.661158, para: 02 13 30	Linley chuckled when he heard this.
+
+
+score: 0.650421, para: 02 11 6	Linley immediately laughed as well.
+
+

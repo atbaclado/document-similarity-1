@@ -1,0 +1,15 @@
+source_doc: 1 5	Linley knew very well that in the Yulan continent, those famous master sculptors could produce works valued at tens of thousands of gold pieces each. Some famous sculptures could even reach a hundred thousand gold pieces. And wealth aside, the societal ranking of these sculptors was also very high.
+
+
+score: 0.678184, para: 2 7	Doehring Cowart sighed emotionally, “You haven’t been here very long. You don’t know much about how large cities like this work. This place will have countless lavish places to spend money, like large auctions, where some magnates would spend even hundreds of thousands of gold coins, or perhaps even millions of gold coins to purchase just a single item.”
+
+
+score: 0.639847, para: 1 3	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.615025, para: 1 7	Linley laughed to himself, “The carving skill for this ring is really terrible. I bet even an average carver could make something more attractive. Alas, what a waste. This black ring doesn’t even have a single diamond on it, much less any valuable magic crystals.”
+
+
+score: 0.605283, para: 1 6	The ancient Baruch mansion had five thousand years of history.
+
+

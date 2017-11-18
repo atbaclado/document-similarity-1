@@ -1,0 +1,30 @@
+source: 02 20 3	“Yeah!” Yale suddenly shouted loudly, his face filled with excitement. “That felt so good. Third bro, I didn’t expect you to be as strong as that!”
+
+
+score: 0.741180, para: 02 21 24	“There they are.” Yale suddenly shouted loudly.
+
+
+score: 0.605560, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.578517, para: 02 22 45	“Second bro, third bro, the two of you, ugh. I planned for us to have a good time tonight in Fenlai City, but you…ugh, you guys are so thin-skinned. I started having fun in those places when I was six years old.” Yale was still unhappily grumbling nonstop.
+
+
+score: 0.559087, para: 02 18 72	“It would be such a waste if you didn’t participate. Someone else is going to get the glory, once again, in the yearly tournament.” Yale mumbled. “Too bad I’m not strong enough. If I had your strength, Linley, I would’ve given a dazzling display long ago. Then, I would be able to seduce some pretty girls.”
+
+
+score: 0.542973, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.541436, para: 02 21 30	This ‘Second Uncle’ of Yale’s immediately laughed and said, “Haha, did you grow impatient? Alright, your carriages are all ready. The last one is filled with some goods, I’ll have them clear them out so you have a place to sit. You are going to the Holy Capital, right?”
+
+
+score: 0.540600, para: 02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+
+score: 0.540342, para: 02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+
+score: 0.524804, para: 02 21 28	A middle aged man stepped forward in front of the four carriages. Before even speaking to the three magi, he strode towards Yale.
+
+

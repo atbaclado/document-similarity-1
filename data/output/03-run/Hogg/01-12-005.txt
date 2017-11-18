@@ -1,0 +1,30 @@
+source: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+
+score: 0.642650, para: 02 5 2	While speaking, Hogg looked at Linley eagerly.
+
+
+score: 0.583796, para: 01 17 26	“Linley, how are you feeling?” Hogg said with concern.
+
+
+score: 0.583796, para: 01 18 35	“Ugh!” Hogg let out a long sigh.
+
+
+score: 0.583796, para: 02 23 39	Turning his head, Hogg said, “Hillman, you are back. Uh, what’s that on your shoulders?”
+
+
+score: 0.544814, para: 02 5 3	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.536443, para: 01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+
+
+score: 0.532014, para: 02 5 46	“Hillman, I entrust Linley to you.” Hogg looked at the nearby Hillman.
+
+
+score: 0.530427, para: 02 4 36	“Looks like it is time for me to confess.” Linley said to himself, then looked at Hogg and nodded. “Father, recently I discovered a cute animal living in our back courtyard, an extremely cute animal. So I often bring him some food.”
+
+
+score: 0.529260, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+

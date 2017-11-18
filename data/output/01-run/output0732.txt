@@ -1,0 +1,14 @@
+source_doc: 1 18	“No way. Gramps, you just said you are from the Pouant Empire. The Pouant Empire that was eradicated over five thousand years ago?” Linley was quite familiar with the history of the world, and he knew very well that the Pouant Empire had ceased to exist before his own clan had even came to be. In the modern era, the Pouant Empire was not one of the four great empires of the world.
+
+score: 0.693904, para: 2 4	Hogg laughed as well. “Actually, all four of the major empires and both the major alliances have their own elite academies. You should know that one of the four major empires, the O’Brien Empire, is the empire with the strongest military power.”
+
+
+score: 0.632197, para: 1 2	Hogg’s entire body emanated an ancient, noble aura. That aura wasn’t the sort that money could buy. It was something which an ancient noble clan cultivated in its heirs. A clan which had survived for five thousand years. How could an ordinary noble clan compare?
+
+
+score: 0.623015, para: 1 4	“West of the ‘Mountain Range of Magical Beasts’, there are twelve kingdoms and thirty-two duchies. Within these kingdoms and dukedoms, there are two major divisions. The first is the Holy Union, with the kingdom of Fenlai being the principal kingdom. The second is the Dark Alliance, with the kingdom of Heishi being the principal kingdom. These two alliances are opposed to each other and constantly battle because one is controlled by the Radiant Church, while the other belongs to the Cult of Shadows.”
+
+
+score: 0.622215, para: 1 20	Footsteps could be heard from outside the door. Hearing them, Linley immediately grew nervous. He quickly said to Doehring Cowart, “Grandpa Doehring, quick, hide. Someone is coming.” If this five-thousand year old Saint-level Grand Magus of the bygone Pouant Empire was discovered, it could be disastrous.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 11	Linley had returned to his own bedroom and was reading the tome, but his heart was still full of questions.
+
+
+score: 0.649017, para: 2 1	Hearing his words, Linley’s heart fluttered.
+
+
+score: 0.627441, para: 1 6	Upon coming to this realization, Linley’s heart began to pound.
+
+
+score: 0.621399, para: 1 5	Hearing these words, Linley felt his heart twinge.
+
+
+score: 0.621399, para: 1 8	Linley’s heart trembled.
+
+

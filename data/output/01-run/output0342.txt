@@ -1,0 +1,15 @@
+source_doc: 1 7	“Whoah, it’s hard! What’s under my foot?” Linley felt that the item underneath his foot was extraordinarily tough, and immediately stepped aside to take a closer look.
+
+
+score: 0.653762, para: 1 18	“There’s nothing we can do now, aside from waiting on Hillman’s report.” Hogg felt extremely restless.
+
+
+score: 0.653567, para: 1 21	He quickly removed his shoes, then jumped onto the bed and sat down. “Grandpa Doehring, come out now. Help me test my magical aptitude.” Linley was extremely impatient. When he was eating dinner just now, all of his thoughts were turned towards this.
+
+
+score: 0.637370, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.632707, para: 2 6	“Squeak squeak.” The little Shadowmouse immediately began to jump up and down.
+
+

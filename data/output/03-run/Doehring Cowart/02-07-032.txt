@@ -1,0 +1,21 @@
+source: 02 7 32	Doehring Cowart sighed emotionally, “You haven’t been here very long. You don’t know much about how large cities like this work. This place will have countless lavish places to spend money, like large auctions, where some magnates would spend even hundreds of thousands of gold coins, or perhaps even millions of gold coins to purchase just a single item.”
+
+
+score: 0.602340, para: 02 24 54	“Written, recorded history goes back only a few tens of thousands of years at most. In the long ages before then, before the writing system had even been invented, stonesculpting had already existed.” Doehring Cowart said with a sigh. “Hundreds of thousands of years, or even millions of years ago, our ancestors would record their memories and their visions in sculptures. This is the most ancient method of recording culture and history.”
+
+
+score: 0.580897, para: 02 24 41	Doehring Cowart stared at him. “Linley, you don’t believe me? As a venerable Saint-level Grand Magus of the Pouant Empire, in the past, there were several sculptures I made which nobles offered a million gold coins to purchase. But how could I, a Saint-level Grand Magus, be willing to give the sculptures which I was the most proud of to others?”
+
+
+score: 0.579869, para: 02 24 43	Doehring Cowart said awkwardly, “Well, I hid all of my works in an underground vault which no one knew about. After five thousand years, I’m no longer even sure where it is located.” Five thousand years is enough for a sea to turn into farmland. The entire Pouant Empire had been eliminated. Who knew where the vault was now?
+
+
+score: 0.548199, para: 02 25 75	Doehring Cowart happily nodded. “Right. Starting today, after you finish a stone sculpture, you don’t need to destroy it. They are worthy of remaining in this world. Naturally, if you wish, you can deliver your sculptures to the Proulx Gallery to sell them and thus begin to build up a reputation for our Straight Chisel School. At the same time, you can make a bit of gold for yourself.”
+
+
+score: 0.511477, para: 01 21 17	Doehring Cowart self-confidently said, “How could the earth-style be weak? When the earth-style’s forbidden spell, ‘Heavenly Meteor’s Descent’, is executed, countless enormous boulders will rain from the sky and reduce a city to rubble in the twinkling of an eye. It also has the forbidden spell, ‘Heaven Collapses, Earth Shatters’. When this spell is used, the earth itself will begin to roil about like waves in the ocean. Houses will collapse, the earth itself will split apart, and magma will spew out from the cracks, killing countless people.”
+
+
+score: 0.501298, para: 02 4 49	“No.” Doehring Cowart said seriously. “I haven’t interacted with the Yulan continent for over five thousand years. Five thousand years, Linley! You must understand that many magi in the world have been continuously researching and developing new spells during this time period. Who knows how many new spells have been developed in the interim.”
+
+

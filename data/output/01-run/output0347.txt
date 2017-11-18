@@ -1,0 +1,15 @@
+source_doc: 1 7	Linley laughed to himself, “The carving skill for this ring is really terrible. I bet even an average carver could make something more attractive. Alas, what a waste. This black ring doesn’t even have a single diamond on it, much less any valuable magic crystals.”
+
+
+score: 0.643042, para: 1 19	“Gramps, you said that five thousand years ago, you were ambushed by a Saint-level Grand Magus and a Saint-level combatant, and then you were self-sealed within this ring? And that this ring is an artifact which is comparable in power to a Divine artifact?” Linley finally said.
+
+
+score: 0.633449, para: 2 3	“I am both a warrior of the first rank and a magus of the first rank, but in terms of attack power, my magic is stronger.” Grabbing the wild rabbit, Linley couldn’t help but laugh and sigh.
+
+
+score: 0.629053, para: 1 22	“After countless years of magical experimentation, the magical system has essentially been perfected.” Stroking his white beard, Doehring Cowart laughed loudly. “Linley, don’t worry. In the future, there’s no need for you to bend the knee to any kingdom or any lord, because…I can teach you seventh, eighth, ninth, and even Saint-level spells!”
+
+
+score: 0.625146, para: 1 5	Looking at Linley, Hogg sighed in his heart. “Sculpting? Oh, child. Do you know that in the past, I also practiced sculpting? I spent ten full years of my life trying to learn. But unfortunately, my sculptures weren’t worth a single coin.” Hogg, too, had once foolishly dreamed of becoming a master sculptor and thereby improving his clan’s situation.
+
+

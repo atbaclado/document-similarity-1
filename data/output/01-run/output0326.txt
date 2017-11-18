@@ -1,0 +1,15 @@
+source_doc: 1 6	Same as before, Linley lowered his head, widened his eyes, and began carefully searching the room one part at a time. Upon seeing anything interesting, he would tap it twice with his stick. If it was made out of stone, he would ignore it. Since he didn’t have much time left before training was to start, his searching speed increased as well.
+
+
+score: 0.685988, para: 1 7	But for some reason, upon seeing the ring, Linley immediately felt that he had taken a liking to it. He suspected that it was most likely because this was the only thing he had discovered after spending a prodigious amount of effort in searching the manor.
+
+
+score: 0.636580, para: 1 1	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.627053, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.625496, para: 1 1	The other man, Roger (Luo’jie), also walked over. Usually, when the children practiced the ‘Qi Building Stance’, it was time for the three of them to relax and freely chat, while paying attention to any child who decided to slack off.
+
+

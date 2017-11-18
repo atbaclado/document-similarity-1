@@ -1,0 +1,9 @@
+source: 01 18 20	Footsteps. Uncle Hiri emerged from within the living room. “Lord.”
+
+
+score: 0.580973, para: 01 20 42	Just as Linley spoke, he saw that next to him, a white-haired old man suddenly appeared out of nowhere. It was Doehring Cowart. But Hogg, Housekeeper Hiri, and his younger brother Wharton still continued to eat and chat, not noticing Doehring Cowart’s existence in the slightest.
+
+
+score: 0.555515, para: 01 20 21	“Oh. Got it.” Linley snuck another peek at Doehring Cowart, his heart filled with questions. “What’s going on. From Uncle Hiri’s expression, it seems as though he can’t see Grandpa Doehring at all.”
+
+

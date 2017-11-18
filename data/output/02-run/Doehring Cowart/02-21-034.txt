@@ -1,0 +1,8 @@
+source: 02 21 34	For Cass to be praised by Doehring Cowart as an ‘expert’ meant that he definitely was out of the ordinary.
+
+score: 0.534203, para: 02 25 32	A white-robed Doehring Cowart smiled at him cheerily from the side. “Linley, starting today, you can just barely be considered to have mastered the basics. Have you felt that special feeling yet? But your work can only be considered to be a superficial pseudo-artwork. It’s only worthy of being placed in the standard hall at the Proulx Institute. If you show it off there, I would be humiliated. Destroy it.”
+
+score: 0.534203, para: 02 25 32	A white-robed Doehring Cowart smiled at him cheerily from the side. “Linley, starting today, you can just barely be considered to have mastered the basics. Have you felt that special feeling yet? But your work can only be considered to be a superficial pseudo-artwork. It’s only worthy of being placed in the standard hall at the Proulx Institute. If you show it off there, I would be humiliated. Destroy it.”
+
+score: 0.534203, para: 02 25 32	A white-robed Doehring Cowart smiled at him cheerily from the side. “Linley, starting today, you can just barely be considered to have mastered the basics. Have you felt that special feeling yet? But your work can only be considered to be a superficial pseudo-artwork. It’s only worthy of being placed in the standard hall at the Proulx Institute. If you show it off there, I would be humiliated. Destroy it.”
+

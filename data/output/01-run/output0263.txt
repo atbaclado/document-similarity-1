@@ -1,0 +1,15 @@
+source_doc: 1 5	“Ah, Hogg, my dear friend! Just the other day, I heard the clothspinner bird’s cry, and I just knew that something good was going to happen. Indeed, by noon, I received your missive, and as soon as I read it, I was overjoyed.”
+
+
+score: 0.704370, para: 2 2	“Bond of equals?” Linley said curiously. “What is that? I’ve never heard of it.”
+
+
+score: 0.610050, para: 1 20	“I hear you.” Doehring Cowart’s voice rang out in Linley’s mind as well.
+
+
+score: 0.601196, para: 1 20	If any other magus had been present and heard his words, they would have been astonished.
+
+
+score: 0.597247, para: 1 22	Linley had read many books and therefore understood this principle.
+
+

@@ -1,0 +1,30 @@
+source: 01 13 9	Linley immediately understood.
+
+
+score: 1.000000, para: 01 22 8	“Magical incantations!” Linley immediately said.
+
+
+score: 1.000000, para: 02 11 40	Linley immediately understood.
+
+
+score: 0.787387, para: 01 1 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+
+score: 0.737882, para: 02 21 51	“Let’s go check it out.” Linley immediately said.
+
+
+score: 0.700084, para: 02 11 6	Linley immediately laughed as well.
+
+
+score: 0.686567, para: 01 18 21	“How is Linley?” Hogg immediately turned his head and asked.
+
+
+score: 0.657039, para: 01 23 27	Linley’s earlier excitement was immediately dampened.
+
+
+score: 0.654264, para: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+
+score: 0.629765, para: 01 7 43	“East. It came from the east.” Linley immediately discerned the direction.
+
+

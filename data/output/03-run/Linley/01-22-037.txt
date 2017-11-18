@@ -1,0 +1,15 @@
+source: 01 22 37	Linley took a deep breath.
+
+
+score: 0.662737, para: 01 23 14	Linley took a deep breath and nodded.
+
+
+score: 0.526051, para: 02 16 49	And then, he just continued to listen to the class. Linley became more and more intrigued by wind-style magic. Of the four elements of earth, fire, water and wind, each contained profound mysteries which were as deep as the sea. The ocean of magical knowledge was an endless one. And now, Linley had begun to wade into its depths.
+
+
+score: 0.508434, para: 01 20 26	Unlike in the past, Linley had now soulbound the ring with his own blood, giving him a deeper level of understanding.
+
+
+score: 0.507514, para: 01 3 28	“Alright, Linley. This needle will just barely break the skin when it goes in. It won’t hurt at all. Stretch out your hand.” Hogg smiled, and Linley nodded. Taking a deep breath, Linley stretched out his right arm. The slight trembling in his arm showed that Linley really was very nervous.
+
+

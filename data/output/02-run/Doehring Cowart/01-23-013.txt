@@ -1,0 +1,20 @@
+source: 01 23 13	“But naturally, elemental affinity is just one part. Spiritual energy is the most important of all! After all, given enough time, mageforce will naturally strengthen. But it’s extremely difficult to improve the spiritual energy of a magus.” Doehring Cowart said solemnly.
+
+score: 0.756359, para: 01 22 28	“Right, a large amount of mageforce and elemental essence, when controlled by spiritual energy, can be formed into a spell! Sometimes, in order to execute a particularly powerful spell, too high of a demand is placed upon one’s spiritual energy. Thus, the assistance of magical incantations is needed.” Doehring Cowart smiled as he spoke.
+
+score: 0.756359, para: 01 22 28	“Right, a large amount of mageforce and elemental essence, when controlled by spiritual energy, can be formed into a spell! Sometimes, in order to execute a particularly powerful spell, too high of a demand is placed upon one’s spiritual energy. Thus, the assistance of magical incantations is needed.” Doehring Cowart smiled as he spoke.
+
+score: 0.756359, para: 01 22 28	“Right, a large amount of mageforce and elemental essence, when controlled by spiritual energy, can be formed into a spell! Sometimes, in order to execute a particularly powerful spell, too high of a demand is placed upon one’s spiritual energy. Thus, the assistance of magical incantations is needed.” Doehring Cowart smiled as he spoke.
+
+score: 0.756359, para: 01 22 28	“Right, a large amount of mageforce and elemental essence, when controlled by spiritual energy, can be formed into a spell! Sometimes, in order to execute a particularly powerful spell, too high of a demand is placed upon one’s spiritual energy. Thus, the assistance of magical incantations is needed.” Doehring Cowart smiled as he spoke.
+
+score: 0.707840, para: 01 22 35	“If you have no instructor? No matter how much mageforce you have or how high your spiritual energy is, you won’t be able to execute a single spell!” Doehring Cowart smiled faintly. “The profound secrets of every magical spell lies in how to control mageforce and elemental essence to form the spell.”
+
+score: 0.707840, para: 01 22 35	“If you have no instructor? No matter how much mageforce you have or how high your spiritual energy is, you won’t be able to execute a single spell!” Doehring Cowart smiled faintly. “The profound secrets of every magical spell lies in how to control mageforce and elemental essence to form the spell.”
+
+score: 0.707840, para: 01 22 35	“If you have no instructor? No matter how much mageforce you have or how high your spiritual energy is, you won’t be able to execute a single spell!” Doehring Cowart smiled faintly. “The profound secrets of every magical spell lies in how to control mageforce and elemental essence to form the spell.”
+
+score: 0.707840, para: 01 22 35	“If you have no instructor? No matter how much mageforce you have or how high your spiritual energy is, you won’t be able to execute a single spell!” Doehring Cowart smiled faintly. “The profound secrets of every magical spell lies in how to control mageforce and elemental essence to form the spell.”
+
+score: 0.704856, para: 02 8 18	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+

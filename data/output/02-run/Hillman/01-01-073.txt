@@ -1,0 +1,20 @@
+source: 01 1 73	“Tighten that up! Your waists need to be straight!” Hillman thundered.
+
+score: 0.887949, para: 01 79 73	“Tighten that up! Your waists need to be straight!” Hillman thundered.
+
+score: 0.887949, para: 01 79 73	“Tighten that up! Your waists need to be straight!” Hillman thundered.
+
+score: 0.887949, para: 01 79 73	“Tighten that up! Your waists need to be straight!” Hillman thundered.
+
+score: 0.529612, para: 01 10 21	But glancing at the northernmost group of children, with their waists and knees crooked at odd degrees, their legs relaxed and loose, it was clear to Hillman that they were standing unstably and without any power.
+
+score: 0.529612, para: 01 10 21	But glancing at the northernmost group of children, with their waists and knees crooked at odd degrees, their legs relaxed and loose, it was clear to Hillman that they were standing unstably and without any power.
+
+score: 0.529612, para: 01 10 21	But glancing at the northernmost group of children, with their waists and knees crooked at odd degrees, their legs relaxed and loose, it was clear to Hillman that they were standing unstably and without any power.
+
+score: 0.504207, para: 01 83 83	Hillman commanded, “Tomorrow, prepare some special dyes. When they are practicing their waist strength, put a branch under all of their waists, and dye the branches. If any of them slack off and let their waists touch the branch, their body will be dyed as well. Their training regime will double in difficulty.”
+
+score: 0.504207, para: 01 83 83	Hillman commanded, “Tomorrow, prepare some special dyes. When they are practicing their waist strength, put a branch under all of their waists, and dye the branches. If any of them slack off and let their waists touch the branch, their body will be dyed as well. Their training regime will double in difficulty.”
+
+score: 0.504207, para: 01 83 83	Hillman commanded, “Tomorrow, prepare some special dyes. When they are practicing their waist strength, put a branch under all of their waists, and dye the branches. If any of them slack off and let their waists touch the branch, their body will be dyed as well. Their training regime will double in difficulty.”
+

@@ -1,0 +1,15 @@
+source_doc: 1 15	Hillman, being a man who had been tested in trials of blood and death, was the first to recover and clear his mind. But even after recovering, Hillman still felt as though he were in a dream. “Yesterday, a dual-element magus of the eighth rank came. Today, something even more amazing; two Saint-level combatants, and a Black Dragon! In my entire life, I’ve never seen anything so amazing.”
+
+
+score: 0.726966, para: 2 11	“Fresh dragon’s blood and Blueheart Grass…” Linley’s eyes shone with excitement. “In the future, when I am powerful enough and become a magus of the ninth rank or even higher, I will use fresh dragon’s blood and Blueheart Grass to let little Wharton become a Dragonblood Warrior.”
+
+
+score: 0.692828, para: 2 11	“This can’t be right, father. If no one has ever successfully become a Dragonblood Warrior as a result of drinking dragon’s blood, then why did our ancestor write that it is possible to use dragon’s blood to refine our own? And even say that the blood of a dragon of the ninth rank would also have some effect?” Linley was really puzzled.
+
+
+score: 0.673251, para: 1 17	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.669989, para: 2 1	“Grandpa Doehring, based on what you just said, a Shadowmouse of the third or fourth rank would have pure black fur. Only upon reaching the fifth rank would its fur turn blue. So are you saying that little guy there is a magical beast of the third or fourth rank?” Linley followed up with more questions.
+
+

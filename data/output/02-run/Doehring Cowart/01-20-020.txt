@@ -1,0 +1,20 @@
+source: 01 20 20	“Young master Linley, it’s time for dinner. Since you are already awake, come eat dinner with us.” Uncle Hiri smiled as he spoke.
+
+score: 0.605810, para: 02 3 6	“Linley, why aren’t you cooking it? Although the Shadowmouse will eat raw meat, his favorite is cooked meat.” Doehring Cowart’s voice sounded in Linley’s mind.
+
+score: 0.605810, para: 02 3 6	“Linley, why aren’t you cooking it? Although the Shadowmouse will eat raw meat, his favorite is cooked meat.” Doehring Cowart’s voice sounded in Linley’s mind.
+
+score: 0.605810, para: 02 3 6	“Linley, why aren’t you cooking it? Although the Shadowmouse will eat raw meat, his favorite is cooked meat.” Doehring Cowart’s voice sounded in Linley’s mind.
+
+score: 0.564574, para: 02 12 10	“Little punk, so now you are going to give me instructions?” Doehring Cowart laughed while ‘grumbling’.
+
+score: 0.564574, para: 02 12 10	“Little punk, so now you are going to give me instructions?” Doehring Cowart laughed while ‘grumbling’.
+
+score: 0.564574, para: 02 12 10	“Little punk, so now you are going to give me instructions?” Doehring Cowart laughed while ‘grumbling’.
+
+score: 0.563494, para: 01 19 53	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.01 20 3	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+score: 0.563494, para: 01 19 53	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.01 20 3	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+score: 0.563494, para: 01 19 53	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.01 20 3	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+

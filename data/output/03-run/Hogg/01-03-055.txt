@@ -1,0 +1,30 @@
+source: 01 3 55	“You?” Hogg chuckled. Eyes filled with love, he ruffled Linley’s hair.
+
+
+score: 0.692176, para: 01 5 41	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+
+score: 0.649746, para: 01 2 53	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+
+score: 0.641022, para: 02 10 18	Hogg took a deep breath, then looked at Linley, his eyes filled with boundless excitement. “Good, good.”
+
+
+score: 0.629130, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.628563, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.572167, para: 01 16 57	“Linley!” Hogg’s eyes turned red.
+
+
+score: 0.563374, para: 01 4 37	After washing up and changing into some fresh clothes, Linley entered the study. At this moment, his father, Hogg Baruch, was sitting in front of a desk, his back ramrod straight. In front of Hogg were three thick tomes.
+
+
+score: 0.554942, para: 01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+
+
+score: 0.541060, para: 02 5 2	While speaking, Hogg looked at Linley eagerly.
+
+

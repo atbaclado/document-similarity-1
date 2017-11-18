@@ -1,0 +1,15 @@
+source_doc: 2 1	Doehring Cowart nodded. “Shadowmice are indeed very fast, but for an infant Shadowmouse to already have reached the speed of an adult Shadowmouse is definitely out of the ordinary.” A hint of a smile was on Doehring Cowart’s face.
+
+
+score: 0.695612, para: 2 3	After finishing his meal, the Shadowmouse glanced again in the direction which Linley had departed to. The baby Shadowmouse immediately felt a degree of kinship for this young fellow. After all, he was just recently born, an infant magical beast. The baby Shadowmouse even felt a bit of anticipation. Would this young man return in the future with another wild hare?
+
+
+score: 0.657498, para: 1 12	Hogg was startled, but in the next moment he immediately understood. Looks like his child now wanted to become a magus.
+
+
+score: 0.651163, para: 2 10	As it turned out, the little Shadowmouse had fallen asleep next to Linley’s chest, but Hogg’s explosive laughter startled him awake. An infant Shadowmouse spent a great deal of time napping, and hated being awakened. At this moment, naturally he was extremely furious.
+
+
+score: 0.639810, para: 1 12	Hogg looked at the serious expression on his eight year old boy’s face. By all rights, a young child being so serious was an amusing thing. But Hogg did not laugh.
+
+

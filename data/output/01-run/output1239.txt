@@ -1,0 +1,15 @@
+source_doc: 2 6	“Bebe.” Linley was grinning so widely, his face was about to split.
+
+
+score: 0.714627, para: 1 22	“Haha, Linley, you are very smart.” Doehring Cowart was laughing happily.
+
+
+score: 0.710179, para: 1 12	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+
+score: 0.706997, para: 2 4	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.689192, para: 2 4	Hearing his words, Linley couldn’t help but grin as well.
+
+

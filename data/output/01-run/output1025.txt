@@ -1,0 +1,15 @@
+source_doc: 2 2	Linley looked at the far-off Shadowmouse. The sound of it crunching through rocks could be heard from afar. The Shadowmouse was chewing through it as easily as he normally would’ve chewn through bread. Linley didn’t question the sharpness of the teeth of this Shadowmouse in the slightest.
+
+
+score: 0.800245, para: 2 3	“Crunch, crunch.” That familiar, soft crunching sound could be heard once again. Linley’s eyes brightened, and he immediately turned and headed towards an ancient courtyard nearby. Arriving at the entryway, he clearly saw the black Shadowmouse chewing on stones in one spot, unmoving. He seemed almost like a sculptor, as he chewed each rock into surprising, bizarre shapes.
+
+
+score: 0.712056, para: 2 3	And then he immediately began to eat the wild hare. His sharp teeth chewed at an incredibly fast rate. Although the Shadowmouse had a small body, this wild hare which was physically larger than the Shadowmouse was fully devoured by it, aside from the fur. Even the bones weren’t spared.
+
+
+score: 0.676703, para: 1 14	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+
+score: 0.668334, para: 1 23	He saw a 20-centimeter long black mouse chewing on a piece of stone rubble. And then, in the blink of an eye, the black mouse appeared tens of meters away in a different direction, and began to nibble on a piece of blue tile. The black mouse’s fur appeared very soft. Its eyes were guileless, and its paws were furry. In a word, it looked very cute.
+
+

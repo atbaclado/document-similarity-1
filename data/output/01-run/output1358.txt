@@ -1,0 +1,15 @@
+source_doc: 2 10	Hogg had just finished lunch not too long ago, and was currently sitting down, relaxed, on a sofa, while leisurely reading a book.
+
+
+score: 0.619348, para: 1 20	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.618273, para: 1 23	Every day, Linley would spend only six hours sleeping. All of his other time was spent in physical training, intellectual studies, magical instruction, and meditation. Six hours of sleep a day, frankly speaking, was simply not enough. In truth, entering the meditative state was extremely taxing, far more tiring than most people’s lives. Every day, Linley entered a very deep sleep for those six hours.
+
+
+score: 0.616519, para: 1 6	There were actually many rooms in the back courtyard. After all, the front courtyard which Linley resided in constituted only a third of the entire manor. The back courtyard was far larger. Linley would probably have to spend an entire day in order to finish searching the entire back courtyard.
+
+
+score: 0.609277, para: 1 4	“Ley is really amazing. Just eight years old, but he’s able to match the thirteen year olds in doing the ‘Static Tension’ exercise.” Some of the children who had already given up were sprawled on the ground, chatting as they watched Linley.
+
+

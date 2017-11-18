@@ -1,0 +1,20 @@
+source: 01 15 23	But Hillman quickly realized what was going on. Rapidly turning around, he shouted fiercely at all the children, “Everyone, go home right now! Go home and hide! NOW!” Hillman’s loud roar and his urgent expression stunned every child present.
+
+score: 0.679778, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”02 10 3	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+score: 0.679778, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”02 10 3	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+score: 0.679778, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”02 10 3	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+score: 0.656336, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.656336, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.656336, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.656336, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.643406, para: 02 6 22	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+
+score: 0.643406, para: 02 6 22	The little Shadowmouse suddenly gave out a loud squeak, and then turned into a black blur, traveling twenty or thirty meters in the blink of an eye. His speed was absolutely shocking, as was his agility. Linley and Hillman were chatting while walking on the road, but Hillman suddenly felt something was quickly charging them from behind and couldn’t help but look back.
+

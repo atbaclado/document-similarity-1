@@ -1,0 +1,12 @@
+source: 01 15 15	Hillman and the others were hundreds of meters away from the Black Dragon. No matter how sharp their ears were, there was no way for them to hear the words being exchanged by the two parties.
+
+
+score: 0.596072, para: 01 18 7	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+
+score: 0.539013, para: 01 19 50	In Linley’s mind, the huge body of the Velocidragon, the terrifying spectacle of the Dance of the Fire Serpents, and the countless boulders falling from the sky began to play over and over again, along with the spectacle of that proud man who stood on top of the Black Dragon.
+
+
+score: 0.519659, para: 01 18 1	In the eastern sky, the gray-robed man still stood on the head of the Black Dragon which lay coiled in the sky. A self-assured smile was on his face, as he watched the green-robed man battle against his earthen giant.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 23	Walking on the blue tiled steps of the stone walkway, Linley’s footsteps were firm and swift, but made little sound.
+
+
+score: 0.678371, para: 1 2	Exiting the guest hall, Hogg, Linley, and Uncle Hiri, who still held Wharton, followed the blue stone path towards the back manor.
+
+
+score: 0.643379, para: 2 2	Linley’s footsteps suddenly halted, as he saw up ahead a dull-yellow colored rabbit eating grass.
+
+
+score: 0.599530, para: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.596456, para: 2 3	“Crunch, crunch.” That familiar, soft crunching sound could be heard once again. Linley’s eyes brightened, and he immediately turned and headed towards an ancient courtyard nearby. Arriving at the entryway, he clearly saw the black Shadowmouse chewing on stones in one spot, unmoving. He seemed almost like a sculptor, as he chewed each rock into surprising, bizarre shapes.
+
+

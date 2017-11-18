@@ -1,0 +1,15 @@
+source_doc: 1 2	No mother, no grandparents. Although he had his father and the family caretaker to take care of him, Linley, who had matured early, was extremely loving and protective towards his little brother. In Linley’s eyes, as the big brother, it was his job to take care of his little brother.
+
+
+score: 0.706131, para: 2 5	“I don’t know how much time I will have to spend in a magus academy, or how many years I will be there for. Will we ever meet again?” Linley stroked the little Shadowmouse’s fur, somewhat unwilling to part from it. After playing with the little Shadowmouse for the past month, he had really come to care for the cute little Shadowmouse.
+
+
+score: 0.638177, para: 1 20	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+
+score: 0.634681, para: 2 4	It seemed as though this time, the little Shadowmouse had enjoyed his meal very much. He was so happy that he immediately began to hop up and down while squeaking at Linley, while even hugging Linley’s leg with his own front arms. Linley couldn’t help but feel pleased; this was the first time that the little Shadowmouse had acted so intimately towards him, even after eating.
+
+
+score: 0.632880, para: 2 6	Looking down, he saw that it was actually the little Shadowmouse. At the moment, the little Shadowmouse was staring up at Linley with its pitiable, sad little eyes. Linley rubbed his leg, and noticed that he was actually bleeding. He couldn’t help but grow unhappy. But seeing how sad the little Shadowmouse was, he couldn’t grow angry at him.
+
+

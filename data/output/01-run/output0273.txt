@@ -1,0 +1,15 @@
+source_doc: 1 5	By his side, Hogg laughed. “Philip, stop wasting time with the child. Look, the ‘Fierce Lion’ you have desired for so long has arrived.” As he spoke, Hillman easily carried in the large sculpture into the hall, and then easily set it down.
+
+
+score: 0.637494, para: 1 13	“No, not necessarily. If you have enough money, you can purchase a soul-binding scroll. When the time comes, all you have to do is to tear it apart, and it will automatically generate a soul-binding magical array. However, a soul-binding scroll is amazingly expensive,” Hogg said with a self-deprecating laugh.
+
+
+score: 0.615203, para: 1 23	“Whew. All done cleaning. Time to go do some more magical training. Yesterday I actually managed to successfully execute the ‘Earth Tremor’ technique. That was wonderful.” Right now, Linley was in an extremely good mood. He quickly strode out of the ancestral hall and closed the door.
+
+
+score: 0.613836, para: 1 7	The youngsters nearby couldn’t help but stick out their tongues. He was just late by a short amount of time, but was punished with double duty training. Today, Linley probably wouldn’t have any time to go home and eat dinner.
+
+
+score: 0.613613, para: 1 15	Lorry and Roger immediately turned around and lifted up the children who were slow runners. They carried two in each arm and two on their backs as well. Hillman joined them as well, quickly beginning to pick up child after child.
+
+

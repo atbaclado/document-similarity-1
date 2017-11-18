@@ -1,0 +1,30 @@
+source: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+
+score: 0.701178, para: 01 7 30	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.694342, para: 01 4 31	“Big brother!” Upon seeing Linley, the healthy-looking Wharton rushed over.
+
+
+score: 0.625986, para: 01 17 20	Housetaker Hiri, off to the side, said, “This was my fault. This disaster came too suddenly, and as soon as I had taken Wharton into the warehouse, I saw young master Linley in great danger, so I immediately rushed forward to help him. I didn’t imagine that in just that instant, a huge boulder would head for the warehouse. This was my fault.”
+
+
+score: 0.623583, para: 02 7 22	Linley and Hillman were staying in the same room. There were two beds in this room. Immediately upon entering, the little Shadowmouse, Bebe, leapt out from within Linley’s clothes and immediately began circling around Linley while squeaking loudly.
+
+
+score: 0.616890, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.616658, para: 02 5 50	Little Wharton immediately squinted towards Linley. In a sad voice, he said, “Big brother, bye bye!”
+
+
+score: 0.615876, para: 01 7 5	“Whoah, it’s hard! What’s under my foot?” Linley felt that the item underneath his foot was extraordinarily tough, and immediately stepped aside to take a closer look.
+
+
+score: 0.608217, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.605750, para: 02 4 19	Linley tentatively stretched his hand out and placed it on the little Shadowmouse’s head. The little Shadowmouse didn’t dodge in the slightest. Instead, it contentedly half-closed its eyes. Linley immediately felt more confident, and began to stroke his fur, causing the Shadowmouse to feel so comfortable that it began to snore.
+
+

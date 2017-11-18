@@ -1,0 +1,15 @@
+source_doc: 2 5	“Sniff, sniff…” Hearing Linley speak, the little Shadowmouse also began to sniff in a low tone.
+
+
+score: 0.647546, para: 2 4	Upon hearing these words, Hogg finally smiled.
+
+
+score: 0.645741, para: 2 4	Now this little Shadowmouse was doing the same!
+
+
+score: 0.645741, para: 2 6	“What’s the little Shadowmouse saying?” Linley didn’t really understand.
+
+
+score: 0.642575, para: 2 10	Mentally sensing the little Shadowmouse’s emotions, Linley didn’t know whether to laugh or to cry.
+
+

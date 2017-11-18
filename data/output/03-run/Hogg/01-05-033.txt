@@ -1,0 +1,15 @@
+source: 01 5 33	“Six hundred gold, Hogg. You can count it, if you want.” Philip smiled.
+
+
+score: 0.544401, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.541923, para: 02 23 43	“Gold coins? So much gold. There must be at least ten thousand gold coins here.” Hogg stared at Hillman, astonished. “Hillman, you say that Linley asked you to bring this here?”
+
+
+score: 0.521079, para: 01 13 14	Hogg replied, “Let’s discuss this question later. Linley, you should know that in the Yulan continent, an average person’s lifespan is around 120-130 years. Powerful magi and warriors can live for longer, usually up to two or three hundred years, or sometimes even four hundred years. The absolute limit to a person’s lifespan is five hundred years. Only those who have attained the legendary power of Saint-level combatants can live eternally, unbound by the dictates of time.”
+
+
+score: 0.506815, para: 01 4 48	“Just this?” Hogg frowned.
+
+

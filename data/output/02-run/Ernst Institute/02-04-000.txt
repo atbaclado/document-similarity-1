@@ -1,0 +1,20 @@
+source: 02 4 0	Book 2, Growing Up, Chapter 4 – The Ernst Institute
+
+score: 0.556808, para: 02 9 30	The Ernst Institute?
+
+score: 0.556808, para: 02 9 30	The Ernst Institute?
+
+score: 0.556808, para: 02 9 30	The Ernst Institute?
+
+score: 0.537461, para: 02 9 33	Across the entire massive Yulan continent, each year the Ernst Institute only enrolled a scant hundred students!
+
+score: 0.537461, para: 02 9 33	Across the entire massive Yulan continent, each year the Ernst Institute only enrolled a scant hundred students!
+
+score: 0.537461, para: 02 9 33	Across the entire massive Yulan continent, each year the Ernst Institute only enrolled a scant hundred students!
+
+score: 0.536379, para: 02 9 35	Every single student who enrolled into the Ernst Institute could be described as a genius!
+
+score: 0.536379, para: 02 9 35	Every single student who enrolled into the Ernst Institute could be described as a genius!
+
+score: 0.536379, para: 02 9 35	Every single student who enrolled into the Ernst Institute could be described as a genius!
+

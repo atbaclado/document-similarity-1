@@ -1,0 +1,15 @@
+source_doc: 2 5	If Ernst had run into him, he would have had to courteously bow and pay his respects.
+
+
+score: 0.570644, para: 2 7	Glancing at the group of nobles, Linley chuckled quietly. “Uncle Hillman, I won’t pay any mind to their likes.” Under the tutelage of his father Hogg, Linley wouldn’t pay too much heed to that group of self-centered, arrogant nobles.
+
+
+score: 0.554946, para: 1 18	Housekeeper Hiri also bowed respectfully and departed. After Hillman also left the pavilion, once again, the only person left remaining was Hogg.
+
+
+score: 0.545764, para: 1 4	“Father!” Linley respectfully bowed.
+
+
+score: 0.541728, para: 2 3	Linley also politely smiled back at them as he walked past them on the street.
+
+

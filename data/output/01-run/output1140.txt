@@ -1,0 +1,14 @@
+source_doc: 2 4	“Magus, ooo, ooo, like that fire-breathing magus?” While listening, little Wharton clapped his little hands together.
+
+
+score: 0.745075, para: 2 6	And the little Shadowmouse, ‘Bebe’, stood happily on Linley’s shoulders and squeaked.
+
+
+score: 0.732562, para: 2 10	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.724184, para: 1 20	“Big brother, see ya.” Chubby little Wharton waved at Linley with a grease-covered hand.
+
+score: 0.722134, para: 2 6	Linley stared at the little Shadowmouse.
+
+

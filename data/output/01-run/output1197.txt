@@ -1,0 +1,15 @@
+source_doc: 2 6	Book 2, Growing Up, Chapter 6 – ‘Bebe’ the Shadowmouse (part 2)
+
+
+score: 0.989824, para: 2 4	Book 2, Growing Up, Chapter 4 – The Ernst Institute
+
+
+score: 0.882983, para: 2 1	Book 2, Growing Up, Chapter 1 – Magical Beast, Shadowmouse
+
+
+score: 0.688802, para: 1 20	“Grandpa Doehring!” Linley was beginning to grow impatient.
+
+
+score: 0.661662, para: 2 1	Linley was startled.
+
+

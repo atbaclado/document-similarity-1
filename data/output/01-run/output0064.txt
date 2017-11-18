@@ -1,0 +1,15 @@
+source_doc: 1 1	After practicing the ‘Qi Building Stance’, the waist, back, thighs, shoulders, and other parts of the body would be harmonized. Now, almost all of the children were sitting, relaxed, on the ground. Hillman’s training program was nearly perfect in the difficulty levels he assessed on each age group.
+
+
+score: 0.676313, para: 1 14	Based on each squad’s ability, Hillman assigned different exercises. Under the guidance of the three adults, each child studiously completed each exercise. Today, the training atmosphere was totally different. Almost none of the children complained of being tired.
+
+
+score: 0.643101, para: 1 4	A very simple yet very effective training exercise. If a person could reach the level of being able to maintain this pose for an hour, then his body would no longer fear ordinary swords or sabres.
+
+
+score: 0.619965, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.607314, para: 1 23	Due to his daily physical training exercises, Linley’s body was growing sturdier and sturdier. Because he often entered the meditative state and absorbed earth essence, Linley became calmer and more tranquil. Linley’s transformation caused his father Hogg and Hillman to both be amazed and overjoyed.
+
+

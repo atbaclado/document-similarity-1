@@ -1,0 +1,30 @@
+source: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.698703, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+
+score: 0.683311, para: 02 19 29	George laughed and nodded. “Right, him. He has very high talent. Even before training, his spiritual essence had reached the level of a magus of the second rank. All he did this year was accumulate sufficient mageforce. It isn’t too hard for someone with the power of a magus of the second rank to become number one in the tournament amongst first grade students.”
+
+
+score: 0.650760, para: 02 14 54	Yale pursed his lips. “That’s very normal. Which student in the Ernst Institute is weak? Myself, my elemental affinity and spiritual essence are both high level, putting me towards the bottom of the pack of our one hundred. If it wasn’t for the fact that my old man has a special relationship with the Radiant Church, I probably wouldn’t even be able to make it in.”
+
+
+score: 0.642092, para: 02 21 47	George laughed confidently. “In the history of sculpture, from the beginning til now, there have been countless stone sculptures made. Of the top ten sculptures, any one of them would be worth a million gold coins. And of those top ten sculptures, three were made by Grandmaster Proulx. He can be considered the number one person in the history of stonesculpting!”
+
+
+score: 0.640808, para: 02 14 59	But George smiled as he nodded. “I’ve heard of him. The number one genius of the Ernst Institute, ‘Dixie’ [Di’ke’xi], a talent that appears once in a century. He is a dual-element magus, and has exceptional levels of elemental affinity and spiritual essence. But his spiritual essence is especially amazing; 62 times that of others his age. Usually, reaching 30 times is considered ‘exceptional’ level, so his precise level should be ‘super exceptional’, but since the highest level is ‘exceptional’, that’s what he is classified as.”
+
+
+score: 0.624070, para: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+
+
+score: 0.609060, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+
+score: 0.602270, para: 02 15 42	George calmly smiled. “Yale, don’t grow complacent. Although there aren’t formal requirements for students, every year, there will be an ability test. Only if you advance a rank in power can you advance a grade. If you don’t work hard, do you plan to stay here for a century? What’s more, the Ernst Institute has a rule that if one does not become a magus of the sixth rank in sixty years, one will be expelled, no exceptions.”
+
+
+score: 0.577197, para: 02 20 15	George had just been yelled at by Rand, so right now, he was in no mood to give Rand any face either. “Rand, let me tell you something. Know your own limits. Many of the experts in our school simply don’t deign to participate in the yearly tournament. Don’t really believe that you are something special.”
+
+

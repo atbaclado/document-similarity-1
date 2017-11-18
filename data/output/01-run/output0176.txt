@@ -1,0 +1,15 @@
+source_doc: 1 3	“However, our clan still has hope. Perhaps in the future, one of our descendants will have the requisite density of dragonblood in their veins, and meet the requirements to become a Dragonblood Warrior. If they meet the requirements, after just a few decades of training, they would be able to become a true, full Dragonblood Warrior. And at that time, the Baruch clan would once more be restored to the glorious days of yore, when we were known as the Dragonblood Warrior Clan!” Hogg’s eyes shone. “Linley, you are six and a half now. According to our rules, at your age, the test to see if your blood has a high density of dragonblood will be fairly accurate. Today, I am going to test you.”
+
+
+score: 0.737655, para: 2 11	In the past, when the first, second, and third generation of Baruch clan members were all Dragonblood Warriors, the clan was in its glorious ascendancy. At that period in time, it wasn’t impossible to procure the blood of a Saint-level dragon.
+
+
+score: 0.731077, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.697213, para: 1 13	Hogg replied, “Let’s discuss this question later. Linley, you should know that in the Yulan continent, an average person’s lifespan is around 120-130 years. Powerful magi and warriors can live for longer, usually up to two or three hundred years, or sometimes even four hundred years. The absolute limit to a person’s lifespan is five hundred years. Only those who have attained the legendary power of Saint-level combatants can live eternally, unbound by the dictates of time.”
+
+
+score: 0.693896, para: 1 2	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+

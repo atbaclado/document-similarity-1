@@ -1,0 +1,15 @@
+source_doc: 1 7	“East. It came from the east.” Linley immediately discerned the direction.
+
+
+score: 0.762758, para: 1 1	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+
+score: 0.762758, para: 1 13	Linley immediately understood.
+
+
+score: 0.762758, para: 1 22	“Magical incantations!” Linley immediately said.
+
+
+score: 0.762758, para: 1 23	Hearing this news, Doehring Cowart was immediately ecstatic.
+
+

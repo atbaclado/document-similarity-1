@@ -1,0 +1,15 @@
+source_doc: 1 22	Doehring Cowart began to laugh. “Fine, I’ll test you right away.”
+
+
+score: 0.651610, para: 1 20	“Grandpa Doehring?” Linley tested the mental link.
+
+
+score: 0.637117, para: 1 23	“Now, it’s time for the second test, to test your spiritual energy.” Doehring Cowart looked at Linley solemnly.
+
+
+score: 0.636957, para: 1 21	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+
+score: 0.635383, para: 1 1	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+

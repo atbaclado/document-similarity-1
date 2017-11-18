@@ -1,0 +1,30 @@
+source: 01 22 1	Actually, all of the elemental styles, including earth-style, had their own particular strengths. But as a Saint-level Grand Magus of the earth-style, it was only natural that Doehring Cowart would strongly praise the earth-style. The eight year old Linley, upon hearing Doehring’s words, was filled with eagerness.
+
+
+score: 0.683145, para: 02 8 40	“Age, eight. Elemental essence affinities – Earth and Wind, affinity level of exceptional for both! Fire affinity, average.” That bald elder felt his heart thumping wildly. Most magi had average elemental essence affinity. Even high elemental essence affinities were quite rare, and as for exceptional affinity…exceptional affinity was ridiculously rare!
+
+
+score: 0.675433, para: 02 5 19	Linley couldn’t help but feel a deep sense of veneration for Doehring Cowart from his heart. A Saint-level Grand Magus of the Pouant Empire, and one of the most powerful persons in the Yulan continent. And now, Doehring Cowart was carefully instructing himself in magic. How fortunate Linley was!
+
+
+score: 0.672668, para: 01 13 20	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.672060, para: 02 9 19	His face suffused with happy red glow, the bald elder announced in a clear voice, “Spiritual essence, eighteen times that of his peers, high-level. High spiritual essence, exceptional elemental affinity.”
+
+
+score: 0.669377, para: 02 24 20	This person simply had too much natural talent. He was born with tremendous spiritual essence, and he had exceptional elemental affinity as well. Clearly, he must have accumulated mageforce very quickly as well.
+
+
+score: 0.655355, para: 02 18 71	They all knew how hard Linley trained. Although in their year, there were geniuses who had exceptional levels of elemental affinity and spiritual essence, in terms of being hard-working, none of them could match Linley. And with Linley being dual-element…in their hearts, all of them believed that Linley was most likely the most powerful amongst the first grade students.
+
+
+score: 0.648995, para: 02 16 22	Doehring Cowart laughed self-confidently. Stroking his white beard, he said, “Naturally. A Saint-level Grand Magus’ understanding of magic is far greater than that of a magus of the eighth or ninth rank. The Saint-level is a totally new realm of existence. Naturally, my teachings regarding magic are more profound and point more directly to the underlying nature of magic.”
+
+
+score: 0.645262, para: 02 8 46	Doehring Cowart squeezed out a smile. “Linley, I did tell you early on that I could only test for the earth elemental essence affinity. Right. When you absorbed natural elemental essence, did you never sense any wind essence?”
+
+
+score: 0.639993, para: 02 13 36	Exceptional elemental essence affinity was already extremely rare, but Linley was not only dual-element, but had exceptional affinity for both the wind and the earth elemental essences. This was a true talent, one rather more formidable than even himself. After all…dual-element magi were extremely powerful.
+
+

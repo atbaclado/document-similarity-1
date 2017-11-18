@@ -1,0 +1,15 @@
+source_doc: 1 5	Looking at Linley, Hogg sighed in his heart. “Sculpting? Oh, child. Do you know that in the past, I also practiced sculpting? I spent ten full years of my life trying to learn. But unfortunately, my sculptures weren’t worth a single coin.” Hogg, too, had once foolishly dreamed of becoming a master sculptor and thereby improving his clan’s situation.
+
+
+score: 0.697794, para: 1 3	“Linley, at this point in time, the Baruch family just consists of you, me, and your little brother. I don’t have any extravagant hopes. I’ve never dared to dream of becoming a Dragonblood Warrior.” Hogg laughed at himself satirically. How could becoming a Dragonblood Warrior be an easy task?
+
+
+score: 0.656999, para: 1 19	Linley felt as though his entire mind had been turned muddy. This old grandpa had suddenly appeared out of nowhere, and claimed that he was a Grand Magus from the era of the Pouant Empire, which had been destroyed five thousand years ago. What could be more ridiculous than this?
+
+
+score: 0.652113, para: 1 1	“This kid really has the daring to dream big. The country of Fenlai has millions of citizens, but even so, after countless centuries, it hasn’t produced a single Saint-level warrior. To want to become a Saint-level warrior…” In Hillman’s mind, he fully understood how difficult it was to become a Saint-level warrior.
+
+
+score: 0.648667, para: 1 2	“Young master Linley, your father is looking for you. Let me carry young master Wharton.” A brandy-nosed old man walked over. This brandy-nosed old man was the Baruch clan’s housekeeper, Hiri (Xi’li). In the entire manor, aside from the housekeeper, there wasn’t even a serving girl.
+
+

@@ -1,0 +1,20 @@
+source: 01 3 17	“After Hazard Baruch, the fourth Dragonblood Warrior appeared, nearly a thousand years later. And then, after fifteen hundred years passed, which is to say tens of generations later, the fifth Dragonblood Warrior finally appeared in our clan. But in the thousand years from then until now, not a single Dragonblood Warrior has shown up.”
+
+score: 0.999524, para: 01 2 17	“After Hazard Baruch, the fourth Dragonblood Warrior appeared, nearly a thousand years later. And then, after fifteen hundred years passed, which is to say tens of generations later, the fifth Dragonblood Warrior finally appeared in our clan. But in the thousand years from then until now, not a single Dragonblood Warrior has shown up.”
+
+score: 0.666006, para: 01 4 19	A warrior of the ninth rank could be considered the most powerful expert in the entire country of Fenlai. A warrior of the eighth rank, although unable to restore the Baruch family to its former glories, would be able to dramatically improve its current situation.
+
+score: 0.666006, para: 01 4 19	A warrior of the ninth rank could be considered the most powerful expert in the entire country of Fenlai. A warrior of the eighth rank, although unable to restore the Baruch family to its former glories, would be able to dramatically improve its current situation.
+
+score: 0.666006, para: 01 4 19	A warrior of the ninth rank could be considered the most powerful expert in the entire country of Fenlai. A warrior of the eighth rank, although unable to restore the Baruch family to its former glories, would be able to dramatically improve its current situation.
+
+score: 0.666006, para: 01 4 19	A warrior of the ninth rank could be considered the most powerful expert in the entire country of Fenlai. A warrior of the eighth rank, although unable to restore the Baruch family to its former glories, would be able to dramatically improve its current situation.
+
+score: 0.651764, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+score: 0.651764, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+score: 0.651764, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+score: 0.651764, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+

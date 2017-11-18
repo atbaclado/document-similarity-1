@@ -1,0 +1,27 @@
+source: 02 15 9	“Magical beast, it’s a magical beast! I’ve seen them in books.” Yale suddenly shouted.
+
+
+score: 0.599955, para: 02 14 20	Staring at his two dormmates, Yale became momentarily speechless as well. Besides Linley, the ghostly form of Doehring Cowart was holding his belly as he laughed uproariously. This made Linley ask him curiously, “Grandpa Doehring, why are you laughing?”
+
+
+score: 0.551318, para: 02 18 63	“Not necessarily. I also feel Linley’s been really sneaky.” Yale also looked at Linley. “Linley, have you become a magus of the second rank?”
+
+
+score: 0.539033, para: 02 18 72	“It would be such a waste if you didn’t participate. Someone else is going to get the glory, once again, in the yearly tournament.” Yale mumbled. “Too bad I’m not strong enough. If I had your strength, Linley, I would’ve given a dazzling display long ago. Then, I would be able to seduce some pretty girls.”
+
+
+score: 0.538403, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.524798, para: 02 22 50	“Looks like some of the trainees who went to the Mountain Range of Magical Beasts were wounded. What group is this? We haven’t even been at the Ernst Institute for a year, but we’ve seen so many high level students who were injured outside.” Yale said casually.
+
+
+score: 0.519577, para: 02 21 24	“There they are.” Yale suddenly shouted loudly.
+
+
+score: 0.510507, para: 02 20 3	“Yeah!” Yale suddenly shouted loudly, his face filled with excitement. “That felt so good. Third bro, I didn’t expect you to be as strong as that!”
+
+
+score: 0.504014, para: 02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+

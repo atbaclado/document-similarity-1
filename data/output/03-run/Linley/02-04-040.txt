@@ -1,0 +1,30 @@
+source: 02 4 40	“Oh, the magus testing and recruiting event?” Linley suddenly remembered this event.
+
+
+score: 0.687376, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.645600, para: 02 5 34	Linley rubbed the little Shadowmouse’s head. “Alright, stop making a fuss. Tomorrow, I’m going to leave home and go to the capital. After the magus recruitment event is over, I’m going to be going to a magus academy. I’m afraid we won’t have many chances to meet after that.”
+
+
+score: 0.639308, para: 01 17 41	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.618270, para: 01 12 54	Hogg considered for a while, then said, “Linley, every year, when the army recruitment drive begins in deep autumn, in the royal capital of Fenlai City, there is a magus student recruitment testing drive. If you really wish to go, when autumn comes around, you can go take the test.”
+
+
+score: 0.614265, para: 02 9 12	“His name is Linley?” Some of the magus academy recruiters learned his name from the test administrators.
+
+
+score: 0.606543, para: 02 18 65	What was the big deal about becoming a magus of the second rank? Even before the magus testing event, he had already become a magus of the first rank. A full year had passed since then. If he still had not become a magus of the second rank, then all his hard work would’ve been totally pointless.
+
+
+score: 0.568432, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.560819, para: 01 21 39	Linley suddenly remembered the two Saint-level combatants who were fighting in the sky. He remembered how the green-robed man had landed that huge hazy sword-tip attack on the gray-robed man, whose robe shattered and revealed a diamond-like armor beneath it.
+
+
+score: 0.560225, para: 02 7 24	“Linley, get an early night’s rest. Tomorrow morning, you will participate in the magus assessment and recruitment event.” Hillman instructed.
+
+

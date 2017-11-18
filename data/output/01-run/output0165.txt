@@ -1,0 +1,14 @@
+source_doc: 1 3	Linley widened his eyes and began to read.
+
+
+score: 0.880033, para: 1 7	Linley widened his eyes and stared east…
+
+score: 0.781601, para: 1 13	Hearing these words, Linley’s eyes shone.
+
+
+score: 0.781601, para: 1 16	“Linley!” Hogg’s eyes turned red.
+
+
+score: 0.781601, para: 1 23	“What’s that?” Linley’s eyes widened.
+
+

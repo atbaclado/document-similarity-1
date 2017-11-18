@@ -1,0 +1,15 @@
+source_doc: 2 11	Doehring Cowart confidently nodded. “Of course. In the past, in the Pouant Empire, when a princess acquired a serious disease, in the end, the only method of curing her was a medicine that included a mixture of fresh dragon’s blood and Blueheart Grass. As a matter of fact, I was the one who personally caught a Saint-level dragon.”
+
+
+score: 0.634029, para: 2 6	A thick, dense black light began to emanate from the little Shadowmouse’s body. A droplet of fresh blood suddenly flew out from the corner of its mouth. That droplet of fresh blood had both Linley’s blood as well as the little Shadowmouse’s blood. That blood suddenly, bizarrely transformed into two opposite, interlocking black triangles, which the thick black light merged with, forming a strange magical formation which gave off a dark aura.
+
+
+score: 0.617677, para: 1 22	“First, let me tell you that the test for magical aptitude is a two-part test, so the test I am administering will also have two parts.” Doehring Cowart was behaving in an unusually generous manner. After having been trapped along in the Coiling Dragon Ring for five thousand years, of course he was now in a wonderful mood when faced with such a cute little child.
+
+
+score: 0.613037, para: 2 2	“Linley, don’t be discouraged. I only meant to say that there is no way for you to forcibly subdue him, I didn’t say that it is impossible to tame him at all.” Doehring Cowart laughed self-indulgently. “If he was an adult Shadowmouse, I probably wouldn’t be able to help, but…he’s just a baby Shadowmouse. As a Saint-level Grand Magus, I have some methods which can be effective in dealing with a baby Shadowmouse. In addition, there is no need for a soul-binding magical formation.”
+
+
+score: 0.612010, para: 1 12	Back then, aside from the initial bit of panic, he later only felt his blood boil and surge, filling him with a thirst for bloodletting. Linley, as well, had wondered at the time if it was because of the Dragonblood in his veins.
+
+

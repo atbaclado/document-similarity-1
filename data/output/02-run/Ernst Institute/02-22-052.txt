@@ -1,0 +1,20 @@
+source: 02 22 52	As a matter of fact, it was quite close to the Ernst Institute, perhaps just a hundred kilometers away. Generally speaking, those in good shape would be able to jog from the mountain range to the Ernst Institute in about half a day.
+
+score: 0.709719, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+score: 0.709719, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+score: 0.709719, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+score: 0.683043, para: 02 13 2	The Ernst Institutewas located in a rustic area approximately twenty kilometers south of the Holy Capital of Fenlai City. The Ernst Institute was founded and financially supported by the Radiant Church. Naturally, it was wealthy and knew how to throw around money. They took up a very large space, with a circumference of ten kilometers. Such a huge academy was nearly the size of a city.
+
+score: 0.683043, para: 02 13 2	The Ernst Institutewas located in a rustic area approximately twenty kilometers south of the Holy Capital of Fenlai City. The Ernst Institute was founded and financially supported by the Radiant Church. Naturally, it was wealthy and knew how to throw around money. They took up a very large space, with a circumference of ten kilometers. Such a huge academy was nearly the size of a city.
+
+score: 0.683043, para: 02 13 2	The Ernst Institutewas located in a rustic area approximately twenty kilometers south of the Holy Capital of Fenlai City. The Ernst Institute was founded and financially supported by the Radiant Church. Naturally, it was wealthy and knew how to throw around money. They took up a very large space, with a circumference of ten kilometers. Such a huge academy was nearly the size of a city.
+
+score: 0.676179, para: 02 16 25	Linley had it all planned out. Every day, he would spend some time outside training in magic. As for the place he would do the training…Linley had already chosen a place, a mountain located right behind the Ernst Institute. Being located near a mountain range, naturally there were many mountains near the Institute.
+
+score: 0.676179, para: 02 16 25	Linley had it all planned out. Every day, he would spend some time outside training in magic. As for the place he would do the training…Linley had already chosen a place, a mountain located right behind the Ernst Institute. Being located near a mountain range, naturally there were many mountains near the Institute.
+
+score: 0.676179, para: 02 16 25	Linley had it all planned out. Every day, he would spend some time outside training in magic. As for the place he would do the training…Linley had already chosen a place, a mountain located right behind the Ernst Institute. Being located near a mountain range, naturally there were many mountains near the Institute.
+

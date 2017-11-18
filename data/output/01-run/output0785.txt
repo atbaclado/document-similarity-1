@@ -1,0 +1,15 @@
+source_doc: 1 20	“Oh. Got it.” Linley snuck another peek at Doehring Cowart, his heart filled with questions. “What’s going on. From Uncle Hiri’s expression, it seems as though he can’t see Grandpa Doehring at all.”
+
+
+score: 0.653654, para: 2 5	“Farewell, father.” Linley said respectfully, and then smiled at little Wharton. “Wharton, your big brother is gonna leave now.”
+
+
+score: 0.640281, para: 2 5	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.635390, para: 1 11	Linley’s heart was suddenly filled with dread, as he stared at that far-off, distant figure.
+
+
+score: 0.628253, para: 1 1	Linley cracked a smile, revealing his small canines. “I’m fine, Uncle Hillman.” As captain of the Baruch clan’s guardsmen, Hillman had watched Linley grow up. Naturally, the two of them were very close.
+
+

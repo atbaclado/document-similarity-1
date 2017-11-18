@@ -1,0 +1,15 @@
+source_doc: 1 11	“Luke…Louisa…big brother Kerry…I will definitely avenge you all. Definitely.” The female archer cried bitterly, and as she did, she directed her griffin to fly still higher.”
+
+
+score: 0.647865, para: 1 15	“Captain, Lord Hogg ordered us to come assist you!” Twelve warriors had come flying out of the Baruch clan manor. As soon as they saw Hillman, they shouted at him.
+
+
+score: 0.645092, para: 1 19	“In year 4280 of the Yulan calendar, I encountered an old foe of mine, a Saint-level Grand Magus named Hamelin [Ha’mu’lin], and the two of us began to fight. I didn’t expect yet a second Saint-level combatant to ambush me and sneak attack me. In the end, I was defeated, and my body was destroyed. I didn’t wish for my spirit to be captured and tortured by my enemy, Hamelin, so I sealed myself within this Worldri-, ahem, this Coiling Dragon Ring.” The old man explained what had happened in the past.
+
+
+score: 0.619586, para: 2 5	“Farewell, father.” Linley said respectfully, and then smiled at little Wharton. “Wharton, your big brother is gonna leave now.”
+
+
+score: 0.609871, para: 1 23	“Such speed…I bet even Uncle Hillman, a warrior of the sixth rank, can’t catch it. How can it be so fast?” Seeing the cute mouse move tens of meters in just the blink of an eye, Linley felt astonished.
+
+

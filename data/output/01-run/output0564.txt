@@ -1,0 +1,15 @@
+source_doc: 1 14	That brown-haired child named Faura said with a sneer, “Everyone knows what a big talker you are. When do you ever speak the truth? Hey everyone, why don’t you guys speak for yourselves; has Hadley ever told the truth?” Faura said to the children next to him.
+
+
+score: 0.725513, para: 1 1	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+
+score: 0.662329, para: 1 21	He could tell that Grandpa Doehring was exclusively talking about wide-range, castatrophe-level magic.
+
+
+score: 0.645121, para: 1 1	“Uncle Hillman, tell us some stories!” As training ended, the children immediately began to call out. Every day, after the dawn lessons, Hillman would tell them stories of his army days, or some events which had happened on the continent.
+
+
+score: 0.635694, para: 2 2	“Grandpa Doehring, quick, tell me, what’s your plan?” Linley excitedly spoke to him mentally.
+
+

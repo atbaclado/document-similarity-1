@@ -1,0 +1,30 @@
+source: 02 9 28	A white-robed middle-aged man walked over. Smiling, he said, “Exceptional elemental affinity, high spiritual essence, and dual-element. Linley, our Ernst Institute would very much welcome you to join us. I don’t know if you would be willing to enter our Ernst Institute?”
+
+
+score: 0.636598, para: 02 19 17	“Linley, your current assignment is to train hard and build up your strength. As far as combat experience goes, when you become a magus of the fifth rank, you should enter the Mountain Range of Magical Beasts and enter a series of genuine life-and-death experiences.” Doehring Cowart persuaded Linley.
+
+
+score: 0.600676, para: 01 20 47	“Those who have the same spiritual power as me are most likely Saint-level combatants. Only Saint-level combatants can sense my presence, if barely. But of course, the prerequisite is that I appear outside the Coiling Dragon Ring. Once I enter the ring, there is no way they can find me.” Doehring Cowart smiled as he spoke.
+
+
+score: 0.582653, para: 01 6 10	“If I am able to find some valuable things and give them to father, no doubt he will be very happy.” Linley took a deep breath, then immediately entered a decrepit room next to the ancestral hall. Step by step, he walked carefully, wielding a sturdy wooden stick in his hands, which he used to strike down the cobwebs, allowing himself a more careful examination.
+
+
+score: 0.579109, para: 01 23 40	He couldn’t reveal the existence of Doehring Cowart to his father. Every morning and evening, he still needed to attend physical training, while later in the morning, he would have his lessons with his father on politics, religion, religious rites, warfare, geography, art…and all sorts of other lessons.
+
+
+score: 0.578019, para: 01 19 38	The old man smiled and nodded. “Linley, you must know that when most people die, their spirits will enter the Nether Realm! But because I was a Saint-level Grand Magus at the time of my death, my mental energy had obtained physical form. That was the only reason why I could temporarily resist the call of the Nether Realm and seal myself within the Coiling Dragon Ring. Right now, there is only one way for me to leave this ring – exhaust all of my remaining mental energy.”
+
+
+score: 0.576183, para: 02 19 28	“Rand? Right. I’ve heard you guys discuss him before. He was one of the new students who had exceptional elemental affinity and spiritual essence, right?” Linley remembered the name ‘Rand’.
+
+
+score: 0.575623, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.575083, para: 01 22 46	Meditation was one of the basic underpinnings of all magus’. It was needed for both absorbing elemental essence to transform it into mageforce, and for improving one’s spiritual energy. The first time entering a meditative state was the most difficult and dangerous one, but of course, under the guidance of a Saint-level Grand Magus, Linley wouldn’t find it too difficult.
+
+
+score: 0.574333, para: 02 3 57	“There’s no way that tiny little Wushan township is big enough for Linley.” Watching Linley enter the meditative trance to practice magic, Doehring Cowart felt a hint of excitement. “Sooner or later, he will bring an adult Violet Shadowmouse and step onto the endlessly broad stage that is the world of the Yulan continent.”
+
+

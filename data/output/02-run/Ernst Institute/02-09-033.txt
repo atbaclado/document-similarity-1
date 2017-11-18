@@ -1,0 +1,20 @@
+source: 02 9 33	Across the entire massive Yulan continent, each year the Ernst Institute only enrolled a scant hundred students!
+
+score: 0.708429, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.708429, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.708429, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.615904, para: 02 13 2	The Ernst Institutewas located in a rustic area approximately twenty kilometers south of the Holy Capital of Fenlai City. The Ernst Institute was founded and financially supported by the Radiant Church. Naturally, it was wealthy and knew how to throw around money. They took up a very large space, with a circumference of ten kilometers. Such a huge academy was nearly the size of a city.
+
+score: 0.615904, para: 02 13 2	The Ernst Institutewas located in a rustic area approximately twenty kilometers south of the Holy Capital of Fenlai City. The Ernst Institute was founded and financially supported by the Radiant Church. Naturally, it was wealthy and knew how to throw around money. They took up a very large space, with a circumference of ten kilometers. Such a huge academy was nearly the size of a city.
+
+score: 0.615904, para: 02 13 2	The Ernst Institutewas located in a rustic area approximately twenty kilometers south of the Holy Capital of Fenlai City. The Ernst Institute was founded and financially supported by the Radiant Church. Naturally, it was wealthy and knew how to throw around money. They took up a very large space, with a circumference of ten kilometers. Such a huge academy was nearly the size of a city.
+
+score: 0.587379, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.587379, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+score: 0.587379, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+

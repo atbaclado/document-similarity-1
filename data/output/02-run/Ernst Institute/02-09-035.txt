@@ -1,0 +1,20 @@
+source: 02 9 35	Every single student who enrolled into the Ernst Institute could be described as a genius!
+
+score: 0.641536, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.641536, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.641536, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+score: 0.625845, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.625845, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.625845, para: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+score: 0.592975, para: 02 13 39	Linley and Reynolds accepted their Ernst Institute student ID’s, then acquired their residence keys. At the Ernst Institute, all students, regardless of wealth and economic background, had to live together. Tuition fees and residence fees were totally waived.
+
+score: 0.592975, para: 02 13 39	Linley and Reynolds accepted their Ernst Institute student ID’s, then acquired their residence keys. At the Ernst Institute, all students, regardless of wealth and economic background, had to live together. Tuition fees and residence fees were totally waived.
+
+score: 0.592975, para: 02 13 39	Linley and Reynolds accepted their Ernst Institute student ID’s, then acquired their residence keys. At the Ernst Institute, all students, regardless of wealth and economic background, had to live together. Tuition fees and residence fees were totally waived.
+

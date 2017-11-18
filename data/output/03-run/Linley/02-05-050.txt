@@ -1,0 +1,30 @@
+source: 02 5 50	Little Wharton immediately squinted towards Linley. In a sad voice, he said, “Big brother, bye bye!”
+
+
+score: 0.670395, para: 02 3 31	The black Shadowmouse immediately moved and in the blink of an eye, appeared over ten meters away. His two guileless eyes stared towards the doorway, and he immediately saw Linley. His eyes were filled with caution.
+
+
+score: 0.625642, para: 02 6 15	The little Shadowmouse just stared at Linley with pitiable sad eyes, as though he were about to cry
+
+
+score: 0.616658, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+
+score: 0.614840, para: 01 22 43	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+
+score: 0.610607, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.610556, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.604529, para: 01 7 36	By this time, all three squads had already lined up. Hillman was speaking, but upon hearing Linley’s footsteps, Hillman’s cold gaze couldn’t help but shoot towards him.
+
+
+score: 0.601868, para: 02 4 17	It seemed as though this time, the little Shadowmouse had enjoyed his meal very much. He was so happy that he immediately began to hop up and down while squeaking at Linley, while even hugging Linley’s leg with his own front arms. Linley couldn’t help but feel pleased; this was the first time that the little Shadowmouse had acted so intimately towards him, even after eating.
+
+
+score: 0.600638, para: 02 4 9	Next to him, Doehring Cowart smiled merrily at the little Shadowmouse, which didn’t notice his presence at all. Doehring Cowart said with a smile, “Looks like he’s already feeling quite close to you.”
+
+

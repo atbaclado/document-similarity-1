@@ -1,0 +1,15 @@
+source_doc: 2 1	After all, the more powerful a magical beast is, the more importance it attaches to protecting its young. Although it wasn’t too clear why this young Shadowmouse had appeared within his manor, it was an indisputable fact that it was indeed here, alone.
+
+
+score: 0.674185, para: 1 13	Linley wanted a magical beast of his own as well, such as a powerful Velocidragon.
+
+
+score: 0.671280, para: 2 2	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.664037, para: 1 13	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+
+score: 0.660853, para: 1 21	“Linley…in the entire world, isn’t it true that most battles and most magi are on the earth? And when used while standing on the earth, earth-style magic is extremely effective.” A smile was on Doehring Cowart’s face. “As you stand firmly on the boundless earth, an earth-style magus will have an extremely effective assistant.”
+
+

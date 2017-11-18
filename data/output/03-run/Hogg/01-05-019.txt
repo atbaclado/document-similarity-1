@@ -1,0 +1,12 @@
+source: 01 5 19	Philip turned to look at Hogg. “Hogg, I must say, although I like this stone sculpture very much, the artisanship of this ‘Fierce Lion’ sculpture cannot be considered to be top tier, much less the masterpieces of those grandmaster sculptors.”
+
+
+score: 0.531397, para: 02 4 63	Linley chuckled, then turned to look at Hogg. “Father, there must be many magus academies. Which ones are good? Right, are there any combined magus academy/warrior academy schools?”
+
+
+score: 0.530576, para: 01 4 63	“Today, we will study art,” Hogg said coldly. “As the descendent of a noble family, you must have a thorough understanding and appreciation of art. Art is what gives noblemen an aura of gravitas!” Hogg pulled out a large tome as thick as a fist, immediately opening it.
+
+
+score: 0.512038, para: 02 23 36	“Who should I sell the stone carving screen in the bedroom to? Philip is too stingy, he won’t give a good price.” Hogg was pondering nonstop.
+
+

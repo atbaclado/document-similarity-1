@@ -1,0 +1,30 @@
+source: 02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+
+score: 0.637790, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+
+score: 0.618484, para: 02 20 44	Linley, Yale, Reynolds, and George all left the hotel as well, directly heading for the arena.
+
+
+score: 0.602944, para: 02 14 6	Immediately upon seeing Linley and Reynolds, the young man’s eyes brightened, and he excitedly ran over. “Haha, you guys are my dormmates, right? I’ve waited so long for you guys. Up til now, it’s just been me here. Lemme introduce myself. My name is Yale [Ye’lu], and I suppose I just barely qualify as a member of the Holy Union.”
+
+
+score: 0.600459, para: 02 20 43	Reynolds and George were also excited. Linley nodded as well as he calmly chuckled, “Someone wants to give us ten thousand gold? How can we refuse?”
+
+
+score: 0.595290, para: 02 20 81	“Linley, you are too awesome. You won your bros a lot of face!” Reynolds immediately ran over and embraced Linley, who had stepped down.
+
+
+score: 0.584738, para: 02 22 26	“Grandpa Doehring, Grandpa Doehring?” Linley mentally called out a few times. But seeing that Doehring Cowart was still lost in his thoughts, Linley no longer tried to call to him. He followed Yale, Reynolds, and George to the experts’ hall. This hall really was different, as within the center of the main hall, each and every artist had their information recorded and the location of their displays recorded.
+
+
+score: 0.579321, para: 02 21 10	Reynolds and George were both calmly smiling as well, and were joking with Linley to the side.
+
+
+score: 0.572603, para: 02 14 42	“Is everyone here already?” A clear voice rang out, as a child walked into the room. Approximately the same height as Reynolds, this child looked a bit more mature. “Hello, everyone. My name is George [Qiao’zhi]. I’m ten, and I’m from the Yulan Empire.”
+
+
+score: 0.571633, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+

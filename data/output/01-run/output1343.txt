@@ -1,0 +1,15 @@
+source_doc: 2 9	“Linley, agree to him.” Hillman excitedly said.
+
+
+score: 0.751802, para: 2 2	“Grandpa Doehring, quick, tell me, what’s your plan?” Linley excitedly spoke to him mentally.
+
+
+score: 0.674075, para: 1 20	“Grandpa Doehring, can you really teach me to become a magus?” Linley excitedly looked up at old man Doehring.
+
+
+score: 0.668493, para: 2 5	“I didn’t expect that after I died, Ernst would become so incredible.” Doehring Cowart laughed faintly.
+
+
+score: 0.653313, para: 2 4	“Right. I got it.” Linley laughed as well.
+
+

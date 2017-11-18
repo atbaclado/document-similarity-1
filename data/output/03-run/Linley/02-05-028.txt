@@ -1,0 +1,30 @@
+source: 02 5 28	Because Linley, after all, was already a magus of the first rank.
+
+
+score: 0.701894, para: 02 4 63	Linley chuckled, then turned to look at Hogg. “Father, there must be many magus academies. Which ones are good? Right, are there any combined magus academy/warrior academy schools?”
+
+
+score: 0.664347, para: 02 9 21	“Linley, I come from the Welling [We’lin] Magus Academy. We…”
+
+
+score: 0.650541, para: 02 17 61	Linley’s wind-style magus instructor, the sixth-ranked magus Trey, frowned. “Hmm, the earth magic spell, ‘Shattered Rocks’? Based on its power, it should be of the second rank. An entry-level magus has come to the mountain to train? Who is it?”
+
+
+score: 0.632434, para: 01 8 23	“Uncle Lorry, what is that? Is that a magical beast?” Linley was the first to ask.
+
+
+score: 0.614523, para: 02 2 10	“Initiated by the magical beast?!” Linley was stunned.
+
+
+score: 0.613798, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+
+score: 0.613798, para: 02 6 28	“I’m fine,” Linley chuckled.
+
+
+score: 0.613798, para: 02 6 31	Linley and Hillman watched, stunned.
+
+
+score: 0.613798, para: 02 6 57	Could it be that Linley had just been hexed?
+
+

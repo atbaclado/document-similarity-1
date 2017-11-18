@@ -1,0 +1,12 @@
+source: 02 14 52	The eight-year old Reynolds and the ten-year old George were of the same height. Both were the shortest in the group. Linley was half a head taller than them, while Yale was the tallest of them all.
+
+
+score: 0.531858, para: 02 17 15	Knowing Linley’s temperament, Yale, Reynolds, and George all nodded.
+
+
+score: 0.527751, para: 02 15 29	Of the four bros, George was the most amiable and steadiest boy. Reynolds was the most childish one of them. Yale…was the playboy type. As for Linley, in the eyes of the other three boys, he was the most mysterious.
+
+
+score: 0.505480, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+

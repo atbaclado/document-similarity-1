@@ -1,0 +1,13 @@
+source_doc: 1 7	He saw a jet-black object in the shape of a ring lying peacefully on the ground. It was covered by a layer of dust, and was not at all catching to the eye.
+
+
+score: 0.645908, para: 1 4	Right now, Linley was only wearing trousers. His upper body was covered with sweat, and his body, as taut as a drawn bowstring, was lying on the ground. His hands were pressed fiercely to the ground, as straight as tree trunks, while the rest of his body was motionless. He was supporting himself from a push-up position, with just his hands and the tips of his toes! His entire body was taut!
+
+
+score: 0.641950, para: 1 17	Since his head was injured, the so-called ‘Coiling Dragon’ ring he wore underneath his clothes had also been stained by blood. But the blood on the Coiling Dragon ring seemed to have disappeared, like water into an endless ocean, as the strange black material slowly absorbed it all.
+
+
+score: 0.623030, para: 1 6	“How unlucky! My entire body is covered with dust now, and I bet training is about to start. I’d best go take a quick shower and put on some new clothes.” With a wave of his arm, Linley pushed open the door and departed the ancient room.
+
+score: 0.616217, para: 1 17	But since it was being worn underneath his clothes, no one could possibly notice the faint light coming off from the surface of the Coiling Dragon ring.
+

@@ -1,0 +1,30 @@
+source: 02 7 19	The Fragrant Pavilion Road, bustling with activity, often had many opulent carriages pass through it. After wandering the Fragrant Pavilion Road for a time, Hillman and Linley headed directly for an ordinary guesthouse to settle down.
+
+
+score: 0.627932, para: 01 6 25	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+
+score: 0.619769, para: 02 4 3	“Right, today I’ll give the little Shadowmouse some cooked meat.” Linley covered a wild chicken with a cloth sack, and then happily went to the back of the ancient courtyard in the manor.
+
+
+score: 0.618050, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.605631, para: 02 21 27	Doehring Cowart was seated next to Linley, enjoying the sun. Upon seeing the cavalry division, his eyes lit up as well. Very shortly, the four carriages and hundreds of riders arrived at the main gate. Three magi came out to greet them at the gate.
+
+
+score: 0.596390, para: 01 1 133	The amount of land the Baruch manor was built upon was actually quite large. Moss was growing on the walls, and all sorts of ivy creepers twined up the walls as well. The scars of time were very apparent on the walls. The Baruch manor located in Wushan town was the ancestral home of the Baruch clan. An ancestral home which had existed for over five thousand years and endured countless renovations continued to stand here.
+
+
+score: 0.595802, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.591901, para: 01 2 33	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+
+score: 0.583770, para: 01 6 5	“The ancestral hall is cleaned every month. Frankly speaking, in just a month, the ancestral hall won’t get too dirty. All I have to do is just casually wipe it down. I have almost an hour before training starts. What should I do?” Bored, Linley looked around in all directions.
+
+
+score: 0.579568, para: 02 3 43	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+

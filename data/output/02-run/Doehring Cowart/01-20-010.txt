@@ -1,0 +1,20 @@
+source: 01 20 10	“Linley, don’t be worried. Your aptitude for magic hasn’t even been assessed yet. Who knows if it will be high or low? Perhaps you will have a tremendous talent for magic.” Doehring Cowart stroked his white beard as he smiled.
+
+score: 0.672715, para: 01 19 53	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.01 20 3	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+score: 0.672715, para: 01 19 53	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.01 20 3	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+score: 0.672715, para: 01 19 53	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.01 20 3	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+score: 0.672715, para: 01 19 53	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.01 20 3	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+score: 0.645853, para: 01 21 43	“This is why I told you that earth-style magic is the mightiest elemental style of them all.” Doehring Cowart’s white beard fluttered about, making him look all the more self-satisfied.
+
+score: 0.645853, para: 01 21 43	“This is why I told you that earth-style magic is the mightiest elemental style of them all.” Doehring Cowart’s white beard fluttered about, making him look all the more self-satisfied.
+
+score: 0.645853, para: 01 21 43	“This is why I told you that earth-style magic is the mightiest elemental style of them all.” Doehring Cowart’s white beard fluttered about, making him look all the more self-satisfied.
+
+score: 0.645853, para: 01 21 43	“This is why I told you that earth-style magic is the mightiest elemental style of them all.” Doehring Cowart’s white beard fluttered about, making him look all the more self-satisfied.
+
+score: 0.632019, para: 01 22 23	“Linley, a large amount of mageforce draws out an even larger amount of elemental essence. If such a huge amount of force is not controlled by spiritual energy…what do you think the end result would be?” Doehring Cowart stroked his white beard as he quietly watched Linley.
+

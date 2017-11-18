@@ -1,0 +1,30 @@
+source: 02 23 11	Linley’s heart rate sped up dramatically.
+
+
+score: 0.602929, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 0.602929, para: 01 21 14	Linley’s heart was trembling.
+
+
+score: 0.584686, para: 01 5 6	Hearing these words, Linley felt his heart twinge.
+
+
+score: 0.577913, para: 01 6 9	Upon coming to this realization, Linley’s heart began to pound.
+
+
+score: 0.569401, para: 02 1 39	Hearing his words, Linley’s heart fluttered.
+
+
+score: 0.567559, para: 01 8 29	Linley’s heart trembled.
+
+
+score: 0.553616, para: 01 8 13	Linley felt as though his heart had stopped beating. Right now, it seemed as though all sound had faded away.
+
+
+score: 0.553585, para: 01 20 7	“Low talent, low accomplishments?” Linley felt his heart tremble.
+
+
+score: 0.528203, para: 02 20 76	Rand knew in his heart that just then, Linley had shown mercy.
+
+

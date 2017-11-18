@@ -1,0 +1,14 @@
+source_doc: 2 7	With a calm smile, Linley sat down on the bed and entered the meditative trance, beginning to gather energy.
+
+
+score: 0.687376, para: 1 22	After half an hour of instruction, Linley finally entered the meditative state for the first time.
+
+
+score: 0.675359, para: 1 22	“Come, let’s begin the test of the strength of your elemental affinities. Sit down with legs crossed, close your eyes, and enter a meditative state.” Doehring Cowart said gently.
+
+
+score: 0.653827, para: 1 1	“Remember, focus your concentration, maintain a calm mind, and breath naturally!” Hillman said coldly as he walked amidst the children.
+
+
+score: 0.649488, para: 2 3	“There’s no way that tiny little Wushan township is big enough for Linley.” Watching Linley enter the meditative trance to practice magic, Doehring Cowart felt a hint of excitement. “Sooner or later, he will bring an adult Violet Shadowmouse and step onto the endlessly broad stage that is the world of the Yulan continent.”
+

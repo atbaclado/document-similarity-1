@@ -1,0 +1,30 @@
+source: 02 16 8	“I expect only part of the students present are new. I wonder how long the others have spent here.” Linley wondered to himself.
+
+
+score: 0.749136, para: 01 19 8	Linley even wondered if he was in a dream!
+
+
+score: 0.582943, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.579377, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+
+score: 0.566717, para: 02 24 45	“You don’t believe me?” Doehring Cowart stared at him. “Back in the day, when Proulx was just a young kid, he came to me and earnestly begged me to allow him to view my sculptures. After analyzing my sculptures, that kid Proulx had a mental breakthrough which in the end allowed him to become a grandmaster sculptor. As a matter of fact, he can even be considered a student of mine.”
+
+
+score: 0.553988, para: 02 2 34	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.544086, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.526978, para: 02 17 68	Naturally, Trey recognized his own student. “This kid called Linley never talks in class. Even when experimenting in new spells, others will try them out, but he will just stand and watch from afar, never showing his strength. It seems…this kid called Linley is already a magus of the second rank. I remember him being one of our new students. Didn’t expect him to be so talented.”
+
+
+score: 0.526434, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+
+
+score: 0.521171, para: 02 20 52	“Today, I am going to engage in a magical duel with this kid Linley, with the loser paying ten thousand gold coins and having to avoid the other in the future. Everyone, please be my witnesses.” Rand said. He enjoyed the feeling of being watched by many. He didn’t suffer from any stage fright at all.
+
+

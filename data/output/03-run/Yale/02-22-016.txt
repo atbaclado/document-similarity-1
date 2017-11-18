@@ -1,0 +1,9 @@
+source: 02 22 16	Yale laughed as he explained. “But the experts’ hall is different. The experts’ exhibition is divided up into many individual rooms, with each sculpture in a room by itself. Generally speaking, an ‘expert’ is someone whose sculpting ability has received general acclaim, and most expert sculptures are worth around a thousand gold coins or so.”
+
+
+score: 0.608687, para: 02 14 26	“Right on.” Yale was quite knowledgeable about this. “The minimum starting balance for a magicrystal card is at least a thousand gold coins. But I’m afraid that a thousand coins wouldn’t be enough to even sustain a month’s worth of expenditures for me.”
+
+
+score: 0.513116, para: 02 21 41	“Hey, where is everyone going? Fenlai City has an incredible amount of places to have fun. East Fenlai City has lots of luxurious places to spend money with lots of beautiful waitresses, while West Fenlai City has many art museums, such as the famous Proulx Gallery.” Yale was very familiar with Fenlai City.
+
+

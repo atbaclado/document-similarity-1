@@ -1,0 +1,20 @@
+source: 01 15 34	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+score: 0.670799, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.670799, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.670799, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.578579, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.578579, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.578579, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.578579, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.551131, para: 01 12 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.551131, para: 01 12 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+

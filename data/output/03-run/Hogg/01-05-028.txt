@@ -1,0 +1,15 @@
+source: 01 5 28	Hogg’s face grew cold.
+
+
+score: 0.694879, para: 02 4 44	“What, you don’t want to go?” Hogg’s face, previously smiling, immediately grew cold as he frowned.
+
+
+score: 0.534778, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.517615, para: 02 4 57	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+
+score: 0.514336, para: 02 23 47	Staring at the mound of gold-colored sacks, Hogg immediately grew silent.
+
+

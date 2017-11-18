@@ -1,0 +1,18 @@
+source: 01 1 89	And Hillman really was a formidable warrior. He knew the important parts of training, and also knew how to increase the difficulty one step at a time. He knew what sort of tools to use with what ages. If it was too hard, it could make a child’s body collapse.
+
+
+score: 0.535540, para: 01 14 30	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.512197, para: 02 8 6	“Linley, here is the examination fee. Here is your proof of identification. Go quickly. Oh, and right, let the little Shadowmouse stay with me. It will be difficult to have the little Shadowmouse with you as you take the test.” Hillman said.
+
+
+score: 0.511615, para: 01 5 14	By his side, Hogg laughed. “Philip, stop wasting time with the child. Look, the ‘Fierce Lion’ you have desired for so long has arrived.” As he spoke, Hillman easily carried in the large sculpture into the hall, and then easily set it down.
+
+
+score: 0.506673, para: 02 6 55	“Linley, this…what…what is this?” Only now did Hillman recover from his stupor. His eyes couldn’t help but grow round with shock. “Linley, what was that black magical formation just now? What just happened? Are you okay?”
+
+
+score: 0.501236, para: 01 23 53	Due to his daily physical training exercises, Linley’s body was growing sturdier and sturdier. Because he often entered the meditative state and absorbed earth essence, Linley became calmer and more tranquil. Linley’s transformation caused his father Hogg and Hillman to both be amazed and overjoyed.
+
+

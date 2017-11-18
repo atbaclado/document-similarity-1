@@ -1,0 +1,6 @@
+source: 02 24 1	Many days later, at the Ernst Institute.
+
+
+score: 0.742931, para: 02 16 1	For the academic calendar of the Ernst Institute, every month, the first twenty eight days had classes. Only the last two days were free.
+
+

@@ -1,0 +1,30 @@
+source: 01 21 4	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+
+score: 0.677464, para: 01 22 2	“Grandpa Doehring, hurry up and test me and see if I have any aptitude for becoming an earth-style magus.” Linley was feeling extremely anxious.
+
+
+score: 0.617390, para: 01 20 12	“Grandpa Doehring, how does one test for magical aptitude?” Linley couldn’t help but grow eager.
+
+
+score: 0.602105, para: 01 20 10	“Linley, don’t be worried. Your aptitude for magic hasn’t even been assessed yet. Who knows if it will be high or low? Perhaps you will have a tremendous talent for magic.” Doehring Cowart stroked his white beard as he smiled.
+
+
+score: 0.591585, para: 01 3 21	Linley was stunned. “Testing the density of dragonblood in my veins? Test me?” Linley fully understood the implications of his father performing this test. This test would show whether or not he met the requirements for becoming a Dragonblood Warrior.
+
+
+score: 0.584081, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.579113, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+
+score: 0.570106, para: 01 17 41	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.554518, para: 02 25 63	Linley quickly and casually floated through the forests, while the little Shadowmouse ‘Bebe’ continued to chat with him nonstop through their mental link. “Boss, when are we gonna go to the Mountain Range of Magical Beasts to test our strength? You are already a magus of the fifth rank. You can begin to test yourself. And I, Bebe, will finally be able to show my awesome abilities.”
+
+
+score: 0.554111, para: 02 9 12	“His name is Linley?” Some of the magus academy recruiters learned his name from the test administrators.
+
+

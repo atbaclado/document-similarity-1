@@ -1,0 +1,15 @@
+source_doc: 2 8	“Looks like the testing procedures in this era is the same as it was in the past.” Doehring Cowart flew out of the ring and appeared next to Linley.
+
+
+score: 0.598743, para: 1 19	“Then Gramps, how is it that you appeared from within the ring just now?” Linley looked doubtfully at the old man.
+
+
+score: 0.568216, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.559777, para: 2 4	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.546673, para: 2 4	Hogg nodded. “People rarely visit the back courtyard, so its normal for there to be animals there. Right. In a week or so, the Fenlai City is going to begin another round of magical aptitude testing and magus recruitment. Do you want to participate?”
+
+

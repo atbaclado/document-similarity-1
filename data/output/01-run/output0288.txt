@@ -1,0 +1,15 @@
+source_doc: 1 5	Hogg sternly shook his head firmly. “The grandfather clock is not for sale! As for the sculpture, six hundred gold. Take it or leave it.”
+
+
+score: 0.712548, para: 1 3	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.699126, para: 1 12	“No idea. Didn’t notice.” Hillman shook his head as well.
+
+
+score: 0.647967, para: 1 12	Linley shook his head.
+
+
+score: 0.639910, para: 1 8	Hillman helplessly shook his head. He knew how stubborn Linley could be, and how hard it was to force him to change his mind. “Fine. Then stay behind me, do not go too far. As long as you stay next to me, I am confident that I can protect you.”
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 9	The magical formation immediately glowed with a white aura, and then a sense of pressure immediately flooded into Linley’s spirit.
+
+
+score: 0.675245, para: 2 6	The strange black magical formation separated into two, with one of the three black triangles flying into Linley’s body, and the other one flying into the little Shadowmouse’s body. Upon seeing this, the nearby Hillman was filled with shock and fear.
+
+
+score: 0.672319, para: 2 6	A thick, dense black light began to emanate from the little Shadowmouse’s body. A droplet of fresh blood suddenly flew out from the corner of its mouth. That droplet of fresh blood had both Linley’s blood as well as the little Shadowmouse’s blood. That blood suddenly, bizarrely transformed into two opposite, interlocking black triangles, which the thick black light merged with, forming a strange magical formation which gave off a dark aura.
+
+
+score: 0.666806, para: 1 18	The green-robed man stared coldly at the gray-robed man. He suddenly said in a fierce voice, “Rudi, if I can’t have it, then you won’t either!” A bright green light began to shine from within the green-robed man’s hands. Upon seeing this, the gray-robed man who had previously been standing so calmly on the head of the Black Dragon immediately grew startled and anxious. “Stop!”
+
+
+score: 0.661872, para: 2 10	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+

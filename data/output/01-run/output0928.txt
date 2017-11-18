@@ -1,0 +1,14 @@
+source_doc: 1 23	Linley’s chest was filled with boiling heat!
+
+
+score: 0.666055, para: 1 15	Hillman’s face was filled with urgency.
+
+
+score: 0.607960, para: 1 12	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+score: 0.599298, para: 1 12	Back then, aside from the initial bit of panic, he later only felt his blood boil and surge, filling him with a thirst for bloodletting. Linley, as well, had wondered at the time if it was because of the Dragonblood in his veins.
+
+
+score: 0.590800, para: 2 5	“I won’t let you down, father.” Linley’s words were filled with confidence.
+
+

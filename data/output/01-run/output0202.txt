@@ -1,0 +1,15 @@
+source_doc: 1 3	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.714256, para: 1 5	Philip’s eyes couldn’t help but narrow, but then he laughed. “Haha…Hogg, don’t be angry. I’m not saying that I don’t wish to buy it. I’m just telling the truth. How about this. I’ll buy this sculpture for five hundred gold coins. What do you think?”
+
+
+score: 0.710236, para: 1 13	“Last I heard, the going price was around ten thousand gold coins. And what’s more is, even if you had the money, there’s almost no market for it due to its rarity.” Hogg’s words forced Linley to laugh bitterly at himself.
+
+
+score: 0.701757, para: 1 5	Hogg hefted the sacks. Just based on weight alone, Hogg was certain that there really were six hundred gold coins in them, a hundred gold per sack. Hogg smiled and nodded. “Philip, how about staying and having dinner with us?”
+
+
+score: 0.685712, para: 1 9	“Wow, the price of that diamond…” Linley was shocked. “For it to be worth so much money, clearly this d’Bero shadow diamond must have some significance attached to it. Otherwise, it wouldn’t cause this magus to be willing to lower his status and try to forcibly buy it.”
+
+

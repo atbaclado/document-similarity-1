@@ -1,0 +1,15 @@
+source_doc: 1 19	He deeply desired that one day…
+
+
+score: 0.659611, para: 1 23	He experienced, for the first time, entering so deeply into the meditative state that he almost became unconscious.
+
+
+score: 0.589152, para: 1 20	This greatly surprised Linley.
+
+
+score: 0.545653, para: 1 22	Linley took a deep breath.
+
+
+score: 0.544508, para: 1 2	“Wharton, you can do it!” Linley encouraged him.
+
+

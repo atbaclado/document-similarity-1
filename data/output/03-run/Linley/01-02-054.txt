@@ -1,0 +1,30 @@
+source: 01 2 54	“Linley, come with me. Let’s go to the ancestral hall. Uncle Hiri, you know about the matters of my clan, so you can come as well.” Hogg smiled.
+
+
+score: 0.745017, para: 02 10 49	Late night, the Baruch family ancestral hall. Only Linley and his father were present.
+
+
+score: 0.697090, para: 01 3 44	“Our ancestral heirloom? What’s that? Why have I never heard about it?” Linley asked curiously.
+
+
+score: 0.679195, para: 02 5 4	“Our ancestral heirloom. For our ancestral heirloom to be lost to us is a humiliation that must be washed away.” Linley could also feel his heart grow heavy.
+
+
+score: 0.630513, para: 01 1 63	Linley, full name Linley Baruch, was the eldest son and heir to the Baruch clan, which ruled over the Wushan town. The Baruch clan was an extremely old clan. Once, it was extremely prosperous, but after thousands of years, it had only three members remaining. The clan leader, Hogg [Huo’ge] Baruch, and his two sons. The elder son was Linley Baruch, six years old. The younger son, Wharton [Wo’dun] Baruch, was just two years old. As for his wife, when she gave birth to the younger son, she died in the midst of childbirth. Linley’s grandfather also was dead, having lost his life in battle.
+
+
+score: 0.600235, para: 02 10 53	An ancient clan which had lasted five thousand years. The Dragonblood Warrior clan. Linley felt pride in his heart. But their ancestral heirloom had been lost.
+
+
+score: 0.595967, para: 01 3 61	Father and son held each other close. Only three members remained of the ancient Dragonblood Clan in this era. When would this decaying clan be able to regain the glory and honor it had in prior years? At this moment, lying against his father’s chest, Linley’s fists were clenched tightly!
+
+
+score: 0.595708, para: 01 4 34	As a member of a noble house, Linley’s education began from a young age. The five-thousand year old Baruch clan was even stricter regarding educational matters than even the royal families of most kingdoms were.
+
+
+score: 0.594916, para: 01 3 22	“Linley, wait here. I’ll go get the ‘Dragonblood Needle’.” Hogg clearly was very excited, as he immediately departed the ancestral hall for a nearby private room.
+
+
+score: 0.591410, para: 01 3 42	Linley rarely saw his father speak to him in such a manner. Normally, his father was always very strict and unyielding.
+
+

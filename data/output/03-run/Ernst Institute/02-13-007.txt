@@ -1,0 +1,30 @@
+source: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+
+score: 0.683824, para: 02 9 40	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+
+score: 0.614504, para: 02 23 1	Hillman was standing in a corner near the gate. Smiling, he walked over. “The Ernst Institute has extremely strict management. They actually denied me entrance and just had a guard go looking for you. I didn’t expect you would actually be outside.”
+
+
+score: 0.612769, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+
+score: 0.611371, para: 02 10 11	“Father, here’s the acceptance letter from the Ernst Institute.” Linley directly handed the admissions envelope to his father. Hogg was stunned for a moment, then quickly accepted the red envelope and removed the letter from within it. He carefully scanned the letter.
+
+
+score: 0.607387, para: 02 23 30	Linley tugged Hillman and said, “I won this magicrystal card from a rich kid who lost a magic duel with me. Let’s go to the Golden Bank of the Four Empires.” Right now, the guards at the Ernst Institute’s entrance no longer attempted to bar Hillman’s passage, because they recognized Linley, who had left earlier this morning.
+
+
+score: 0.585488, para: 02 17 16	Linley immediately walked off, quietly but quickly heading towards the mountains behind the school. There were thousands of students at the Ernst Institute, and there were also many magi who were researching new spells here. There were also many servers. In short, the Ernst Institute was a well-populated place.
+
+
+score: 0.584784, para: 02 9 43	In fact, immediately upon knowing Linley’s test results, he had recorded Linley’s details into the paperwork in the envelope. Because the white robed man believed without a doubt – no one would refuse an offer from the Ernst Institute!
+
+
+score: 0.581875, para: 02 24 26	As he said these words, Linley had already left the gates of the Ernst Institute and entered the back mountains. As he passed through the mountain forests, Doehring Cowart suddenly said, “Linley, go to a place next to the mountainside.”
+
+
+score: 0.568603, para: 02 10 44	Upon hearing that Linley had been admitted to the Ernst Institute, everyone present had become excited. One could easily understand that entering the Ernst Institute meant entering a certain destiny. In the future, Linley definitely would not be constrained by tiny little Wushan township.
+
+

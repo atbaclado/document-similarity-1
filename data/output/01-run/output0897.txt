@@ -1,0 +1,15 @@
+source_doc: 1 23	“Linley, can you feel it?” Doehring Cowart’s voice gently sounded in Linley’s mind.
+
+
+score: 0.708609, para: 1 20	“I hear you.” Doehring Cowart’s voice rang out in Linley’s mind as well.
+
+
+score: 0.701128, para: 1 5	Hogg’s voice was very fierce.
+
+
+score: 0.701128, para: 1 17	“Linley. Linley!” Hogg’s voice was quavering.
+
+
+score: 0.689921, para: 1 20	“There’s still some people who can sense my presence. Those whose spiritual presence are on par with me can feel my presence. But naturally…if I hide within the Coiling Dragon Ring, they definitely won’t be able to sense me.” Doehring Cowart’s voice sounded within Linley’s head.
+
+

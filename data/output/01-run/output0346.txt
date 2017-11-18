@@ -1,0 +1,15 @@
+source_doc: 1 7	At first glance, Linley felt that the sinuous carving on the ring seemed to be that of an earthworm.
+
+
+score: 0.612597, para: 1 19	“Fine, fine, call it the Coiling Dragon Ring if you wish.” The old man chuckled, not wanting to debate with Linley.
+
+
+score: 0.595236, para: 1 18	Fortunately, there was no one in Linley’s bedroom right now. Anyone entering the room would have been stunned. Linley, however, was still blissfully asleep, and didn’t notice at all that the Coiling Dragon ring was now floating.
+
+
+score: 0.568716, para: 1 17	Since his head was injured, the so-called ‘Coiling Dragon’ ring he wore underneath his clothes had also been stained by blood. But the blood on the Coiling Dragon ring seemed to have disappeared, like water into an endless ocean, as the strange black material slowly absorbed it all.
+
+
+score: 0.555579, para: 1 19	The Coiling Dragon Ring, by appearances, really did look quite plain. As the member of an ancient clan, Linley had a rather appraising eye.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 15	Although Linley was only eight years old, his running speed was on par with fourteen year olds. While running, Linley would often turn back to stare at the sky. That huge coiled Black Dragon and those two Saint-level combatants had fully captured his attention.
+
+
+score: 0.722726, para: 1 18	In the eastern sky, the gray-robed man still stood on the head of the Black Dragon which lay coiled in the sky. A self-assured smile was on his face, as he watched the green-robed man battle against his earthen giant.
+
+
+score: 0.705386, para: 1 23	Doehring Cowart flew out from within the Coiling Dragon Ring. Standing next to Linley, he looked at the black mouse with some surprise. “A magical beast, a Shadowmouse? And judging by its size, a Shadowmouse infant.”
+
+
+score: 0.689877, para: 2 1	“Magical beasts are divided into nine ranks. Magical beasts of the first rank are the weakest. And of course, above the ninth rank are magical beasts at the Saint-level!” Doehring Cowart smiled at Linley. “Linley, the weakest type of Stoneater Rat is the Grey Stoneater Rat. Stoneater Rats of the first to third ranks are all grey in color, with some minor shading differences. A Stoneater Rat, upon reaching the fourth rank, will see its fur turn pure silver. Upon reaching the seventh rank, its fur will turn gold! A gold-colored Stoneater Rat will at least be a magical beast of the seventh rank, and at most a magical beast of the eighth rank.”
+
+
+score: 0.683711, para: 1 18	“The ‘Stellar Sword Saint’ Dillon? Pity. I can’t kill him yet.” The gray-robed man said in a low voice. And then the Black Dragon underneath his feat, as though knowing his master’s wishes, flapped its enormous wings and went flying off into the southeastern direction.
+
+

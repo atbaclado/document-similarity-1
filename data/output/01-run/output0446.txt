@@ -1,0 +1,15 @@
+source_doc: 1 11	The sight of those enormous fire serpents and the inferno they had cast had totally shocked Linley, like he had never been shocked before. Each of the fire serpents was as terrifying as the Velocidragon. Seven of them together? They represented an utter apocalypse. Even the stone houses were disintegrated by their flames.
+
+
+score: 0.758019, para: 1 12	Again and again, the terrifying power of the ‘Dance of the Fire Serpents’ swam about in his mind’s eye. Those seven huge fire serpents and the tempest of flame they generated repeated in his mind over and over again, as well as how they instantly turned everything around them to ash, including the powerful warriors and magi of the small adventuring group.
+
+
+score: 0.738681, para: 1 19	In Linley’s mind, the huge body of the Velocidragon, the terrifying spectacle of the Dance of the Fire Serpents, and the countless boulders falling from the sky began to play over and over again, along with the spectacle of that proud man who stood on top of the Black Dragon.
+
+
+score: 0.711612, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.711504, para: 1 14	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+

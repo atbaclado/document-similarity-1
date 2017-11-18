@@ -1,0 +1,15 @@
+source_doc: 1 12	“Father.” Linley said respectfully. Suddenly, Linley felt confused. “Why is father smiling at me? And with this sort of expression?”
+
+
+score: 0.773404, para: 2 5	“Farewell, father.” Linley said respectfully, and then smiled at little Wharton. “Wharton, your big brother is gonna leave now.”
+
+
+score: 0.760512, para: 1 20	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+
+score: 0.729055, para: 1 20	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.724564, para: 1 2	“Um? Why did father change his clothes?” Seeing his father, Linley was filled with astonishment. While at home, his father normally wore only very simple clothes. Just then, while eating dinner, his father wore normal clothes. But now, he had switched to a set of very noble, beautiful apparel.
+
+

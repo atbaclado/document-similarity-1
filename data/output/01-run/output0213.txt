@@ -1,0 +1,15 @@
+source_doc: 1 4	“Well done, Linley! Hold it, hold it!” Hillman encouraged from the side.
+
+
+score: 0.689789, para: 2 6	“Uncle Hillman, hold it!” Linley finally managed to react.
+
+
+score: 0.679533, para: 1 1	“How long was I able to hold out?” Linley opened his eyes wide, looking around him.
+
+
+score: 0.672209, para: 1 2	“Wharton, you can do it!” Linley encouraged him.
+
+
+score: 0.651535, para: 1 10	“Killing someone. No big deal. No big deal.” Linley forced himself to think these words repeatedly. “When I grow up and join the army, I too will have to kill people. Gotta hold on. Gotta hold on.”
+
+

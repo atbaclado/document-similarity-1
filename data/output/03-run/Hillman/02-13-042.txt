@@ -1,0 +1,9 @@
+source: 02 13 42	Hillman, besides Linley, laughed. “Linley, the tuition waiver and rent waiver provided by the Ernst Institute is only for members of the Holy Union. All others have to pay an extremely high fee.”
+
+
+score: 0.627282, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.600092, para: 02 23 25	Hillman nodded. “The O’Brien Academy’s yearly tuition is approximately five thousand gold coins. Your father intends to have Housekeeper Hiri escort Wharton there and take care of him. The tuition fee really is high. In ten years, it’ll be fifty thousand gold coins.”
+
+

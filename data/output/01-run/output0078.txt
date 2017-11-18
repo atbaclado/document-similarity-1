@@ -1,0 +1,15 @@
+source_doc: 1 1	“These children are the hope and future of Wushan,” Hillman said with a smile.
+
+
+score: 0.662874, para: 1 15	Only now did the rest of the children awaken from their stupor. Although they didn’t understand why Hillman was pushing them to go back to their homes and wanted to continue watching the Saint-level combatants, Hillman’s awe-inspiring presence was still enough to send all of the children running speedily for their homes.
+
+
+score: 0.624028, para: 2 10	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+
+score: 0.601938, para: 2 5	Linley could feel the hope which Hogg was placing on him.
+
+
+score: 0.599999, para: 1 15	“Quick, take these children home!” Hillman immediately ordered.
+
+

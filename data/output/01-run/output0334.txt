@@ -1,0 +1,15 @@
+source_doc: 1 6	Hearing this, Linley couldn’t help but look behind him in alarm. “Oh no, it’s going to collapse!” While searching the other rooms, Linley had also destroyed a few other pieces of furniture, so by now, he was very experienced.
+
+
+score: 0.655128, para: 1 7	“Just now, I searched the ground and didn’t see a single rock. This must have come from the shattered drawers.” Thinking about the collapsed drawers, Linley couldn’t help but feel angry, and he viciously stomped on the piece of ‘shattered wood’ beneath his feet.
+
+
+score: 0.600783, para: 1 7	But for some reason, upon seeing the ring, Linley immediately felt that he had taken a liking to it. He suspected that it was most likely because this was the only thing he had discovered after spending a prodigious amount of effort in searching the manor.
+
+
+score: 0.596305, para: 2 3	Some of the stones still showed signs of being chewed on, but despite scanning inside the entire building, he couldn’t see even the shadow of the Shadowmouse. Linley couldn’t help but feel despondent and miserable. “Grandpa Doehring, the Shadowmouse isn’t here anymore. It was just an hour. Did it leave already?”
+
+
+score: 0.592459, para: 1 15	While running as fast as he could, Linley’s mind returned to the Black Dragon, its gray-robed rider, and the green-robed man. He couldn’t help but turn once again and look back at the eastern sky. Since all the buildings in the small town were fairly low in height, he could clearly see for hundreds of meters.
+
+

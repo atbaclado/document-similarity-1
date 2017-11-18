@@ -1,0 +1,14 @@
+source_doc: 1 13	Chewing on his lips, Linley furrowed his brows in thought.
+
+
+score: 0.805671, para: 1 12	Linley was kneeling on the bed, his brow furrowed in thought.
+
+
+score: 0.603951, para: 1 7	Linley widened his eyes and stared east…
+
+score: 0.585307, para: 1 16	“Linley!” Hogg’s eyes turned red.
+
+
+score: 0.585307, para: 1 23	“What’s that?” Linley’s eyes widened.
+
+

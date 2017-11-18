@@ -1,0 +1,15 @@
+source_doc: 2 2	By this point in time, Linley’s body was comparable to the average 15-16 year old in Wushan township, and possessed the strength of a warrior of the first rank.
+
+
+score: 0.780613, para: 1 13	Hogg shook his head. “Can’t you think this through yourself? Magi only have weak bodies in comparison to warriors of the same rank, and not in absolute terms. For example, a magi of the eighth rank might have the same physical strength of a warrior of the second or third rank, even if he never engaged in any physical training. But of course, compared to a warrior of the eighth rank, his body would be very weak indeed!”
+
+
+score: 0.706899, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.697620, para: 1 13	“Oh, right. Father, I read in one of the books that compared to a warrior, a magi’s physical strength is much weaker. But just then, I watched that magus jump down from the back of the Velocidragon with ease. How could his body be physically weak?” Linley pursued.
+
+
+score: 0.651142, para: 2 1	“Grandpa Doehring, then based on your words, this Shadowmouse is really amazingly fast. The Shadowmouse in front of me is slightly faster than even Uncle Hillman, but you are telling me that it is comparable to a Shadowmouse of the fourth rank. For a magical beast of the fourth rank to be faster than a warrior of the sixth rank…” Linley couldn’t help but sigh in amazement.
+
+

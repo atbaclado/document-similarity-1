@@ -1,0 +1,27 @@
+source: 02 8 48	Doehring Cowart now understood.
+
+
+score: 0.629049, para: 02 1 29	Doehring Cowart laughed. “Linley, if they weren’t so fast, why would they be called Shadowmice?”
+
+
+score: 0.594967, para: 02 3 9	“Um, no, I haven’t.” Doehring Cowart was forced to admit.
+
+
+score: 0.578205, para: 02 3 11	Doehring Cowart immediately understood.
+
+
+score: 0.538730, para: 02 1 37	Linley also agreed with Doehring Cowart’s words.
+
+
+score: 0.535076, para: 02 1 23	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+
+score: 0.526259, para: 02 4 28	Doehring Cowart laughed. “Things are progressing very well. Remember. You must have patience.”
+
+
+score: 0.510770, para: 02 2 25	“This method is clumsy, but very safe.” Doehring Cowart said with a smile.
+
+
+score: 0.502012, para: 02 1 39	Hearing his words, Linley’s heart fluttered.
+
+

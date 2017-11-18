@@ -1,0 +1,30 @@
+source: 01 6 22	He stared up at the sky.
+
+
+score: 0.793283, para: 01 7 47	Linley widened his eyes and stared east…
+
+
+score: 0.791137, para: 01 3 27	“Dragonblood Needle?” Linley guessed, as he stared at the long needle in his father’s hands.
+
+
+score: 0.781678, para: 02 14 34	“Decades?” Linley stared at Yale in shock.
+
+
+score: 0.739334, para: 02 2 45	In scant seconds, Linley finished his incantation, and his eyes lit up as he stared at the hare.
+
+
+score: 0.727732, para: 02 3 28	Linley stood at the doorway.
+
+
+score: 0.722725, para: 02 10 37	Linley stared at his father. From as far back as he could remember, he had never seen his father so happy.
+
+
+score: 0.715036, para: 02 25 74	“Met the threshold? Grandpa Doehring, do you mean?…” Linley stared at Doehring Cowart in amazement.
+
+
+score: 0.714676, para: 01 23 72	“A magical beast? Shadowmouse? It is so big! How can it be an infant?” Linley stared at Doehring Cowart in surprise.
+
+
+score: 0.694590, para: 01 3 41	Linley raised his head, staring at his father.
+
+

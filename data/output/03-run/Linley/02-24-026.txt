@@ -1,0 +1,30 @@
+source: 02 24 26	As he said these words, Linley had already left the gates of the Ernst Institute and entered the back mountains. As he passed through the mountain forests, Doehring Cowart suddenly said, “Linley, go to a place next to the mountainside.”
+
+
+score: 0.702167, para: 02 17 28	After departing from the school, Linley entered the mountain in the rear.
+
+
+score: 0.690692, para: 02 25 62	Totally ignoring the worshipful gazes aimed at him by bystanders, Linley calmly left the Ernst Institute by the back gate and entered the mountains, once more beginning his solitary training. Those six years which went by like one day were the reason for his success.
+
+
+score: 0.645886, para: 01 7 30	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.621551, para: 01 16 46	Three more boulders came crashing down near Linley, but moving like a panther, Linley continued to charge forwards, his gaze fixed on little Wharton as he finally entered the warehouse. Hiri, turning around, only now became aware of that two-meter long boulder descending towards the warehouse. His face immediately turned white.
+
+
+score: 0.608272, para: 02 17 16	Linley immediately walked off, quietly but quickly heading towards the mountains behind the school. There were thousands of students at the Ernst Institute, and there were also many magi who were researching new spells here. There were also many servers. In short, the Ernst Institute was a well-populated place.
+
+
+score: 0.597179, para: 01 7 20	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.581875, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+
+score: 0.581814, para: 02 12 48	Ever since he was born, Linley had never left home for an extended period of time, but this time, he would be gone for extremely long. At this moment, the little Shadowmouse, ‘Bebe’, was obediently perched on Linley’s shoulders, not making a sound, as if he sensed Linley’s thoughts. The nearby Doehring Cowart, in spirit form, also looked encouragingly at Linley.
+
+
+score: 0.581540, para: 02 10 56	“Wait a moment. I am going to get something.” Hogg suddenly turned and entered a hidden room next to the ancestral hall. Shortly afterwards, he returned with a thick book in hand. “Linley, take this and give it a good read. Memorize everything.”
+
+

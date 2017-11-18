@@ -1,0 +1,15 @@
+source_doc: 1 17	“Lord Hogg, Wushan township is in bad shape. Just then-….Lord Hogg? What’s wrong?” Hillman rushed into the manor. Just as he was beginning to report on the town’s situation, he saw that Hogg was standing there in a daze, not making a single sound.
+
+
+score: 0.672776, para: 1 4	“Big brother!” Upon seeing Linley, the healthy-looking Wharton rushed over.
+
+
+score: 0.626848, para: 2 6	The little Shadowmouse suddenly rushed in Linley’s direction.
+
+
+score: 0.626183, para: 1 16	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+
+score: 0.619689, para: 1 7	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+

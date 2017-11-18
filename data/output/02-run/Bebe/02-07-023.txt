@@ -1,0 +1,20 @@
+source: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+score: 0.706458, para: 02 15 24	“Reynolds, I’ll tell you a secret. Bebe loves to eat roast meat. If in the future, you can feed him some roast ducks or roast chickens, I believe that he won’t be very hostile to you.” Linley laughed upon seeing Reynolds eyes shine.
+
+score: 0.706458, para: 02 15 24	“Reynolds, I’ll tell you a secret. Bebe loves to eat roast meat. If in the future, you can feed him some roast ducks or roast chickens, I believe that he won’t be very hostile to you.” Linley laughed upon seeing Reynolds eyes shine.
+
+score: 0.706458, para: 02 15 24	“Reynolds, I’ll tell you a secret. Bebe loves to eat roast meat. If in the future, you can feed him some roast ducks or roast chickens, I believe that he won’t be very hostile to you.” Linley laughed upon seeing Reynolds eyes shine.
+
+score: 0.667724, para: 02 25 66	“Quiet. If you keep on making a fuss, then today I won’t help you cook meat.” As soon as Linley spoke these words, Bebe immediately shut his mouth and didn’t make a sound.
+
+score: 0.667724, para: 02 25 66	“Quiet. If you keep on making a fuss, then today I won’t help you cook meat.” As soon as Linley spoke these words, Bebe immediately shut his mouth and didn’t make a sound.
+
+score: 0.667724, para: 02 25 66	“Quiet. If you keep on making a fuss, then today I won’t help you cook meat.” As soon as Linley spoke these words, Bebe immediately shut his mouth and didn’t make a sound.
+
+score: 0.660350, para: 02 6 59	“Haha, I’m fine. It’s just that Bebe has become my magical beast, now.” Linley was extremely happy. “Come, Bebe, hop onto my shoulder.” Immediately, the little Shadowmouse let out a happy squeal, then scurried onto Linley’s shoulder.
+
+score: 0.660350, para: 02 6 59	“Haha, I’m fine. It’s just that Bebe has become my magical beast, now.” Linley was extremely happy. “Come, Bebe, hop onto my shoulder.” Immediately, the little Shadowmouse let out a happy squeal, then scurried onto Linley’s shoulder.
+
+score: 0.660350, para: 02 6 59	“Haha, I’m fine. It’s just that Bebe has become my magical beast, now.” Linley was extremely happy. “Come, Bebe, hop onto my shoulder.” Immediately, the little Shadowmouse let out a happy squeal, then scurried onto Linley’s shoulder.
+

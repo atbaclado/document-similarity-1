@@ -1,0 +1,15 @@
+source_doc: 1 8	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+
+score: 0.722497, para: 1 1	Roger and Lorry also gazed at the group of children. On the continent, virtually all of the children of commoners had to train hard from an early age. Seeing the kids, Roger and Lorry reminisced back to their own youth.
+
+
+score: 0.686179, para: 1 12	Upon hearing these words, Linley immediately understood. His father was happy at how he had not been terrified by the sight of the Velocidragon eating Luke alive.
+
+
+score: 0.650451, para: 1 1	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+
+score: 0.649331, para: 1 15	But Hillman quickly realized what was going on. Rapidly turning around, he shouted fiercely at all the children, “Everyone, go home right now! Go home and hide! NOW!” Hillman’s loud roar and his urgent expression stunned every child present.
+
+

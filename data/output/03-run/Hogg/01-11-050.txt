@@ -1,0 +1,30 @@
+source: 01 11 50	“Oh.” The mysterious magus’ face was still covered by his violet robes, preventing anyone from seeing his face. He lightly said, “Your town suffered some serious damages today. I annihilated this small adventuring party. On their bodies, there is sure to be a good amount of gold coins. The gold coins, no doubt, have been melted and reforged by my ‘Dance of the Fire Serpents’, but they are still worth some money. Just consider them yours, as my recompense for what Wushan town just went through.”
+
+
+score: 0.783861, para: 01 12 2	“Uncle Hiri.” Hogg immediately turned to look at his housetaker Hiri. “Immediately order some people to recover all of the melted gold from within those piles of ashes. This adventuring party was quite extraordinary as well. No doubt, they had a great deal of wealth on them. I hope they had enough to recompense the losses we have suffered today”
+
+
+score: 0.603709, para: 01 3 43	Staring at the rows of spirit tablets, Hogg’s eyes were filled with a dreary sadness. “My true goal is actually to recover the ancestral heirloom of the Baruch clan, passed down across the generations.”
+
+
+score: 0.598853, para: 01 3 47	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.583650, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.582475, para: 01 3 52	As the current clan leader, Hogg also had this desire, but the clan’s economic situation was in dire straits. 180,000 gold coins of gold? Even if they sold off the manor and all their possessions, they might not be able to produce such a vast sum.
+
+
+score: 0.577346, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.576700, para: 01 13 8	Putting down the glass of juice, Hogg nodded. “A single warrior, even a Dragonblood Warrior, can at most kill a hundred people with the swipe of a sword. When faced with a million man army, at best he could kill their leader, but when a leader dies, he can simply be replaced. But a Saint-level magus? If he chooses to utilize one of those powerful forbidden spells, he can annihilate an entire town or wipe out an army of hundreds of thousands. With an entire army destroyed, even if its leader survived, what’s the use? Thus, to a kingdom, a Saint-level magus is more terrifying than an entire enemy army.”
+
+
+score: 0.567882, para: 02 5 44	Hogg stood there, straight as a ramrod. Staring directly at Linley, he said, “Linley, Wushan township is located fairly close to the capital, just ninety or so kilometers away. You should be able to make it to the capital before nightfall. Remember, when you reach the capital, don’t cause any trouble. There are too many rich and powerful people in the capital.”
+
+
+score: 0.563246, para: 01 13 33	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+

@@ -1,0 +1,30 @@
+source: 02 15 7	“Whoah, what’s that?” Reynolds was so startled he jumped.
+
+
+score: 0.586235, para: 02 14 58	Linley and Reynolds both shook their heads.
+
+
+score: 0.579260, para: 02 14 11	“Exercise equipment?” Reynolds blinked at Yale. “Yale, what do you have those for? Are you going to be a warrior?”
+
+
+score: 0.579194, para: 02 13 23	“Coming.” Reynolds went to take the test.
+
+
+score: 0.579194, para: 02 14 33	Linley and Reynolds both started.
+
+
+score: 0.579194, para: 02 22 46	“Right on, right on,” Reynolds said from the side.
+
+
+score: 0.525323, para: 02 17 11	“Right. Really cute girls.” Reynolds opened his eyes wide and nodded.
+
+
+score: 0.515179, para: 02 14 1	“Whew, I’m exhausted. Linley, how come you are in such good shape?” Reynolds was panting for breath, but Linley didn’t feel anything.
+
+
+score: 0.511293, para: 02 21 42	“Beautiful waitresses? Okay okay, let’s go to East Fenlai City.” The eyes of that mischievious scamp Reynolds had begun to shine.
+
+
+score: 0.506627, para: 02 23 3	Yale, George, and Reynolds all smiled at Hillman, then entered the Ernst Institute.
+
+

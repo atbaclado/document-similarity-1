@@ -1,0 +1,30 @@
+source: 02 17 54	He had just taken another step towards his goals.
+
+
+score: 0.612548, para: 01 23 63	He crept closer, step by step.
+
+
+score: 0.577318, para: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.561816, para: 01 14 16	“Tell’m, Linley! Was I lying? Tell’m what happened!” Hadley rushed towards Linley, tugging Linley’s hand and secretly winking towards Linley.
+
+
+score: 0.535418, para: 02 4 51	“And Linley, you must know that Wushan township is not the stage on which you will perform. You must step onto a far wider stage.” Doehring Cowart said seriously.
+
+
+score: 0.521922, para: 01 6 24	Having made up his mind, Linley raced towards the large room.
+
+
+score: 0.517082, para: 02 13 32	“My turn.” Linley ran towards the test giver as well.
+
+
+score: 0.510975, para: 01 3 5	Hogg led Linley towards the area behind the many spirit tablets. Lifting him up, Hogg said, “Take a close look at those characters behind.”
+
+
+score: 0.504262, para: 01 23 7	This was his first step into the world of magic. Linley was filled with amazement.
+
+
+score: 0.500092, para: 01 15 34	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+

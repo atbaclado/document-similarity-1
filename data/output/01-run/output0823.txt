@@ -1,0 +1,15 @@
+source_doc: 1 21	Linley found this somewhat hard to believe.
+
+
+score: 0.837080, para: 1 8	“The magus was even more powerful than the Velocidragon?” Linley found this somewhat hard to believe.
+
+
+score: 0.755835, para: 2 6	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+
+score: 0.755835, para: 2 6	The little Shadowmouse said, somewhat excitedly, “Bei….bei….”
+
+
+score: 0.686271, para: 1 10	All of these things made it hard for Linley to breathe, and he felt dizzy.
+
+

@@ -1,0 +1,30 @@
+source: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.641019, para: 02 22 47	George and Linley glanced at each other, and couldn’t help but chuckle bitterly.
+
+
+score: 0.630434, para: 02 21 14	Reynolds, George, and Linley’s eyes all shone.
+
+
+score: 0.595206, para: 02 18 66	“You really reached it?” Yale, Reynolds, and George’s eyes all bulged out. None of them expected it to be true.
+
+
+score: 0.571522, para: 02 19 46	“Shut your mouth, George. This is none of your business.” Rand stared at Yale. “Yale, last time I saw you at the Fragrant Elm bar, your arrogant manner pissed me off. And now, this time, you dare to be so arrogant in front of me. If you have the ability, come and fight me. Why don’t you have the balls to fight?”
+
+
+score: 0.567337, para: 02 19 26	George chuckled but didn’t speak.
+
+
+score: 0.561810, para: 02 22 56	A familiar voice sounded out. Turning his head to look, surprised joy appeared on Linley’s face. “Uncle Hillman.”
+
+
+score: 0.538176, para: 02 21 10	Reynolds and George were both calmly smiling as well, and were joking with Linley to the side.
+
+
+score: 0.524125, para: 02 19 45	George smiled at everyone. “Rand, enough. It was wrong of us to so casually discuss you. Let’s just forget about it.”
+
+
+score: 0.512960, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+

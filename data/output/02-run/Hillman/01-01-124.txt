@@ -1,0 +1,20 @@
+source: 01 1 124	Slightly embarrassed, Hillman grinned, “Well, um, actually, I’m not too clear about exactly how powerful the Four Supreme Warriors are. After all, they are the stuff of legends. It’s been years since any were seen.”
+
+score: 0.960924, para: 01 120 124	Slightly embarrassed, Hillman grinned, “Well, um, actually, I’m not too clear about exactly how powerful the Four Supreme Warriors are. After all, they are the stuff of legends. It’s been years since any were seen.”
+
+score: 0.960924, para: 01 120 124	Slightly embarrassed, Hillman grinned, “Well, um, actually, I’m not too clear about exactly how powerful the Four Supreme Warriors are. After all, they are the stuff of legends. It’s been years since any were seen.”
+
+score: 0.960924, para: 01 120 124	Slightly embarrassed, Hillman grinned, “Well, um, actually, I’m not too clear about exactly how powerful the Four Supreme Warriors are. After all, they are the stuff of legends. It’s been years since any were seen.”
+
+score: 0.728980, para: 01 108 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+score: 0.728980, para: 01 108 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+score: 0.728980, para: 01 108 109	In Hillman’s eyes appeared a hint of excitement. His voice, however, remained calm. “On our continent, thousands of years ago, there appeared four powerful Supreme Warriors. All four of these Supreme Warriors possessed power comparable to an enormous dragon. They could wander amidst an army of millions at leisure, and easily take the head of any general! These Supreme Warriors were known as the Dragonblood Warrior, the Violetflame Warrior, the Tigerstriped Warrior, and the Undying Warrior!”
+
+score: 0.673047, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+score: 0.673047, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+score: 0.673047, para: 02 7 16	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+

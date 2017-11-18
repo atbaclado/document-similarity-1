@@ -1,0 +1,9 @@
+source: 02 19 25	Yale laughed. “It really was a shame. I didn’t expect Rand [Lan’de] to become number one in the end.”
+
+
+score: 0.729191, para: 02 20 79	“Linley, thank you!” Rand said, bowing, causing Yale and others to be startled. And then, Rand stared at Linley and said resolutely, “But there will come a day when I will defeat you.”
+
+
+score: 0.543074, para: 02 20 77	“Yale, tomorrow, bring Linley. I’ll go with you to the Golden Bank of the Four Empires local branch to transfer money. Ten thousand golds. I’ll keep my word.” Rand took a long look at the distant Linley. This defeat at Linley’s hands had totally woken Rand up from the arrogant haze of being a genius.
+
+

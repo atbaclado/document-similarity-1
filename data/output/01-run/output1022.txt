@@ -1,0 +1,15 @@
+source_doc: 2 2	“So it’s just a matter of coaxing a little kid.” Linley laughed.
+
+
+score: 0.770907, para: 2 4	Now this little Shadowmouse was doing the same!
+
+
+score: 0.770907, para: 2 6	“What’s the little Shadowmouse saying?” Linley didn’t really understand.
+
+
+score: 0.715448, para: 2 4	“This little guy is so adorable.” Linley was really beginning to like this little Shadowmouse more and more.
+
+
+score: 0.714711, para: 2 5	There was no way he could bring a little Shadowmouse into a magus academy.
+
+

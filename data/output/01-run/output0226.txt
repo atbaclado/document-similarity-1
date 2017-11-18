@@ -1,0 +1,15 @@
+source_doc: 1 4	Linley, exhausted, collapsed to the ground.
+
+
+score: 0.611670, para: 1 17	Housekeeper Hiri stood up from within the rubble.
+
+
+score: 0.595157, para: 2 3	Linley stood at the doorway.
+
+
+score: 0.595157, para: 2 10	Linley stood behind him without making a sound.
+
+
+score: 0.588954, para: 1 1	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+

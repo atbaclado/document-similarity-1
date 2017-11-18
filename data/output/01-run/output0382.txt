@@ -1,0 +1,15 @@
+source_doc: 1 8	“Too terrifying. Is there anyone who can possibly defeat such a creature?” Linley was scared stiff.
+
+
+score: 0.771684, para: 1 13	He wanted a Velocidragon of his own, but how could he possibly have the power to defeat one?
+
+
+score: 0.724395, para: 1 16	“How is that possible?!” Linley was truly scared silly.
+
+
+score: 0.647284, para: 1 17	Just then, when he saw Linley charge over to protect Wharton, Hogg had truly been scared silly. He had truly been terrified that his sons would’ve died, just like that.
+
+
+score: 0.615026, para: 2 6	“Linley, are you okay?” Hillman was starting to fear for Linley.
+
+

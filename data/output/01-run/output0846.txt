@@ -1,0 +1,15 @@
+source_doc: 1 21	This earth-style element really was a mighty one. When the Earthguard spell reached the Saint-level of power, it was composed entirely of diamonds! Linley knew that diamonds were an extremely hard and unyielding substance. And the ‘diamonds’ composing the Earthguard were no ordinary diamonds, but ones formed from magic, making them even tougher than real diamonds.
+
+
+score: 0.693977, para: 1 8	“The magus was even more powerful than the Velocidragon?” Linley found this somewhat hard to believe.
+
+
+score: 0.693545, para: 1 17	“The legendary earth-style incantation of the tenth rank, a forbidden spell – the earth element ‘World Protector’. The power of this ‘World Protector’is extremely terrifying. It’s considered the most powerful offensive spell available to an earth-style magus.” Staring at the earthen giant, Hogg’s face had grown cold as he spoke.
+
+
+score: 0.689545, para: 1 14	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+
+score: 0.678079, para: 1 13	“As for the second method, it is extremely complicated to set up a soul-binding magical array. Only a magus of the seventh rank, at the very least, could set up such an array.” Hogg said in a composed voice.
+
+

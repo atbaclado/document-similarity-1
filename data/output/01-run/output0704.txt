@@ -1,0 +1,15 @@
+source_doc: 1 18	Hogg was seated at a table, his forehead furrowed. As the controller of Wushan township, he absolutely had to think carefully about how to take care of his people.
+
+
+score: 0.590673, para: 2 11	Linley carefully flipped through it.
+
+
+score: 0.583961, para: 1 1	Aside from his perfect musculature, on Hillman’s bare upper body, there were countless knife scars, sword scars, and dozens of other old wounds. All of the children stared at those wounds, their eyes shining.
+
+
+score: 0.579655, para: 1 22	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+
+score: 0.570881, para: 1 2	This desk clock can be considered a high quality object. Generally, only wealthy or noble families had such a clock. At this moment, Linley’s father was seated next to the fireplace. The flames in the fireplace burned, constantly crackling and popping.
+
+

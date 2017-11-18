@@ -1,0 +1,30 @@
+source: 02 25 74	“Met the threshold? Grandpa Doehring, do you mean?…” Linley stared at Doehring Cowart in amazement.
+
+
+score: 0.824238, para: 02 10 37	Linley stared at his father. From as far back as he could remember, he had never seen his father so happy.
+
+
+score: 0.771619, para: 02 14 34	“Decades?” Linley stared at Yale in shock.
+
+
+score: 0.715036, para: 01 6 22	He stared up at the sky.
+
+
+score: 0.709082, para: 01 23 72	“A magical beast? Shadowmouse? It is so big! How can it be an infant?” Linley stared at Doehring Cowart in surprise.
+
+
+score: 0.704630, para: 02 6 41	Linley stared at the little Shadowmouse.
+
+
+score: 0.687927, para: 02 19 58	“Oh, and this one.” Rand’s eyes shone as he stared at Linley. “How come I never knew that in Yale’s dorm, there was someone such as you?”
+
+
+score: 0.679954, para: 01 20 21	“Oh. Got it.” Linley snuck another peek at Doehring Cowart, his heart filled with questions. “What’s going on. From Uncle Hiri’s expression, it seems as though he can’t see Grandpa Doehring at all.”
+
+
+score: 0.679090, para: 01 20 32	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+
+score: 0.677675, para: 01 3 32	Raising his head, Linley stared at his father, feeling extremely agitated. “Is the density of dragonblood in my veins sufficient? Why has father stared at the Dragonblood Needle for so long?” Linley had a bad premonition…
+
+

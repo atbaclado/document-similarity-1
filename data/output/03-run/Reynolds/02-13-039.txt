@@ -1,0 +1,12 @@
+source: 02 13 39	Linley and Reynolds accepted their Ernst Institute student ID’s, then acquired their residence keys. At the Ernst Institute, all students, regardless of wealth and economic background, had to live together. Tuition fees and residence fees were totally waived.
+
+
+score: 0.600738, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.550292, para: 02 14 25	“Magicrystal card?” Reynolds stared at him in amazement. “The magicrystal card is only offered by the ‘Golden Bank of the Four Empires’, which all four of the great empires established together. I heard that the processing fees for requesting a card totals a hundred gold coins.”
+
+
+score: 0.513217, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+

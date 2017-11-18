@@ -1,0 +1,30 @@
+source: 02 7 15	Having been nurtured and educated by the clan since his earliest days, Linley quickly managed to subdue his sense of excitement, making the expression on his face much more tranquil, at least superficially.
+
+
+score: 0.647471, para: 01 6 18	Linley was only eight years old, after all. Although the strict education of the clan helped him mature quickly, there was still a large gap between him and an adult. Naturally, he wouldn’t be able to consider things from a more complete point of view.
+
+
+score: 0.625156, para: 02 1 51	“Linley, you must be calm.” Doehring Cowart said solemnly. “Even if this is just a Violet Shadowmouse infant, his speed is comparable to a mature Shadowmouse of the fourth rank. Even your Uncle Hillman won’t be able to catch him. You simply don’t have the ability to forcibly subdue him, and you also are not able to utilize a soul-binding magical formation.
+
+
+score: 0.625143, para: 01 4 13	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.623060, para: 02 12 40	“Father, don’t worry. So long as I live, I will ensure that the ancestral heirloom of our Baruch clan is restored to us. I so swear!” Linley promised, meeting his father’s steely gaze, his own eyes filled with resolve as well.
+
+
+score: 0.619576, para: 02 5 19	Linley couldn’t help but feel a deep sense of veneration for Doehring Cowart from his heart. A Saint-level Grand Magus of the Pouant Empire, and one of the most powerful persons in the Yulan continent. And now, Doehring Cowart was carefully instructing himself in magic. How fortunate Linley was!
+
+
+score: 0.617767, para: 01 2 68	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.610637, para: 02 2 1	“Linley, don’t be discouraged. I only meant to say that there is no way for you to forcibly subdue him, I didn’t say that it is impossible to tame him at all.” Doehring Cowart laughed self-indulgently. “If he was an adult Shadowmouse, I probably wouldn’t be able to help, but…he’s just a baby Shadowmouse. As a Saint-level Grand Magus, I have some methods which can be effective in dealing with a baby Shadowmouse. In addition, there is no need for a soul-binding magical formation.”
+
+
+score: 0.610086, para: 02 1 53	His overheated mind suddenly calmed down. Laughing bitterly, he said, “Now I remember. To tame a magical beast, the first way is to forcibly subdue him, and the second way is to use a soul-binding magical formation, which can only be utilized by a magus of the seventh rank, at least.
+
+
+score: 0.608415, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+

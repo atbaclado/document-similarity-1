@@ -1,0 +1,15 @@
+source_doc: 2 7	In addition, it also served as the ‘Holy Capital’ of the Holy Union, because the Radiant Church itself was headquartered in the western part of Fenlai City.
+
+
+score: 0.624438, para: 1 4	“At the far northern end, the Holy Union shares a border with the O’Brien Empire. While at the southern end, the Dark Alliance intersects with the Yulan Empire. Under the guidance of the Radiant Church, the unity of our Holy Union isn’t one whit inferior to that of the empires.”
+
+
+score: 0.600341, para: 2 5	That’s right. In the past, when the Pouant Empire was still unified, the Radiant Church, the Cult of Shadows, and even the Pavilion of Divinities all had many churches within the empire. But all of those churches were under the control of the Pouant Empire.
+
+
+score: 0.598493, para: 2 5	“Ernst? The legendary Holy Emperor of the Radiant Church?” The nearby Doehring Cowart started.
+
+
+score: 0.560434, para: 1 4	“Linley, you must remember, we are currently living within the Holy Union. You must know everything about the Holy Union!” Hogg coldly looked at his son. “In the entire Yulan continent, the most important entities are the four empires and the two alliances.”
+
+

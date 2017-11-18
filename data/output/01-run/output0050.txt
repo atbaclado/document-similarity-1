@@ -1,0 +1,15 @@
+source_doc: 1 1	“Captain.” Lorry immediately straightened, awaiting his orders.
+
+
+score: 0.655427, para: 1 8	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+
+score: 0.616579, para: 2 3	Doehring Cowart immediately understood.
+
+
+score: 0.616579, para: 2 11	Linley immediately understood.
+
+
+score: 0.609702, para: 1 8	“Linley, why did you…” Lorry and Roger didn’t know what to say.
+
+

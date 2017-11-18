@@ -1,0 +1,30 @@
+source: 01 2 12	Hillman stared at the children, and said in a clear voice, “Brats, listen up! You are all men of Wushan town. The men of Wushan town must straighten their chests and welcome any challenges, and accept no fear. Am I understood?”
+
+
+score: 0.644099, para: 01 1 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+
+score: 0.640782, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+
+score: 0.594975, para: 01 1 30	A hint of a smile played at Hillman’s lips. He then moved to the front and took off his shirt. The lines running across the powerful muscles on his body made the eyes pop out of all of the kids. Even the children in the middle group and southern group couldn’t help but stare at him, admiring his physique.
+
+
+score: 0.592583, para: 01 1 45	Hillman laughed as he shook his head. “No way. In the past, when I was in the army, every day I would train like crazy, while on the battlefield, I engage in bloody close combat. Nowadays, all I’m doing is relaxing and stretching my muscles a bit in the morning. I’m not filled with as much energy as in the past.”
+
+
+score: 0.590810, para: 01 8 19	Upon hearing Hillman’s voice, everyone seemed to find their bearings again, and recovered from the state of stunned terror. But everyone present, including Roger and Lorry, didn’t dare make a single sound. They all stood behind Hillman and fearfully looked at the terrifying Velocidragon and the mysterious, violet robed magus.
+
+
+score: 0.588355, para: 01 1 46	All of the children stared worshipfully at Hillman.
+
+
+score: 0.585658, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+
+score: 0.583982, para: 01 1 147	“Linley, Uncle Hillman has faith in you. I’m sure you’ll become a Saint-level warrior.” Staring at Linley, Hillman spoke firmly. These words of encouragement caused Linley’s eyes to shine. In Linley’s heart, as well, a desire arose.
+
+
+score: 0.581513, para: 02 5 47	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+

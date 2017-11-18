@@ -1,0 +1,30 @@
+source: 01 20 10	“Linley, don’t be worried. Your aptitude for magic hasn’t even been assessed yet. Who knows if it will be high or low? Perhaps you will have a tremendous talent for magic.” Doehring Cowart stroked his white beard as he smiled.
+
+
+score: 0.645853, para: 01 21 43	“This is why I told you that earth-style magic is the mightiest elemental style of them all.” Doehring Cowart’s white beard fluttered about, making him look all the more self-satisfied.
+
+
+score: 0.632019, para: 01 22 23	“Linley, a large amount of mageforce draws out an even larger amount of elemental essence. If such a huge amount of force is not controlled by spiritual energy…what do you think the end result would be?” Doehring Cowart stroked his white beard as he quietly watched Linley.
+
+
+score: 0.602105, para: 01 21 4	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+
+score: 0.596051, para: 02 16 22	Doehring Cowart laughed self-confidently. Stroking his white beard, he said, “Naturally. A Saint-level Grand Magus’ understanding of magic is far greater than that of a magus of the eighth or ninth rank. The Saint-level is a totally new realm of existence. Naturally, my teachings regarding magic are more profound and point more directly to the underlying nature of magic.”
+
+
+score: 0.590660, para: 02 1 1	“Magical beast ‘Shadowmouse’? Grandpa Doehring, what special qualities does a Shadowmouse possess, and what rank does it have amongst magical beasts?” Linley and Doehring Cowart were mentally communicating, but at the same time, Linley was staring excitedly at him.
+
+
+score: 0.587497, para: 01 22 5	“Magical aptitude is divided into two parts – the strength of one’s magical affinity for certain elements, and the strength of one’s mental energy.” Doehring Cowart began to explain the basics of the test.
+
+
+score: 0.586276, para: 01 23 28	“If it was anyone else instructing you, at most you could become a magus of the fifth or sixth rank. However…since the person instructing you is me, the situation is now different.” Doehring Cowart stroked his beard contentedly, a look of self-confidence in his eyes.
+
+
+score: 0.576828, para: 01 22 36	“After countless years of magical experimentation, the magical system has essentially been perfected.” Stroking his white beard, Doehring Cowart laughed loudly. “Linley, don’t worry. In the future, there’s no need for you to bend the knee to any kingdom or any lord, because…I can teach you seventh, eighth, ninth, and even Saint-level spells!”
+
+
+score: 0.575902, para: 01 22 12	Doehring Cowart stroked his white beard, and contentedly said, “When casting spells, the most important thing for a magus is his ‘mageforce’ and his ‘mental energy’. If his mental energy is sufficiently powerful, he can even instacast spells, without need for any incantations. Magical incantations only serve a supplemental function.”
+
+

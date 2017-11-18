@@ -1,0 +1,15 @@
+source_doc: 2 1	“The weapons used by most armies cannot kill a Stoneater Rat, but a Stoneater Rat can easily kill and devour a soldier.” Doehring Cowart sighed again.
+
+
+score: 0.729370, para: 1 13	Putting down the glass of juice, Hogg nodded. “A single warrior, even a Dragonblood Warrior, can at most kill a hundred people with the swipe of a sword. When faced with a million man army, at best he could kill their leader, but when a leader dies, he can simply be replaced. But a Saint-level magus? If he chooses to utilize one of those powerful forbidden spells, he can annihilate an entire town or wipe out an army of hundreds of thousands. With an entire army destroyed, even if its leader survived, what’s the use? Thus, to a kingdom, a Saint-level magus is more terrifying than an entire enemy army.”
+
+
+score: 0.677285, para: 2 7	“If anyone threatens me or my family, I will kill them.” Linley said resolutely. After having read many history books about the rise and fall of noble families, Linley knew very clearly that showing mercy to enemies was the same as being merciless to oneself.
+
+
+score: 0.667300, para: 1 13	“A powerful magical beast can protect the body of his magus, preventing enemies from getting close. This way, the magus can immediately cast his attacking spells to kill his opponents.” Hogg smiled as he spoke.
+
+
+score: 0.654257, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+

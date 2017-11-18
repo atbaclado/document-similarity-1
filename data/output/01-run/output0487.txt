@@ -1,0 +1,15 @@
+source_doc: 1 12	Linley felt a thread of desire in his heart. “Although I am a member of the Dragonblood Warriors clan, the density of Dragonblood in my veins is too low. The fact that anyone with Dragonblood is totally unable to utilize any other battle-qi cultivating methods is something which will hold back my ability to develop my warrior abilities to the maximum. I wonder if it would be possible for me to be a magus, instead.”
+
+
+score: 0.751535, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.685374, para: 2 1	“Linley, you must be calm.” Doehring Cowart said solemnly. “Even if this is just a Violet Shadowmouse infant, his speed is comparable to a mature Shadowmouse of the fourth rank. Even your Uncle Hillman won’t be able to catch him. You simply don’t have the ability to forcibly subdue him, and you also are not able to utilize a soul-binding magical formation.
+
+
+score: 0.675666, para: 1 13	Looking at the expression on Linley’s face, Hogg couldn’t help but laugh. “Linley, first of all, I must tell you that in this world, there are elemental powers. Fire-type element, water-type element, wind-type element, earth-type element, lightning-type element, light-type element, and darkness-type element. Warriors and magi both rely on absorbing these elements from nature as part of their training. Both magic spells and battle-qi are fueled by and determined by a specific elemental type. If you had carefully observed, you would have been able to notice that in the adventuring party you saw earlier today, for the four warriors, the red-headed leader had fire-type battle-qi. The other three had either wind-type battle-qi, or water-type battle-qi. And just like battle-qi, the spells of magi also have elemental types!”
+
+
+score: 0.667107, para: 1 13	“The reason why powerful magi can live so long is because when magi absorb natural elemental energy into their body to generate pure mageforce, when the elemental energy flows through their body, it will naturally refine their apertures, their joints, and their flesh, making their bodies stronger and stronger. With a stronger body, naturally they will live longer. By the same logic, when warriors cultivate their battle-qi, they also absorb natural energy, which flows through their body and strengthens it. The more powerful a warrior is, the stronger his body will be. Naturally, he will live a long life.” Hogg explained everything in detail.
+
+

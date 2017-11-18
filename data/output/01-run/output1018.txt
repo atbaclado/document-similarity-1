@@ -1,0 +1,15 @@
+source_doc: 2 2	“But it is extremely difficult to convince a magical beast to willingly initiate the ‘bond of equals’,” Doehring Cowart continued more seriously. “You need to convince a magical beast that you are like family and make it decide that it cannot bear to part from you. Only then would it willingly enter a ‘bond of equals’ with you.”
+
+
+score: 0.776964, para: 1 13	“The requirements for the former are very difficult. For a magical beast to willingly subordinate himself to you, perhaps the only way is to defeat the magical beast in direct combat. Only then would he willingly follow you. For example, if you wanted to subdue a Velocidragon, you would first have to be able to defeat that Velocidragon in battle.” His father’s words rendered Linley speechless.
+
+
+score: 0.752234, para: 1 13	Seeing the expression on Linley’s face, Hogg couldn’t help but laugh. “There’s only two ways to acquire a magical beast companion. The first is to make the magical beast willingly subordinate himself to you and serve you. The second way is to use a soul-binding magical array to enslave the magical beast.”
+
+
+score: 0.724324, para: 2 6	Hillman was a worldly man, and of course he knew that taming a magical beast was an extremely difficult, extremely arduous matter. But just now, Linley had actually subdued a magical beast.
+
+
+score: 0.694990, para: 2 3	Linley smiled at the Shadowmouse, then tossed the wild hare in front of the doorway. Perhaps the Shadowmouse couldn’t understand human speech, but Linley understood that an intelligent magical beast should be able to understand the meaning of a smile.
+
+

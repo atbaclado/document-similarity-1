@@ -1,0 +1,13 @@
+source_doc: 1 2	Suddenly, Hogg turned and focused his gaze on Linley. In a weighty voice, he said, “Linley, today, there are many things that must be done. But first, let me tell you some of the history of our Baruch clan.”
+
+
+score: 0.645515, para: 1 19	Doehring Cowart stroked his white beard. His eyes shining, he said, “Of course I can! Your Grandpa Doehring is a Saint-level Grand Magus of the almighty earth style…and amongst all of the elements, the element of earth is the mightiest of them all!” As he began to discuss magic, Doehring Cowart began to get excited.
+
+score: 0.621686, para: 1 1	“Today, I will tell you about the legendary Four Supreme Warrior bloodlines which everyone in the continent knows about.” A look of awe appeared on Hillman’s face.
+
+
+score: 0.609996, para: 1 14	Uncle Hillman’s words were as clear and as hard as nails. His gaze was fierce and cold.
+
+
+score: 0.609777, para: 2 9	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”
+

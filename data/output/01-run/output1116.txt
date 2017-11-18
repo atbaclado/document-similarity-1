@@ -1,0 +1,15 @@
+source_doc: 2 4	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.856305, para: 2 7	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+
+score: 0.848661, para: 2 5	“I didn’t expect that after I died, Ernst would become so incredible.” Doehring Cowart laughed faintly.
+
+
+score: 0.839327, para: 2 11	Linley immediately laughed as well.
+
+
+score: 0.826327, para: 1 20	“Got it, Uncle Hiri,” Linley laughed in reply.
+
+

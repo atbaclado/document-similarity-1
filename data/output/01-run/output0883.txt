@@ -1,0 +1,14 @@
+source_doc: 1 22	“After countless years of magical experimentation, the magical system has essentially been perfected.” Stroking his white beard, Doehring Cowart laughed loudly. “Linley, don’t worry. In the future, there’s no need for you to bend the knee to any kingdom or any lord, because…I can teach you seventh, eighth, ninth, and even Saint-level spells!”
+
+
+score: 0.760877, para: 1 23	Aside from the Vampiric Iron Bull, the Griffin, the Velocidragon, and the Black Dragon magical beasts he had seen, this was the first time Linley had seen any other magical beasts. This adorable black mouse was actually a magical beast? A magical beast, with magical abilities?
+
+score: 0.745417, para: 2 2	“It’s normal for you not to have heard of it. Even five thousand years ago, during the era in which I lived, very few people know about the ‘bond of equals’.” Doehring Cowart’s eyes crinkled as he smiled. “A bond of equals represents that you and the magical beast share the same status in the relationship, with no one being the master or being the servant. As a matter of fact, a ‘bond of equals’ will give you a more intimate relationship with your magical beast, and your magical beast will more whole-heartedly assist you, giving the two of you superior teamwork.”
+
+
+score: 0.741478, para: 1 13	Seeing the expression on Linley’s face, Hogg couldn’t help but laugh. “There’s only two ways to acquire a magical beast companion. The first is to make the magical beast willingly subordinate himself to you and serve you. The second way is to use a soul-binding magical array to enslave the magical beast.”
+
+
+score: 0.732877, para: 2 2	“Adult magical beasts have very high intelligence, so if you want to move the heart of an adult magical beast and make it view you as family, it is almost impossible.” Doehring Cowart sighed. “But juveniles are different. It is much like how human babies have low intelligence and can easily be tricked into liking you by, say, giving them some tasty food. The intelligence of magical beast babies is even lower. As long as you often feed him, he will like you. Then, spend some time playing with him. In a short period of time, this magical beast will come to adore you. This is especially true for an infant magical beast who has been separated from his community. Those are even easier to tame.”
+
+

@@ -1,0 +1,30 @@
+source: 01 1 92	All of the commoners were extremely eager to learn battle qi. Even Linley, this scion of a noble house, was extremely eager.
+
+
+score: 0.655122, para: 01 4 11	Linley was on extremely good terms with the other kids. Although Linley was the child of a noble house, he was extremely kind to the children of commoners, and often helped them train as well.
+
+
+score: 0.625828, para: 01 3 13	“My clan, is actually the clan of the Dragonblood Warriors?” Linley was extremely excited.
+
+
+score: 0.613652, para: 01 12 35	“Not bad, not bad,” Hogg said proudly as he looked at Linley. “You really are a scion of our Dragonblood Warrior clan. You have our superior qualities. If a descendant of the Dragonblood Warriors were to be terrified of death, terrified of blood, of slaughter, then it would be an absolute joke.”
+
+
+score: 0.605409, para: 02 7 65	There were some commoners amongst the hundreds of people crowding the square, and some countryside nobles such as Linley. Usually, those nobles from small countryside noble families were also looked down upon. The nobles of the capital were an arrogant lot who generally looked down on people.
+
+
+score: 0.589558, para: 02 9 47	Despite being packed, everyone in the main hall, from the commoners to the nobles, all discreetly made way for him to move through. Even those nobles who had previously scorned Linley as a country bumpkin were all now smiling at him in a friendly manner. Their attitudes were amazingly good.
+
+
+score: 0.587398, para: 01 3 40	“Linley, at this point in time, the Baruch family just consists of you, me, and your little brother. I don’t have any extravagant hopes. I’ve never dared to dream of becoming a Dragonblood Warrior.” Hogg laughed at himself satirically. How could becoming a Dragonblood Warrior be an easy task?
+
+
+score: 0.587148, para: 02 9 37	Linley also felt extremely excited, but his head was extremely clear, and he also looked very calm on the outside. Linley knew very well that upon becoming a member of the Ernst Institute, and with the guidance of Doehring Cowart, in just a few decades, it would not be too difficult to become a magus of the seventh or eighth ranks.
+
+
+score: 0.583270, para: 02 6 61	Hillman was a worldly man, and of course he knew that taming a magical beast was an extremely difficult, extremely arduous matter. But just now, Linley had actually subdued a magical beast.
+
+
+score: 0.576954, para: 02 13 33	Reynolds wrinkled his little nose. “This fellow called Linley is from the Holy Union. He no doubt had a much easier time being accepted than me. I bet he isn’t as talented as I am.” Reynolds was extremely confident.
+
+

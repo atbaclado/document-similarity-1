@@ -1,0 +1,30 @@
+source: 02 14 29	His own father gave him only a hundred gold coins each year for living costs. In fact, in Linley’s eyes, a hundred gold coins was more than enough. After all, most commoners would only make twenty or thirty gold coins in wages after a year of hard labor.
+
+
+score: 0.906796, para: 02 20 31	He only had a hundred gold coins each year for living expenses. He wasn’t rich like some people.
+
+
+score: 0.818530, para: 02 23 43	“Gold coins? So much gold. There must be at least ten thousand gold coins here.” Hogg stared at Hillman, astonished. “Hillman, you say that Linley asked you to bring this here?”
+
+
+score: 0.683338, para: 01 5 39	Linley knew very well that in the Yulan continent, those famous master sculptors could produce works valued at tens of thousands of gold pieces each. Some famous sculptures could even reach a hundred thousand gold pieces. And wealth aside, the societal ranking of these sculptors was also very high.
+
+
+score: 0.681954, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.670993, para: 02 23 46	“9900 gold coins? Linley’s?”
+
+
+score: 0.669484, para: 02 21 3	“A hundred gold coins, gone like that.” Walking out from the local branch of the Golden Bank of the Four Empires within the Ernst Institute, Linley couldn’t help but sigh to himself. Now, next to his chest, was a magicrystal card of his own.
+
+
+score: 0.669126, para: 02 21 4	Linley knew that while he continued to live at the Ernst Institute, if he put a huge pile of gold coins in his dorm, it wouldn’t be safe. The safest option was to put them all in a magicrystal card.
+
+
+score: 0.663119, para: 02 21 50	What an enormous sum that was. Even if his clan sold off their ancestral home, they most likely would only be able to scrape up a hundred thousand gold coins.
+
+
+score: 0.656506, para: 02 21 7	“With these ten thousand gold coins, my living expenses at the Ernst Institute will be more than sufficiently covered, with lots left over. I can help father as well.” Linley felt very happy.
+
+

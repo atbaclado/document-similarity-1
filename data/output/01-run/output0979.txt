@@ -1,0 +1,15 @@
+source_doc: 2 1	“The child of a Violet Shadowmouse?” Linley said questioningly. “But its fur is black.”
+
+
+score: 0.550556, para: 1 23	He saw a 20-centimeter long black mouse chewing on a piece of stone rubble. And then, in the blink of an eye, the black mouse appeared tens of meters away in a different direction, and began to nibble on a piece of blue tile. The black mouse’s fur appeared very soft. Its eyes were guileless, and its paws were furry. In a word, it looked very cute.
+
+
+score: 0.522012, para: 2 3	Linley nodded slightly. He quickly arrived at the doorway, and saw that at the doorway, there was some rabbit fur splattered with blood. But the rabbit’s flesh and bones were all gone. Seeing this, Linley’s eyes immediately shone.
+
+
+score: 0.499074, para: 2 4	“Right, today I’ll give the little Shadowmouse some cooked meat.” Linley covered a wild chicken with a cloth sack, and then happily went to the back of the ancient courtyard in the manor.
+
+
+score: 0.493239, para: 2 6	From within the Coiling Dragon Ring, Doehring Cowart flew out. His white beard fluttering happily, he said, “Linley, the little guy is setting up a ‘bond of equals’ formation.”
+
+

@@ -1,0 +1,14 @@
+source_doc: 2 10	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+
+score: 0.659047, para: 2 6	The little Shadowmouse suddenly rushed in Linley’s direction.
+
+
+score: 0.649947, para: 1 11	The mysterious magus suddenly leapt down directly from the back of the Velocidragon. He was at least two stories up, but he descended easily with a single jump.
+
+
+score: 0.648900, para: 1 7	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.634843, para: 2 5	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+

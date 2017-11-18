@@ -1,0 +1,20 @@
+source: 02 15 24	“Reynolds, I’ll tell you a secret. Bebe loves to eat roast meat. If in the future, you can feed him some roast ducks or roast chickens, I believe that he won’t be very hostile to you.” Linley laughed upon seeing Reynolds eyes shine.
+
+score: 0.706458, para: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+score: 0.706458, para: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+score: 0.706458, para: 02 7 23	“I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+
+score: 0.579417, para: 02 25 66	“Quiet. If you keep on making a fuss, then today I won’t help you cook meat.” As soon as Linley spoke these words, Bebe immediately shut his mouth and didn’t make a sound.
+
+score: 0.579417, para: 02 25 66	“Quiet. If you keep on making a fuss, then today I won’t help you cook meat.” As soon as Linley spoke these words, Bebe immediately shut his mouth and didn’t make a sound.
+
+score: 0.579417, para: 02 25 66	“Quiet. If you keep on making a fuss, then today I won’t help you cook meat.” As soon as Linley spoke these words, Bebe immediately shut his mouth and didn’t make a sound.
+
+score: 0.558153, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+score: 0.558153, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+
+score: 0.558153, para: 02 21 23	“Bebe is getting impatient. Yale, you pulled us all here early in the morning, but the carriage still hasn’t come.” Reynolds said unhappily, while Yale laughed apologetically. “I don’t know either, they should be here by now.” Linley just stroked Bebe’s little head.
+

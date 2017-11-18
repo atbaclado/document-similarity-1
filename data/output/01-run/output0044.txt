@@ -1,0 +1,15 @@
+source_doc: 1 1	“Tighten that up! Your waists need to be straight!” Hillman thundered.
+
+
+score: 0.455036, para: 1 7	The eight-year old Linley’s hands, after all, were much smaller than the hands of an adult. There was no way he could wear the ring on his fingers.
+
+
+score: 0.437403, para: 1 17	Up til now, Linley’s body was still elevated from the ground, as he had been using his fists in a push-up position, so as not to crush Wharton.
+
+
+score: 0.426026, para: 1 9	Seeing this battle from afar, Linley’s hands were tightly clenched.
+
+
+score: 0.415793, para: 1 5	Hearing these words, Linley felt his heart twinge.
+
+

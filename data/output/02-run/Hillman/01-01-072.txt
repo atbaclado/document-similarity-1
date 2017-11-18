@@ -1,0 +1,20 @@
+source: 01 1 72	As Hillman spoke, he continued to walk about, carefully inspecting the youths to see if their movements were correct.
+
+score: 0.969968, para: 01 77 72	As Hillman spoke, he continued to walk about, carefully inspecting the youths to see if their movements were correct.
+
+score: 0.969968, para: 01 77 72	As Hillman spoke, he continued to walk about, carefully inspecting the youths to see if their movements were correct.
+
+score: 0.969968, para: 01 77 72	As Hillman spoke, he continued to walk about, carefully inspecting the youths to see if their movements were correct.
+
+score: 0.581997, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.581997, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.581997, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.581997, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+score: 0.550956, para: 01 17 43	“Hillman, in a little while, accompany me in inspecting the situation of the residents of Wushan township.” Hogg said, and then looked at Hiri. “Uncle Hiri, after these two Saint-level combatants depart, take Linley home to change his clothes and make sure he gets some rest.”
+
+score: 0.550956, para: 01 17 43	“Hillman, in a little while, accompany me in inspecting the situation of the residents of Wushan township.” Hogg said, and then looked at Hiri. “Uncle Hiri, after these two Saint-level combatants depart, take Linley home to change his clothes and make sure he gets some rest.”
+

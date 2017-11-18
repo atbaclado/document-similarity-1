@@ -1,0 +1,15 @@
+source_doc: 1 17	“I can’t say with exact precision as to how bad the condition is,” Hillman said, his face grim. “But from what I could see, some people must have died, and many were injured or even crippled! This catastrophe came simply too quickly. Even though I shouted for everyone to hide, many people didn’t have the chance to barricade themselves in their cellars.”
+
+
+score: 0.653173, para: 1 15	Hillman possessed a great deal of authority in Wushan township. Upon hearing his words, many of the villagers who had been terrified at the sight of a Black Dragon knew immediately what to do. Right now, the entire Wushan township had turned into a frenzy of activity. All of the children and all of the workers fled to their homes. At this point in time, the only thing which could protect them was the sturdy stone of their houses.
+
+
+score: 0.642716, para: 1 16	At this moment, Linley was still tens of meters away from the warehouse. Hearing his father’s angry roar, Linley paid attention to nothing else and ran towards the warehouse at top speed. As he did, he could hear one ‘crash’, ‘crash’, ‘crash’ after another. The sound of countless stones raining on Wushan township had begun.
+
+
+score: 0.641345, para: 1 18	Hogg nodded. Smiling wryly, he said, “Uncle Hiri, most of the people in Wushan township aren’t like us. Wushan township’s men won’t be too bad off, as most of them are warriors of the first or second rank, but the women aren’t. For so many boulders to come raining from the skies non-stop, it would be hard for them to block any at all!”
+
+
+score: 0.625360, para: 1 8	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+

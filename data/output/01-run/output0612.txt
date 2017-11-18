@@ -1,0 +1,15 @@
+source_doc: 1 15	“Lorry, Roger, quick, take the six and seven year olds back home. Quickly! If Saint-level combatants clash, when the side-effects of their struggle reach us, the aftermath will be….”
+
+
+score: 0.719477, para: 1 1	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+
+score: 0.661150, para: 2 1	How could a seven or eight year old Linley resist?
+
+
+score: 0.655346, para: 1 4	“Ley is really amazing. Just eight years old, but he’s able to match the thirteen year olds in doing the ‘Static Tension’ exercise.” Some of the children who had already given up were sprawled on the ground, chatting as they watched Linley.
+
+
+score: 0.636280, para: 1 14	Those thirteen and fourteen year olds were more mature as well. They knew that Linley was a noble and not like them. Almost all of them addressed him as ‘young master Linley’. Only Hadley and the rest of the rascally seven and eight year olds still continued to directly address him as ‘Linley’, without regard for propriety.
+
+

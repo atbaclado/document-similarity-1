@@ -1,0 +1,30 @@
+source: 02 4 24	Linley understood this logic.
+
+
+score: 0.933578, para: 02 9 2	Linley understood this as well.
+
+
+score: 0.739326, para: 01 9 12	Listening to the conversation from far away, Linley, by Hillman’s side, now understood everything.
+
+
+score: 0.736260, para: 02 24 19	Linley understood this in his heart.
+
+
+score: 0.656422, para: 02 3 56	Only Doehring Cowart was aware of this all, as he watched Linley mature.
+
+
+score: 0.615464, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.615464, para: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.615464, para: 02 5 23	Linley nodded.
+
+
+score: 0.608390, para: 02 9 44	“Thank you.” Linley accepted the envelope.
+
+
+score: 0.599672, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+

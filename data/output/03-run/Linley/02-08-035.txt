@@ -1,0 +1,27 @@
+source: 02 8 35	Linley placed his right hand on the crystal ball.
+
+
+score: 0.675585, para: 01 13 23	Linley felt as though only now did everything become crystal clear.
+
+
+score: 0.644098, para: 02 6 16	Linley placed the little Shadowmouse on the floor, then waved his hand at it. “Go back.” And then he pointed to the road. “I’m going that way. To the capital.”
+
+
+score: 0.642560, para: 01 5 12	“It would be my honor, sire.” Linley placed his right hand against his breast and respectfully bowed.
+
+
+score: 0.544985, para: 01 4 54	His eyes narrowing, with a ‘WHAP’ sound, Hogg whacked Linley’s hand with the stick. A red line immediately appeared on Linley’s hand, but Linley could only clench his teeth, not making a sound.
+
+
+score: 0.543603, para: 01 4 53	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.511639, para: 02 5 32	The little Shadowmouse rolled its eyes, then stood up on its hind feet and placed its front feet on top of Linley’s body.
+
+
+score: 0.510074, para: 01 22 29	Linley felt as though a huge, important principle of magic had suddenly become crystal clear to him.
+
+
+score: 0.507151, para: 02 9 46	“Uncle Hillman, let’s go.” Linley placed the red envelope into his clothes, and then left the main hall with Hillman.
+
+

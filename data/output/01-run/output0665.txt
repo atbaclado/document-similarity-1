@@ -1,0 +1,15 @@
+source_doc: 1 17	“Big brother, big brother, what’s wrong?” Wharton tugged at Linley’s body.
+
+
+score: 0.592445, para: 1 6	He stared up at the sky.
+
+
+score: 0.576471, para: 1 12	Linley shook his head.
+
+
+score: 0.570445, para: 1 13	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.556079, para: 1 5	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+

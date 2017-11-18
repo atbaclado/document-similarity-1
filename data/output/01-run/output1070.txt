@@ -1,0 +1,15 @@
+source_doc: 2 3	Tap! Linley purposefully let his foot bang into the doorway and make some sound.
+
+
+score: 0.623619, para: 1 23	His ears twitched as he turned and stared towards a far-off building. “I heard something?” He immediately stealthily walked in that direction. His footsteps made almost no sound. Normally, just while walking ordinarily, he could mask his footsteps. Now that he was intentionally trying to hide them, he made even less noise.
+
+
+score: 0.597330, para: 1 17	“Wharton? Why were you at the doorway earlier?” Linley rubbed his little brother’s head and said in a reproving tone.
+
+
+score: 0.588473, para: 1 16	“Yes, father!” Linley was startled awake. He immediately clambered to his feet and began running in the direction of the warehouse again.
+
+
+score: 0.583403, para: 1 18	A gentle, chime-like sound could be heard as rays of light began to leak out from Linley’s chest area. And then, a cage of light surrounded the pitch-black Coiling Dragon ring, which slowly flew out from under Linley’s pajamas and began to hover roughly ten centimeters away from him.
+
+

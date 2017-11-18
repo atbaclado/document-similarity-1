@@ -1,0 +1,15 @@
+source_doc: 1 7	He quickly strung on the Coiling Dragon Ring, then immediately wore his makeshift necklace.
+
+
+score: 0.733066, para: 1 19	“Gramps, can you tell me why you just appeared from within the Coiling Dragon Ring?” Linley questioned.
+
+
+score: 0.707088, para: 1 17	Since his head was injured, the so-called ‘Coiling Dragon’ ring he wore underneath his clothes had also been stained by blood. But the blood on the Coiling Dragon ring seemed to have disappeared, like water into an endless ocean, as the strange black material slowly absorbed it all.
+
+
+score: 0.699167, para: 2 6	From within the Coiling Dragon Ring, Doehring Cowart flew out. His white beard fluttering happily, he said, “Linley, the little guy is setting up a ‘bond of equals’ formation.”
+
+
+score: 0.692348, para: 1 23	Doehring Cowart flew out from within the Coiling Dragon Ring. Standing next to Linley, he looked at the black mouse with some surprise. “A magical beast, a Shadowmouse? And judging by its size, a Shadowmouse infant.”
+
+

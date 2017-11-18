@@ -1,0 +1,20 @@
+source: 01 12 14	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+score: 0.637163, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+score: 0.637163, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+score: 0.637163, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+score: 0.544864, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”02 10 3	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+score: 0.544864, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”02 10 3	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+score: 0.544864, para: 02 9 51	Only now did Linley let the excitement he felt show on his face. His hands suddenly clenching into fists, his eyes shone with energy. Turning to look at Hillman, he rapidly said, “Uncle Hillman, let’s go, let’s go back! Back to Wushan township! I’ve gotta let my father know the news!”02 10 3	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+score: 0.527433, para: 02 23 28	Hillman looked questioningly at Linley as he watched Linley withdraw a magicrystal card from his pockets. Hillman was shocked. “A magicrystal card?” Previously, when he was a soldier, he had seen magicrystal cards before.
+
+score: 0.527433, para: 02 23 28	Hillman looked questioningly at Linley as he watched Linley withdraw a magicrystal card from his pockets. Hillman was shocked. “A magicrystal card?” Previously, when he was a soldier, he had seen magicrystal cards before.
+
+score: 0.527433, para: 02 23 28	Hillman looked questioningly at Linley as he watched Linley withdraw a magicrystal card from his pockets. Hillman was shocked. “A magicrystal card?” Previously, when he was a soldier, he had seen magicrystal cards before.
+

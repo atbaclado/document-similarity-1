@@ -1,0 +1,30 @@
+source: 02 19 42	The brown-haired youth next to Rand sneered as well. He arrogantly said, “Rand, don’t quibble with these four useless things. It’s not worth your time. Reynolds, what do you think you are looking at? What, you aren’t satisfied with the way you lost in the tournament?”
+
+
+score: 0.635754, para: 02 20 41	Rand said loudly, and then sneered towards Linley, “Let’s go. This place is too small. We’ll go to the arena where the tournament was held. If you have courage, follow me!” After speaking, Rand arrogantly left the hotel, and his three bros followed him.
+
+
+score: 0.632596, para: 02 20 77	“Yale, tomorrow, bring Linley. I’ll go with you to the Golden Bank of the Four Empires local branch to transfer money. Ten thousand golds. I’ll keep my word.” Rand took a long look at the distant Linley. This defeat at Linley’s hands had totally woken Rand up from the arrogant haze of being a genius.
+
+
+score: 0.627900, para: 02 20 52	“Today, I am going to engage in a magical duel with this kid Linley, with the loser paying ten thousand gold coins and having to avoid the other in the future. Everyone, please be my witnesses.” Rand said. He enjoyed the feeling of being watched by many. He didn’t suffer from any stage fright at all.
+
+
+score: 0.609292, para: 02 14 32	“Bah, bros, my money is your money. If you run out, just come find me! In the future, we’ll probably be living together for decades. We’ll be bros for decades. Why quibble about ‘yours’ and ‘mine’?” Yale was extremely expansive, but just as he finished speaking…
+
+
+score: 0.600430, para: 02 20 9	Rand’s face went red, as his heart was filled with fury and shame. Staring at Linley, he shouted fiercely, “You, are you a magus? If you have the skills, compete with me using magic. What sort of behavior was that? A noble magus actually used the lowly skills of a warrior.” Rand was filled with anger and humiliation. He had just won the yearly tournament for the first graders, but just now, when Linley seized him by the throat and hoisted him up, he had been filled with the terrifying sense that his life was in the hands of another.
+
+
+score: 0.586287, para: 02 20 61	But Rand had released a spell at the same time, and five balls of dull red flame shot towards Linley as well. The blades of wind were much faster than the fireballs, however, and Rand was forced to dodge in a rather sorry fashion. But Linley casually and effectively sidestepped the fireballs. And, while doing so, Linley’s lips continued to move as he executed his second spell.
+
+
+score: 0.581860, para: 02 25 32	A white-robed Doehring Cowart smiled at him cheerily from the side. “Linley, starting today, you can just barely be considered to have mastered the basics. Have you felt that special feeling yet? But your work can only be considered to be a superficial pseudo-artwork. It’s only worthy of being placed in the standard hall at the Proulx Institute. If you show it off there, I would be humiliated. Destroy it.”
+
+
+score: 0.575703, para: 02 18 59	George smiled towards Linley. “Hah, you are forgetting about Linley. Linley was a magus of the first rank by the time he entered the Institute as well. What’s more, he’s crazy about training, and he’s a dual-element magus. I think he’s probably the strongest person in our dorm.”
+
+
+score: 0.565562, para: 02 7 14	“Hmph. How uncultured.” Linley frowned, feeling very unsatisfied by the pointing and laughing of those noble ladies.
+
+

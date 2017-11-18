@@ -1,0 +1,30 @@
+source: 02 15 5	George and Linley were both still children, and they immediately grinned evilly.
+
+
+score: 0.848590, para: 02 11 6	Linley immediately laughed as well.
+
+
+score: 0.722236, para: 02 13 49	Linley smiled and nodded.
+
+
+score: 0.694404, para: 01 19 35	Linley smiled brightly. “My name is Linley! Linley Baruch!”
+
+
+score: 0.654264, para: 01 13 9	Linley immediately understood.
+
+
+score: 0.654264, para: 01 22 8	“Magical incantations!” Linley immediately said.
+
+
+score: 0.654264, para: 02 11 40	Linley immediately understood.
+
+
+score: 0.654264, para: 02 13 45	Linley wasn’t stupid. He immediately understood.
+
+
+score: 0.641943, para: 01 1 68	“Haha.” Linley grinned widely. In his heart, he felt very happy at being praised by Hillman.
+
+
+score: 0.641259, para: 02 6 45	“Okay. You were saying ‘Bei’….’Bei’….then I’m going to call you ‘Bebe’. How’s that?” Linley grinned as he watched the little Shadowmouse.
+
+

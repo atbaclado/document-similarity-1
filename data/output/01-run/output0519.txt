@@ -1,0 +1,15 @@
+source_doc: 1 13	“If they are only slightly more powerful, why is there such a big discrepancy in status?” Linley was curious.
+
+
+score: 0.757978, para: 1 15	Hillman felt slightly dizzy.
+
+
+score: 0.728054, para: 2 2	Linley slightly nodded.
+
+
+score: 0.588460, para: 2 6	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+
+score: 0.588460, para: 2 6	The little Shadowmouse said, somewhat excitedly, “Bei….bei….”
+
+

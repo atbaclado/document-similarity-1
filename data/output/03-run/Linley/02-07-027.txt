@@ -1,0 +1,15 @@
+source: 02 7 27	Peering out through the window, Linley saw that the streets were still filled with people.
+
+
+score: 0.628052, para: 02 5 27	“I won’t let you down, father.” Linley’s words were filled with confidence.
+
+
+score: 0.520680, para: 01 12 55	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+
+score: 0.512956, para: 02 12 47	“Father. Wharton.” Linley’s heart was filled with longing.
+
+
+score: 0.500155, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+

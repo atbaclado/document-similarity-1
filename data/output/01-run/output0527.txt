@@ -1,0 +1,15 @@
+source_doc: 1 13	“Oh, right. Father, I read in one of the books that compared to a warrior, a magi’s physical strength is much weaker. But just then, I watched that magus jump down from the back of the Velocidragon with ease. How could his body be physically weak?” Linley pursued.
+
+
+score: 0.697620, para: 2 2	By this point in time, Linley’s body was comparable to the average 15-16 year old in Wushan township, and possessed the strength of a warrior of the first rank.
+
+
+score: 0.688386, para: 1 1	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.682939, para: 1 23	Due to his daily physical training exercises, Linley’s body was growing sturdier and sturdier. Because he often entered the meditative state and absorbed earth essence, Linley became calmer and more tranquil. Linley’s transformation caused his father Hogg and Hillman to both be amazed and overjoyed.
+
+
+score: 0.668612, para: 2 10	Hogg naturally knew very well that Linley’s physical strength was very weak. And even the weakest Shadowmouse was of the third rank of power. And in addition, there was no way for Linley to set up a soulbinding magical formation, so that couldn’t have happened at all.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 7	Linley and Hillman had arrived here as well.
+
+
+score: 0.763014, para: 1 8	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+
+score: 0.667666, para: 2 4	Just as Linley walked into the courtyard….
+
+
+score: 0.663562, para: 2 1	Doehring Cowart laughed. “Linley, if they weren’t so fast, why would they be called Shadowmice?”
+
+
+score: 0.663562, para: 2 10	“Ernst…lord? Lord?” Hillman called out twice.
+
+

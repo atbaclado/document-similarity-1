@@ -1,0 +1,15 @@
+source_doc: 1 11	“Louisa [Lu’yi’sha]!” The red-haired warrior howled angrily, his voice filled with anguish.
+
+
+score: 0.671486, para: 1 1	Following this, Linley sucked in a deep breath. Raising his head to look at Hillman, his voice filled with eagerness, he said, “Uncle Hillman, are Saint-level warriors really that powerful? Then what about me? Is it possible that I will become a Saint-level warrior?” In Linley’s heart, there was a desire which all children possess.
+
+
+score: 0.642909, para: 1 15	Right now, the Black Dragon was growling in a low voice nonstop.
+
+
+score: 0.641872, para: 1 5	Hogg’s voice was very fierce.
+
+
+score: 0.641872, para: 1 17	“Linley. Linley!” Hogg’s voice was quavering.
+
+

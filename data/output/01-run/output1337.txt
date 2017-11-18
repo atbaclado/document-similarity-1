@@ -1,0 +1,15 @@
+source_doc: 2 9	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+
+score: 0.754339, para: 2 3	The Shadowmouse saw Linley depart, and then looked at the wild hare. He only managed to resist for a short period of time, then he scurried like a flash to the doorway while still staring at the now-distant Linley. Only then did he look at the dead hare. The Shadowmouse immediately grew ecstatic and was so happy that he began to hop about.
+
+
+score: 0.720057, para: 1 16	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+
+score: 0.694106, para: 1 1	Hillman turned his head. Staring at the children, he was very satisfied with the children’s reactions.
+
+
+score: 0.693129, para: 1 17	“I, I’m fine.” An excited smile appeared on Hogg’s face.
+
+

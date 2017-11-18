@@ -1,0 +1,15 @@
+source_doc: 2 4	The ray of light which only Linley could see shot out from within the Coiling Dragon Ring, turning into the white-bearded Doehring Cowart. Doehring Cowart laughed at Linley, “Linley, the magus testing and recruiting event is optional for you. Under my guidance, will you achieve less than at a magus academy?”
+
+
+score: 0.781011, para: 2 3	A ray of light shot out of the Coiling Dragon Ring and transformed into the white-robed Doehring Cowart.
+
+
+score: 0.753589, para: 1 23	“I am the spirit of the Coiling Dragon Ring, while you are the master of the Coiling Dragon Ring. I am totally capable of sensing the strength of your spirit! There’s no need to test it at all. I can tell you right now!” Doehring Cowart smiled at Linley.
+
+
+score: 0.735830, para: 1 17	Linley badly wanted to one day also ride a Black Dragon and utilize apocalyptic incantations of the tenth rank. His thoughts naturally turned to the magical testing and recruiting event. “The test will only be held in autumn in the capital. There’s still half a year left…”
+
+
+score: 0.703823, para: 1 18	“Ting!” The glow surrounding the Coiling Dragon ring suddenly began to contract rapidly, and then a single ray of hazy light flew out from within the ring. Descending next to Linley’s bed, it transformed into a person’s image.
+
+

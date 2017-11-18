@@ -1,0 +1,15 @@
+source_doc: 1 8	Linley memorized the word, forever etching it in his mind.
+
+
+score: 0.550880, para: 2 10	“Wait a moment. I am going to get something.” Hogg suddenly turned and entered a hidden room next to the ancestral hall. Shortly afterwards, he returned with a thick book in hand. “Linley, take this and give it a good read. Memorize everything.”
+
+
+score: 0.536339, para: 1 23	“Grandpa Doehring, please don’t worry. I won’t disappoint you, or my father, or the Baruch clan.” At this moment, Linley’s mind was filled with the image of the spirit tablet in front of the ancestral hall, and those illustrious names and stories engraved on the back.
+
+
+score: 0.531053, para: 1 11	“This…this is what a magus is?” For the first time, the concept of a magus clearly imprinted itself in Linley’s mind.
+
+
+score: 0.526696, para: 1 22	Linley had seen how the magus who rode the Velocidragon first mumbled many magical words before casting his spell.
+
+

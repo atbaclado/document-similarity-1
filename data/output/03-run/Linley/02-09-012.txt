@@ -1,0 +1,30 @@
+source: 02 9 12	“His name is Linley?” Some of the magus academy recruiters learned his name from the test administrators.
+
+
+score: 0.614265, para: 02 4 40	“Oh, the magus testing and recruiting event?” Linley suddenly remembered this event.
+
+
+score: 0.585209, para: 02 5 21	“Linley, in a week’s time, I’ll arrange for Uncle Hillman to take you to Fenlai City and attend the magus testing and recruiting event.” Hogg smiled towards Linley.
+
+
+score: 0.585084, para: 02 5 26	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.573899, para: 02 4 63	Linley chuckled, then turned to look at Hogg. “Father, there must be many magus academies. Which ones are good? Right, are there any combined magus academy/warrior academy schools?”
+
+
+score: 0.554111, para: 01 21 4	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+
+score: 0.551025, para: 02 5 34	Linley rubbed the little Shadowmouse’s head. “Alright, stop making a fuss. Tomorrow, I’m going to leave home and go to the capital. After the magus recruitment event is over, I’m going to be going to a magus academy. I’m afraid we won’t have many chances to meet after that.”
+
+
+score: 0.542417, para: 01 19 44	“Gramps, you said your name is Doehring Cowart? Can I address you as Grandpa Doehring?” Linley suddenly said.
+
+
+score: 0.538315, para: 01 12 54	Hogg considered for a while, then said, “Linley, every year, when the army recruitment drive begins in deep autumn, in the royal capital of Fenlai City, there is a magus student recruitment testing drive. If you really wish to go, when autumn comes around, you can go take the test.”
+
+
+score: 0.532190, para: 02 13 16	“My name is Linley. I’m from Fenlai Kingdom.” Linley courteously said to the boy called Reynolds.
+
+

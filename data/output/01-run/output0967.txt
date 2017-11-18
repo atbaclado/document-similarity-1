@@ -1,0 +1,15 @@
+source_doc: 2 1	“Amongst the two races of rat-type creatures, the Stoneater Rat has an extremely tough defense, sharp teeth, and huge numbers. But Shadowmice? There are quite a large number of Shadowmice as well, but their numbers are far less than Stoneater Rats.” Doehring Cowart seemed like an encyclopedia, all-wise and all-knowing.
+
+
+score: 0.649877, para: 1 15	“Is this dragonsfear?” Linley also felt as though his heart was being squeezed by a huge stone, making it impossible for him to breathe, but nonetheless, Linley felt extremely excited, and his blood was beginning to boil.
+
+
+score: 0.635652, para: 1 8	The Velocidragon’s huge body, hard scales, sharp claws, and powerful tail served to create a terrifying appearance. Linley believed….a single Velocidragon could most likely annihilate the entire Wushan township.
+
+
+score: 0.632303, para: 2 11	Doehring Cowart was so old that he had become as crafty as a fox. Stroking his white beard, he said in a self-satisfied manner, “Linley, the answer is simple. Based on what I know, the dragon race is extremely proud, and also extremely large and powerful! I wager that drinking the blood of a live dragon is probably an effective method, but your clan came under tremendous pressure from the dragon clan, and therefore altered the contents of this book.”
+
+
+score: 0.627251, para: 1 14	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+

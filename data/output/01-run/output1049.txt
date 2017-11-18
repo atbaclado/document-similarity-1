@@ -1,0 +1,15 @@
+source_doc: 2 3	The rabbit in his clutches, Linley immediately began running down the mountain.
+
+
+score: 0.714219, para: 2 11	Linley immediately understood.
+
+
+score: 0.691241, para: 1 1	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+
+score: 0.691241, para: 1 13	Linley immediately understood.
+
+
+score: 0.691241, para: 1 22	“Magical incantations!” Linley immediately said.
+
+

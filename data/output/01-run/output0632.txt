@@ -1,0 +1,15 @@
+source_doc: 1 16	Since he wasn’t watching where he was running, Linley suddenly stumbled on a stone and went crashing to the floor. But even on the floor, Linley was still continuing to watch that battle in the eastern sky. “What sort of armor is that? How could its defensive abilities be so strong?”
+
+
+score: 0.723968, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.714151, para: 1 17	Hogg turned back to look at Linley, who was enraptured watching the exciting battle between two Saint-level combatants. Laughing, he said, “Oh, Linley, you little rascal. Even though you are injured, you still want to watch Saint-level combatants fight. Fortunately, given that the Saint-level magus has unleashed the ‘World Protector’, this battle is about to come to a close soon.”
+
+
+score: 0.703200, para: 1 14	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.702684, para: 1 14	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+

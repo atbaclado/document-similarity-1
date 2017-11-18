@@ -1,0 +1,15 @@
+source_doc: 2 10	“Yes, father, I’ve tamed him.” Linley said seriously.
+
+
+score: 0.555298, para: 2 5	“Alright, you can go now.” Hogg laughed.
+
+
+score: 0.546146, para: 2 1	Linley was startled.
+
+
+score: 0.546146, para: 2 2	Linley now understood.
+
+
+score: 0.546146, para: 2 2	Linley nodded.
+
+

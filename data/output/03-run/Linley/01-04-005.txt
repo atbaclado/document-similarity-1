@@ -1,0 +1,30 @@
+source: 01 4 5	A very simple yet very effective training exercise. If a person could reach the level of being able to maintain this pose for an hour, then his body would no longer fear ordinary swords or sabres.
+
+
+score: 0.692822, para: 02 12 25	The real reason that Linley continued his fighter training was this. “In the future, if I have the chance to drink fresh dragon’s blood, I will be able to practice according to the Secret Dragonblood Training Tome. I have to keep up my physical training. The body is like a vessel, while battle-qi is like wine. The body is extremely important. The earlier I begin building my fundamentals, the faster my improvement will be when I study the Secret Dragonblood Training Tome in the future.”
+
+
+score: 0.661144, para: 02 12 9	Linley’s lips curved up in a smile. “Grandpa Doehring, I believe you were the one who said that strong combatants must work hard every single day, and not relax for even an instant. Only long term training will produce astonishing power.”
+
+
+score: 0.660867, para: 02 2 1	“Linley, don’t be discouraged. I only meant to say that there is no way for you to forcibly subdue him, I didn’t say that it is impossible to tame him at all.” Doehring Cowart laughed self-indulgently. “If he was an adult Shadowmouse, I probably wouldn’t be able to help, but…he’s just a baby Shadowmouse. As a Saint-level Grand Magus, I have some methods which can be effective in dealing with a baby Shadowmouse. In addition, there is no need for a soul-binding magical formation.”
+
+
+score: 0.648620, para: 01 14 41	“Since my body has Dragonblood in its veins and is unable to practice battle-qi, my only option is to far outstrip everyone else in bodily strength.” Linley’s eyes were firm, and his fingers jutted into the ground, as tough and unyielding as old roots. He did one pushup after another, amazing many of the already-exhausted youths around him.
+
+
+score: 0.648329, para: 02 1 51	“Linley, you must be calm.” Doehring Cowart said solemnly. “Even if this is just a Violet Shadowmouse infant, his speed is comparable to a mature Shadowmouse of the fourth rank. Even your Uncle Hillman won’t be able to catch him. You simply don’t have the ability to forcibly subdue him, and you also are not able to utilize a soul-binding magical formation.
+
+
+score: 0.645249, para: 02 24 31	Laughing, Doehring Cowart said, “Linley, do you disbelieve my claim that I can let you reach his level in ten short years? Haha…Linley, as a mighty Saint-level Grand Magus, I, in fact, am in possession of a method to improve one’s spiritual essence.”
+
+
+score: 0.645112, para: 01 12 24	Linley felt a thread of desire in his heart. “Although I am a member of the Dragonblood Warriors clan, the density of Dragonblood in my veins is too low. The fact that anyone with Dragonblood is totally unable to utilize any other battle-qi cultivating methods is something which will hold back my ability to develop my warrior abilities to the maximum. I wonder if it would be possible for me to be a magus, instead.”
+
+
+score: 0.643159, para: 02 19 17	“Linley, your current assignment is to train hard and build up your strength. As far as combat experience goes, when you become a magus of the fifth rank, you should enter the Mountain Range of Magical Beasts and enter a series of genuine life-and-death experiences.” Doehring Cowart persuaded Linley.
+
+
+score: 0.641298, para: 01 6 10	“If I am able to find some valuable things and give them to father, no doubt he will be very happy.” Linley took a deep breath, then immediately entered a decrepit room next to the ancestral hall. Step by step, he walked carefully, wielding a sturdy wooden stick in his hands, which he used to strike down the cobwebs, allowing himself a more careful examination.
+
+

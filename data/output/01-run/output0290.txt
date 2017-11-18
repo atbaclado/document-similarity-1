@@ -1,0 +1,15 @@
+source_doc: 1 5	“Six hundred gold, Hogg. You can count it, if you want.” Philip smiled.
+
+
+score: 0.577928, para: 1 18	Hillman let out a pain-filled sigh. “We just ran some calculations. Over three hundred people died, and a thousand were injured.” The entire township only had a population of five thousand. This meant the casualty ratio was about 20%! And this was for those who lived in stone houses. This really was a diaster.
+
+
+score: 0.574546, para: 1 3	“After Hazard Baruch, the fourth Dragonblood Warrior appeared, nearly a thousand years later. And then, after fifteen hundred years passed, which is to say tens of generations later, the fifth Dragonblood Warrior finally appeared in our clan. But in the thousand years from then until now, not a single Dragonblood Warrior has shown up.”
+
+
+score: 0.570778, para: 1 3	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.570125, para: 1 2	“I hope at least half of these hundred and twenty six will be able to return alive,” Hillman prayed silently.
+
+

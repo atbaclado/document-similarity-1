@@ -1,0 +1,15 @@
+source_doc: 2 4	While petting the little Shadowmouse, Linley couldn’t help but feel amazed.
+
+
+score: 0.815881, para: 2 1	Linley couldn’t help but feel a bit disappointed.
+
+
+score: 0.727889, para: 2 6	Due to their spiritual link, Linley could feel the little Shadowmouse’s excitement, but the little Shadowmouse simply couldn’t speak at all.
+
+
+score: 0.726824, para: 2 5	“I don’t know how much time I will have to spend in a magus academy, or how many years I will be there for. Will we ever meet again?” Linley stroked the little Shadowmouse’s fur, somewhat unwilling to part from it. After playing with the little Shadowmouse for the past month, he had really come to care for the cute little Shadowmouse.
+
+
+score: 0.701562, para: 2 6	Looking down, he saw that it was actually the little Shadowmouse. At the moment, the little Shadowmouse was staring up at Linley with its pitiable, sad little eyes. Linley rubbed his leg, and noticed that he was actually bleeding. He couldn’t help but grow unhappy. But seeing how sad the little Shadowmouse was, he couldn’t grow angry at him.
+
+

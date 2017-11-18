@@ -1,0 +1,15 @@
+source_doc: 1 8	“The magus was even more powerful than the Velocidragon?” Linley found this somewhat hard to believe.
+
+
+score: 0.837080, para: 1 21	Linley found this somewhat hard to believe.
+
+
+score: 0.719736, para: 1 14	Hillman’s gaze immediately sharpened as it swept across the faces of each child. “Even that mysterious magus gained his power one step at a time, starting from the bottom ranks. In order to subdue that powerful Velocidragon, he had to spend many years of toil and hard work! If you guys want to subdue a Velocidragon of your own, to be as powerful as that mysterious magus, then all of you have to work hard without fail!”
+
+
+score: 0.701038, para: 1 11	Linley suddenly had a powerful urge to become a powerful magus as well.
+
+
+score: 0.693977, para: 1 21	This earth-style element really was a mighty one. When the Earthguard spell reached the Saint-level of power, it was composed entirely of diamonds! Linley knew that diamonds were an extremely hard and unyielding substance. And the ‘diamonds’ composing the Earthguard were no ordinary diamonds, but ones formed from magic, making them even tougher than real diamonds.
+
+

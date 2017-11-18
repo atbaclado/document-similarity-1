@@ -1,0 +1,20 @@
+source: 02 8 6	“Linley, here is the examination fee. Here is your proof of identification. Go quickly. Oh, and right, let the little Shadowmouse stay with me. It will be difficult to have the little Shadowmouse with you as you take the test.” Hillman said.
+
+score: 0.607067, para: 02 6 20	Seeing Linley and Hillman slowly disappear, the little Shadowmouse still stayed there, unmoving.
+
+score: 0.607067, para: 02 6 20	Seeing Linley and Hillman slowly disappear, the little Shadowmouse still stayed there, unmoving.
+
+score: 0.607067, para: 02 6 20	Seeing Linley and Hillman slowly disappear, the little Shadowmouse still stayed there, unmoving.
+
+score: 0.570944, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+score: 0.570944, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+score: 0.570944, para: 02 5 51	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+score: 0.566224, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.566224, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+score: 0.566224, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+

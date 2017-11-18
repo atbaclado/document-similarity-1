@@ -1,0 +1,20 @@
+source: 01 1 102	“Today’s training ends now,” Hillman announced.
+
+score: 0.785808, para: 01 99 102	“Today’s training ends now,” Hillman announced.
+
+score: 0.785808, para: 01 99 102	“Today’s training ends now,” Hillman announced.
+
+score: 0.785808, para: 01 99 102	“Today’s training ends now,” Hillman announced.
+
+score: 0.604506, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+score: 0.604506, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+score: 0.604506, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+score: 0.604506, para: 01 7 38	“Today’s training exercises will be doubled for you. Return to your team!” Hillman calmly said.
+
+score: 0.576770, para: 01 142 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+
+score: 0.576770, para: 01 142 149	“Uncle Hillman, from tomorrow onwards, can I participate in the training sessions with the ten year olds?” Linley suddenly asked.
+

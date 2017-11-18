@@ -1,0 +1,15 @@
+source_doc: 2 3	“Linley, don’t worry. That’s just a baby magical beast. It’s always very hungry.” Doehring Cowart’s laughter echoed merrily in Linley’s mind.
+
+
+score: 0.677980, para: 2 10	Hogg didn’t know whether to laugh or to cry. The ‘cute pet’ was actually a magical beast?
+
+
+score: 0.663598, para: 2 10	That wild laughter and those coursing tears absolutely stunned Linley.
+
+
+score: 0.621554, para: 1 2	Looking at his baby brother, Linley’s heart was filled with a boundless warmth and love.
+
+
+score: 0.620630, para: 1 14	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+

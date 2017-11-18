@@ -1,0 +1,14 @@
+source_doc: 2 1	Alas, he was too weak. Even though he had the good fortune to encounter a Violet Shadowmouse infant, he didn’t have the ability to tame it.
+
+score: 0.612133, para: 2 3	“I am both a warrior of the first rank and a magus of the first rank, but in terms of attack power, my magic is stronger.” Grabbing the wild rabbit, Linley couldn’t help but laugh and sigh.
+
+
+score: 0.593511, para: 2 10	“Lord Hogg, Linley really did tame this Shadowmouse. I personally witnessed it. This little Shadowmouse is also the reason why in recent days, Linley has often caught wild animals to feed to the ‘adorable pet’ he had behind the back courtyard.” Hillman explained.
+
+
+score: 0.577348, para: 1 13	“The requirements for the former are very difficult. For a magical beast to willingly subordinate himself to you, perhaps the only way is to defeat the magical beast in direct combat. Only then would he willingly follow you. For example, if you wanted to subdue a Velocidragon, you would first have to be able to defeat that Velocidragon in battle.” His father’s words rendered Linley speechless.
+
+
+score: 0.576973, para: 1 11	Hearing the words of the mysterious magus, Hogg felt a sense of relief.
+
+

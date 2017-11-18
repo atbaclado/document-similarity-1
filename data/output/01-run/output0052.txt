@@ -1,0 +1,15 @@
+source_doc: 1 1	“Yes, Captain.” Lorry acknowledged the order. He couldn’t help but let his lips tug up in a smile. He secretly laughed, “The Captain is always filled with so many devilish ideas. Those punks are really gonna get it now.”
+
+
+score: 0.652489, para: 1 14	“That magical beast yesterday was so powerful. When Uncle Hillman and the others were standing up in front, I was behind them, sneaking peeks from afar. You guys have no idea. When that huge magical beast simply scraped its claws against the ground, the stone road was shattered into countless pieces. And those houses collapsed like they were made of mud.” In the midst of all the children, Hadley, ever the most talkative of them, was narrating glibly and wildly, waving and gesticulating as though he had seen everything with his own eyes.
+
+
+score: 0.638844, para: 1 14	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+
+score: 0.637939, para: 1 11	“Big brother Kerry [Kai’lai]! Save us!” The desolate cry of a female magus sounded out, filled with pain, from within the middle of the fire serpent.
+
+
+score: 0.637395, para: 1 8	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+

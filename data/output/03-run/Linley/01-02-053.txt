@@ -1,0 +1,30 @@
+source: 01 2 53	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+
+score: 0.752614, para: 01 7 47	Linley widened his eyes and stared east…
+
+
+score: 0.738636, para: 02 19 58	“Oh, and this one.” Rand’s eyes shone as he stared at Linley. “How come I never knew that in Yale’s dorm, there was someone such as you?”
+
+
+score: 0.709604, para: 02 7 28	“Whew. It’s been quite a while since I’ve been in a large city.” A hazy white light shone out from the Coiling Dragon Ring, transforming into a white-bearded old man. Doehring Cowart and Linley stood side by side as they stared at the street below.
+
+
+score: 0.709201, para: 02 3 28	Linley stood at the doorway.
+
+
+score: 0.697114, para: 02 3 31	The black Shadowmouse immediately moved and in the blink of an eye, appeared over ten meters away. His two guileless eyes stared towards the doorway, and he immediately saw Linley. His eyes were filled with caution.
+
+
+score: 0.684948, para: 01 7 24	“String, string…” Linley hurriedly looked about for a thread on which he could hang the Coiling Dragon Ring. Suddenly, Linley’s gaze fell on a ruined old washcloth. His eyes lit up, and he immediately pulled a string out from within the washcloth.
+
+
+score: 0.673145, para: 01 6 22	He stared up at the sky.
+
+
+score: 0.669720, para: 01 6 35	Linley’s gaze once more flashed across the room.
+
+
+score: 0.657260, para: 01 3 6	Linley widened his eyes and began to read.
+
+

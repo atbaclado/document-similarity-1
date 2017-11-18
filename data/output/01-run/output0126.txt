@@ -1,0 +1,15 @@
+source_doc: 1 2	“Wharton, you can do it!” Linley encouraged him.
+
+
+score: 0.697090, para: 1 8	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.672209, para: 1 4	“Well done, Linley! Hold it, hold it!” Hillman encouraged from the side.
+
+
+score: 0.655853, para: 1 10	“Linley, don’t watch.” Hillman saw that Linley was intending to continue watching, and was shocked.
+
+
+score: 0.647941, para: 1 1	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+

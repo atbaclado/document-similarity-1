@@ -1,0 +1,15 @@
+source_doc: 1 18	“There’s nothing we can do now, aside from waiting on Hillman’s report.” Hogg felt extremely restless.
+
+
+score: 0.653762, para: 1 7	“Whoah, it’s hard! What’s under my foot?” Linley felt that the item underneath his foot was extraordinarily tough, and immediately stepped aside to take a closer look.
+
+
+score: 0.651622, para: 1 19	“Yes, yes.” Doehring Cowart felt extremely happy.
+
+
+score: 0.592077, para: 1 12	Back then, aside from the initial bit of panic, he later only felt his blood boil and surge, filling him with a thirst for bloodletting. Linley, as well, had wondered at the time if it was because of the Dragonblood in his veins.
+
+
+score: 0.589008, para: 2 11	“Linley, it’s getting late. You should go back and get some rest.” Hogg laughed.
+
+

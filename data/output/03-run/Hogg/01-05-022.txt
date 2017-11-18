@@ -1,0 +1,30 @@
+source: 01 5 22	“Five hundred?” Hogg frowned.
+
+
+score: 0.968037, para: 01 4 48	“Just this?” Hogg frowned.
+
+
+score: 0.789801, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.753919, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.651428, para: 01 12 48	“It is possible.” Hogg nodded.
+
+
+score: 0.651428, para: 01 17 26	“Linley, how are you feeling?” Hogg said with concern.
+
+
+score: 0.651428, para: 01 18 35	“Ugh!” Hogg let out a long sigh.
+
+
+score: 0.651428, para: 02 23 39	Turning his head, Hogg said, “Hillman, you are back. Uh, what’s that on your shoulders?”
+
+
+score: 0.619692, para: 02 4 59	Upon hearing these words, Hogg finally smiled.
+
+
+score: 0.584584, para: 01 4 41	This was the real Hogg.
+
+

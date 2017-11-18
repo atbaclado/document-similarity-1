@@ -1,0 +1,18 @@
+source: 02 13 44	The old man next to him smiled at Linley. “That’s right. This isn’t just the rule for the Ernst Institute; the number one warrior academy in the Yulan continent, the O’Brien Academy, does the same. They provide a full tuition waiver for their own Empire’s students, but charge an astronomical fee for students coming from other places.”
+
+
+score: 0.690407, para: 02 23 24	“Wait.” Linley frowned as he looked at Hillman. “Uncle Hillman, that O’Brien Academy’s tuition must be extremely high. Although they will allow their own students to study free of charge, no doubt they are extremely merciless in charging out-of-empire students.” Linley clearly remembered how much Reynolds had paid to be admitted to the Ernst Institute.
+
+
+score: 0.588340, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+
+score: 0.525842, para: 02 14 25	“Magicrystal card?” Reynolds stared at him in amazement. “The magicrystal card is only offered by the ‘Golden Bank of the Four Empires’, which all four of the great empires established together. I heard that the processing fees for requesting a card totals a hundred gold coins.”
+
+
+score: 0.518676, para: 02 14 4	“Hey, just put it down there. Right. Put the box down there. Put it down carefully. If you break it, there’s no way you can afford to compensate for it!” From within dorm 1987, the clear voice of another youth could be heard. Linley and Reynolds glanced at each other, then entered curiously. Immediately upon entering, they saw several muscular men busily moving things about.
+
+
+score: 0.506479, para: 02 15 26	Reynolds suddenly frowned as he turned to Yale. “Yale, if in the future I run out of money, you’ve got to lend me some. When Grandpa Lomu comes, I’ll pay you back.”
+
+

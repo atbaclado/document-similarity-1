@@ -1,0 +1,15 @@
+source_doc: 1 6	Linley’s gaze once more flashed across the room.
+
+
+score: 0.753146, para: 1 5	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+
+score: 0.698987, para: 2 2	In scant seconds, Linley finished his incantation, and his eyes lit up as he stared at the hare.
+
+
+score: 0.678195, para: 1 2	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+
+score: 0.677024, para: 2 3	The black Shadowmouse immediately moved and in the blink of an eye, appeared over ten meters away. His two guileless eyes stared towards the doorway, and he immediately saw Linley. His eyes were filled with caution.
+
+

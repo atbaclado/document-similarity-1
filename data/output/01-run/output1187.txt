@@ -1,0 +1,15 @@
+source_doc: 2 5	“Alright, you can go now.” Hogg laughed.
+
+
+score: 0.954946, para: 1 4	“Just this?” Hogg frowned.
+
+
+score: 0.954946, para: 1 12	“It is possible.” Hogg nodded.
+
+
+score: 0.954946, para: 1 17	“Linley, how are you feeling?” Hogg said with concern.
+
+
+score: 0.954946, para: 1 18	“Ugh!” Hogg let out a long sigh.
+
+

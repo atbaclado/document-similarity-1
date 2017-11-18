@@ -1,0 +1,30 @@
+source: 01 7 23	Using the least amount of time possible, Linley washed himself clean, then hurriedly put on his training clothes.
+
+
+score: 0.623485, para: 01 1 152	Hillman suddenly smiled. He had seen the results of Linley’s training today. Although Linley was only six, his body conditioning could compare with nine year olds. He immediately nodded, smiling. “Fine. However, you’d best not slack off. You’d best realize that this isn’t a one day or two day commitment. This will be a long-term regime.”
+
+
+score: 0.616389, para: 01 2 1	In the blink of an eye, another half year had passed. Training hard and strengthening his body, Linley passed through the gentle, warm spring, the blazing summer, and the chilly autumn. The white poplar tree next to the empty training field of Wushan would always scatter some dried leaves onto the ground whenever the wind blew. The leaves slowly whirled down, covering the entire training ground.
+
+
+score: 0.616379, para: 01 6 44	“How unlucky! My entire body is covered with dust now, and I bet training is about to start. I’d best go take a quick shower and put on some new clothes.” With a wave of his arm, Linley pushed open the door and departed the ancient room.
+
+
+score: 0.603325, para: 01 6 5	“The ancestral hall is cleaned every month. Frankly speaking, in just a month, the ancestral hall won’t get too dirty. All I have to do is just casually wipe it down. I have almost an hour before training starts. What should I do?” Bored, Linley looked around in all directions.
+
+
+score: 0.601484, para: 01 18 22	Hiri chuckled. “Lord, please be at ease. I’ve already washed and cleaned young master Linley’s wounds, then re-bandaged them. I’ve made him eat a big meal, and then change his clothes and go to bed. By the time he wakes up, he’ll be much better.”
+
+
+score: 0.587186, para: 02 2 34	Over the past half year, Linley had been going to Mt. Wushan to train in magecraft almost every afternoon. No one else knew that he was training in magecraft, of course. But they all knew that in the afternoons, Linley liked to spend his spare time playing in the mountains.
+
+
+score: 0.584232, para: 02 18 52	Linley got most of his news regarding the Institute’s going-ons from his three bros, as Linley, who spent all his time training in the mountain, probably would be totally in the dark otherwise.
+
+
+score: 0.565046, para: 02 8 41	By way of explaining, an ordinary magus might take ten hours to produce a certain amount of mageforce, but Linley would only require a single hour to get the same result.
+
+
+score: 0.564836, para: 01 4 32	“That’s enough, Wharton. My entire body is covered with sweat. Let me wash myself first.” Linley patted Wharton on the face and laughed.
+
+

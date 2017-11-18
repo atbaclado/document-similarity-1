@@ -1,0 +1,30 @@
+source: 02 23 17	Linley’s heart was full of excitement.
+
+
+score: 1.000000, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 1.000000, para: 01 21 14	Linley’s heart was trembling.
+
+
+score: 0.806331, para: 01 5 6	Hearing these words, Linley felt his heart twinge.
+
+
+score: 0.806049, para: 02 1 39	Hearing his words, Linley’s heart fluttered.
+
+
+score: 0.797075, para: 01 8 29	Linley’s heart trembled.
+
+
+score: 0.769415, para: 02 20 76	Rand knew in his heart that just then, Linley had shown mercy.
+
+
+score: 0.765951, para: 02 12 38	These words made Linley’s heart tremble.
+
+
+score: 0.757145, para: 02 12 47	“Father. Wharton.” Linley’s heart was filled with longing.
+
+
+score: 0.751249, para: 01 20 7	“Low talent, low accomplishments?” Linley felt his heart tremble.
+
+

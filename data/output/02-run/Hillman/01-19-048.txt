@@ -1,0 +1,20 @@
+source: 01 19 48	“Yes, yes.” Doehring Cowart felt extremely happy.
+
+score: 0.554304, para: 01 7 32	“Master Hillman is extremely rigorous. I’m afraid young master Linley is going to be punished.”
+
+score: 0.554304, para: 01 7 32	“Master Hillman is extremely rigorous. I’m afraid young master Linley is going to be punished.”
+
+score: 0.554304, para: 01 7 32	“Master Hillman is extremely rigorous. I’m afraid young master Linley is going to be punished.”
+
+score: 0.554304, para: 01 7 32	“Master Hillman is extremely rigorous. I’m afraid young master Linley is going to be punished.”
+
+score: 0.519530, para: 01 18 28	“There’s nothing we can do now, aside from waiting on Hillman’s report.” Hogg felt extremely restless.
+
+score: 0.519530, para: 01 18 28	“There’s nothing we can do now, aside from waiting on Hillman’s report.” Hogg felt extremely restless.
+
+score: 0.519530, para: 01 18 28	“There’s nothing we can do now, aside from waiting on Hillman’s report.” Hogg felt extremely restless.
+
+score: 0.519530, para: 01 18 28	“There’s nothing we can do now, aside from waiting on Hillman’s report.” Hogg felt extremely restless.
+
+score: 0.500709, para: 01 22 20	Doehring Cowart smiled and nodded. “Right. Therefore, the ‘mageforce’ of a magus is extremely important. If he doesn’t have enough mageforce, he will not be able to cast a spell.”
+

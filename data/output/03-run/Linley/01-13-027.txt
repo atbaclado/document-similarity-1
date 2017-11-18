@@ -1,0 +1,9 @@
+source: 01 13 27	Linley slapped himself on the head, then laughed, somewhat embarassed.
+
+
+score: 0.538652, para: 01 21 8	Linley found this somewhat hard to believe.
+
+
+score: 0.536825, para: 02 6 5	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+

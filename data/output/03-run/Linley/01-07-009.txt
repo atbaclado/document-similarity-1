@@ -1,0 +1,30 @@
+source: 01 7 9	“Earthworm?” Linley suspiciously looked at the carving on the ring.
+
+
+score: 0.683935, para: 02 14 19	“Yeah, what’s ‘losing virginity’?” Linley also looked curiously at Yale.
+
+
+score: 0.675953, para: 02 1 23	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+
+score: 0.669369, para: 01 13 7	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.613393, para: 02 6 41	Linley stared at the little Shadowmouse.
+
+
+score: 0.611700, para: 01 19 14	“Original name? What do you mean, original name?” Linley looked questioningly at the old man.
+
+
+score: 0.592450, para: 02 6 13	Hillman looked at Linley with shock. “Linley, are you saying that you’ve been raising, raising a magical beast?”
+
+
+score: 0.592003, para: 01 19 28	“Then Gramps, how is it that you appeared from within the ring just now?” Linley looked doubtfully at the old man.
+
+
+score: 0.584248, para: 02 4 12	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.584113, para: 02 1 47	“Grandpa Doehring, how would I tame this Violet Shadowmouse?” Linley looked excitedly at Doehring Cowart.
+
+

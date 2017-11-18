@@ -1,0 +1,15 @@
+source_doc: 2 1	Doehring Cowart laughed. “Linley, Violet Shadowmice and Blue Shadowmice, when born, all start off with black fur. Only as their strength grows will the color of their fur slowly change! The color of their fur is proof of their power!”
+
+
+score: 0.682177, para: 1 23	He saw a 20-centimeter long black mouse chewing on a piece of stone rubble. And then, in the blink of an eye, the black mouse appeared tens of meters away in a different direction, and began to nibble on a piece of blue tile. The black mouse’s fur appeared very soft. Its eyes were guileless, and its paws were furry. In a word, it looked very cute.
+
+
+score: 0.639131, para: 1 17	Since his head was injured, the so-called ‘Coiling Dragon’ ring he wore underneath his clothes had also been stained by blood. But the blood on the Coiling Dragon ring seemed to have disappeared, like water into an endless ocean, as the strange black material slowly absorbed it all.
+
+
+score: 0.634790, para: 2 6	A thick, dense black light began to emanate from the little Shadowmouse’s body. A droplet of fresh blood suddenly flew out from the corner of its mouth. That droplet of fresh blood had both Linley’s blood as well as the little Shadowmouse’s blood. That blood suddenly, bizarrely transformed into two opposite, interlocking black triangles, which the thick black light merged with, forming a strange magical formation which gave off a dark aura.
+
+
+score: 0.611491, para: 1 18	The green-robed man’s face was ashen white as he stared at the gray-robed man, whose face had also turned white. “Now, nobody has it. Rudi, I’ve been injured, but if you want to kill me, that’s still going to be quite hard to accomplish!” With a cold laugh, the green-robed man transformed into a beam of green light as he flew off at a fast speed into the northeastern skies.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 8	Linley felt as though his heart had stopped beating. Right now, it seemed as though all sound had faded away.
+
+
+score: 0.644684, para: 1 11	Linley’s heart was suddenly filled with dread, as he stared at that far-off, distant figure.
+
+
+score: 0.637183, para: 1 6	Upon coming to this realization, Linley’s heart began to pound.
+
+
+score: 0.633958, para: 1 10	“Huff. Huff.” Linley felt as though his heart was being compressed by a giant boulder. His breathing was growing labored, and he started to pant. But in his mind’s eye, he replayed the sight of the young man named Luke being eaten, over and over again.
+
+
+score: 0.628372, para: 1 2	Linley could feel his heart thumping frantically.
+
+

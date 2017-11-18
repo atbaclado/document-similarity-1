@@ -1,0 +1,15 @@
+source_doc: 2 10	“Father…” Linley said in a soft voice, as though afraid to disturb his father.
+
+
+score: 0.598318, para: 1 16	“How is that possible?!” Linley was truly scared silly.
+
+
+score: 0.598031, para: 1 7	“Master Hillman is extremely rigorous. I’m afraid young master Linley is going to be punished.”
+
+
+score: 0.588117, para: 2 5	Linley glanced at the back courtyard, thinking to himself, “I’m afraid no one is going to come bring meat to the little Shadowmouse in the next few days.” Hillman, who was next to him, said to Linley, “Linley, let’s go!”
+
+
+score: 0.577988, para: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+

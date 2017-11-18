@@ -1,0 +1,20 @@
+source: 01 1 21	But glancing at the northernmost group of children, with their waists and knees crooked at odd degrees, their legs relaxed and loose, it was clear to Hillman that they were standing unstably and without any power.
+
+score: 0.988426, para: 01 10 21	But glancing at the northernmost group of children, with their waists and knees crooked at odd degrees, their legs relaxed and loose, it was clear to Hillman that they were standing unstably and without any power.
+
+score: 0.988426, para: 01 10 21	But glancing at the northernmost group of children, with their waists and knees crooked at odd degrees, their legs relaxed and loose, it was clear to Hillman that they were standing unstably and without any power.
+
+score: 0.988426, para: 01 10 21	But glancing at the northernmost group of children, with their waists and knees crooked at odd degrees, their legs relaxed and loose, it was clear to Hillman that they were standing unstably and without any power.
+
+score: 0.684798, para: 01 19 30	A hint of a smile played at Hillman’s lips. He then moved to the front and took off his shirt. The lines running across the powerful muscles on his body made the eyes pop out of all of the kids. Even the children in the middle group and southern group couldn’t help but stare at him, admiring his physique.
+
+score: 0.684798, para: 01 19 30	A hint of a smile played at Hillman’s lips. He then moved to the front and took off his shirt. The lines running across the powerful muscles on his body made the eyes pop out of all of the kids. Even the children in the middle group and southern group couldn’t help but stare at him, admiring his physique.
+
+score: 0.684798, para: 01 19 30	A hint of a smile played at Hillman’s lips. He then moved to the front and took off his shirt. The lines running across the powerful muscles on his body made the eyes pop out of all of the kids. Even the children in the middle group and southern group couldn’t help but stare at him, admiring his physique.
+
+score: 0.676043, para: 01 74 71	“The waist and the thighs form a triangular region.” Hillman gestured with his hands to show the area he was describing. “This area is a person’s nucleus. Speed and power all come from this triangular nucleus, making this region extremely important.”
+
+score: 0.676043, para: 01 74 71	“The waist and the thighs form a triangular region.” Hillman gestured with his hands to show the area he was describing. “This area is a person’s nucleus. Speed and power all come from this triangular nucleus, making this region extremely important.”
+
+score: 0.676043, para: 01 74 71	“The waist and the thighs form a triangular region.” Hillman gestured with his hands to show the area he was describing. “This area is a person’s nucleus. Speed and power all come from this triangular nucleus, making this region extremely important.”
+

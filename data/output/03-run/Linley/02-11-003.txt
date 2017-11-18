@@ -1,0 +1,12 @@
+source: 02 11 3	Linley carefully flipped through it.
+
+
+score: 0.555716, para: 01 6 30	Linley carefully searched the walls, even peeking behind the tattered curtains.
+
+
+score: 0.536549, para: 01 6 13	“If these curtains weren’t ruined, no doubt they would be worth a lot of money.” Linley helplessly shook his head. He continued to inspect the room, using his stick to brush aside the layers of cobwebs as he carefully searched.
+
+
+score: 0.505188, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+

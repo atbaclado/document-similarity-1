@@ -1,0 +1,30 @@
+source: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+
+score: 0.712346, para: 02 14 35	Yale said casually and naturally, “Linley, you can only graduate from the Ernst Institute if you reach the rank of a magus of the sixth rank. For a magus, the higher you progress, the harder it becomes. For most people, it takes a couple decades to become a magus of the sixth rank.”
+
+
+score: 0.665618, para: 02 14 57	“The person in our dorm with the highest natural talent is Linley. But have you guys heard of the unmatchable talent who is studying at the Ernst Institute?” Yale glanced at the other three.
+
+
+score: 0.657706, para: 02 15 42	George calmly smiled. “Yale, don’t grow complacent. Although there aren’t formal requirements for students, every year, there will be an ability test. Only if you advance a rank in power can you advance a grade. If you don’t work hard, do you plan to stay here for a century? What’s more, the Ernst Institute has a rule that if one does not become a magus of the sixth rank in sixty years, one will be expelled, no exceptions.”
+
+
+score: 0.649862, para: 02 14 59	But George smiled as he nodded. “I’ve heard of him. The number one genius of the Ernst Institute, ‘Dixie’ [Di’ke’xi], a talent that appears once in a century. He is a dual-element magus, and has exceptional levels of elemental affinity and spiritual essence. But his spiritual essence is especially amazing; 62 times that of others his age. Usually, reaching 30 times is considered ‘exceptional’ level, so his precise level should be ‘super exceptional’, but since the highest level is ‘exceptional’, that’s what he is classified as.”
+
+
+score: 0.620344, para: 02 20 83	Many people were now staring at him and discussing him. Most of the talented people at the Ernst Institute had become well-known already. Nobody expected such an individual to appear out of nowhere amongst the first graders and easily defeat Rand, the tournament champion.
+
+
+score: 0.619591, para: 02 14 12	Yale wrinkled his nose as he chortled. “Although I am a dignified magus, I still need to work out and have a good physique. Otherwise, how will I be able to seduce beautiful women? There’s many beautiful women amongst the ranks of the magi. And the female magi of the Ernst Institute are not only pretty; they are also very classy. Plus, there’s a lot of face to be gained by being able to brag to others that I have an Ernst Institute student as my girlfriend.”
+
+
+score: 0.614647, para: 02 18 7	Her brother, Dixie, was the number one genius of the entire Ernst Institute, and described as a talent which would be found once in a century at most. He, too, was a dual element mage, and his elemental essence affinity was exceptional. But what’s more, he was a supreme talent with 68 times the spiritual essence of an ordinary person.
+
+
+score: 0.599557, para: 02 14 54	Yale pursed his lips. “That’s very normal. Which student in the Ernst Institute is weak? Myself, my elemental affinity and spiritual essence are both high level, putting me towards the bottom of the pack of our one hundred. If it wasn’t for the fact that my old man has a special relationship with the Radiant Church, I probably wouldn’t even be able to make it in.”
+
+
+score: 0.582740, para: 02 15 50	“The earth element class isn’t that important. In terms of understanding the earth element, how could any of the teachers at the Ernst Institute compare with Grandpa Doehring? The most important class is the wind element class. I wonder what wind magic is like?”
+
+

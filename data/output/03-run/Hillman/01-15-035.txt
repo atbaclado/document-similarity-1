@@ -1,0 +1,30 @@
+source: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+
+score: 0.762714, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+
+score: 0.762714, para: 02 23 27	“Right! Uncle Hillman.”
+
+
+score: 0.628973, para: 02 5 52	“Yes, Uncle Hillman.”
+
+
+score: 0.617193, para: 02 23 29	“Linley, how do you have a magicrystal card? Not even your father has one.” Hillman looked at Linley with surprise.
+
+
+score: 0.607707, para: 01 8 49	“Thank you, Uncle Hillman. I definitely won’t run around.” Linley was overjoyed.
+
+
+score: 0.604069, para: 02 23 15	Hillman laughed loudly and nodded. “Right. Your father was absolutely ecstatic. He excitedly drank wine with me until midnight. Your father said that his two sons are the absolute prides of his life. One is a mighty magus, and the other is a Dragonblood Warrior. Haha…”
+
+
+score: 0.589008, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+
+
+score: 0.588781, para: 01 14 28	“We do.” Hearing Hillman’s words and seeing how relaxed Hillman was, all of the children immediately replied vigorously.
+
+
+score: 0.567191, para: 02 10 36	“Fine, enough of that topic. Uncle Hiri, Hillman, lead the guards to make the arrangements right away. Tonight, I am going to host a magnificent banquet.” Hogg laughed loudly. Right now, his laughter was extremely full and carefree.
+
+

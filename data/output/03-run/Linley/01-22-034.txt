@@ -1,0 +1,30 @@
+source: 01 22 34	Linley had read many books and therefore understood this principle.
+
+
+score: 0.898809, para: 01 13 16	He had read of this in his books as well.
+
+
+score: 0.636724, para: 02 24 19	Linley understood this in his heart.
+
+
+score: 0.597185, para: 02 10 58	Linley looked suspiciously at the thick book he had just accepted. There were no words on the cover, but when he opened it, there were four big words printed on the first page – Secret Dragonblood Training Tome.
+
+
+score: 0.591497, para: 02 11 7	“Makes sense. Even if someone acquires it, it would be useless.” Linley immediately began to more curiously flip through the pages of the tome and read through each section.
+
+
+score: 0.590244, para: 02 11 15	“Drink the blood of a living dragon, and a Saint-level one at that? Linley, your ancestors really were extremely formidable.” Doehring Cowart had appeared by Linley’s side and was reading the Tome as well. Seeing the introductory paragraphs, he couldn’t help but feel shocked as well.
+
+
+score: 0.584888, para: 02 11 5	“Linley, even if this tome falls into the hands of outsiders, it would be useless to them, as there is simply no way an outsider can train in accordance with the Secret Dragonblood Training Method. As for our family history, so what if someone learns about it? What’s more, we have multiple copies of this tome as well. This one is also just a copy. After so many years have passed, the original has long since turned to dust.” Hogg laughed as he spoke.
+
+
+score: 0.546992, para: 01 2 27	Linley was exceedingly smart. Under the tutelage of his father, Hogg, since a young age, he had learned many words and could read most books.
+
+
+score: 0.520000, para: 02 17 46	Linley immediately began to quietly mouth the words to a spell. The words had long since been memorized by Linley to the point where he could recite them without thinking. As the words to the spell continued, Linley could feel his entire spirit enter a special mode.
+
+
+score: 0.519921, para: 01 6 15	“According to the books I’ve read, it is quite common for walls to contain hidden levers or passages.” Linley carefully rapped the walls, listening to the sounds.
+
+

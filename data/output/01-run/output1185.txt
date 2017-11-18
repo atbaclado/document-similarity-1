@@ -1,0 +1,15 @@
+source_doc: 2 5	“Hillman, I entrust Linley to you.” Hogg looked at the nearby Hillman.
+
+
+score: 0.657375, para: 2 1	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+
+score: 0.626641, para: 1 13	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.608333, para: 2 10	“Linley.” Hogg suddenly turned and looked at Linley solemnly. “From today forward, I will no longer treat you as a child. I will view you as the sturdiest pillar in the future of our Baruch clan! Our clan’s hopes for the future will all rely on you, now.”
+
+
+score: 0.590070, para: 2 10	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+

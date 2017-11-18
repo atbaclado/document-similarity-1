@@ -1,0 +1,15 @@
+source_doc: 1 11	“If one day, I too was capable of such a powerful attack…” Fantasizing about it, Linley felt the blood in his veins boil to the limit. He was in a state of tremendous excitement.
+
+
+score: 0.730964, para: 1 3	One mighty name after another, one amazing story after another, made the blood in Linley’s veins pump all the more vigorously.
+
+
+score: 0.669494, para: 1 12	Back then, aside from the initial bit of panic, he later only felt his blood boil and surge, filling him with a thirst for bloodletting. Linley, as well, had wondered at the time if it was because of the Dragonblood in his veins.
+
+
+score: 0.630843, para: 1 15	“Is this dragonsfear?” Linley also felt as though his heart was being squeezed by a huge stone, making it impossible for him to breathe, but nonetheless, Linley felt extremely excited, and his blood was beginning to boil.
+
+
+score: 0.628446, para: 2 4	Linley’s heart began to beat faster. If he could one day step atop the head of a dragon and control cataclysmic power, if he too could feel the power of standing at the very pinnacle of mankind, that must be an amazing feeling. When he thought of this, Linley felt his blood begin to boil.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 22	After half an hour of instruction, Linley finally entered the meditative state for the first time.
+
+
+score: 0.714345, para: 1 23	Every day, Linley would spend only six hours sleeping. All of his other time was spent in physical training, intellectual studies, magical instruction, and meditation. Six hours of sleep a day, frankly speaking, was simply not enough. In truth, entering the meditative state was extremely taxing, far more tiring than most people’s lives. Every day, Linley entered a very deep sleep for those six hours.
+
+
+score: 0.687376, para: 2 7	With a calm smile, Linley sat down on the bed and entered the meditative trance, beginning to gather energy.
+
+
+score: 0.679589, para: 1 6	Departing the ancestral hall, Linley had to admit that he had over-prepared. He had slotted an hour for this job, but in just fifteen minutes, he was finished cleaning.
+
+
+score: 0.663721, para: 1 23	He experienced, for the first time, entering so deeply into the meditative state that he almost became unconscious.
+
+

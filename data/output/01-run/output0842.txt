@@ -1,0 +1,15 @@
+source_doc: 1 21	“Personal protection? Grandpa Doehring, you’re saying that the earth-style has the strongest personal protection spells?” Linley looked questioningly at Doehring Cowart.
+
+
+score: 0.652445, para: 1 19	“Original name? What do you mean, original name?” Linley looked questioningly at the old man.
+
+
+score: 0.650782, para: 1 8	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.648024, para: 1 20	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+
+score: 0.636325, para: 1 17	After taking a deep breath, Hogg looked at Hillman. “Right, Hillman, you were just saying that Wushan township was in bad shape. How bad of a shape is it in?”
+
+

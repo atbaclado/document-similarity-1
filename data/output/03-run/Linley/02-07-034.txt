@@ -1,0 +1,30 @@
+source: 02 7 34	How enormous a sum was that? His own family’s possessions, all added together, probably wouldn’t even total a million gold coins.
+
+
+score: 0.640316, para: 02 21 50	What an enormous sum that was. Even if his clan sold off their ancestral home, they most likely would only be able to scrape up a hundred thousand gold coins.
+
+
+score: 0.636130, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.585898, para: 01 5 42	“Linley, do you know that amongst the hundreds of millions of people in the Holy Union, there are at least several million who have studied sculpting. But in the entire Holy Union, the number of true masters can be counted on one hand. In addition, if you don’t have a good instructor, you simply cannot succeed on your own.”
+
+
+score: 0.581347, para: 02 21 7	“With these ten thousand gold coins, my living expenses at the Ernst Institute will be more than sufficiently covered, with lots left over. I can help father as well.” Linley felt very happy.
+
+
+score: 0.573359, para: 01 22 23	“Linley, a large amount of mageforce draws out an even larger amount of elemental essence. If such a huge amount of force is not controlled by spiritual energy…what do you think the end result would be?” Doehring Cowart stroked his white beard as he quietly watched Linley.
+
+
+score: 0.570482, para: 01 1 117	“Destroy a mountain?” Hillman’s words had a huge impact on Linley.
+
+
+score: 0.565169, para: 01 5 39	Linley knew very well that in the Yulan continent, those famous master sculptors could produce works valued at tens of thousands of gold pieces each. Some famous sculptures could even reach a hundred thousand gold pieces. And wealth aside, the societal ranking of these sculptors was also very high.
+
+
+score: 0.564001, para: 02 21 4	Linley knew that while he continued to live at the Ernst Institute, if he put a huge pile of gold coins in his dorm, it wouldn’t be safe. The safest option was to put them all in a magicrystal card.
+
+
+score: 0.562250, para: 02 8 8	Linley then accepted the ten gold coins and headed towards the line. The youths there ranged in age from six or seven years old to seventeen years old. These children organized themselves into two long lines, while the cathedral pursers collected the fees from each of them.
+
+

@@ -1,0 +1,18 @@
+source: 02 14 31	“Just a hundred for me,” Linley laughed. “But for a simple life, it’s enough.”
+
+
+score: 0.618690, para: 01 13 28	How could he not have realized this simple logic? His thoughts really had been too rigid.
+
+
+score: 0.548208, para: 01 3 56	In his heart, Hogg secretly said, “Linley. Do you know, these words you just said…all those years ago, I said these same words to your grandfather as well.” Six hundred years of efforts had all failed. How could it be easy to accomplish? After all, the person who had purchased the warblade ‘Slaughterer’ couldn’t be any ordinary person.
+
+
+score: 0.539136, para: 01 13 14	Hogg replied, “Let’s discuss this question later. Linley, you should know that in the Yulan continent, an average person’s lifespan is around 120-130 years. Powerful magi and warriors can live for longer, usually up to two or three hundred years, or sometimes even four hundred years. The absolute limit to a person’s lifespan is five hundred years. Only those who have attained the legendary power of Saint-level combatants can live eternally, unbound by the dictates of time.”
+
+
+score: 0.524045, para: 02 16 21	“But Grandpa Doehring, although his foundation is solid, he isn’t able to distill the profound into simple words like you. He seems to make it more complicated.” Linley said.
+
+
+score: 0.519830, para: 02 21 50	What an enormous sum that was. Even if his clan sold off their ancestral home, they most likely would only be able to scrape up a hundred thousand gold coins.
+
+

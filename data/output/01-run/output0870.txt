@@ -1,0 +1,15 @@
+source_doc: 1 22	“Compared to mageforce, however, mental energy is even more important!” Doehring Cowart smiled as he spoke. “By now, you should have realized that so-called mental energy is really spiritual energy, a form of controlling energy!”
+
+
+score: 0.728290, para: 2 7	“This kid, Linley, is so hard working. Even at night, he is training his mental energy.” Seeing Linley seated cross-legged with his eyes closed, Hillman couldn’t help but silently praise him. Mental energy was extremely important to both magi and warriors!
+
+
+score: 0.690376, para: 1 23	“But naturally, elemental affinity is just one part. Spiritual energy is the most important of all! After all, given enough time, mageforce will naturally strengthen. But it’s extremely difficult to improve the spiritual energy of a magus.” Doehring Cowart said solemnly.
+
+
+score: 0.674558, para: 1 23	“Your spiritual energy is ten times stronger than the average person of your age.” Doehring Cowart smiled as he spoke.
+
+
+score: 0.668652, para: 1 19	The old man smiled and nodded. “Linley, you must know that when most people die, their spirits will enter the Nether Realm! But because I was a Saint-level Grand Magus at the time of my death, my mental energy had obtained physical form. That was the only reason why I could temporarily resist the call of the Nether Realm and seal myself within the Coiling Dragon Ring. Right now, there is only one way for me to leave this ring – exhaust all of my remaining mental energy.”
+
+

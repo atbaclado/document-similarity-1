@@ -1,0 +1,15 @@
+source_doc: 1 3	Hogg nodded. “To become a Dragonblood Warrior, the most important thing is the density and thickness of the dragonblood which flows in our veins. The higher the density, the better. After many generations, the density of the dragonblood in our veins has grown thinner and thinner. However…that isn’t an absolute. Because as time goes on, sometimes, out of nowhere, a descendant will possess a very high density of dragonblood.”
+
+
+score: 0.635543, para: 1 22	A large amount of earth essence began to swirl around Linley. Normally, most places only had an ordinary density of earth essence, but right now, Doehring Cowart was using his powerful spiritual energy to increase the density of earth essence near Linley by a hundredfold.
+
+
+score: 0.586367, para: 1 4	In the back of Linley’s mind, the words his father said a year ago constantly echoed. “Linley, we are the family of the Dragonblood Warriors. As a member of the Dragonblood Warriors clan, you have an advantage, but also a disadvantage! The advantage is, even though the density of Dragonblood in your veins hasn’t reached a sufficient level, your body will still be much stronger than those of most ordinary people. It might be very difficult for others to become a warrior of the sixth rank through training alone, but for you, it will be somewhat easier.”
+
+
+score: 0.584774, para: 1 12	Linley felt a thread of desire in his heart. “Although I am a member of the Dragonblood Warriors clan, the density of Dragonblood in my veins is too low. The fact that anyone with Dragonblood is totally unable to utilize any other battle-qi cultivating methods is something which will hold back my ability to develop my warrior abilities to the maximum. I wonder if it would be possible for me to be a magus, instead.”
+
+
+score: 0.556774, para: 1 13	“The reason why powerful magi can live so long is because when magi absorb natural elemental energy into their body to generate pure mageforce, when the elemental energy flows through their body, it will naturally refine their apertures, their joints, and their flesh, making their bodies stronger and stronger. With a stronger body, naturally they will live longer. By the same logic, when warriors cultivate their battle-qi, they also absorb natural energy, which flows through their body and strengthens it. The more powerful a warrior is, the stronger his body will be. Naturally, he will live a long life.” Hogg explained everything in detail.
+
+

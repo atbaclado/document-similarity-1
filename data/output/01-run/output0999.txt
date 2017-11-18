@@ -1,0 +1,15 @@
+source_doc: 2 1	There was no way for him to protect Linley.
+
+
+score: 0.629412, para: 2 4	Linley couldn’t help but be moved.
+
+
+score: 0.609824, para: 2 2	Linley now understood.
+
+
+score: 0.609824, para: 2 2	Linley nodded.
+
+
+score: 0.609824, para: 2 2	Linley understood.
+
+

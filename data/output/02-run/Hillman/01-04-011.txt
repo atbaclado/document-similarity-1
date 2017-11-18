@@ -1,0 +1,20 @@
+source: 01 4 11	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+
+score: 0.996224, para: 01 1 11	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+
+score: 0.996224, para: 01 1 11	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+
+score: 0.996224, para: 01 1 11	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+
+score: 0.996224, para: 01 1 11	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+
+score: 0.682985, para: 01 1 46	All of the children stared worshipfully at Hillman.
+
+score: 0.682985, para: 01 1 46	All of the children stared worshipfully at Hillman.
+
+score: 0.682985, para: 01 1 46	All of the children stared worshipfully at Hillman.
+
+score: 0.682985, para: 01 1 46	All of the children stared worshipfully at Hillman.
+
+score: 0.675450, para: 01 1 31	Aside from his perfect musculature, on Hillman’s bare upper body, there were countless knife scars, sword scars, and dozens of other old wounds. All of the children stared at those wounds, their eyes shining.
+

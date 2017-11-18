@@ -1,0 +1,15 @@
+source_doc: 1 1	“How long was I able to hold out?” Linley opened his eyes wide, looking around him.
+
+
+score: 0.706432, para: 1 13	Hearing these words, Linley’s eyes shone.
+
+
+score: 0.706432, para: 1 16	“Linley!” Hogg’s eyes turned red.
+
+
+score: 0.706432, para: 1 23	“What’s that?” Linley’s eyes widened.
+
+
+score: 0.679533, para: 1 4	“Well done, Linley! Hold it, hold it!” Hillman encouraged from the side.
+
+

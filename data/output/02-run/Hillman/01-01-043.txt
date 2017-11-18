@@ -1,0 +1,20 @@
+source: 01 1 43	“The Captain is as formidable as ever.” Lorry, one of the two other middle-aged men, laughed, as Hillman walked back towards them.
+
+score: 0.951484, para: 01 46 43	“The Captain is as formidable as ever.” Lorry, one of the two other middle-aged men, laughed, as Hillman walked back towards them.
+
+score: 0.951484, para: 01 46 43	“The Captain is as formidable as ever.” Lorry, one of the two other middle-aged men, laughed, as Hillman walked back towards them.
+
+score: 0.951484, para: 01 46 43	“The Captain is as formidable as ever.” Lorry, one of the two other middle-aged men, laughed, as Hillman walked back towards them.
+
+score: 0.663378, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.663378, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.663378, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.584190, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+score: 0.584190, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+
+score: 0.584190, para: 01 18 39	Based on his status as a warrior of the sixth rank, even in the capital, he could be the guard captain for a noble family. But because Hillman felt gratitude towards the Baruch clan due to their kindness and generosity, after Hillman retired from his army career, he directly became the captain of the guard for this decaying old noble Baruch clan.
+

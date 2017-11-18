@@ -1,0 +1,9 @@
+source: 02 22 14	Yale, Reynolds, George, and Linley viewed one stone sculpture after another, and in their hearts they felt as though these sculptures truly were incomparably beautiful.
+
+
+score: 0.606781, para: 02 21 46	“Grandmaster Proulx? I’ve heard of him as well. In the past, one of his sculptures was sold for the price of several million gold coins. The name of that sculpture was ‘Hope’. Millions of gold coins, my god. So rich.” Reynolds sighed.
+
+
+score: 0.534985, para: 02 13 53	After saying his farewells to Uncle Hillman, Linley and Reynolds entered the Ernst Institute together. The Ernst Institute was filled with shady groves, lakes, stone bridges, ancient buildings…an ancient aura permeated the entire place. Just from the size of the giant trees, which seven people would have to surround in order to hold hands, one could imagine how old the place was.
+
+

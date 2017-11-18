@@ -1,0 +1,15 @@
+source_doc: 1 23	He saw a 20-centimeter long black mouse chewing on a piece of stone rubble. And then, in the blink of an eye, the black mouse appeared tens of meters away in a different direction, and began to nibble on a piece of blue tile. The black mouse’s fur appeared very soft. Its eyes were guileless, and its paws were furry. In a word, it looked very cute.
+
+
+score: 0.740518, para: 2 3	Linley nodded slightly. He quickly arrived at the doorway, and saw that at the doorway, there was some rabbit fur splattered with blood. But the rabbit’s flesh and bones were all gone. Seeing this, Linley’s eyes immediately shone.
+
+
+score: 0.733265, para: 2 3	“Crunch, crunch.” That familiar, soft crunching sound could be heard once again. Linley’s eyes brightened, and he immediately turned and headed towards an ancient courtyard nearby. Arriving at the entryway, he clearly saw the black Shadowmouse chewing on stones in one spot, unmoving. He seemed almost like a sculptor, as he chewed each rock into surprising, bizarre shapes.
+
+
+score: 0.720238, para: 1 7	“Oh, a ring?” Linley’s eyes were bandit-sharp. He happily plucked the ring up, then used his filthy sleeves to give the black ring a vigorous rub-down. Only then could Linley make out what this item really looked like.
+
+
+score: 0.709847, para: 2 3	The black Shadowmouse immediately moved and in the blink of an eye, appeared over ten meters away. His two guileless eyes stared towards the doorway, and he immediately saw Linley. His eyes were filled with caution.
+
+

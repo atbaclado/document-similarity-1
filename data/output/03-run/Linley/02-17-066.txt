@@ -1,0 +1,12 @@
+source: 02 17 66	Standing next to a large tree, Trey saw Linley from afar.
+
+
+score: 0.857845, para: 02 18 36	Hearing these words, Linley couldn’t help but look up at Trey in surprise.
+
+
+score: 0.622157, para: 02 18 25	“Linley, you no doubt are unaware that the victors of the tournament will receive some rewards.” Instructor Trey said enticingly.
+
+
+score: 0.611686, para: 02 18 35	Instructor Trey leaned in towards Linley, saying in a low voice, “Linley, are you concerned about revealing your ability? I know that you are a magus of the second rank.”
+
+

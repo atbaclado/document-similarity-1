@@ -1,0 +1,24 @@
+source: 01 2 30	Linley was already beginning to grow permanent teeth.
+
+
+score: 0.792188, para: 01 20 16	“Grandpa Doehring!” Linley was beginning to grow impatient.
+
+
+score: 0.666627, para: 02 4 57	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+
+score: 0.601730, para: 02 6 55	“Linley, this…what…what is this?” Only now did Hillman recover from his stupor. His eyes couldn’t help but grow round with shock. “Linley, what was that black magical formation just now? What just happened? Are you okay?”
+
+
+score: 0.554598, para: 02 25 24	He continued from morning until evening, and the statue’s form began to grow clearer and clearer.
+
+
+score: 0.528617, para: 02 6 36	“Linley, are you okay?” Hillman was starting to fear for Linley.
+
+
+score: 0.523005, para: 01 6 18	Linley was only eight years old, after all. Although the strict education of the clan helped him mature quickly, there was still a large gap between him and an adult. Naturally, he wouldn’t be able to consider things from a more complete point of view.
+
+
+score: 0.513084, para: 01 4 27	And then, Hillman’s face grew cold as he turned to look at the fourteen and fifteen year olds. “All of you had better hold on! Linley’s only eight years old, while all of you are almost adults. Don’t let an eight year old get the better of you!”
+
+

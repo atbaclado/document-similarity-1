@@ -1,0 +1,20 @@
+source: 02 24 3	While walking on the road out of the Institute, the little Shadowmouse was on Linley’s shoulders, scanning about in all directions. There were quite a few people at the Ernst Institute who had magical beast companions, and thus no one cared at all that Linley had a little Shadowmouse as a companion. But just at that moment…
+
+score: 0.745483, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+score: 0.745483, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+score: 0.745483, para: 02 22 53	“Here at the Ernst Institute, I’ve seen so many magical beasts. Wow, man, there are flying beasts, running beasts, and all sorts of beasts. But most of the people who have magical beast companions at the Ernst Institute are magus instructors, and a few high level students.” George sighed in admiration.
+
+score: 0.675757, para: 02 17 29	The mountain behind the Ernst Institute was an extremely wide ranging one. Long, long ago, magical beasts used to live in this mountain, but as time went on, all of the magical beasts were exterminated by the magi of the Institute. By now, there were only a few normal beasts still living here.
+
+score: 0.675757, para: 02 17 29	The mountain behind the Ernst Institute was an extremely wide ranging one. Long, long ago, magical beasts used to live in this mountain, but as time went on, all of the magical beasts were exterminated by the magi of the Institute. By now, there were only a few normal beasts still living here.
+
+score: 0.675757, para: 02 17 29	The mountain behind the Ernst Institute was an extremely wide ranging one. Long, long ago, magical beasts used to live in this mountain, but as time went on, all of the magical beasts were exterminated by the magi of the Institute. By now, there were only a few normal beasts still living here.
+
+score: 0.660331, para: 02 13 6	The main gate of the Ernst Institute was fully fifty meters wide. Above the great gate was an enormous, crescent moon shaped construct, covered with all sorts of magical scripts which one could tell at a glance were amazingly complicated. Just from seeing how complicated the scripts were, one could imagine how powerful and mighty the magical formation protecting the Ernst Institute was.
+
+score: 0.660331, para: 02 13 6	The main gate of the Ernst Institute was fully fifty meters wide. Above the great gate was an enormous, crescent moon shaped construct, covered with all sorts of magical scripts which one could tell at a glance were amazingly complicated. Just from seeing how complicated the scripts were, one could imagine how powerful and mighty the magical formation protecting the Ernst Institute was.
+
+score: 0.660331, para: 02 13 6	The main gate of the Ernst Institute was fully fifty meters wide. Above the great gate was an enormous, crescent moon shaped construct, covered with all sorts of magical scripts which one could tell at a glance were amazingly complicated. Just from seeing how complicated the scripts were, one could imagine how powerful and mighty the magical formation protecting the Ernst Institute was.
+

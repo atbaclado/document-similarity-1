@@ -1,0 +1,15 @@
+source_doc: 1 20	“Linley, no need to speak aloud. Just speak to me mentally. As the master of the Coiling Dragon Ring, you can directly engage in spiritual communication with me, as I am a spirit within the ring.” Doehring Cowart’s voice rang out in Linley’s mind.
+
+
+score: 0.666201, para: 1 23	“I am the spirit of the Coiling Dragon Ring, while you are the master of the Coiling Dragon Ring. I am totally capable of sensing the strength of your spirit! There’s no need to test it at all. I can tell you right now!” Doehring Cowart smiled at Linley.
+
+
+score: 0.647731, para: 2 6	Due to their spiritual link, Linley could feel the little Shadowmouse’s excitement, but the little Shadowmouse simply couldn’t speak at all.
+
+
+score: 0.632047, para: 1 8	“Lord Magus, this is indeed Wushan town. Is there anything we can help you with, Lord Magus?” Hillman’s voice rang out.
+
+
+score: 0.626997, para: 1 22	“Right, a large amount of mageforce and elemental essence, when controlled by spiritual energy, can be formed into a spell! Sometimes, in order to execute a particularly powerful spell, too high of a demand is placed upon one’s spiritual energy. Thus, the assistance of magical incantations is needed.” Doehring Cowart smiled as he spoke.
+
+

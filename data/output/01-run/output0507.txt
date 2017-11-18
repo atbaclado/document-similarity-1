@@ -1,0 +1,15 @@
+source_doc: 1 12	Hogg was startled, but in the next moment he immediately understood. Looks like his child now wanted to become a magus.
+
+
+score: 0.700252, para: 1 15	“Quick, take these children home!” Hillman immediately ordered.
+
+
+score: 0.665661, para: 1 14	“We do.” Hearing Hillman’s words and seeing how relaxed Hillman was, all of the children immediately replied vigorously.
+
+
+score: 0.664550, para: 2 3	After finishing his meal, the Shadowmouse glanced again in the direction which Linley had departed to. The baby Shadowmouse immediately felt a degree of kinship for this young fellow. After all, he was just recently born, an infant magical beast. The baby Shadowmouse even felt a bit of anticipation. Would this young man return in the future with another wild hare?
+
+
+score: 0.657498, para: 2 1	Doehring Cowart nodded. “Shadowmice are indeed very fast, but for an infant Shadowmouse to already have reached the speed of an adult Shadowmouse is definitely out of the ordinary.” A hint of a smile was on Doehring Cowart’s face.
+
+

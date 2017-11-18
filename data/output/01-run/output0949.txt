@@ -1,0 +1,15 @@
+source_doc: 1 23	When Linley reached the door to the building and took a peek inside…
+
+
+score: 0.566418, para: 2 7	As they walked on Fragrant Pavilion Road, the primary road of East Fenlai City, Linley felt as though his eyes were dazzled. The litle Shadowmouse Bebe had been instructed by Linley to hide within his clothes, but he also took a sneak peek at the surroundings, and then began to squeak in shared excitement.
+
+
+score: 0.557873, para: 1 21	Linley ran directly back to his room, and then tightly shut the door behind him.
+
+
+score: 0.538838, para: 1 20	“Creaaak.” The bedroom door swung open, and Housekeeper Hiri stuck his head inside. Seeing that Linley was awake, he couldn’t help but smile. “Young master Linley, I didn’t expect that you would have already awoken. How do you feel, young master?”
+
+
+score: 0.527012, para: 1 16	At the door to the warehouse, four-year old Wharton stood crying as he yelled towards Linley.
+
+

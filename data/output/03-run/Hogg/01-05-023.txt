@@ -1,0 +1,30 @@
+source: 01 5 23	This price was much lower than what Hogg had hoped for. He had been hoping for at least eight hundred.
+
+
+score: 0.616224, para: 01 3 47	Shaking his head helplessly, he said, “Afterwards, every single generation tried to recover the warblade ‘Slaughterer’, but despite six hundred years of trying, none of us have succeeded. After all, when we sold the warblade ‘Slaughterer’, it was for the price of 180,000 gold coins of gold. 180,000 gold coins of gold! We aren’t able to produce such a vast sum, but even if we were, the current owner wouldn’t be willing to sell to us.”
+
+
+score: 0.589324, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.560110, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.546152, para: 01 13 42	“Last I heard, the going price was around ten thousand gold coins. And what’s more is, even if you had the money, there’s almost no market for it due to its rarity.” Hogg’s words forced Linley to laugh bitterly at himself.
+
+
+score: 0.537814, para: 01 3 60	“I believe you, I believe you,” Hogg laughed.
+
+
+score: 0.529133, para: 01 4 48	“Just this?” Hogg frowned.
+
+
+score: 0.516230, para: 02 4 45	Hogg remembered clearly that ever since the battle between the dual-element magus of the eighth rank and the small party, Linley had very much wanted to become a magus. Why was he hesitating now? In Hogg’s heart, he too hoped that his son could become a magus.
+
+
+score: 0.510274, para: 02 4 59	Upon hearing these words, Hogg finally smiled.
+
+
+score: 0.508954, para: 02 4 57	“Linley, what are you thinking about?” Hogg was beginning to grow unhappy. When he was talking to Linley, Linley was daydreaming.
+
+

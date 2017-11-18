@@ -1,0 +1,9 @@
+source: 01 5 44	Hogg’s voice was very fierce.
+
+
+score: 0.816106, para: 01 17 12	“Linley. Linley!” Hogg’s voice was quavering.
+
+
+score: 0.536551, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+

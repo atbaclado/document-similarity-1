@@ -1,0 +1,18 @@
+source: 01 23 46	As he was hard at work training…
+
+
+score: 1.000000, para: 01 10 21	All of these things made it hard for Linley to breathe, and he felt dizzy.
+
+
+score: 0.576921, para: 01 21 8	Linley found this somewhat hard to believe.
+
+
+score: 0.547826, para: 01 4 65	Off to the side, Hogg solemnly taught while Linley strove hard to memorize. He wanted to meet his father’s requirements.
+
+
+score: 0.523169, para: 01 21 37	This earth-style element really was a mighty one. When the Earthguard spell reached the Saint-level of power, it was composed entirely of diamonds! Linley knew that diamonds were an extremely hard and unyielding substance. And the ‘diamonds’ composing the Earthguard were no ordinary diamonds, but ones formed from magic, making them even tougher than real diamonds.
+
+
+score: 0.505344, para: 02 12 9	Linley’s lips curved up in a smile. “Grandpa Doehring, I believe you were the one who said that strong combatants must work hard every single day, and not relax for even an instant. Only long term training will produce astonishing power.”
+
+

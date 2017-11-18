@@ -1,0 +1,27 @@
+source: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.798268, para: 01 4 48	“Just this?” Hogg frowned.
+
+
+score: 0.789801, para: 01 5 22	“Five hundred?” Hogg frowned.
+
+
+score: 0.789801, para: 02 5 48	“Alright, you can go now.” Hogg laughed.
+
+
+score: 0.689356, para: 01 4 41	This was the real Hogg.
+
+
+score: 0.578215, para: 02 5 2	While speaking, Hogg looked at Linley eagerly.
+
+
+score: 0.536551, para: 01 5 44	Hogg’s voice was very fierce.
+
+
+score: 0.534778, para: 01 5 28	Hogg’s face grew cold.
+
+
+score: 0.532291, para: 02 4 59	Upon hearing these words, Hogg finally smiled.
+
+

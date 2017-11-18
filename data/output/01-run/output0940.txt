@@ -1,0 +1,15 @@
+source_doc: 1 23	And he experienced, for the first time, the excitement of performing earth-style magic, even if it was nothing more than generating a tiny ‘Earth Spike’ that was only twenty centimeters high.
+
+
+score: 0.583667, para: 1 18	A gentle, chime-like sound could be heard as rays of light began to leak out from Linley’s chest area. And then, a cage of light surrounded the pitch-black Coiling Dragon ring, which slowly flew out from under Linley’s pajamas and began to hover roughly ten centimeters away from him.
+
+
+score: 0.563892, para: 1 19	A look of excitement suddenly appeared in Linley’s eyes. “Grandpa Doehring, just now, you said that you are a Saint-level Grand Magus. Then, can you teach me how to use magic?” Linley’s heart was frantically pounding. The person in front of him was a five thousand year old Saint-level Grand Magus.
+
+
+score: 0.549396, para: 1 16	“Whoosh!” A boulder that must’ve weighed hundreds of pounds shot right past Linley, coming to a crashing rest not too far away from his feet, creating a huge crater. Linley felt cold sweat pour down his back. Just a tiny bit of a difference in trajectory, and his little life would’ve been over.
+
+
+score: 0.548219, para: 1 13	Hogg replied, “Let’s discuss this question later. Linley, you should know that in the Yulan continent, an average person’s lifespan is around 120-130 years. Powerful magi and warriors can live for longer, usually up to two or three hundred years, or sometimes even four hundred years. The absolute limit to a person’s lifespan is five hundred years. Only those who have attained the legendary power of Saint-level combatants can live eternally, unbound by the dictates of time.”
+
+

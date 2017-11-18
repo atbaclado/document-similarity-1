@@ -1,0 +1,24 @@
+source: 01 16 46	Three more boulders came crashing down near Linley, but moving like a panther, Linley continued to charge forwards, his gaze fixed on little Wharton as he finally entered the warehouse. Hiri, turning around, only now became aware of that two-meter long boulder descending towards the warehouse. His face immediately turned white.
+
+
+score: 0.637690, para: 01 17 20	Housetaker Hiri, off to the side, said, “This was my fault. This disaster came too suddenly, and as soon as I had taken Wharton into the warehouse, I saw young master Linley in great danger, so I immediately rushed forward to help him. I didn’t imagine that in just that instant, a huge boulder would head for the warehouse. This was my fault.”
+
+
+score: 0.622815, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.566853, para: 01 2 37	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.561279, para: 02 25 15	After the New Year, little Wharton and his older brother, Linley, had only a few days to spent in each other’s company. And then, under the auspices of Housekeeper Hiri, Wharton headed towards the O’Brien Empire. Linley had no choice but to wistfully watch little Wharton depart. Crying nonstop, six year old Wharton parted from ten year old Linley and headed off.
+
+
+score: 0.549458, para: 02 12 44	On the road headed east of Wushan township, Linley turned his head saw the hundreds of familiar faces which had come to send him off, with his father, Hogg, and his younger brother Wharton standing in the lead.
+
+
+score: 0.515857, para: 01 17 10	Wharton slowly crawled out from under Linley. His body was small, and he had been fully covered by Linley, so he didn’t experience any injuries at all.
+
+
+score: 0.507842, para: 01 20 42	Just as Linley spoke, he saw that next to him, a white-haired old man suddenly appeared out of nowhere. It was Doehring Cowart. But Hogg, Housekeeper Hiri, and his younger brother Wharton still continued to eat and chat, not noticing Doehring Cowart’s existence in the slightest.
+
+

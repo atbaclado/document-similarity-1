@@ -1,0 +1,14 @@
+source_doc: 1 4	“West of the ‘Mountain Range of Magical Beasts’, there are twelve kingdoms and thirty-two duchies. Within these kingdoms and dukedoms, there are two major divisions. The first is the Holy Union, with the kingdom of Fenlai being the principal kingdom. The second is the Dark Alliance, with the kingdom of Heishi being the principal kingdom. These two alliances are opposed to each other and constantly battle because one is controlled by the Radiant Church, while the other belongs to the Cult of Shadows.”
+
+
+score: 0.727272, para: 2 5	“What is it, Grandpa Doehring?” Linley asked questioningly. “I bet all of the hundreds of millions of citizens in the six kingdoms and fifteen dukedoms of the Holy Union know about the legendary Holy Emperor Ernst of the Radiant Church.” Linley, also, knew much about the affairs and history of the legendary Holy Emperor Ernst.
+
+
+score: 0.705780, para: 1 2	A look of pride appearing on his face, Hogg said in a clear voice, “Linley, our Baruch clan has existed for five thousand years. Even scanning the entire Kingdom of Fenlai, I don’t believe we can find a second clan which is as ancient as ours.” Hogg’s voice contained an absolute pride.
+
+
+score: 0.687227, para: 1 3	“Baruch, the very first Dragonblood Warrior of the Yulan continent. In the year 4560 of the Yulan calendar, outside the walls of the city of Linnan, Baruch did battle against a Black Dragon and a Titanic Frost Wyrm. In the end, he slew both the Titanic Frost Wyrm and the Black Dragon, causing his fame to be spread across the world. In the year 4579 of the Yulan calendar, along the coastline of the northern sea of the continent, Baruch did battle against a Nine-Headed Serpent Emperor. On that day, the waves crashed unceasingly and nearby cities crumbled, but after a vicious fight lasting a full day and night, Baruch finally executed the Nine-Headed Serpent Emperor….finally, Baruch founded the Baruch clan, and became the first leader of the Baruch clan!”
+
+
+score: 0.686281, para: 1 2	Satisfied, Hogg nodded. Smiling, he said, “Right! Now, I am going to tell you something. The Four Supreme Warriors actually represent four ancient clans. And our Baruch clan is the ancient clan which contains the exalted bloodline of the Dragonblood Warriors!”
+

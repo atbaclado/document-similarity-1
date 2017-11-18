@@ -1,0 +1,30 @@
+source: 01 4 2	“Well done, Linley! Hold it, hold it!” Hillman encouraged from the side.
+
+
+score: 0.708701, para: 02 6 9	“Uncle Hillman, hold it!” Linley finally managed to react.
+
+
+score: 0.668860, para: 01 1 96	“How long was I able to hold out?” Linley opened his eyes wide, looking around him.
+
+
+score: 0.664335, para: 01 2 36	“Wharton, you can do it!” Linley encouraged him.
+
+
+score: 0.596185, para: 01 10 25	“Killing someone. No big deal. No big deal.” Linley forced himself to think these words repeatedly. “When I grow up and join the army, I too will have to kill people. Gotta hold on. Gotta hold on.”
+
+
+score: 0.569161, para: 02 9 16	“The longer I can hold on, the better an academy I can enter.” Linley gritted his teeth.
+
+
+score: 0.546658, para: 01 8 47	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.546554, para: 01 3 37	Hearing Linley’s words, Hogg felt a warm feeling in his heart. He couldn’t help but hold Linley against his bosom. “Linley, don’t feel bad. I actually didn’t raise my hopes too high. Over a thousand years and tens of generations, no one has become a Dragonblood Warrior. It doesn’t matter that you also failed. Father doesn’t blame you.”
+
+
+score: 0.546079, para: 02 1 45	Doehring Cowart continued to try and entice Linley.
+
+
+score: 0.542080, para: 02 6 17	After waving his arm, Linley began to continue going forward.
+
+

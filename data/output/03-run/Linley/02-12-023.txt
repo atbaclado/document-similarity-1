@@ -1,0 +1,9 @@
+source: 02 12 23	Linley shut his mouth and no longer spoke.
+
+
+score: 0.630254, para: 01 21 1	Linley ran directly back to his room, and then tightly shut the door behind him.
+
+
+score: 0.606976, para: 02 25 66	“Quiet. If you keep on making a fuss, then today I won’t help you cook meat.” As soon as Linley spoke these words, Bebe immediately shut his mouth and didn’t make a sound.
+
+

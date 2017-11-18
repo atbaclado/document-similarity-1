@@ -1,0 +1,15 @@
+source_doc: 1 2	“Wharton, what did you learn today?” Linley asked, smiling.
+
+
+score: 0.847104, para: 1 5	“Father, I want to learn to be a sculptor!” Linley suddenly said.
+
+
+score: 0.642824, para: 1 3	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.639325, para: 1 1	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+
+score: 0.639325, para: 1 1	“See ya, Hadley!”
+
+

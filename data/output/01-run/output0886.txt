@@ -1,0 +1,15 @@
+source_doc: 1 22	“Come, let’s begin the test of the strength of your elemental affinities. Sit down with legs crossed, close your eyes, and enter a meditative state.” Doehring Cowart said gently.
+
+
+score: 0.686222, para: 1 1	“When the sun rises in the morning, all things begin to thrive. This is the best time to absorb the natural energy from your surroundings and improve the conditioning of our bodies. Same rules as always – Legs spread apart, as wide as your shoulders! Both knees bent slightly, both hands pressed down at the waist. Assume the ‘Qi Building Stance’. When assuming this stance, remember – ‘Focus your concentration, maintain a calm mind, and breath naturally.’” Hillman coldly instructed.
+
+
+score: 0.683412, para: 1 23	Only in the afternoon, during his previously spare time, would Linley run towards Mt. Wushan, east of the township, hide in a quiet place, and begin to learn the basics of magic under the guidance of Doehring Cowart. He studied hard, while entering the meditative state to absorb and process mageforce.
+
+
+score: 0.675359, para: 2 7	With a calm smile, Linley sat down on the bed and entered the meditative trance, beginning to gather energy.
+
+
+score: 0.672283, para: 1 20	“Those who have the same spiritual power as me are most likely Saint-level combatants. Only Saint-level combatants can sense my presence, if barely. But of course, the prerequisite is that I appear outside the Coiling Dragon Ring. Once I enter the ring, there is no way they can find me.” Doehring Cowart smiled as he spoke.
+
+

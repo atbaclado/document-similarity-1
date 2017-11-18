@@ -1,0 +1,20 @@
+source: 02 21 27	Doehring Cowart was seated next to Linley, enjoying the sun. Upon seeing the cavalry division, his eyes lit up as well. Very shortly, the four carriages and hundreds of riders arrived at the main gate. Three magi came out to greet them at the gate.
+
+score: 0.660565, para: 02 12 8	Doehring Cowart, wearing a moon-white robe, was seated cross-legged next to him, a smile on his face as he enjoyed the surrounding scenery. Seeing Linley awaken, he laughed. “Linley, tomorrow you are heading to the Ernst Institute, yet you are still hard at work today?”
+
+score: 0.660565, para: 02 12 8	Doehring Cowart, wearing a moon-white robe, was seated cross-legged next to him, a smile on his face as he enjoyed the surrounding scenery. Seeing Linley awaken, he laughed. “Linley, tomorrow you are heading to the Ernst Institute, yet you are still hard at work today?”
+
+score: 0.660565, para: 02 12 8	Doehring Cowart, wearing a moon-white robe, was seated cross-legged next to him, a smile on his face as he enjoyed the surrounding scenery. Seeing Linley awaken, he laughed. “Linley, tomorrow you are heading to the Ernst Institute, yet you are still hard at work today?”
+
+score: 0.615612, para: 02 4 23	“You can’t judge them just based on their appearances. Perhaps an ordinary old geezer that you meet on the street is able to ride a flying dragon and level a mountain with the wave of a hand.” Doehring Cowart laughed merrily.
+
+score: 0.615612, para: 02 4 23	“You can’t judge them just based on their appearances. Perhaps an ordinary old geezer that you meet on the street is able to ride a flying dragon and level a mountain with the wave of a hand.” Doehring Cowart laughed merrily.
+
+score: 0.615612, para: 02 4 23	“You can’t judge them just based on their appearances. Perhaps an ordinary old geezer that you meet on the street is able to ride a flying dragon and level a mountain with the wave of a hand.” Doehring Cowart laughed merrily.
+
+score: 0.609782, para: 01 20 24	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+score: 0.609782, para: 01 20 24	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+score: 0.609782, para: 01 20 24	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+

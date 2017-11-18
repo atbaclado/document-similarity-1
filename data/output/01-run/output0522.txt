@@ -1,0 +1,15 @@
+source_doc: 1 13	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.968573, para: 2 1	“Out of the ordinary?” Linley looked at Doehring Cowart.
+
+
+score: 0.896524, para: 2 5	While speaking, Hogg looked at Linley eagerly.
+
+
+score: 0.846129, para: 1 12	Hogg looked behind him carefully, then asked Hillman suspiciously, “Hm? Where did Linley go? He was just here a moment ago.”
+
+
+score: 0.794913, para: 1 19	“Original name? What do you mean, original name?” Linley looked questioningly at the old man.
+
+

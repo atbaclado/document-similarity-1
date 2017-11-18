@@ -1,0 +1,15 @@
+source_doc: 1 17	Hogg turned back to look at Linley, who was enraptured watching the exciting battle between two Saint-level combatants. Laughing, he said, “Oh, Linley, you little rascal. Even though you are injured, you still want to watch Saint-level combatants fight. Fortunately, given that the Saint-level magus has unleashed the ‘World Protector’, this battle is about to come to a close soon.”
+
+
+score: 0.737511, para: 1 10	Hillman suddenly noticed a red gleam of excitement in Linley’s pupils. Surprised, he no longer tried to prevent Linley from watching. As Linley continued to watch the battle from afar, he saw that it was reaching an even bloodier climax.
+
+
+score: 0.714151, para: 1 16	Since he wasn’t watching where he was running, Linley suddenly stumbled on a stone and went crashing to the floor. But even on the floor, Linley was still continuing to watch that battle in the eastern sky. “What sort of armor is that? How could its defensive abilities be so strong?”
+
+
+score: 0.681102, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+
+score: 0.663067, para: 1 9	“How incredible. They actually dare to use their feet to kick such huge rocks.” Watching the four men unceasingly kick the huge rocks, he felt all the more in awe of warriors in general. “Although, the Velocidragon is even more terrifying!”
+
+

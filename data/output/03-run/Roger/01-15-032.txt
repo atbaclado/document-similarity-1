@@ -1,0 +1,30 @@
+source: 01 15 32	“Understood, Captain!” Lorry and Roger totally understood what their captain was thinking.
+
+
+score: 0.727660, para: 01 1 141	Hillman was stunned. Besides him, Roger and Lorry were also speechless.
+
+
+score: 0.721843, para: 01 8 46	“Linley, why did you…” Lorry and Roger didn’t know what to say.
+
+
+score: 0.674132, para: 01 1 120	Roger and Lorry also gazed at the group of children. On the continent, virtually all of the children of commoners had to train hard from an early age. Seeing the kids, Roger and Lorry reminisced back to their own youth.
+
+
+score: 0.647292, para: 01 8 45	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+
+score: 0.619038, para: 01 8 42	Linley gritted his teeth. “Uncle Hillman!” Linley was also worried for Uncle Hillman, as well as the citizens of Wushan town. He also ran in that direction. At this moment, Lorry and Roger were both panic-stricken at the thought of the Velocidragon, and didn’t notice Linley following behind them.
+
+
+score: 0.602274, para: 01 1 138	“Linley.” Hillman’s voice sounded from behind him. Hillman, Roger, and Lorry had finally caught up to him.
+
+
+score: 0.601334, para: 01 8 40	“Crap!” Lorry and Roger were stunned. Linley and the other children grew worried as well. Was the Velocidragon’s angry roar caused by Uncle Hillman, or by Wushan township? Nobody knew.
+
+
+score: 0.543025, para: 01 1 150	Hillman, Roger, and Lorry all stared at Linley in surprise.
+
+
+score: 0.516884, para: 01 14 49	But just at that moment, halfway through the child’s words, Hillman, who had been lookingly slightly downwards as he collected his thoughts, suddenly felt a strange feeling. He lifted his head up. Right now, all three groups of children were all staring east, eyes wide and jaws dropped. Roger and Lorry had also turned to stare east, and their gazes were also filled with awe.
+
+

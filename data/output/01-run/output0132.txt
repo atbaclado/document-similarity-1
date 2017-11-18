@@ -1,0 +1,15 @@
+source_doc: 1 2	“Rags?” Linley’s face revealed an uncontrollable smile. “What did you wipe?”
+
+
+score: 0.550333, para: 2 10	Two shadowy blurs suddenly entered the manor. It was Linley and Hillman, who had rushed the entire way back from Fenlai City. At the moment, both their faces contained uncontrollable excitement, and Linley began to shout from far away, “Father, I’ve returned!”
+
+
+score: 0.495480, para: 1 1	“Lorry.” Hillman suddenly shouted.
+
+
+score: 0.495480, para: 1 20	Linley suddenly understood.
+
+
+score: 0.495480, para: 1 23	Linley suddenly came to the same realization.
+
+

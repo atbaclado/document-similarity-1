@@ -1,0 +1,15 @@
+source_doc: 1 3	Even if they were willing to sell, how could the decrepit Baruch clan afford the cost?
+
+
+score: 0.675671, para: 1 1	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.619037, para: 2 5	Unfortunately, the type of family which could collect the warblade ‘Slaughterer’ was not an ordinary one, and the current Baruch clan was far too weak.
+
+
+score: 0.616455, para: 1 8	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.607387, para: 2 11	In the past, when the first, second, and third generation of Baruch clan members were all Dragonblood Warriors, the clan was in its glorious ascendancy. At that period in time, it wasn’t impossible to procure the blood of a Saint-level dragon.
+
+

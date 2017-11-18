@@ -1,0 +1,15 @@
+source_doc: 2 7	“Hmph. How uncultured.” Linley frowned, feeling very unsatisfied by the pointing and laughing of those noble ladies.
+
+
+score: 0.640919, para: 2 4	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.637557, para: 1 1	Seeing the ardent gazes of the children, Hillman couldn’t help but let a slight smile escape. He wanted to stir up a feeling of worshipfulness in the children, a desire to be like him. That way, they would work harder and be more motivated!
+
+
+score: 0.636734, para: 1 22	“Haha, Linley, you are very smart.” Doehring Cowart was laughing happily.
+
+
+score: 0.632347, para: 1 12	Upon hearing these words, Linley immediately understood. His father was happy at how he had not been terrified by the sight of the Velocidragon eating Luke alive.
+
+

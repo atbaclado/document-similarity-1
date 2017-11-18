@@ -1,0 +1,30 @@
+source: 01 23 12	Linley felt his heart began thumping frantically. He was so excited he didn’t know what to say.
+
+
+score: 0.756491, para: 01 2 66	Linley could feel his heart thumping frantically.
+
+
+score: 0.581257, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 0.581257, para: 01 21 14	Linley’s heart was trembling.
+
+
+score: 0.561613, para: 02 9 29	Hillman, nearby, had been staring in stunned silence. He immediately ran over next to Linley, so excited that his hands were quivering.
+
+
+score: 0.560403, para: 02 6 34	“It really is the ‘bond of equals’?” Linley’s heart clenched. Even though he had guessed as much, he still felt stunned and excited.
+
+
+score: 0.551063, para: 01 6 9	Upon coming to this realization, Linley’s heart began to pound.
+
+
+score: 0.540411, para: 02 4 56	Linley’s heart began to beat faster. If he could one day step atop the head of a dragon and control cataclysmic power, if he too could feel the power of standing at the very pinnacle of mankind, that must be an amazing feeling. When he thought of this, Linley felt his blood begin to boil.
+
+
+score: 0.534868, para: 02 12 47	“Father. Wharton.” Linley’s heart was filled with longing.
+
+
+score: 0.529202, para: 01 1 108	The children’s ears immediately perked up, and their eyes brightened. Linley, sitting on the ground, felt his heart thump furiously. “The legendary Four Supreme Warriors?” Linley’s ears couldn’t help but perk up as well, as he stared unblinkingly at Hillman.
+
+

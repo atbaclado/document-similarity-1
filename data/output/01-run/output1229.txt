@@ -1,0 +1,15 @@
+source_doc: 2 6	“Linley, are you okay?” Hillman was starting to fear for Linley.
+
+
+score: 0.624421, para: 2 1	Linley was startled.
+
+
+score: 0.624421, para: 2 2	Linley now understood.
+
+
+score: 0.624421, para: 2 2	Linley nodded.
+
+
+score: 0.624421, para: 2 2	Linley understood.
+
+

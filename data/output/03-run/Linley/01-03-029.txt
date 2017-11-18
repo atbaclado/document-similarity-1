@@ -1,0 +1,30 @@
+source: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.632761, para: 02 6 32	“Is this..can this be?” Linley had a wild guess in his heart.
+
+
+score: 0.630652, para: 01 2 40	“Wharton, what did you learn today?” Linley asked, smiling.
+
+
+score: 0.628877, para: 01 4 36	Wharton was only a child, while Linley was much more mature.
+
+
+score: 0.628877, para: 01 4 43	“Yes, father.” Linley said calmly.
+
+
+score: 0.628877, para: 01 4 56	Linley nodded.
+
+
+score: 0.628877, para: 01 4 59	Listening to his father’s words, Linley agreed.
+
+
+score: 0.628877, para: 02 4 35	Linley was startled.
+
+
+score: 0.628877, para: 02 4 65	Linley nodded. Everyone knew that.
+
+
+score: 0.628577, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+

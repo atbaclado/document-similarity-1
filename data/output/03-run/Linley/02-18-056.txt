@@ -1,0 +1,30 @@
+source: 02 18 56	Yale pursed his lips. “Punk, you became a magus of the first rank on the road from the O’Brien Empire to the Ernst Institute. I wager that by now, you aren’t too off from becoming the magus of the second rank. That really is unfair.”
+
+
+score: 0.643737, para: 01 19 45	Doehring Cowart was a mighty Grand Magus of the Pouant Empire, and thus had an extremely high personal status. Back then, he would have ranked amongst the top five personages in the Yulan continent. He fell only because he had been despicably ambushed by Grand Magus Hamelin and another Saint-level combatant.
+
+
+score: 0.638036, para: 01 13 3	Hogg glanced at Linley. Chuckling, he shook his head and said, “Linley, magi and warriors each have their own strengths. At the same rank, a magus is perhaps slightly stronger than a warrior. But the most important thing is that the status of a magus is a full rank higher than that of an equivalent warrior. For example, that dual-element magus of the eighth rank, in terms of social standing, is perhaps slightly superior to even a warrior of the ninth rank.”
+
+
+score: 0.634397, para: 02 25 53	“Look, it is Linley. Two years ago, he became a magus of the fourth rank, and just last year, he became a magus of the fifth rank in just one year! Too amazing. I predict that Linley will become a magus of the sixth rank before Dixie does.”
+
+
+score: 0.614351, para: 02 17 56	Right now, Doehring Cowart was chortling happily. “But Linley, you must understand that a magus of the second rank counts for little. Based on our ranking systems, magi of the first and second rank are all considered ‘entry-level magi’. Magi of the third and fourth ranks are considered ‘mid-level magi’, and fifth and sixth ranks are ‘high-level magi’. A magus of the seventh rank is called a ‘senior magus’, a magus of the eighth rank is a ‘master magus’, and a magus of the ninth rank is a ‘arch magus’. These ranks of seven through nine are the highest. The road you have to travel is a long way.”
+
+
+score: 0.612477, para: 02 17 61	Linley’s wind-style magus instructor, the sixth-ranked magus Trey, frowned. “Hmm, the earth magic spell, ‘Shattered Rocks’? Based on its power, it should be of the second rank. An entry-level magus has come to the mountain to train? Who is it?”
+
+
+score: 0.609348, para: 01 11 29	Linley’s gaze suddenly turned towards the mysterious magus on the back of the Velocidragon. By appearances, the magus was much smaller and much weaker.
+
+
+score: 0.606813, para: 01 13 39	Linley was stunned. “Father, by what you say…only a magus of the seventh rank or higher can enslave a magical beast?”
+
+
+score: 0.606473, para: 02 12 36	“When you graduate, you will be at least a magus of the sixth rank. If you work hard and train hard, it won’t be too hard to become a magus of the seventh rank. And in addition, you are a dual-element magus! A dual-element magus of the seventh rank would definitely be a major force in the Kingdom of Fenlai. In the future, you will definitely be capable of retrieving our clan’s ancestral heirloom. If you do not, even if I die, I will not forgive you!” Hogg fixed a deathly stare on Linley.
+
+
+score: 0.602449, para: 01 13 48	“If I really want to acquire a magical beast companion, based on my family’s economic situation, I would have to become a magus of the seventh rank first. That’s the only way.” Linley secretly pondered all the possibilities, but he knew very well how difficult this would be.
+
+

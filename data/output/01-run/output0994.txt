@@ -1,0 +1,15 @@
+source_doc: 2 1	“Linley, possessing a Violet Shadowmouse is equivalent to possessing an entire Shadowmouse army!” Doehring Cowart smiled at Linley. “This is why the Violet Shadowmouse is a far more precious magical beast than many other beasts of the seventh or eighth rank.”
+
+
+score: 0.697597, para: 1 12	Only after seeing the magical beast of the seventh rank, the Velocidragon, and its mysterious magus master depart, did Hogg calm down.
+
+
+score: 0.689925, para: 2 2	“Adult magical beasts have very high intelligence, so if you want to move the heart of an adult magical beast and make it view you as family, it is almost impossible.” Doehring Cowart sighed. “But juveniles are different. It is much like how human babies have low intelligence and can easily be tricked into liking you by, say, giving them some tasty food. The intelligence of magical beast babies is even lower. As long as you often feed him, he will like you. Then, spend some time playing with him. In a short period of time, this magical beast will come to adore you. This is especially true for an infant magical beast who has been separated from his community. Those are even easier to tame.”
+
+
+score: 0.684312, para: 1 13	Seeing the expression on Linley’s face, Hogg couldn’t help but laugh. “There’s only two ways to acquire a magical beast companion. The first is to make the magical beast willingly subordinate himself to you and serve you. The second way is to use a soul-binding magical array to enslave the magical beast.”
+
+
+score: 0.683654, para: 1 8	Lorry cleared his throat, a look of terror still in his eyes. But he still nodded. “Yes, it is. But it’s a very powerful one, a magical beast of the seventh rank. A Velocidragon!”
+
+

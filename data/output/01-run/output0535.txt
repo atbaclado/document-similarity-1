@@ -1,0 +1,15 @@
+source_doc: 1 13	This was the first time that Linley had ever heard about this. Only now did he learn that both magi and warriors relied on absorbing natural energy from the elements.
+
+
+score: 0.704358, para: 2 7	“Linley, how do you feel about Fenlai City? This is the largest city in our entire Holy Union.” Hillman walked alongside Linley, occasionally seeing some warriors and even one or two magi pass by. He couldn’t help but sigh, “Linley, in Fenlai City, mighty warriors and mighty magi are a very common sight.”
+
+
+score: 0.664048, para: 1 8	“The defensive power of the Velocidragon’s scales is astonishing, and its attack power is terrifying as well. In addition, it is proficient in destructive fire magic!” Lorry’s heart was filled with fear as he explained to Linley and the others. “If faced with a terrifying magical beast such as the Velocidragon, most likely even a brigade of a thousand soldiers would be wiped out, unless it had a number of sixth or seventh ranked warriors and magi who could unite to penetrate the Velocidragon’s scales.”
+
+
+score: 0.662453, para: 1 21	“Amongst all the styles of magic, as the earth-style allows us to absorb earth elemental essence into our bodies, earth-style has the most benefit for improving your physical form. Mother Earth is most benevolent towards us.” A look of veneration was on Doehring Cowart’s face. “When we earth-style magi sit upon the ground, we can feel the vastness of the earth, feel its pulse, and feel Mother Earth’s love for us.”
+
+
+score: 0.660624, para: 1 21	Doehring Cowart laughed as he said, “At the earliest levels, earth-style magi have access to simple spells such as a shield of earth, or a wall of earth. Upon becoming a magus of the fifth rank, you will gain access to the ‘Earthguard’ spell, which will continuously grow in power along with you.”
+
+

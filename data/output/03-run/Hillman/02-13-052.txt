@@ -1,0 +1,30 @@
+source: 02 13 52	Hillman and the old man both watched the children enter the Institute. Only after a long time did they depart.
+
+
+score: 0.675430, para: 01 15 29	Only now did the rest of the children awaken from their stupor. Although they didn’t understand why Hillman was pushing them to go back to their homes and wanted to continue watching the Saint-level combatants, Hillman’s awe-inspiring presence was still enough to send all of the children running speedily for their homes.
+
+
+score: 0.669866, para: 01 1 118	After a short period of time, the stunned children returned to their homes. Hillman, Roger, and Lorry were the last to leave. Watching the children depart in clusters of three or five, a smile appeared on Hillman’s face.
+
+
+score: 0.628765, para: 01 8 2	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+
+score: 0.625748, para: 01 1 106	Hillman smiled. He enjoyed telling stories to the children. This was a way to make the kids eager to train. Hillman had always felt that only by making the children voluntarily train would the children have great results.
+
+
+score: 0.580937, para: 01 1 46	All of the children stared worshipfully at Hillman.
+
+
+score: 0.574982, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.571919, para: 01 1 11	“Good.” Satisfied, Hillman coldly nodded. The eyes of the six year old children displayed their confusion, while the eyes of the teenagers became very determined. They understood the meaning behind Hillman’s words.
+
+
+score: 0.570870, para: 01 1 127	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+
+score: 0.566131, para: 01 10 31	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+

@@ -1,0 +1,15 @@
+source_doc: 2 9	Linley didn’t look too excited on the outside, but Hillman was uncontrollably excited. A student at the Ernst Institute. Who amongst them were not venerated? Linley’s future accomplishments could already be predicted.
+
+
+score: 0.638122, para: 1 20	Doehring Cowart, seeing the state Linley was in, stroked his white beard. “Linley, your Grandpa Doehring is a Saint-level Grand Magus. Even if you don’t have much natural talent, I can still teach you magic. Of course…if your talent is low, your accomplishments will be low as well.”
+
+
+score: 0.629116, para: 2 10	“Lord Hogg.” Hillman was very excited as well.
+
+
+score: 0.605002, para: 1 17	“I, I’m fine.” An excited smile appeared on Hogg’s face.
+
+
+score: 0.604208, para: 1 20	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+

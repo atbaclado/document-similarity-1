@@ -1,0 +1,30 @@
+source: 02 5 52	“Yes, Uncle Hillman.”
+
+
+score: 0.802547, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+
+score: 0.802547, para: 02 23 27	“Right! Uncle Hillman.”
+
+
+score: 0.779494, para: 01 8 49	“Thank you, Uncle Hillman. I definitely won’t run around.” Linley was overjoyed.
+
+
+score: 0.628973, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+
+score: 0.611270, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+
+score: 0.595110, para: 02 6 10	Hillman was startled.
+
+
+score: 0.595110, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+
+score: 0.595110, para: 02 6 31	Linley and Hillman watched, stunned.
+
+
+score: 0.595110, para: 02 6 60	“You…tamed him?” Hillman was stunned.
+
+

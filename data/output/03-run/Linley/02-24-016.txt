@@ -1,0 +1,30 @@
+source: 02 24 16	Demeanor as cold as ice, Dixie walked past Linley.
+
+
+score: 0.635034, para: 02 3 19	Linley also politely smiled back at them as he walked past them on the street.
+
+
+score: 0.598910, para: 01 4 53	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.592889, para: 01 8 11	With a low-throated growl, white steam erupted from the nostrils of the Velocidragon, carrying with it the stench of sulfur. Those diamond-like eyes, nearly the size of a lantern, were also, strangely enough, red as well. The huge head of the Velocidragon turned towards Linley and the children. It’s cold gaze terrified all of the children, freezing them in their tracks.
+
+
+score: 0.588830, para: 02 3 43	“Wonder if the little Shadowmouse ate it or not.” Linley was currently in the back courtyard of the manor, and walked towards the area where he had tossed the wild hare earlier.
+
+
+score: 0.580757, para: 01 6 11	Immediately upon entering the room, a rotten scent wafted past Linley’s nose. Thick cobwebs could be seen in each corner, and spiders could even be seen clambering about.
+
+
+score: 0.571036, para: 02 7 25	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+
+score: 0.569715, para: 01 2 1	In the blink of an eye, another half year had passed. Training hard and strengthening his body, Linley passed through the gentle, warm spring, the blazing summer, and the chilly autumn. The white poplar tree next to the empty training field of Wushan would always scatter some dried leaves onto the ground whenever the wind blew. The leaves slowly whirled down, covering the entire training ground.
+
+
+score: 0.563847, para: 02 4 6	Just as Linley walked into the courtyard….
+
+
+score: 0.559023, para: 02 17 37	A mist flew out, transforming into Doehring Cowart. Doehring Cowart blinked and glanced at Linley. “Linley, what’s going on? In the past, haven’t you always ignored this old fellow and entered the meditative trance first? Why are you calling me out now? I was having a wonderful nap just now, hmph. You ruined my beautiful dream.”
+
+

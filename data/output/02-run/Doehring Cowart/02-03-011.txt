@@ -1,0 +1,20 @@
+source: 02 3 11	Doehring Cowart immediately understood.
+
+score: 0.773958, para: 01 23 3	Hearing this news, Doehring Cowart was immediately ecstatic.
+
+score: 0.773958, para: 01 23 3	Hearing this news, Doehring Cowart was immediately ecstatic.
+
+score: 0.773958, para: 01 23 3	Hearing this news, Doehring Cowart was immediately ecstatic.
+
+score: 0.773958, para: 01 23 3	Hearing this news, Doehring Cowart was immediately ecstatic.
+
+score: 0.590633, para: 02 1 29	Doehring Cowart laughed. “Linley, if they weren’t so fast, why would they be called Shadowmice?”
+
+score: 0.590633, para: 02 1 29	Doehring Cowart laughed. “Linley, if they weren’t so fast, why would they be called Shadowmice?”
+
+score: 0.590633, para: 02 1 29	Doehring Cowart laughed. “Linley, if they weren’t so fast, why would they be called Shadowmice?”
+
+score: 0.578205, para: 02 8 48	Doehring Cowart now understood.
+
+score: 0.578205, para: 02 8 48	Doehring Cowart now understood.
+

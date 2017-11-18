@@ -1,0 +1,27 @@
+source: 01 17 10	Wharton slowly crawled out from under Linley. His body was small, and he had been fully covered by Linley, so he didn’t experience any injuries at all.
+
+
+score: 0.636151, para: 01 4 32	“That’s enough, Wharton. My entire body is covered with sweat. Let me wash myself first.” Linley patted Wharton on the face and laughed.
+
+
+score: 0.576624, para: 01 16 48	Wharton had never seen his big brother look so angry before, and was so terrified that he immediately lay down. His eyes filled with tears, he looked at Linley and mumbled, “Big brother…” But with a flying hug, Linley tackled Wharton and covered him with his own body.
+
+
+score: 0.528180, para: 01 20 50	Linley grinned at his father, but continued to devour his food with haste. In the twinkling of an eye, he had stripped the leg of mutton of all flesh. Linley let out a comfortable burp, then used the napkin to wipe his lips. Standing, he said, “Father, Uncle Hiri, I’m done eating. I feel like my head is still a bit dizzy, so I’m going to go and get some more rest. Wharton, see ya.” Linley was the first to finish eating.
+
+
+score: 0.515857, para: 01 16 46	Three more boulders came crashing down near Linley, but moving like a panther, Linley continued to charge forwards, his gaze fixed on little Wharton as he finally entered the warehouse. Hiri, turning around, only now became aware of that two-meter long boulder descending towards the warehouse. His face immediately turned white.
+
+
+score: 0.515638, para: 01 2 37	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.513656, para: 02 4 12	Upon smelling the roasted chicken, the little Shadowmouse’s eyes shone, and then it looked at Linley pitifully. Seeing this, Linley couldn’t help but laugh until his stomach hurt. In the past, when Linley gave good food to little Wharton, little Wharton would say, “Big bro, I want!” while staring at him in a pitiful manner.
+
+
+score: 0.502671, para: 01 2 35	Little Wharton was staring at Linley with a look of pure, simple love. Walking unsteadily, he extended a small, pudgy hand towards Linley, trying to hug him. Linley stood not too far away, quietly waiting for little Wharton to reach him.
+
+
+score: 0.501024, para: 01 16 41	“WHOOSH!” A huge rock nearly two meters in diameter came flying in their direction from far away, headed directly towards the warehouse. Linley immediately realized that when this giant boulder smashed into the warehouse, Wharton would either suffer serious injury, or even die!
+
+

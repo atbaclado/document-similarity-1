@@ -1,0 +1,15 @@
+source_doc: 2 9	Surprised at Linley’s equanimity, the white robed man still smiled. “Linley, I will inform the Institute of your biographical details. When the time comes, just bring your proof of identity to the Institute and take a second, correlating test. Then, you will become an official student of our Institute.”
+
+
+score: 0.593576, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.573383, para: 2 5	“The Ernst Institute is the number one magus academy in the world. All of the graduates of the Ernst Institute are at least magi of the sixth rank, and there’s even many who are of the seventh rank! If our Baruch clan was able to produce a magus of the seventh rank, we at least would stand a chance of recovering our ancestral heirloom.”
+
+
+score: 0.567297, para: 2 7	Hillman laughed calmly, “Nobles? Every single student of the Ernst Institute can easily become an earl in any kingdom.”
+
+
+score: 0.551421, para: 1 23	He couldn’t reveal the existence of Doehring Cowart to his father. Every morning and evening, he still needed to attend physical training, while later in the morning, he would have his lessons with his father on politics, religion, religious rites, warfare, geography, art…and all sorts of other lessons.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 3	As he spoke, Hogg was filled with so much fury that his body actually trembled.
+
+
+score: 0.644072, para: 1 12	For whatever reason, as he lay on the bed, Linley simply couldn’t fall asleep. He tossed and turned, his mind filled with images of the Velocidragon and the ‘Dance of the Fire Serpents’ which the magus had displayed.
+
+
+score: 0.639195, para: 1 11	“Louisa [Lu’yi’sha]!” The red-haired warrior howled angrily, his voice filled with anguish.
+
+
+score: 0.637271, para: 1 17	Up til now, Linley’s body was still elevated from the ground, as he had been using his fists in a push-up position, so as not to crush Wharton.
+
+
+score: 0.635419, para: 1 4	Right now, Linley was only wearing trousers. His upper body was covered with sweat, and his body, as taut as a drawn bowstring, was lying on the ground. His hands were pressed fiercely to the ground, as straight as tree trunks, while the rest of his body was motionless. He was supporting himself from a push-up position, with just his hands and the tips of his toes! His entire body was taut!
+
+

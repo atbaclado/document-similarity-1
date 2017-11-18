@@ -1,0 +1,30 @@
+source: 02 4 7	“Squeak, squeak!” The little Shadowmouse immediately ran up to Linley, and began hopping up and down while squeaking at him.
+
+
+score: 0.773193, para: 02 5 31	Linley was lying on the grass near the back courtyard, while the little Shadowmouse was hopping up and down around Linley. It was squeaking nonstop, but Linley paid him no mind.
+
+
+score: 0.674981, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.673204, para: 02 6 1	The little Shadowmouse had previously watched Linley go hunting rabbits in the mountain, but this time, Linley wasn’t headed for the mountain. He was headed off in a totally different direction, traveling on a road. The little Shadowmouse immediately panicked.
+
+
+score: 0.666412, para: 02 6 48	“Squeak squeak.” The little Shadowmouse immediately began to jump up and down.
+
+
+score: 0.625126, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+
+score: 0.624574, para: 02 6 59	“Haha, I’m fine. It’s just that Bebe has become my magical beast, now.” Linley was extremely happy. “Come, Bebe, hop onto my shoulder.” Immediately, the little Shadowmouse let out a happy squeal, then scurried onto Linley’s shoulder.
+
+
+score: 0.613701, para: 02 8 7	“Bebe, stick with Uncle Hillman for now. I’m going to take the test.” Linley mentally instructed the little Shadowmouse, who somewhat unwillingly shuffled around a bit under Linley’s clothes. But after multiple requests from Linley, the little Shadowmouse directly scurried into Hillman’s clothes.
+
+
+score: 0.593835, para: 02 6 65	And with his squeaks to accompany them, Linley, Hillman, and the Shadowmouse disappeared off into the distance.
+
+
+score: 0.583484, para: 02 6 20	Seeing Linley and Hillman slowly disappear, the little Shadowmouse still stayed there, unmoving.
+
+

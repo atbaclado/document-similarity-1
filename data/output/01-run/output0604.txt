@@ -1,0 +1,15 @@
+source_doc: 1 15	Suddenly, the enormous Black Dragon let out a furious roar as its two huge wings began to flap vigorously. It emanated a terrifying pressure, causing everyone, Hillman included, to feel their legs grow soft and to feel as though they couldn’t breathe.
+
+
+score: 0.773612, para: 1 18	“The ‘Stellar Sword Saint’ Dillon? Pity. I can’t kill him yet.” The gray-robed man said in a low voice. And then the Black Dragon underneath his feat, as though knowing his master’s wishes, flapped its enormous wings and went flying off into the southeastern direction.
+
+
+score: 0.733227, para: 1 7	“I’m gonna be late. This is my first time being late!” Linley bolted out like a roaring flame. As he ran, he tucked the Coiling Dragon Ring into his clothes. Feeling the coolness of the ring against his chest, Linley couldn’t help but feel happy.
+
+
+score: 0.729164, para: 1 8	With a low-throated growl, white steam erupted from the nostrils of the Velocidragon, carrying with it the stench of sulfur. Those diamond-like eyes, nearly the size of a lantern, were also, strangely enough, red as well. The huge head of the Velocidragon turned towards Linley and the children. It’s cold gaze terrified all of the children, freezing them in their tracks.
+
+
+score: 0.711846, para: 1 8	Upon seeing this enormous creature, Linley and the rest of the children were scared silly. Hillman, Roger and Lorry’s reaction speeds were very quick; they immediately stood in front of the group of kids and carefully watched the enormous creature.
+
+

@@ -1,0 +1,20 @@
+source: 01 1 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.965457, para: 01 57 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.965457, para: 01 57 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.965457, para: 01 57 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.623743, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+score: 0.623743, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+score: 0.623743, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+score: 0.623743, para: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+score: 0.532607, para: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+
+score: 0.532607, para: 02 10 19	“Hillman, Uncle Hiri!” Hogg looked at the two of them. “Tonight, I am going to host a banquet. Quick, make the arrangements! Tonight, I am very happy, extremely happy. To have such a son, even if I die, I will be able to proudly face the elders of the Baruch clan.”
+

@@ -1,0 +1,15 @@
+source_doc: 1 17	“An incantation of the tenth rank…” Linley took a deep breath.
+
+
+score: 0.646791, para: 1 22	Linley took a deep breath.
+
+
+score: 0.620117, para: 1 8	“At least a magus of the seventh rank. Perhaps even a magus of the eighth rank!” Roger’s fists couldn’t help but tremble as well. “I never imagined such an important individual would come to our home.”
+
+
+score: 0.606620, para: 1 23	Linley took a deep breath and nodded.
+
+
+score: 0.605190, para: 1 13	Linley was stunned. “Father, by what you say…only a magus of the seventh rank or higher can enslave a magical beast?”
+
+

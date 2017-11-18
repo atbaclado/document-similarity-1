@@ -1,0 +1,30 @@
+source: 02 2 14	Linley slightly nodded.
+
+
+score: 0.750692, para: 02 6 5	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+
+score: 0.698886, para: 01 3 4	Hogg took Linley by the hand. “Come.”
+
+
+score: 0.693611, para: 02 6 42	“What’s the little Shadowmouse saying?” Linley didn’t really understand.
+
+
+score: 0.682742, para: 01 5 47	“Yes, father.” Linley said respectfully.
+
+
+score: 0.682742, para: 02 5 12	But then, Linley thought things through.
+
+
+score: 0.682742, para: 02 5 23	Linley nodded.
+
+
+score: 0.681692, para: 01 4 36	Wharton was only a child, while Linley was much more mature.
+
+
+score: 0.681692, para: 01 4 43	“Yes, father.” Linley said calmly.
+
+
+score: 0.681692, para: 01 4 56	Linley nodded.
+
+

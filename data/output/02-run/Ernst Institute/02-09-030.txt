@@ -1,0 +1,8 @@
+source: 02 9 30	The Ernst Institute?
+
+score: 0.556808, para: 02 4 0	Book 2, Growing Up, Chapter 4 – The Ernst Institute
+
+score: 0.556808, para: 02 4 0	Book 2, Growing Up, Chapter 4 – The Ernst Institute
+
+score: 0.556808, para: 02 4 0	Book 2, Growing Up, Chapter 4 – The Ernst Institute
+

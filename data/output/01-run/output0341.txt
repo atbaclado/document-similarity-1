@@ -1,0 +1,15 @@
+source_doc: 1 7	Based on Linley’s thinking, if it was a piece of shattered wood, it should be stomped into fragments. But in reality…
+
+
+score: 0.585493, para: 1 12	Linley shook his head.
+
+
+score: 0.582053, para: 1 1	That huge bluestone boulder was shattered by a single blow from his fist. What sort of power was this? And that three or four hundred pound boulder was so easily tossed with a flick of the arm. What sort of power was this?
+
+
+score: 0.581801, para: 1 1	Hillman breathed deeply. All of the veins on his muscular body popped out prominently, as Hillman directly struck at a nearby bluish boulder. His fist shattered the air, creating a howling sound that made all of the watching children widen their eyes even further. Hillman’s mighty fist smashed directly onto the boulder.
+
+
+score: 0.575058, para: 1 6	In the end, the cabinet, which was twice as tall as Linley himself, collapsed. With a crashing sound, the cabinet smashed against the floor, breaking into seven or eight pieces, covering the room with even more dust. But hidden amidst the dust, unseen by Linley, was…
+
+

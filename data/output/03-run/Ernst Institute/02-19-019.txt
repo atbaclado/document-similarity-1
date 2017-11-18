@@ -1,0 +1,9 @@
+source: 02 19 19	The Huadeli Hotel, the most expensive hotel and restaurant within the Ernst Institute. Tonight, Yale was hosting the four bros of dorm 1987 to a lavish meal at the Huadeli Hotel.
+
+
+score: 0.548626, para: 02 21 38	In the cabinets within the carriage, there were actually fruits, honey, and wine. The four bros began to eat and drink and chat within the carriage. The Ernst Institute was only twenty kilometers away from Fenlai City, so after about half an hour or so, they arrived.
+
+
+score: 0.548613, para: 02 18 49	Clearly, from inside their dorm, Yale had heard Linley’s voice. Yale, Reynolds, and George all walked out and waved to Linley. The four bros proceeded towards the dining areas. The Ernst Institute contained some luxurious restaurants, but after being persuaded by Linley, Reynolds, and George, Yale no longer took them to those places.
+
+

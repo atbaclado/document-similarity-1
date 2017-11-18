@@ -1,0 +1,30 @@
+source: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+
+score: 0.557740, para: 01 1 68	“Haha.” Linley grinned widely. In his heart, he felt very happy at being praised by Hillman.
+
+
+score: 0.531715, para: 02 5 47	Hillman smiled as he said, “Lord Hogg, please set your mind at ease.”
+
+
+score: 0.523579, para: 01 2 12	Hillman stared at the children, and said in a clear voice, “Brats, listen up! You are all men of Wushan town. The men of Wushan town must straighten their chests and welcome any challenges, and accept no fear. Am I understood?”
+
+
+score: 0.516940, para: 01 1 48	Hillman turned his head. Staring at the children, he was very satisfied with the children’s reactions.
+
+
+score: 0.513750, para: 01 1 127	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+
+score: 0.511299, para: 01 8 47	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.504697, para: 02 6 14	“Uncle Hillman, wait a sec. Lemme tell him to go home.” Linley cupped the little Shadowmouse in his hands and said to it, “Little Shadowmouse, I am going to leave with Uncle Hillman to the capital. You cannot go to the capital. Understood?”
+
+
+score: 0.504147, para: 02 7 54	Linley and Hillman had arrived here as well.
+
+
+score: 0.500119, para: 01 4 26	Hillman, off to the side, nodded with satisfaction.
+
+

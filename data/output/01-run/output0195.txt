@@ -1,0 +1,15 @@
+source_doc: 1 3	“Linley, at this point in time, the Baruch family just consists of you, me, and your little brother. I don’t have any extravagant hopes. I’ve never dared to dream of becoming a Dragonblood Warrior.” Hogg laughed at himself satirically. How could becoming a Dragonblood Warrior be an easy task?
+
+
+score: 0.697794, para: 1 5	Looking at Linley, Hogg sighed in his heart. “Sculpting? Oh, child. Do you know that in the past, I also practiced sculpting? I spent ten full years of my life trying to learn. But unfortunately, my sculptures weren’t worth a single coin.” Hogg, too, had once foolishly dreamed of becoming a master sculptor and thereby improving his clan’s situation.
+
+
+score: 0.694680, para: 1 1	“This kid really has the daring to dream big. The country of Fenlai has millions of citizens, but even so, after countless centuries, it hasn’t produced a single Saint-level warrior. To want to become a Saint-level warrior…” In Hillman’s mind, he fully understood how difficult it was to become a Saint-level warrior.
+
+
+score: 0.690077, para: 1 17	Hogg was a member of the Dragonblood Warrior clan. Although the Dragonblood Warrior clan had fallen on hard times, their five thousand years of history meant that within their family archives, there was information about all of the most powerful magical attacks used by the most powerful people in history. Hogg naturally could tell what was going on at a glance.
+
+
+score: 0.678643, para: 2 11	“Linley, don’t ask too much. Honestly, I only know a little bit about our family history as well. As far as what happened four thousand years ago, there’s no way we can clearly know what happened.” Hogg laughed towards Linley.
+
+

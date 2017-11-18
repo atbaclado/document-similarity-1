@@ -1,0 +1,21 @@
+source: 02 20 54	But Linley just stood there on the dueling area quietly.
+
+
+score: 0.682537, para: 02 10 51	Linley stood behind him without making a sound.
+
+
+score: 0.588671, para: 02 3 28	Linley stood at the doorway.
+
+
+score: 0.530339, para: 02 18 40	Linley stood up unhappily, and then politely paid his respects. “Farewell, instructor.”
+
+
+score: 0.528989, para: 02 6 18	“Squeak. Squeaaaaak!” The little Shadowmouse stood there, watching Linley.
+
+
+score: 0.513804, para: 02 7 28	“Whew. It’s been quite a while since I’ve been in a large city.” A hazy white light shone out from the Coiling Dragon Ring, transforming into a white-bearded old man. Doehring Cowart and Linley stood side by side as they stared at the street below.
+
+
+score: 0.509442, para: 01 2 53	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+

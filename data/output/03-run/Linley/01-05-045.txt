@@ -1,0 +1,30 @@
+source: 01 5 45	Linley was so frightened, he immediately knelt down. Just now, he only spoke because he thought that sculpting could improve his family’s situation. He didn’t expect his father to say so much and lecture him so sternly.
+
+
+score: 0.623068, para: 02 25 3	Linley sat there alone in the mountains behind the Ernst Institute. Under the tutelage of Doehring Cowart, he began to study the art of stonesculpting. As he began to understand more and more about this art, Linley also began to understand why in the later stages, the Straight Chisel School could assist in improving one’s spiritual essence.
+
+
+score: 0.621413, para: 02 2 3	“Grandpa Doehring, quick, tell me, what’s your plan?” Linley excitedly spoke to him mentally.
+
+
+score: 0.610851, para: 01 2 51	“Um? Why did father change his clothes?” Seeing his father, Linley was filled with astonishment. While at home, his father normally wore only very simple clothes. Just then, while eating dinner, his father wore normal clothes. But now, he had switched to a set of very noble, beautiful apparel.
+
+
+score: 0.606206, para: 02 24 45	“You don’t believe me?” Doehring Cowart stared at him. “Back in the day, when Proulx was just a young kid, he came to me and earnestly begged me to allow him to view my sculptures. After analyzing my sculptures, that kid Proulx had a mental breakthrough which in the end allowed him to become a grandmaster sculptor. As a matter of fact, he can even be considered a student of mine.”
+
+
+score: 0.598442, para: 01 7 35	“How will Uncle Hillman punish me?” Even as he hurriedly rushed forward, Linley was still thinking about this question. At this point, Linley had no time to chat or pay respects to any of the uncles or aunties nearby. In a short period of time, Linley arrived at the training field of Wushan town.
+
+
+score: 0.596732, para: 01 20 31	Linley’s heart was immediately filled with joy. But as he engaged in conversation with Doehring Cowart, he didn’t pay attention to where he walked, and he tripped over the doorway. Uncle Hiri, walking ahead of him, turned and laughed. “Young master Linley, watch where you walk.”
+
+
+score: 0.593537, para: 02 4 58	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.587202, para: 02 2 2	Linley’s calm mind immediately grew agitated again, and he turned to look at Doehring Cowart with shining eyes.
+
+
+score: 0.574046, para: 01 23 53	Due to his daily physical training exercises, Linley’s body was growing sturdier and sturdier. Because he often entered the meditative state and absorbed earth essence, Linley became calmer and more tranquil. Linley’s transformation caused his father Hogg and Hillman to both be amazed and overjoyed.
+
+

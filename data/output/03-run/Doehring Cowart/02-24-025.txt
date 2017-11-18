@@ -1,0 +1,30 @@
+source: 02 24 25	In the past, Doehring Cowart had told Linley that he would become a magus of the sixth rank in ten years, but Linley had always had reservations about that claim. After all, to date, his rate of improvement was clearly insufficient.
+
+
+score: 0.711553, para: 02 17 56	Right now, Doehring Cowart was chortling happily. “But Linley, you must understand that a magus of the second rank counts for little. Based on our ranking systems, magi of the first and second rank are all considered ‘entry-level magi’. Magi of the third and fourth ranks are considered ‘mid-level magi’, and fifth and sixth ranks are ‘high-level magi’. A magus of the seventh rank is called a ‘senior magus’, a magus of the eighth rank is a ‘master magus’, and a magus of the ninth rank is a ‘arch magus’. These ranks of seven through nine are the highest. The road you have to travel is a long way.”
+
+
+score: 0.664929, para: 02 14 39	Doehring Cowart’s voice rang out in his mind. “Linley, relax. For most people, decades will be needed to reach the sixth rank, yes. Under my tutelage, I can let you become a magus of the sixth rank in just ten years.”
+
+
+score: 0.586132, para: 02 1 24	Doehring Cowart continued, “Right. For an infant Shadowmouse to have reached the speed of an adult Shadowmouse of the fourth rank means that when it grows up, it has the possibility of becoming a violet-colored Shadowmouse of the seventh rank. I suspect…that it is the child of a Violet Shadowmouse.”
+
+
+score: 0.575573, para: 01 22 33	Doehring Cowart laughed as he spoke. “In most magus academies, you can only study spells up to the sixth rank. Spells of the seventh, eighth, and ninth ranks, as well as Saint-level spells, are considered secrets. Only if you join a kingdom will you gain access to those special spells.”
+
+
+score: 0.574284, para: 01 23 26	But Doehring Cowart continued, “Generally speaking, only one in ten thousand can become a magus, principally because there’s a high requirement when it comes to spiritual energy. The absolute minimum requirement for a magus is having five times more spiritual energy than someone of the same age. Ten times puts you roughly in the middle of the pack, as far as the average magus goes.”
+
+
+score: 0.567098, para: 01 23 31	“As long as you work hard, Linley, I am fully confident that you can reach the eighth rank. But as to whether or not you can become a magus of the ninth rank, or even a Saint-level magus? That will depend on your own comprehension and your experiences.” Doehring Cowart said seriously. “If you do not work hard, I’m afraid you might not even become a magus of the sixth rank. At that point in time, you’ll have no one else to blame.”
+
+
+score: 0.563771, para: 02 16 19	“This fellow has a very solid foundation. Although he isn’t very strong, in terms of teaching magi of the first rank, not even magi of the eighth or ninth rank would necessarily be a better teacher.” Doehring Cowart nodded as he sighed in praise.
+
+
+score: 0.555056, para: 02 1 5	“Magical beasts are divided into nine ranks. Magical beasts of the first rank are the weakest. And of course, above the ninth rank are magical beasts at the Saint-level!” Doehring Cowart smiled at Linley. “Linley, the weakest type of Stoneater Rat is the Grey Stoneater Rat. Stoneater Rats of the first to third ranks are all grey in color, with some minor shading differences. A Stoneater Rat, upon reaching the fourth rank, will see its fur turn pure silver. Upon reaching the seventh rank, its fur will turn gold! A gold-colored Stoneater Rat will at least be a magical beast of the seventh rank, and at most a magical beast of the eighth rank.”
+
+
+score: 0.533536, para: 01 23 23	“Your spiritual energy is ten times stronger than the average person of your age.” Doehring Cowart smiled as he spoke.
+
+

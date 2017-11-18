@@ -1,0 +1,20 @@
+source: 01 1 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.894466, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.894466, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.894466, para: 01 68 65	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+score: 0.661864, para: 01 12 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.661864, para: 01 12 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.661864, para: 01 12 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+score: 0.650033, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+score: 0.650033, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+
+score: 0.650033, para: 01 7 37	Linley ran towards the training squads. Taking position next to the squads, he nervously awaited Hillman’s instructions.
+

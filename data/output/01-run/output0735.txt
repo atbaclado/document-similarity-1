@@ -1,0 +1,14 @@
+source_doc: 1 19	Linley immediately peered up at him and said, “What ‘Worldring’? This ring around my chest was left behind by elders of my ancestral clan. Its name is the ‘Coiling Dragon Ring’!”
+
+
+score: 0.702068, para: 2 10	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.697143, para: 1 3	Father and son held each other close. Only three members remained of the ancient Dragonblood Clan in this era. When would this decaying clan be able to regain the glory and honor it had in prior years? At this moment, lying against his father’s chest, Linley’s fists were clenched tightly!
+
+score: 0.694363, para: 1 7	“Now, what name should I choose for this black ring? Earthworm Ring? No way, that sounds terrible.” Linley mumbled for a few moments, then his eyes lit up. “Haha, that sinuous object can also be considered a ‘dragon’, right? A dragon curled around the ring…then let’s call it, the Coiling Dragon Ring!” Although in his heart, Linley felt like the carving looked more like an earthworm, but he still chose the name ‘Coiling Dragon Ring’ for it.
+
+
+score: 0.658372, para: 1 17	Since his head was injured, the so-called ‘Coiling Dragon’ ring he wore underneath his clothes had also been stained by blood. But the blood on the Coiling Dragon ring seemed to have disappeared, like water into an endless ocean, as the strange black material slowly absorbed it all.
+
+

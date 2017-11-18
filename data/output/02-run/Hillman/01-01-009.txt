@@ -1,0 +1,20 @@
+source: 01 1 9	Hillman swept the group of children with his gaze.
+
+score: 0.985302, para: 01 2 9	Hillman swept the group of children with his gaze.
+
+score: 0.985302, para: 01 2 9	Hillman swept the group of children with his gaze.
+
+score: 0.985302, para: 01 2 9	Hillman swept the group of children with his gaze.
+
+score: 0.534529, para: 01 93 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.534529, para: 01 93 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.534529, para: 01 93 97	All of the six year olds had collapsed. Even half the ten year olds had collapsed as well. All of the fourteen year olds, however, held on. Hillman’s face remained as cold as ever.
+
+score: 0.527312, para: 02 6 65	And with his squeaks to accompany them, Linley, Hillman, and the Shadowmouse disappeared off into the distance.02 7 6	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+score: 0.527312, para: 02 6 65	And with his squeaks to accompany them, Linley, Hillman, and the Shadowmouse disappeared off into the distance.02 7 6	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+score: 0.527312, para: 02 6 65	And with his squeaks to accompany them, Linley, Hillman, and the Shadowmouse disappeared off into the distance.02 7 6	As nightfall came, Linley and Hillman entered the Fenlai City.
+

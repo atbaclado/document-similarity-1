@@ -1,0 +1,30 @@
+source: 02 9 32	That represented that immediately upon graduation, even if he was just an average student, he could easily become an earl in any of the nearby kingdoms. If he was a superior student, even the four great empires would sincerely welcome him to join them.
+
+
+score: 0.578902, para: 02 17 26	At the Ernst Institute, there were indeed quite a few people who had magical beasts. Aside from the magi who had been invited to come to the Institute, some fifth and sixth grade students were able to buy soulbinding formation scrolls and had managed to tame some magical beasts to serve as their mounts.
+
+
+score: 0.572075, para: 02 22 9	When Linley and his bros, along with Cass and the three guardsmen, arrived at the Proulx Gallery, anyone who was a decent judge of character could recognize the Ernst Institute clothing that they wore. Upon seeing the Blue-eyed Thunderhawk on Cass’ shoulders, they naturally would become very courteous and polite.
+
+
+score: 0.546615, para: 02 13 12	The O’Brien Empire, one of the Four Great Empires, was located to the east of the Mountain Range of Magical Beasts, while the Ernst Institute was located west of it. In order to reach the Ernst Institute, one had to circle around the entire Mountain Range of Magical Beasts from the north or the south. After all, aside from combatants of the ninth rank or Saint-level combatants, no one dared to directly cross that mountain range.
+
+
+score: 0.544079, para: 02 13 2	The Ernst Institutewas located in a rustic area approximately twenty kilometers south of the Holy Capital of Fenlai City. The Ernst Institute was founded and financially supported by the Radiant Church. Naturally, it was wealthy and knew how to throw around money. They took up a very large space, with a circumference of ten kilometers. Such a huge academy was nearly the size of a city.
+
+
+score: 0.536836, para: 02 15 42	George calmly smiled. “Yale, don’t grow complacent. Although there aren’t formal requirements for students, every year, there will be an ability test. Only if you advance a rank in power can you advance a grade. If you don’t work hard, do you plan to stay here for a century? What’s more, the Ernst Institute has a rule that if one does not become a magus of the sixth rank in sixty years, one will be expelled, no exceptions.”
+
+
+score: 0.533550, para: 02 12 30	The next morning, all of the commoners of Wushan township gathered on the main road in town, all for the purpose of sending off Linley. It was definitely an incredibly glorious thing for Wushan township to be able to produce a magus who would attend the Ernst Institute.
+
+
+score: 0.532351, para: 02 20 10	“Right, if you have the skills, compete using magic! Are you even a student of the Ernst Institute?” Rand’s nearby friends immediately called out in support.
+
+
+score: 0.530370, para: 02 24 18	A white line shone out of the Coiling Dragon Ring, and Doehring Cowart appeared besides Linley, smiling. “Linley, there actually isn’t a huge difference between you two. When Dixie enrolled, his spiritual essence was 68 times that of his peers. This means that even before training, his spiritual essence had reached the level of a magus of the third rank. That’s why in his first year, all he had to do was accumulate sufficient mageforce for him to become a magus of the third rank. By now, he’s been at the Ernst Institute for almost two more years, so it is very normal for him to become a magus of the fourth rank.”
+
+
+score: 0.529500, para: 02 24 24	“Grandpa Doehring, the more natural talent one has, the faster one will progress. He has much more talent than I do, and holds two more ranks than I do. How could I possibly catch up to him in ten short years?” Linley was no fool. His studies at the Ernst Institute had made him aware of how difficult it was for a magus to advance a rank.
+
+

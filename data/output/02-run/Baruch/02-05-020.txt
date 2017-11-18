@@ -1,0 +1,20 @@
+source: 02 5 20	As dinner progressed, the conversation amongst the Baruch clan manors was quite cheerful.
+
+score: 0.686167, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.686167, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.686167, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.686167, para: 01 18 18	Within the Baruch clan manor courtyard, there was only Hogg.
+
+score: 0.646201, para: 01 2 28 Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+score: 0.641563, para: 01 2 28	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+score: 0.641563, para: 01 2 28	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+score: 0.641563, para: 01 2 28	Reading was a very luxurious thing. Usually, only the scions of noble houses could read. The Baruch clan was an extremely old clan, and it held a large number of books.
+
+score: 0.641432, para: 02 10 40	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+

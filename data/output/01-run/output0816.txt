@@ -1,0 +1,15 @@
+source_doc: 1 21	Linley ran directly back to his room, and then tightly shut the door behind him.
+
+
+score: 0.617179, para: 1 16	“Quick, Wharton, inside!” Linley’s eyes were opened so wide as to appear bloodshot, and he howled angrily as he ran towards the warehouse at top speed.
+
+
+score: 0.599419, para: 2 7	“Understood, Uncle Hillman.” Even as he spoke, Linley walked to a nearby window and pulled it open.
+
+
+score: 0.596365, para: 1 15	“Yes, father!” Linley repeatedly nodded, and immediately ran in the direction of the storage room.
+
+
+score: 0.592802, para: 1 16	He no longer paid any attention to the raining stones, nor did he try to avoid them. He ran directly towards the warehouse in a straight line.
+
+

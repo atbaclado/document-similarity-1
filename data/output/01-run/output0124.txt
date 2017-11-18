@@ -1,0 +1,15 @@
+source_doc: 1 2	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+
+score: 0.738192, para: 2 10	It was extremely noisy inside the Baruch clan manor. Even the ten-plus bodyguards and their families had all been invited. There were five full tables placed in the main courtyard of the manor, and the entire Baruch manor was filled with laughter and joy.
+
+
+score: 0.722464, para: 2 10	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.706198, para: 1 6	There were actually many rooms in the back courtyard. After all, the front courtyard which Linley resided in constituted only a third of the entire manor. The back courtyard was far larger. Linley would probably have to spend an entire day in order to finish searching the entire back courtyard.
+
+
+score: 0.678650, para: 2 3	“The Shadowmouse is actually here staring at me.” Linley chuckled as he saw that Shadowmouse inside the courtyard watch him approach.
+
+

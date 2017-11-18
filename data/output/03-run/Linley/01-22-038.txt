@@ -1,0 +1,21 @@
+source: 01 22 38	He could feel himself embarking on a new path.
+
+
+score: 0.611151, para: 02 13 24	Upon seeing the results, Linley couldn’t help but feel shocked.
+
+
+score: 0.590425, para: 01 16 45	“Young master Linley?” Seeing how Linley was acting, Hiri couldn’t help but feel shocked.
+
+
+score: 0.526498, para: 02 1 54	Linley couldn’t help but feel a bit disappointed.
+
+
+score: 0.524715, para: 01 23 6	“Grandpa Doehring, I can still feel the movements of those earth-colored specks of light. Really! Even though it’s not as clear now, I can still somewhat feel them.” Linley was feeling extremely excited.
+
+
+score: 0.518119, para: 02 18 63	“Not necessarily. I also feel Linley’s been really sneaky.” Yale also looked at Linley. “Linley, have you become a magus of the second rank?”
+
+
+score: 0.502531, para: 01 10 26	Linley really was intelligent. He had read many books, and knew what path he had embarked on for the future.
+
+

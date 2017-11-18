@@ -1,0 +1,20 @@
+source: 01 1 80	Staring at Linley, Hillman couldn’t help but be filled with surprise and joy.
+
+score: 0.911370, para: 01 80 80	Staring at Linley, Hillman couldn’t help but be filled with surprise and joy.
+
+score: 0.911370, para: 01 80 80	Staring at Linley, Hillman couldn’t help but be filled with surprise and joy.
+
+score: 0.911370, para: 01 80 80	Staring at Linley, Hillman couldn’t help but be filled with surprise and joy.
+
+score: 0.641028, para: 02 6 58	Hillman, who only knew an inkling about magic, couldn’t help but feel shock and fear.
+
+score: 0.641028, para: 02 6 58	Hillman, who only knew an inkling about magic, couldn’t help but feel shock and fear.
+
+score: 0.641028, para: 02 6 58	Hillman, who only knew an inkling about magic, couldn’t help but feel shock and fear.
+
+score: 0.595940, para: 01 15 31	Hillman’s face was filled with urgency.
+
+score: 0.595940, para: 01 15 31	Hillman’s face was filled with urgency.
+
+score: 0.595940, para: 01 15 31	Hillman’s face was filled with urgency.
+

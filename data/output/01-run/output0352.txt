@@ -1,0 +1,15 @@
+source_doc: 1 7	“Coiling Dragon Ring!” Lifting up the dark, unadorned ring, Linley felt exceptionally pleased.
+
+
+score: 0.664464, para: 2 11	Doehring Cowart was so old that he had become as crafty as a fox. Stroking his white beard, he said in a self-satisfied manner, “Linley, the answer is simple. Based on what I know, the dragon race is extremely proud, and also extremely large and powerful! I wager that drinking the blood of a live dragon is probably an effective method, but your clan came under tremendous pressure from the dragon clan, and therefore altered the contents of this book.”
+
+
+score: 0.602278, para: 2 9	“How weak. Compared to the overawing presence of the Black Dragon from half a year ago, it simply isn’t even close to being on the same level.” Linley was relaxed enough to even think about that.
+
+
+score: 0.598286, para: 2 6	From within the Coiling Dragon Ring, Doehring Cowart flew out. His white beard fluttering happily, he said, “Linley, the little guy is setting up a ‘bond of equals’ formation.”
+
+
+score: 0.597123, para: 1 19	“The Coiling Dragon Ring is an extremely amazing object. It doesn’t appear to emanate any magical aura, but in usefulness it can even compare with Divine artifacts. When I sealed my soul within the ring, Hamelin and the other searched a long time for me, but weren’t able to find me. This, too, is thanks to the Coiling Dragon Ring.” The old man smiled as he spoke.
+
+

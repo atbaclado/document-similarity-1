@@ -1,0 +1,15 @@
+source_doc: 1 2	“Our clan’s history? What can it be?” In his heart, Linley was eager to know, but he didn’t dare to make a sound.
+
+
+score: 0.842372, para: 1 21	Linley didn’t dare to even breathe.
+
+
+score: 0.746248, para: 1 8	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.634326, para: 1 1	“Saint-level warriors?” While walking, Linley was still thinking about that. “In the future, will I be able to become a Saint-level warrior?”
+
+
+score: 0.613504, para: 1 10	“Linley, don’t watch.” Hillman saw that Linley was intending to continue watching, and was shocked.
+
+

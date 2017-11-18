@@ -1,0 +1,27 @@
+{ score: 0.733580, para: 1-5: Hillman, off to the side, nodded with satisfaction.
+ }
+
+{ score: 0.733580, para: 1-19: Hiri nodded as well.
+ }
+
+{ score: 0.733580, para: 2-2: Linley nodded inwardly.
+ }
+
+{ score: 0.733580, para: 2-11: Linley nodded honestly.
+ }
+
+{ score: 0.603497, para: 1-13: “It definitely is worth celebrating,” Hillman nodded and laughed as well.
+ }
+
+{ score: 0.489526, para: 2-8: “I know, I know, you’re hungry. Eat up.” Linley threw the roast duck he had brought back from the restaurant onto the floor, and Bebe immediately excitedly ran to it and began chewing.
+ }
+
+{ score: 0.473540, para: 2-8: As they walked on Fragrant Pavilion Road, the primary road of East Fenlai City, Linley felt as though his eyes were dazzled. The litle Shadowmouse Bebe had been instructed by Linley to hide within his clothes, but he also took a sneak peek at the surroundings, and then began to squeak in shared excitement.
+ }
+
+{ score: 0.470645, para: 1-6: “Sculpting?” Hogg glanced at Linley, his eyes cold.
+ }
+
+{ score: 0.447723, para: 2-7: “Haha, I’m fine. It’s just that Bebe has become my magical beast, now.” Linley was extremely happy. “Come, Bebe, hop onto my shoulder.” Immediately, the little Shadowmouse let out a happy squeal, then scurried onto Linley’s shoulder.
+ }
+

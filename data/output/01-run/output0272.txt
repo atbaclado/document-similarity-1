@@ -1,0 +1,15 @@
+source_doc: 1 5	“What an adorable child.” Philip seemed very pleased.
+
+
+score: 0.697955, para: 1 23	“What an adorable little mouse. And how amazingly fast!” Hiding by the doorway, Linley exclaimed silently.
+
+
+score: 0.599280, para: 1 10	“No!” Luke was also screaming in terror.
+
+
+score: 0.580588, para: 1 4	“Just this?” Hogg frowned.
+
+
+score: 0.580588, para: 1 12	“It is possible.” Hogg nodded.
+
+

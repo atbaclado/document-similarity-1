@@ -1,0 +1,20 @@
+source: 01 22 3	Doehring Cowart began to laugh. “Fine, I’ll test you right away.”
+
+score: 0.695530, para: 01 21 4	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+score: 0.695530, para: 01 21 4	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+score: 0.695530, para: 01 21 4	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+score: 0.695530, para: 01 21 4	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+score: 0.561408, para: 01 23 15	“Now, it’s time for the second test, to test your spiritual energy.” Doehring Cowart looked at Linley solemnly.
+
+score: 0.561408, para: 01 23 15	“Now, it’s time for the second test, to test your spiritual energy.” Doehring Cowart looked at Linley solemnly.
+
+score: 0.561408, para: 01 23 15	“Now, it’s time for the second test, to test your spiritual energy.” Doehring Cowart looked at Linley solemnly.
+
+score: 0.561408, para: 01 23 15	“Now, it’s time for the second test, to test your spiritual energy.” Doehring Cowart looked at Linley solemnly.
+
+score: 0.500821, para: 02 8 18	“In the magical aptitude test, the elemental essence affinity test is secondary. The spiritual essence test is the main one. After half a year of meditation, your spiritual essence should be sixteen or seventeen times that of most people your age.” Doehring Cowart chuckled at Linley. “For you, this test will be extremely easy.”
+

@@ -1,0 +1,30 @@
+source: 01 3 10	“Hazard [Ha’ze’de] Baruch, the third Dragonblood Warrior of the Yulan continent. Born in the year 5360 of the Yulan calendar, in his very first battle, he fought fiercely with a Saint-level Bloody-eyed Maned Lion in the Mountain Range of the Setting Sun. He defeated the lion, forcing it to scurry away and flee, causing Hazard to become famous throughout the world…”
+
+
+score: 0.644654, para: 02 11 42	Under pressure from the dragon race, the Dragonblood Warriors of the Baruch clan were undoubtedly forced to stop catching live dragons for bloodletting.
+
+
+score: 0.629994, para: 01 4 19	A warrior of the ninth rank could be considered the most powerful expert in the entire country of Fenlai. A warrior of the eighth rank, although unable to restore the Baruch family to its former glories, would be able to dramatically improve its current situation.
+
+
+score: 0.616758, para: 02 5 54	“Squeak.” On the rooftops above the living room of the Baruch clan manor, the little Shadowmouse watched Linley and Hillman depart. The little Shadowmouse’s mind was filled with questions. In his eyes, this was the time when Linley should be going off to kill a wild hare. Why had he taken up a bag and headed off with someone else?
+
+
+score: 0.599444, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.592673, para: 01 7 30	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.581203, para: 02 5 58	The little Shadowmouse’s body flickered and in the blink of an eye, disappeared from atop the eaves of the Baruch clan’s manor. In two or three movements, it moved, reappearing on top of a nearby peasant’s house, still watching Linley and Hillman. As it followed behind Linley, the little Shadowmouse soon had left Wushan township.
+
+
+score: 0.570274, para: 01 2 33	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+
+score: 0.555725, para: 02 10 13	“Haha, hahahahaha! Elders of the Baruch clan, there is hope for our clan again!” Hogg suddenly lifted his head to the sky and laughed wildly, so hard that his entire body was trembling, so hard that tears began to flow. “There is hope for our Baruch clan again!”
+
+
+score: 0.555332, para: 02 11 28	Capturing a live Saint-level dragon to engage in bloodletting? How great a humiliation would this be for the dragon race? It was quite lucky for the Baruch clan that the dragon race didn’t exterminate them in a fiery rage. However, from this, one can imagine how powerful the Baruch clan was at that time.
+
+

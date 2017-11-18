@@ -1,0 +1,18 @@
+source: 02 4 34	“Linley, I hear that you’ve often been bringing roasted hares to the back courtyards?” Halfway through the meal, Hogg put down his utensils and turned to Linley.
+
+
+score: 0.630395, para: 01 20 33	While excitedly engaging in mental conversation with Doehring Cowart, Linley entered the dining room and sat down. Today’s dinner was actually quite sumptuous, including a fragrant smelling roasted sheep. Hogg glanced at Linley. Smiling, he said, “Linley, have some.” As he spoke, Hogg personally tore off a strip of meat from the sheep’s lower hindlegs for Linley.
+
+
+score: 0.542713, para: 01 3 29	Not just Linley. To tell the truth, even Hogg was very nervous.
+
+
+score: 0.533097, para: 01 3 35	“Linley, why are you crying? Don’t cry, be good, don’t cry.” Hogg immediately hugged Linley. Seeing Linley cry, Hogg felt sick at heart. After all, Linley was still just six and a half. He was just a child.
+
+
+score: 0.531643, para: 01 5 37	After Philip and his entourage had departed, Hogg stared at the six sacks of gold, a dim look in his eyes. This time, he sold the stone sculpture. Next time? Although the manor still had many things remaining, sooner or later, they would have nothing left.
+
+
+score: 0.500933, para: 01 5 34	Hogg hefted the sacks. Just based on weight alone, Hogg was certain that there really were six hundred gold coins in them, a hundred gold per sack. Hogg smiled and nodded. “Philip, how about staying and having dinner with us?”
+
+

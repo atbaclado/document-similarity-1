@@ -1,0 +1,30 @@
+source: 02 1 37	Linley also agreed with Doehring Cowart’s words.
+
+
+score: 0.840743, para: 02 4 42	Linley agreed with this line of thought.
+
+
+score: 0.795308, para: 02 15 17	Linley agreed with him silently.
+
+
+score: 0.795308, para: 02 23 22	Linley agreed as well.
+
+
+score: 0.795308, para: 02 24 58	Linley agreed in his heart.
+
+
+score: 0.632731, para: 01 8 47	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+
+score: 0.613548, para: 02 2 7	Linley now understood.
+
+
+score: 0.613548, para: 02 2 12	Linley nodded.
+
+
+score: 0.613548, para: 02 2 26	Linley understood.
+
+
+score: 0.604052, para: 02 9 44	“Thank you.” Linley accepted the envelope.
+
+

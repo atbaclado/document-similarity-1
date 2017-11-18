@@ -1,0 +1,15 @@
+source: 02 7 6	As nightfall came, Linley and Hillman entered the Fenlai City.
+
+
+score: 0.553010, para: 01 8 43	In but a few moments, they arrived in the middle of the town. Hillman was standing far away, watching.
+
+
+score: 0.552378, para: 01 8 22	“Everyone, stay here.” After he spoke, Hillman immediately chased after the departing Velocidragon.
+
+
+score: 0.511339, para: 01 1 24	Hillman walked towards the northern group of children. Those children immediately became nervous.
+
+
+score: 0.510083, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+

@@ -1,0 +1,30 @@
+source: 02 24 41	Doehring Cowart stared at him. “Linley, you don’t believe me? As a venerable Saint-level Grand Magus of the Pouant Empire, in the past, there were several sculptures I made which nobles offered a million gold coins to purchase. But how could I, a Saint-level Grand Magus, be willing to give the sculptures which I was the most proud of to others?”
+
+
+score: 0.745142, para: 02 22 16	Yale laughed as he explained. “But the experts’ hall is different. The experts’ exhibition is divided up into many individual rooms, with each sculpture in a room by itself. Generally speaking, an ‘expert’ is someone whose sculpting ability has received general acclaim, and most expert sculptures are worth around a thousand gold coins or so.”
+
+
+score: 0.730181, para: 01 5 39	Linley knew very well that in the Yulan continent, those famous master sculptors could produce works valued at tens of thousands of gold pieces each. Some famous sculptures could even reach a hundred thousand gold pieces. And wealth aside, the societal ranking of these sculptors was also very high.
+
+
+score: 0.697290, para: 02 22 14	Yale, Reynolds, George, and Linley viewed one stone sculpture after another, and in their hearts they felt as though these sculptures truly were incomparably beautiful.
+
+
+score: 0.678732, para: 02 22 17	“As for the masters’ hall, that’s even more amazing. In the innermost sanctum of the gallery, there are a very small number of masters’ sculptures. The price of these sculptures is frighteningly high. Any of them are easily worth tens of thousands of gold, and some of the masterpieces which first brought fame to their master sculptors are easily worth hundreds of thousands of gold pieces.” Yale explained to his three bros in detail.
+
+
+score: 0.674565, para: 01 19 26	“Gramps, you said that five thousand years ago, you were ambushed by a Saint-level Grand Magus and a Saint-level combatant, and then you were self-sealed within this ring? And that this ring is an artifact which is comparable in power to a Divine artifact?” Linley finally said.
+
+
+score: 0.666891, para: 02 23 43	“Gold coins? So much gold. There must be at least ten thousand gold coins here.” Hogg stared at Hillman, astonished. “Hillman, you say that Linley asked you to bring this here?”
+
+
+score: 0.638389, para: 02 14 29	His own father gave him only a hundred gold coins each year for living costs. In fact, in Linley’s eyes, a hundred gold coins was more than enough. After all, most commoners would only make twenty or thirty gold coins in wages after a year of hard labor.
+
+
+score: 0.629981, para: 02 3 8	Doehring Cowart was startled. He had never had any grandchildren, and why would a revered Saint-level Grand Magus like himself stoop to coaxing other kids?
+
+
+score: 0.623266, para: 01 19 45	Doehring Cowart was a mighty Grand Magus of the Pouant Empire, and thus had an extremely high personal status. Back then, he would have ranked amongst the top five personages in the Yulan continent. He fell only because he had been despicably ambushed by Grand Magus Hamelin and another Saint-level combatant.
+
+

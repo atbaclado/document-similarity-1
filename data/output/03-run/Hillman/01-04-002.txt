@@ -1,0 +1,9 @@
+source: 01 4 2	“Well done, Linley! Hold it, hold it!” Hillman encouraged from the side.
+
+
+score: 0.708701, para: 02 6 9	“Uncle Hillman, hold it!” Linley finally managed to react.
+
+
+score: 0.546658, para: 01 8 47	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+
+

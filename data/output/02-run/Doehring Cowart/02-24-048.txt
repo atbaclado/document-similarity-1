@@ -1,0 +1,8 @@
+source: 02 24 48	Proulx, the man who had been acclaimed throughout the ages at the finest sculptor in history, could be considered a student of Doehring Cowart.
+
+score: 0.521648, para: 02 22 33	Doehring Cowart frowned. Stroking his beard unhappily, he said, “What is it? Do you think that Proulx was a grandmaster from birth? He, too, started as an ordinary sculptor and worked his way up, and becoming a true grandmaster sculptor in the end.”
+
+score: 0.521648, para: 02 22 33	Doehring Cowart frowned. Stroking his beard unhappily, he said, “What is it? Do you think that Proulx was a grandmaster from birth? He, too, started as an ordinary sculptor and worked his way up, and becoming a true grandmaster sculptor in the end.”
+
+score: 0.521648, para: 02 22 33	Doehring Cowart frowned. Stroking his beard unhappily, he said, “What is it? Do you think that Proulx was a grandmaster from birth? He, too, started as an ordinary sculptor and worked his way up, and becoming a true grandmaster sculptor in the end.”
+

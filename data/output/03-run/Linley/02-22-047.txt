@@ -1,0 +1,30 @@
+source: 02 22 47	George and Linley glanced at each other, and couldn’t help but chuckle bitterly.
+
+
+score: 0.781552, para: 02 20 82	Linley glanced around.
+
+
+score: 0.696234, para: 02 24 5	Linley couldn’t help but stare at the direction of the voice, and saw two cute girls chatting to each other while staring at him. When Linley glanced at them, the two girls began to titter in a quiet voice.
+
+
+score: 0.696211, para: 01 20 24	Although he found Linley’s reaction to be a bit odd, Uncle Hiri didn’t think too much of it, just nodding and smiling. Linley dressed himself, but still couldn’t help but sneak a peek at Doehring Cowart. But just as he did so, Doehring Cowart, who was still grinning at him, suddenly disappeared from Linley’s field of vision.
+
+
+score: 0.678240, para: 02 13 49	Linley smiled and nodded.
+
+
+score: 0.658422, para: 02 13 48	“Uncle Hillman, you can go back as well. I can take care of myself.” Linley smiled as he spoke to Hillman, and Hillman nodded back, satisfied. “Linley, then I’ll go back now. Work hard.” Hillman encouraged.
+
+
+score: 0.656729, para: 02 19 39	Linley couldn’t help but laugh helplessly to himself.
+
+
+score: 0.648149, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+
+score: 0.641019, para: 02 15 8	“Bebe, you woke up?” Linley laughed as he stroked Bebe’s little head. Bebe closed his eyes in contentment, and then opened his little eyes and peered at Reynolds, Yale, and George. His little nose snorted three times, as though he looked down at them.
+
+
+score: 0.641010, para: 02 13 30	Linley chuckled when he heard this.
+
+

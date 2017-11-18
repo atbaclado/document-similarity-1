@@ -1,0 +1,15 @@
+source_doc: 2 5	Little Wharton immediately squinted towards Linley. In a sad voice, he said, “Big brother, bye bye!”
+
+
+score: 0.667512, para: 2 3	The black Shadowmouse immediately moved and in the blink of an eye, appeared over ten meters away. His two guileless eyes stared towards the doorway, and he immediately saw Linley. His eyes were filled with caution.
+
+
+score: 0.631553, para: 1 22	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+
+score: 0.630646, para: 2 6	The little Shadowmouse just stared at Linley with pitiable sad eyes, as though he were about to cry
+
+
+score: 0.620609, para: 2 6	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+

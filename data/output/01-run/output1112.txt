@@ -1,0 +1,15 @@
+source_doc: 2 4	Linley understood this logic.
+
+
+score: 1.000000, para: 2 9	Linley understood this as well.
+
+
+score: 0.761207, para: 1 9	Listening to the conversation from far away, Linley, by Hillman’s side, now understood everything.
+
+
+score: 0.687331, para: 1 22	Linley had read many books and therefore understood this principle.
+
+
+score: 0.666062, para: 2 9	“Thank you.” Linley accepted the envelope.
+
+

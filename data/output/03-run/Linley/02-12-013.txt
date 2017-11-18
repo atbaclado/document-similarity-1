@@ -1,0 +1,30 @@
+source: 02 12 13	Just from the look on Bebe’s face, Linley knew what was up.
+
+
+score: 0.655639, para: 02 13 37	“Reynolds, don’t just stand there looking silly. Let’s go.” Linley laughed.
+
+
+score: 0.614736, para: 01 20 22	Seeing Linley constantly glance at the corner of his bed, Uncle Hiri asked curiously, “Young master Linley, why are you staring at the side of your bed? Did you drop something? I can help you look for it.”
+
+
+score: 0.614476, para: 01 13 7	“Destructive potential?” Linley looked at his father.
+
+
+score: 0.599838, para: 02 8 45	“Whoah, I, I have affinity for the wind-style as well?” Linley was stunned. He couldn’t help but turn to look at Doehring Cowart.
+
+
+score: 0.590957, para: 02 17 40	“Grandpa Doehring, I feel like I have reached the level of a magus of the second rank. I want you to take a look and see for yourself.” Linley finally said.
+
+
+score: 0.589799, para: 02 19 30	“Relying on his talent alone? When it comes to talent, can he compare to our Institute’s number one genius, Dixie?” Yale quirked his lips. “I look down upon Rand. He won the first grade tournament, so what. Linley, you didn’t see how self-satisfied he looked upon winning. I really can’t imagine how he would look if he actually were to win the fifth or sixth grade tournaments in the future.”
+
+
+score: 0.578552, para: 01 20 19	Linley felt extremely agitated. He couldn’t help but turn to look in the direction of Doehring Cowart, but Doehring Cowart was still standing there, grinning. “What’s going on with Grandpa Doehring? Ugh. We’re about to get discovered. It’s going to be so annoying to have to explain.”
+
+
+score: 0.570581, para: 02 18 63	“Not necessarily. I also feel Linley’s been really sneaky.” Yale also looked at Linley. “Linley, have you become a magus of the second rank?”
+
+
+score: 0.554205, para: 02 11 1	“The Secret Dragonblood Training Method?” Linley couldn’t help but look strangely at his father.
+
+

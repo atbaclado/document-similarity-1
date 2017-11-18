@@ -1,0 +1,15 @@
+source_doc: 1 5	But in his heart, he felt very helpless. Despite spending ten years training, his sculptures were still worthless. The field of sculpting could be described as a pyramid.
+
+
+score: 0.551970, para: 2 3	These acitivities continued. Day after day, Linley continued to undergo meditative training while preparing wild rabbits and other animals for the little Shadowmouse to eat. Nobody in the entire Wushan township, including Hogg and Hillman, knew that Linley was learning magic. Similarly, none of them knew that Linley was taking care of a juvenile magical beast that already possessed power of the fourth rank!
+
+
+score: 0.545410, para: 1 22	“Linley, a large amount of mageforce draws out an even larger amount of elemental essence. If such a huge amount of force is not controlled by spiritual energy…what do you think the end result would be?” Doehring Cowart stroked his white beard as he quietly watched Linley.
+
+
+score: 0.544518, para: 1 10	That sudden display was simply too bloody. Even a fully grown adult, when faced with such a terrifying scene for the first time, would be panicked. Linley was just an eight year old child.
+
+
+score: 0.541969, para: 1 16	“Whoosh!” A boulder that must’ve weighed hundreds of pounds shot right past Linley, coming to a crashing rest not too far away from his feet, creating a huge crater. Linley felt cold sweat pour down his back. Just a tiny bit of a difference in trajectory, and his little life would’ve been over.
+
+

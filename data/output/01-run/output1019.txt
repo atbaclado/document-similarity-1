@@ -1,0 +1,15 @@
+source_doc: 2 2	Linley slightly nodded.
+
+
+score: 0.971331, para: 1 15	Hillman felt slightly dizzy.
+
+
+score: 0.781033, para: 2 6	“Uh, what’s the little Shadowmouse doing here?!” Linley was somewhat surprised.
+
+
+score: 0.781033, para: 2 6	The little Shadowmouse said, somewhat excitedly, “Bei….bei….”
+
+
+score: 0.743952, para: 2 4	Now this little Shadowmouse was doing the same!
+
+

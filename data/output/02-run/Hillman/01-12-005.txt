@@ -1,0 +1,20 @@
+source: 01 12 5	“Hillman.” Hogg turned to look at Hillman. Smiling, he said, “What do you think?”
+
+score: 0.623743, para: 01 1 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.623743, para: 01 1 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.623743, para: 01 1 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.623743, para: 01 1 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.620210, para: 01 57 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.620210, para: 01 57 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.620210, para: 01 57 52	“All of you, stand straight. Look at your elders to the south, then look at how you are standing!” Hillman censured them.
+
+score: 0.583796, para: 02 23 39	Turning his head, Hogg said, “Hillman, you are back. Uh, what’s that on your shoulders?”
+
+score: 0.583796, para: 02 23 39	Turning his head, Hogg said, “Hillman, you are back. Uh, what’s that on your shoulders?”
+

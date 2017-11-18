@@ -1,0 +1,15 @@
+source_doc: 1 1	Hillman, Roger, and Lorry all stared at Linley in surprise.
+
+
+score: 0.733711, para: 1 6	He stared up at the sky.
+
+
+score: 0.701822, para: 1 8	But upon seeing Linley follow behind Lorry and Roger, Hillman frowned even further. “Linley, it’s far too dangerous here. Go back immediately.” Only now did Lorry and Roger notice Linley had followed them.
+
+
+score: 0.693122, para: 1 8	“Linley, why did you…” Lorry and Roger didn’t know what to say.
+
+
+score: 0.684998, para: 1 10	Hillman, Roger, and Lorry exchanged troubled glances as they watched Linley.
+
+

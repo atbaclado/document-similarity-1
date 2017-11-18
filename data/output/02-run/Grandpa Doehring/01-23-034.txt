@@ -1,0 +1,6 @@
+source: 01 23 34	“Grandpa Doehring, please don’t worry. I won’t disappoint you, or my father, or the Baruch clan.” At this moment, Linley’s mind was filled with the image of the spirit tablet in front of the ancestral hall, and those illustrious names and stories engraved on the back.
+
+score: 0.524788, para: 02 20 84	“Hi Linley, my name is Danni [Dan’ni], a water magus of the first rank. I’m glad to meet you.” Immediately, a golden-haired girl with a tall, slender figure walked over and said to Linley with a smile.
+
+score: 0.520821, para: 01 22 19	“Oh…I understand.” Linley laughed and nodded. “The ‘mageforce’ inside a magus is kinda like Uncle Hillman, while elemental essence is like our group of kids. Uncle Hillman, all by himself, directs our entire group in training, or in attacking, or engaging in battle!”
+

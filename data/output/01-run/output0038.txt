@@ -1,0 +1,15 @@
+source_doc: 1 1	“Linley, how do you feel?” Smiling, Hillman walked towards him.
+
+
+score: 0.808854, para: 2 4	Just as Linley walked into the courtyard….
+
+
+score: 0.773547, para: 1 6	Having made up his mind, Linley raced towards the large room.
+
+
+score: 0.713702, para: 1 15	“Linley, go home, quick!” Hillman, still carrying several children, shouted towards Linley, who was also running.
+
+
+score: 0.689587, para: 1 11	The mysterious magus lightly nodded, then turned and walked towards the Velocidragon. The Velocidragon immediately knelt down, stretching out his foreleg. The magus stepped onto the Velocidragon’s leg, walked two steps, then easily jumped onto the Velocidragon’s back.
+
+

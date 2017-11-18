@@ -1,0 +1,15 @@
+source_doc: 2 3	After finishing his meal, the Shadowmouse glanced again in the direction which Linley had departed to. The baby Shadowmouse immediately felt a degree of kinship for this young fellow. After all, he was just recently born, an infant magical beast. The baby Shadowmouse even felt a bit of anticipation. Would this young man return in the future with another wild hare?
+
+
+score: 0.717164, para: 2 1	“Linley.” Doehring Cowart suddenly looked at Linley with a strange look in his eyes. His voice carrying a hint of enticement he said, “Regardless of why the the infant Violet Shadowmouse is here…would you want to collect it as a companion? Shadowmice grow very rapidly, especially Violet Shadowmice. In ten years or so, it will finish its growth cycle. By that time, you would have a magical beast companion of at least the seventh, and possibly even the eighth rank.”
+
+
+score: 0.695612, para: 2 1	Doehring Cowart nodded. “Shadowmice are indeed very fast, but for an infant Shadowmouse to already have reached the speed of an adult Shadowmouse is definitely out of the ordinary.” A hint of a smile was on Doehring Cowart’s face.
+
+
+score: 0.690920, para: 1 2	Little Wharton’s wobbly footsteps made people fear he would fall with each step. But in the end, little Wharton managed to rush into his big brother’s embrace. His smooth skin, as soft as water, was slightly pink. His big round eyes stared at his elder brother, and in a baby voice, he said, “Big brother, big brother.”
+
+
+score: 0.688691, para: 2 10	As it turned out, the little Shadowmouse had fallen asleep next to Linley’s chest, but Hogg’s explosive laughter startled him awake. An infant Shadowmouse spent a great deal of time napping, and hated being awakened. At this moment, naturally he was extremely furious.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 21	Linley’s heart was trembling.
+
+
+score: 1.000000, para: 1 5	Hearing these words, Linley felt his heart twinge.
+
+
+score: 1.000000, para: 1 8	Linley’s heart trembled.
+
+
+score: 1.000000, para: 1 19	Linley’s heart trembled.
+
+
+score: 0.973119, para: 2 1	Hearing his words, Linley’s heart fluttered.
+
+

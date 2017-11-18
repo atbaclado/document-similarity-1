@@ -1,0 +1,15 @@
+source_doc: 2 9	In fact, immediately upon knowing Linley’s test results, he had recorded Linley’s details into the paperwork in the envelope. Because the white robed man believed without a doubt – no one would refuse an offer from the Ernst Institute!
+
+
+score: 0.658707, para: 1 14	Hadley immediately said urgently, “You guys don’t believe me? Fine, don’t believe me!” Furious, Hadley turned around, searching everywhere until he found Linley. His eyes brightening, he immediately said, “But everyone here knows that aside from Uncle Hillman and the other two, Linley also went. Linley saw everything with his own eyes. Linley’s words should be true, right? Let Linley tell you if I spoke the truth or not.”
+
+
+score: 0.640397, para: 2 4	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.632292, para: 2 11	“I remember the master physician who provided the prescription saying that everything in this world has its equal and opposite. For every single ingredient, there was another that would match with it. In that era, the only person who knew how to mix fresh dragon’s blood with Blueheart Grass was that old physician. Since six thousand years have gone by, no doubt no one knows it any longer.” Doehring Cowart said calmly.
+
+
+score: 0.613613, para: 1 10	But Linley suddenly discovered that he was actually very eager to participate in these bloody struggles. Linley immediately stepped to the side, bypassing Hillman’s protective arm, and continued to watch the battle which was still going on a hundred meters away.
+
+

@@ -1,0 +1,15 @@
+source_doc: 1 4	“At the far northern end, the Holy Union shares a border with the O’Brien Empire. While at the southern end, the Dark Alliance intersects with the Yulan Empire. Under the guidance of the Radiant Church, the unity of our Holy Union isn’t one whit inferior to that of the empires.”
+
+
+score: 0.664173, para: 2 5	“What is it, Grandpa Doehring?” Linley asked questioningly. “I bet all of the hundreds of millions of citizens in the six kingdoms and fifteen dukedoms of the Holy Union know about the legendary Holy Emperor Ernst of the Radiant Church.” Linley, also, knew much about the affairs and history of the legendary Holy Emperor Ernst.
+
+
+score: 0.638810, para: 1 3	“Baruch, the very first Dragonblood Warrior of the Yulan continent. In the year 4560 of the Yulan calendar, outside the walls of the city of Linnan, Baruch did battle against a Black Dragon and a Titanic Frost Wyrm. In the end, he slew both the Titanic Frost Wyrm and the Black Dragon, causing his fame to be spread across the world. In the year 4579 of the Yulan calendar, along the coastline of the northern sea of the continent, Baruch did battle against a Nine-Headed Serpent Emperor. On that day, the waves crashed unceasingly and nearby cities crumbled, but after a vicious fight lasting a full day and night, Baruch finally executed the Nine-Headed Serpent Emperor….finally, Baruch founded the Baruch clan, and became the first leader of the Baruch clan!”
+
+
+score: 0.624438, para: 2 7	In addition, it also served as the ‘Holy Capital’ of the Holy Union, because the Radiant Church itself was headquartered in the western part of Fenlai City.
+
+
+score: 0.611302, para: 2 7	The Holy Emperor of the Radiant Church had an extremely high status. He had the authority to depose any of the kings of the various kingdoms! This is why in Fenlai City, the tallest building was the Cathedral of the Radiant Church.
+
+

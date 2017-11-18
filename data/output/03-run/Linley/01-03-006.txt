@@ -1,0 +1,30 @@
+source: 01 3 6	Linley widened his eyes and began to read.
+
+
+score: 0.866985, para: 01 7 47	Linley widened his eyes and stared east…
+
+
+score: 0.657260, para: 01 2 53	Hogg stood up. Turning around, when he saw Linley, his eyes lit up.
+
+
+score: 0.631602, para: 01 13 31	Hearing these words, Linley’s eyes shone.
+
+
+score: 0.631602, para: 01 23 65	“What’s that?” Linley’s eyes widened.
+
+
+score: 0.631602, para: 02 21 14	Reynolds, George, and Linley’s eyes all shone.
+
+
+score: 0.631602, para: 02 23 6	Linley’s eyes shone.
+
+
+score: 0.622042, para: 02 2 45	In scant seconds, Linley finished his incantation, and his eyes lit up as he stared at the hare.
+
+
+score: 0.571670, para: 01 1 96	“How long was I able to hold out?” Linley opened his eyes wide, looking around him.
+
+
+score: 0.571136, para: 01 12 55	“Late autumn? Isn’t that just half a year away?” Linley’s eyes were filled with excitement.
+
+

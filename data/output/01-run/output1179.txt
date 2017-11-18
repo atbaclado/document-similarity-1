@@ -1,0 +1,15 @@
+source_doc: 2 5	“You don’t even know what I’m saying,” Linley shook his head helplessly.
+
+
+score: 0.986493, para: 1 12	“No idea. Didn’t notice.” Hillman shook his head as well.
+
+
+score: 0.888174, para: 1 12	Linley shook his head.
+
+
+score: 0.631915, para: 1 3	Hogg shook his head and sighed. “The fifth Dragonblood Warrior only stayed on the Yulan continent for around two centuries, before he disappeared. In the thousand years since then, our Baruch clan has totally decayed.”
+
+
+score: 0.614378, para: 1 17	“It really did come too fast.” Hogg turned his head to stare at the eastern sky.
+
+

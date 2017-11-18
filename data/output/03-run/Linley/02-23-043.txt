@@ -1,0 +1,30 @@
+source: 02 23 43	“Gold coins? So much gold. There must be at least ten thousand gold coins here.” Hogg stared at Hillman, astonished. “Hillman, you say that Linley asked you to bring this here?”
+
+
+score: 0.818530, para: 02 14 29	His own father gave him only a hundred gold coins each year for living costs. In fact, in Linley’s eyes, a hundred gold coins was more than enough. After all, most commoners would only make twenty or thirty gold coins in wages after a year of hard labor.
+
+
+score: 0.740810, para: 02 20 31	He only had a hundred gold coins each year for living expenses. He wasn’t rich like some people.
+
+
+score: 0.666891, para: 02 24 41	Doehring Cowart stared at him. “Linley, you don’t believe me? As a venerable Saint-level Grand Magus of the Pouant Empire, in the past, there were several sculptures I made which nobles offered a million gold coins to purchase. But how could I, a Saint-level Grand Magus, be willing to give the sculptures which I was the most proud of to others?”
+
+
+score: 0.654499, para: 02 21 3	“A hundred gold coins, gone like that.” Walking out from the local branch of the Golden Bank of the Four Empires within the Ernst Institute, Linley couldn’t help but sigh to himself. Now, next to his chest, was a magicrystal card of his own.
+
+
+score: 0.651447, para: 02 20 52	“Today, I am going to engage in a magical duel with this kid Linley, with the loser paying ten thousand gold coins and having to avoid the other in the future. Everyone, please be my witnesses.” Rand said. He enjoyed the feeling of being watched by many. He didn’t suffer from any stage fright at all.
+
+
+score: 0.649693, para: 01 13 42	“Last I heard, the going price was around ten thousand gold coins. And what’s more is, even if you had the money, there’s almost no market for it due to its rarity.” Hogg’s words forced Linley to laugh bitterly at himself.
+
+
+score: 0.648634, para: 02 21 50	What an enormous sum that was. Even if his clan sold off their ancestral home, they most likely would only be able to scrape up a hundred thousand gold coins.
+
+
+score: 0.646216, para: 01 5 39	Linley knew very well that in the Yulan continent, those famous master sculptors could produce works valued at tens of thousands of gold pieces each. Some famous sculptures could even reach a hundred thousand gold pieces. And wealth aside, the societal ranking of these sculptors was also very high.
+
+
+score: 0.632145, para: 02 8 8	Linley then accepted the ten gold coins and headed towards the line. The youths there ranged in age from six or seven years old to seventeen years old. These children organized themselves into two long lines, while the cathedral pursers collected the fees from each of them.
+
+

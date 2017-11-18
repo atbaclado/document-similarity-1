@@ -1,0 +1,21 @@
+source: 02 6 11	“Uncle Hillman, he’s the pet that I’ve been feeding and raising in the back courtyard.” Linley hurriedly said. “Little Shadowmouse, isn’t that right?”
+
+
+score: 0.609901, para: 02 10 32	“He was feeding this ‘pet’?” Hogg thought for a moment, then stared at Linley disbelievingly. “Magical beast Shadowmouse. This is the ‘cute animal’ you told me you were feeding in the back courtyard?”
+
+
+score: 0.564808, para: 02 3 52	After placing the wild chicken at the doorway, he said a few words to the young Shadowmouse, smiled, and then retreated. But this time, he didn’t depart, just standing off to the side and watched. Shortly afterwards, the young Shadowmouse scampered out. Looking around himself, when he saw Linley’s far off presence, he wasn’t too scared. He immediately lowered his head and began to eat the chicken.
+
+
+score: 0.521754, para: 02 3 13	“I read about this as well in a book regarding raising monkeys. ‘Saying three in the morning and then raising to four in the afternoon’ is much more effective than ‘saying four in the morning and then lowering to three in the afternoon’. Linley grinned.
+
+
+score: 0.511502, para: 01 3 59	“Father, you don’t believe me?” Raising his head, Linley looked at his father questioningly.
+
+
+score: 0.502797, para: 02 4 8	“I haven’t even taken the food out, and he’s already run up to me. He really isn’t afraid of me at all.” Linley felt joy in his heart.
+
+
+score: 0.500137, para: 02 3 5	The rabbit in his clutches, Linley immediately began running down the mountain.
+
+

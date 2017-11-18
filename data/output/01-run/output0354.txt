@@ -1,0 +1,14 @@
+source_doc: 1 7	Linley dumped water over himself. His skin was bright and vigorous, and muscular lines were already beginning to develop. This was the result of Linley’s training. Underneath the rushing water flow, the dust was quickly washed away.
+
+
+score: 0.723050, para: 1 17	Since his head was injured, the so-called ‘Coiling Dragon’ ring he wore underneath his clothes had also been stained by blood. But the blood on the Coiling Dragon ring seemed to have disappeared, like water into an endless ocean, as the strange black material slowly absorbed it all.
+
+
+score: 0.707288, para: 2 6	A thick, dense black light began to emanate from the little Shadowmouse’s body. A droplet of fresh blood suddenly flew out from the corner of its mouth. That droplet of fresh blood had both Linley’s blood as well as the little Shadowmouse’s blood. That blood suddenly, bizarrely transformed into two opposite, interlocking black triangles, which the thick black light merged with, forming a strange magical formation which gave off a dark aura.
+
+
+score: 0.698175, para: 1 8	With a low-throated growl, white steam erupted from the nostrils of the Velocidragon, carrying with it the stench of sulfur. Those diamond-like eyes, nearly the size of a lantern, were also, strangely enough, red as well. The huge head of the Velocidragon turned towards Linley and the children. It’s cold gaze terrified all of the children, freezing them in their tracks.
+
+
+score: 0.678704, para: 1 6	“How unlucky! My entire body is covered with dust now, and I bet training is about to start. I’d best go take a quick shower and put on some new clothes.” With a wave of his arm, Linley pushed open the door and departed the ancient room.
+

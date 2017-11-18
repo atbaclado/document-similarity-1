@@ -1,0 +1,20 @@
+source: 02 6 31	Linley and Hillman watched, stunned.
+
+score: 0.831853, para: 01 1 113	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+score: 0.831853, para: 01 1 113	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+score: 0.831853, para: 01 1 113	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+score: 0.831853, para: 01 1 113	“Look at Wushan. Isn’t it huge?” Hillman smiled.
+
+score: 0.625398, para: 01 5 17	Hillman said coldly, “Wushan town is my home, sire.”
+
+score: 0.625398, para: 01 5 17	Hillman said coldly, “Wushan town is my home, sire.”
+
+score: 0.625398, para: 01 5 17	Hillman said coldly, “Wushan town is my home, sire.”
+
+score: 0.625398, para: 01 5 17	Hillman said coldly, “Wushan town is my home, sire.”
+
+score: 0.619252, para: 01 8 47	“Uncle Hillman, I’m not going back.” Linley wasn’t willing to return.
+

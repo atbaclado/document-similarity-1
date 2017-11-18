@@ -1,0 +1,30 @@
+source: 02 9 46	“Uncle Hillman, let’s go.” Linley placed the red envelope into his clothes, and then left the main hall with Hillman.
+
+
+score: 0.612817, para: 01 6 25	This ancient room was much larger than even the main hall in the front courtyard. Stepping inside, Linley carefully scrutinized the place. “I bet hundreds of years ago, this was the dinner hall for our Baruch clan.” From the ornaments and furniture, Linley could tell that this was a living hall.
+
+
+score: 0.601887, para: 02 8 32	As time went on, the people in the main hall grew more and more numerous. The magical testing event would go on for seven days, so most people didn’t see the urge to come right away at the beginning. When Linley’s turn came, the line of test-takers had already stretched out the main doors of the cathedral.
+
+
+score: 0.587379, para: 02 22 24	“Grandpa Doehring,” Linley turned to look at Doehring Cowart. “This is just the main hall of the Proulx Gallery. There is an experts’ hall up front, as well as a masters’ hall.”
+
+
+score: 0.577143, para: 02 10 11	“Father, here’s the acceptance letter from the Ernst Institute.” Linley directly handed the admissions envelope to his father. Hogg was stunned for a moment, then quickly accepted the red envelope and removed the letter from within it. He carefully scanned the letter.
+
+
+score: 0.571273, para: 02 23 30	Linley tugged Hillman and said, “I won this magicrystal card from a rich kid who lost a magic duel with me. Let’s go to the Golden Bank of the Four Empires.” Right now, the guards at the Ernst Institute’s entrance no longer attempted to bar Hillman’s passage, because they recognized Linley, who had left earlier this morning.
+
+
+score: 0.568560, para: 02 13 7	Right now, the main gate of the Ernst Institute was a very lively place. There was an row of academic staff, and a single youth who had brought his admission letter and his proof of identity and had begun to be processed for intake. Linley immediately grabbed his own documents and headed in for processing as well.
+
+
+score: 0.562859, para: 01 2 62	With the candles in the hall becoming lit, the entire hall immediately became very bright. Linley could instantly see the many spirit tablets placed in the very front of the hall. That thick, dense cluster of spirit tablets spoke volumes as to the age of the Baruch clan.
+
+
+score: 0.561409, para: 02 6 16	Linley placed the little Shadowmouse on the floor, then waved his hand at it. “Go back.” And then he pointed to the road. “I’m going that way. To the capital.”
+
+
+score: 0.557625, para: 02 22 26	“Grandpa Doehring, Grandpa Doehring?” Linley mentally called out a few times. But seeing that Doehring Cowart was still lost in his thoughts, Linley no longer tried to call to him. He followed Yale, Reynolds, and George to the experts’ hall. This hall really was different, as within the center of the main hall, each and every artist had their information recorded and the location of their displays recorded.
+
+

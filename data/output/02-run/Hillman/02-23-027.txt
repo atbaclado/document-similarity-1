@@ -1,0 +1,20 @@
+source: 02 23 27	“Right! Uncle Hillman.”
+
+score: 1.000000, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+score: 1.000000, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+score: 1.000000, para: 02 13 51	“Farewell, Uncle Hillman.”
+
+score: 0.802547, para: 02 5 52	“Yes, Uncle Hillman.”
+
+score: 0.802547, para: 02 5 52	“Yes, Uncle Hillman.”
+
+score: 0.802547, para: 02 5 52	“Yes, Uncle Hillman.”
+
+score: 0.762714, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+score: 0.762714, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+
+score: 0.762714, para: 01 15 35	“I know, Uncle Hillman!” Linley replied loudly.
+

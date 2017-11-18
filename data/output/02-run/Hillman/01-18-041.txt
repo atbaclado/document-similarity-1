@@ -1,0 +1,14 @@
+source: 01 18 41	“Yes, lord.” Hillman said.
+
+score: 0.822614, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+score: 0.822614, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+score: 0.822614, para: 02 6 27	“Linley, are you okay?” Hillman said.
+
+score: 0.609446, para: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+score: 0.609446, para: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+
+score: 0.609446, para: 02 9 36	“Linley, agree to him.” Hillman excitedly said.
+

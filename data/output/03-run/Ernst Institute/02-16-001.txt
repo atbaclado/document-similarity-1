@@ -1,0 +1,24 @@
+source: 02 16 1	For the academic calendar of the Ernst Institute, every month, the first twenty eight days had classes. Only the last two days were free.
+
+
+score: 0.742931, para: 02 24 1	Many days later, at the Ernst Institute.
+
+
+score: 0.704889, para: 02 25 43	Year 9997 of the Yulan calendar was the seventh year Linley had spent at the Ernst Institute. This year, Linley was fifteen years old.
+
+
+score: 0.530560, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+
+score: 0.528504, para: 02 25 17	Linley continued to be a solitary figure at the Ernst Institute. The vast majority of his time each day was spend in arduous training at the back mountains.
+
+
+score: 0.523245, para: 02 23 44	Hillman said solemnly, “In total, nine thousand, nine hundred gold coins. Linley asked me to bring this to you. At the Ernst Institute, a rich young fellow engaged in a magical duel with Linley, and in losing, also lost ten thousand gold coins. Linley stored them into a magicrystal card, and now, has withdrawn the entire balance.”
+
+
+score: 0.520661, para: 02 25 44	Wearing a sky-blue robe, Linley was walking on a road within the Ernst Institute. On Linley’s shoulders, the little Shadowmouse ‘Bebe’ continued to stand. Although six or seven years had passed, Bebe’s body hadn’t changed in the slightest.
+
+
+score: 0.503117, para: 02 18 13	“The older students all know that our Ernst Institute has a tradition. At the last two months of every year, a yearly tournament will be held. The yearly tournament is always the most noisy, energetic time at the Ernst Institute. The students who achieve victory in the yearly tournament will likely have a higher chance of being rated ‘superior’ upon their graduation. When they graduate, most likely they will be invited by the Four Great Empires.” Instructor Trey laughed.
+
+

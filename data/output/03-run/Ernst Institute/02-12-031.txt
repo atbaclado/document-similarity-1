@@ -1,0 +1,30 @@
+source: 02 12 31	Each year, the Ernst Institute only accepted a hundred students from across the entire Yulan continent.
+
+
+score: 0.734456, para: 02 13 28	“Linley, what is it? Amazed just by this?” Reynolds said dismissively. “This is the Ernst Institute. Each year, they accept only a hundred students from across the entire Yulan continent. Which one of them is not an amazing talent? My results can only be considered average, across the student base.”
+
+
+score: 0.708429, para: 02 9 33	Across the entire massive Yulan continent, each year the Ernst Institute only enrolled a scant hundred students!
+
+
+score: 0.694967, para: 02 18 53	“Man, in about a month, the school year is coming to an end. The last two months of each year, the entire Institute will engage in the yearly tournament. The top three students in each grade are all allowed to live in those two-story dorms for a year.” Yale said.
+
+
+score: 0.683999, para: 02 13 4	Restaurants, clothing stores, bars, and other sorts of service industries were all located on the campus itself. It could be said that the students of the Ernst Institute spent their entire lives within the campus.
+
+
+score: 0.679684, para: 02 19 9	All of the students of the Ernst Institute were prideful heaven-blessed talents!
+
+
+score: 0.625845, para: 02 9 35	Every single student who enrolled into the Ernst Institute could be described as a genius!
+
+
+score: 0.610002, para: 02 13 29	“But the Ernst Institute does show some favoritism to the Holy Union. They accept fifty students from the Holy Union, and only fifty more total from the other Four Great Empires. It is so unfair.” Reynolds sighed.
+
+
+score: 0.586089, para: 02 15 41	“It’s so easy here. Just one class a day. Oh, Linley is dual-element, so he has two.” Yale sighed. “But the Ernst Institute is really relaxed. If you want to attend class, you can. If you don’t want to, you can skip.”
+
+
+score: 0.580019, para: 02 9 48	This was a simple demonstration of the status which an Ernst Institute student held!
+
+

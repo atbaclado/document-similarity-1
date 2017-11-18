@@ -1,0 +1,30 @@
+source: 02 5 4	“Our ancestral heirloom. For our ancestral heirloom to be lost to us is a humiliation that must be washed away.” Linley could also feel his heart grow heavy.
+
+
+score: 0.736329, para: 02 10 50	The door to the ancestral hall was closed, and a row of candles was lit in the entire hall, making it quite warm. At this moment, Hogg was staring at the spirit tablet in the middle of the hall. His voice low, he said, “Linley, after the fifth Dragonblood Warrior was born, our Baruch clan began to weaken, generation by generation, to the point where even our hereditary, ancestral heirloom was lost. Every time I think of this, I can’t help but feel absolutely ashamed. We’re supposed to be the noble Dragonblood Clan!”
+
+
+score: 0.711942, para: 02 10 53	An ancient clan which had lasted five thousand years. The Dragonblood Warrior clan. Linley felt pride in his heart. But their ancestral heirloom had been lost.
+
+
+score: 0.703868, para: 01 1 133	The amount of land the Baruch manor was built upon was actually quite large. Moss was growing on the walls, and all sorts of ivy creepers twined up the walls as well. The scars of time were very apparent on the walls. The Baruch manor located in Wushan town was the ancestral home of the Baruch clan. An ancestral home which had existed for over five thousand years and endured countless renovations continued to stand here.
+
+
+score: 0.691981, para: 01 6 16	Linley very much enjoyed this feeling of searching for treasures in the ancient room. But he had forgotten something. If he could come up with this idea, wouldn’t his father, his grandfather, and the other elders of the Baruch clan also have thought of this?
+
+
+score: 0.679195, para: 01 2 54	“Linley, come with me. Let’s go to the ancestral hall. Uncle Hiri, you know about the matters of my clan, so you can come as well.” Hogg smiled.
+
+
+score: 0.678512, para: 01 2 57	“But this isn’t the time to sacrifice to our ancestors. Why are we going to the ancestral hall?” Linley had a belly full of questions.
+
+
+score: 0.676093, para: 02 12 40	“Father, don’t worry. So long as I live, I will ensure that the ancestral heirloom of our Baruch clan is restored to us. I so swear!” Linley promised, meeting his father’s steely gaze, his own eyes filled with resolve as well.
+
+
+score: 0.674322, para: 01 2 55	“The ancestral hall?” Linley was astonished.
+
+
+score: 0.672806, para: 02 10 49	Late night, the Baruch family ancestral hall. Only Linley and his father were present.
+
+

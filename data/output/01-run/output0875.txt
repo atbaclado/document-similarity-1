@@ -1,0 +1,15 @@
+source_doc: 1 22	“Haha, Linley, you are very smart.” Doehring Cowart was laughing happily.
+
+
+score: 0.763988, para: 2 4	“Right. I got it.” Linley laughed as well.
+
+
+score: 0.714627, para: 2 6	“Bebe.” Linley was grinning so widely, his face was about to split.
+
+
+score: 0.683834, para: 2 11	Linley immediately laughed as well.
+
+
+score: 0.681990, para: 2 10	Hogg didn’t know whether to laugh or to cry. The ‘cute pet’ was actually a magical beast?
+
+

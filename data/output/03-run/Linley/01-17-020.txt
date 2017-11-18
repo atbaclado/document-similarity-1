@@ -1,0 +1,30 @@
+source: 01 17 20	Housetaker Hiri, off to the side, said, “This was my fault. This disaster came too suddenly, and as soon as I had taken Wharton into the warehouse, I saw young master Linley in great danger, so I immediately rushed forward to help him. I didn’t imagine that in just that instant, a huge boulder would head for the warehouse. This was my fault.”
+
+
+score: 0.651237, para: 01 16 41	“WHOOSH!” A huge rock nearly two meters in diameter came flying in their direction from far away, headed directly towards the warehouse. Linley immediately realized that when this giant boulder smashed into the warehouse, Wharton would either suffer serious injury, or even die!
+
+
+score: 0.637690, para: 01 16 46	Three more boulders came crashing down near Linley, but moving like a panther, Linley continued to charge forwards, his gaze fixed on little Wharton as he finally entered the warehouse. Hiri, turning around, only now became aware of that two-meter long boulder descending towards the warehouse. His face immediately turned white.
+
+
+score: 0.625986, para: 02 6 7	“Linley, be careful!” Hillman immediately rushed towards them. Linley only saw a blur, and then Hillman was there, right next to the little Shadowmouse.
+
+
+score: 0.619921, para: 01 16 44	Hiri was facing Linley, and simply couldn’t see the giant boulder headed towards the warehouse. But Linley saw everything clearly. When the boulder descended and shattered the room, how could little Wharton survive?
+
+
+score: 0.615925, para: 01 16 55	Hogg was in the courtyard, wielding an enormous sword, deflecting one boulder after another. But when he turned his head towards Linley, he saw Linley risk everything to protect Wharton, and then Housekeeper Hiri fly towards them to protect them both. His mind immediately went blank.
+
+
+score: 0.614042, para: 01 16 52	“Young master-“ Housekeeper Hiri’s eyes immediately turned red. The battle-qi in his body exploded, and like a bolt of red lightning, he flew towards them. Using his own body as a protective barrier, he also used his two hands to push at a huge piece of the falling roof which was going to fall on Linley’s body. Hiri and that collapsing ceiling arrived next to Linley at almost the same time.
+
+
+score: 0.613416, para: 01 7 30	In a flash, Linley rushed out of the Baruch clan manor, and then immediately ran towards the empty training ground east of Wushan town. By this time, most of the commoners had already returned home, leaving the streets empty, but as they saw Linley run, they were able to guess the reason.
+
+
+score: 0.605194, para: 02 4 58	“Oh, nothing!” Linley immediately looked at Hogg and quickly nodded while saying solemnly, “Father, in my heart, I really want to become a magus. In a week, please arrange for me to go to Fenlai City to take part in the magus testing and recruiting event.”
+
+
+score: 0.603671, para: 02 4 54	He couldn’t help but remember that huge Velocidragon, and the destructive power unleashed by the ‘Dance of the Fire Serpents’, as well as the Saint-level Grand Magus ‘Rudi’, who effortless controlled those countless boulders to cause an absolute calamity.
+
+

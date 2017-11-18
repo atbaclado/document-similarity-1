@@ -1,0 +1,15 @@
+source_doc: 1 3	Linley was stunned. “Testing the density of dragonblood in my veins? Test me?” Linley fully understood the implications of his father performing this test. This test would show whether or not he met the requirements for becoming a Dragonblood Warrior.
+
+
+score: 0.650784, para: 1 22	“Grandpa Doehring, hurry up and test me and see if I have any aptitude for becoming an earth-style magus.” Linley was feeling extremely anxious.
+
+
+score: 0.608407, para: 1 21	Grinning, Doehring Cowart said, “Linley, don’t be so impatient. First, I must tell you that because I don’t have any specialized magical aptitude testing equipment with me, I can only test whether or not you have any talent for earth-style magic. Since I have no tools, there’s no way for me to test and see if you have aptitude for any other magic.”
+
+
+score: 0.595290, para: 1 22	Doehring Cowart began to laugh. “Fine, I’ll test you right away.”
+
+
+score: 0.593959, para: 1 23	“Now, it’s time for the second test, to test your spiritual energy.” Doehring Cowart looked at Linley solemnly.
+
+

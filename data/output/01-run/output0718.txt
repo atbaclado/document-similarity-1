@@ -1,0 +1,15 @@
+source_doc: 1 18	He wanted to lower their taxes, but Wushan townships tax rate was already very low. Right now, his own clan’s survival had already become a problem. How could he assist the commoners of the town? The situation was different from those other towns, where taxes were so high that many commoners died of exhaustion and misery.
+
+
+score: 0.620704, para: 1 12	If there was one thing which the Baruch clan manor did not lack for, it was rooms. In the days of the Baruch clan’s glories, hundreds of people lived here. The population now was much lower than before. Even an eight year old child such as Linley had his standalone quarters.
+
+
+score: 0.617576, para: 2 3	“Looks like the educational methods of the Baruch clan are rather effective after all.” Doehring Cowart silently sighed with praise. Education can raise a person’s intelligence, but most commoners didn’t have access to education. Most commoners could not meet either the entry requirements or the fee requirements for good magus academies or warrior academies.
+
+
+score: 0.600161, para: 1 1	But, with the decline in the clan’s fortunes, the Baruch clan’s finances had taken a turn for the worse as well. Towards the end, it could only consume its previous gains. Over a hundred years ago, the then-leader of the Baruch clan determined that all the members of the clan would live in the front courtyard, which took up a third of the space of the manor. The rest of the manor would no longer be maintained. That way, a great deal of money could be saved.
+
+
+score: 0.592992, para: 2 7	There were some commoners amongst the hundreds of people crowding the square, and some countryside nobles such as Linley. Usually, those nobles from small countryside noble families were also looked down upon. The nobles of the capital were an arrogant lot who generally looked down on people.
+
+

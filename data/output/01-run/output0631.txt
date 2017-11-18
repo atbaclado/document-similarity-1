@@ -1,0 +1,15 @@
+source_doc: 1 16	“How is that possible?!” Linley was truly scared silly.
+
+
+score: 0.827886, para: 1 17	Just then, when he saw Linley charge over to protect Wharton, Hogg had truly been scared silly. He had truly been terrified that his sons would’ve died, just like that.
+
+
+score: 0.724395, para: 1 8	“Too terrifying. Is there anyone who can possibly defeat such a creature?” Linley was scared stiff.
+
+
+score: 0.714067, para: 1 7	“Master Hillman is extremely rigorous. I’m afraid young master Linley is going to be punished.”
+
+
+score: 0.694993, para: 1 1	“Saint-level warriors?” While walking, Linley was still thinking about that. “In the future, will I be able to become a Saint-level warrior?”
+
+

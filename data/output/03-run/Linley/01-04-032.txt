@@ -1,0 +1,30 @@
+source: 01 4 32	“That’s enough, Wharton. My entire body is covered with sweat. Let me wash myself first.” Linley patted Wharton on the face and laughed.
+
+
+score: 0.678918, para: 01 6 44	“How unlucky! My entire body is covered with dust now, and I bet training is about to start. I’d best go take a quick shower and put on some new clothes.” With a wave of his arm, Linley pushed open the door and departed the ancient room.
+
+
+score: 0.665407, para: 01 17 16	Linley straightened his body and sat up. His clothes were covered with blood, as was his face and his hair. When the stone had struck him, it had caused a great deal of blood loss. At the moment, Linley also felt slightly woozy. Still staring at his father, Linley said in a weak, low voice, “Father, you are crying.”
+
+
+score: 0.646817, para: 02 5 25	“The finest. Oh. The finest!” Little Wharton’s hands were covered in grease from eating, but still beamed as he waved his greasy hands.
+
+
+score: 0.636151, para: 01 17 10	Wharton slowly crawled out from under Linley. His body was small, and he had been fully covered by Linley, so he didn’t experience any injuries at all.
+
+
+score: 0.620878, para: 02 22 49	Linley and the others couldn’t help but swivel to take a look. They saw a curly-haired youth carrying another bloody youth, with a pretty girl by his side. The bloody youth’s face was ashen white. His left arm was broken, with white bones sticking out, and chest covered with claw marks.
+
+
+score: 0.619863, para: 01 1 67	“Well done. You acted like a man.” Hillman patted Linley on the head. Immediately, the hair on Linley’s head became tousled like windblown grass.
+
+
+score: 0.606912, para: 02 17 31	He naturally began to use the wind-style ‘Supersonic’ spell, turning his entire body as light as a leaf. Like a spirit, he wound his way through the mountains. After running for several kilometers, Linley reached his target destination, an empty area next to some flowing water.
+
+
+score: 0.601883, para: 01 7 6	He saw a jet-black object in the shape of a ring lying peacefully on the ground. It was covered by a layer of dust, and was not at all catching to the eye.
+
+
+score: 0.588965, para: 01 7 22	Linley dumped water over himself. His skin was bright and vigorous, and muscular lines were already beginning to develop. This was the result of Linley’s training. Underneath the rushing water flow, the dust was quickly washed away.
+
+

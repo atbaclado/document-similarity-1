@@ -1,0 +1,18 @@
+source: 02 17 6	“Right, Linley, today the rest of us are going to attend the new students fellowship. Are you going?” George chortled.
+
+
+score: 0.657791, para: 02 15 1	Most of the students of the Ernst Academy would stay at the Institute for decades, so usually by the time of graduation, fellow dormmates would be extremely close friends. Although Yale, Reynolds, Linley and George were all more mature than most others their age, at heart, they were still children.
+
+
+score: 0.551960, para: 02 21 26	“So Yale’s clanguard divisions are so formidable,” Linley couldn’t help but feel shocked. The eyes of Reynolds and George also shone.
+
+
+score: 0.546894, para: 02 20 15	George had just been yelled at by Rand, so right now, he was in no mood to give Rand any face either. “Rand, let me tell you something. Know your own limits. Many of the experts in our school simply don’t deign to participate in the yearly tournament. Don’t really believe that you are something special.”
+
+
+score: 0.537774, para: 02 15 28	“I bet everyone hasn’t had a chance to get a good look at the campus yet, right? Let’s go for a stroll and familiarize ourselves, shall we?” George smiled as he spoke.
+
+
+score: 0.529921, para: 02 20 44	Linley, Yale, Reynolds, and George all left the hotel as well, directly heading for the arena.
+
+

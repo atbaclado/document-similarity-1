@@ -1,0 +1,15 @@
+source_doc: 1 14	“We do.” Hearing Hillman’s words and seeing how relaxed Hillman was, all of the children immediately replied vigorously.
+
+
+score: 0.732931, para: 1 1	“More importantly, the reason I told the children these stories was to make them work harder. Couldn’t you tell how amazed those children were after hearing the stories?” Hillman smiled delightedly.
+
+
+score: 0.729489, para: 1 12	Upon hearing these words, Linley immediately understood. His father was happy at how he had not been terrified by the sight of the Velocidragon eating Luke alive.
+
+
+score: 0.701768, para: 1 1	Upon hearing these words, smiles appeared on the faces of all the six and seven year olds. All of them forced themselves to remain expressionless. These words were Hillman’s often-repeated mantra, and he repeated these words endlessly to the children.
+
+
+score: 0.669082, para: 1 22	“Don’t worry. Just carefully try and see what you can sense, and whenever you sense something, just tell me.” Doehring Cowart smiled encouragingly towards Linley. Linley immediately closed his eyes and tried to force himself to calm down.
+
+

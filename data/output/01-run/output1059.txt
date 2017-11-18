@@ -1,0 +1,15 @@
+source_doc: 2 3	“Looks like the educational methods of the Baruch clan are rather effective after all.” Doehring Cowart silently sighed with praise. Education can raise a person’s intelligence, but most commoners didn’t have access to education. Most commoners could not meet either the entry requirements or the fee requirements for good magus academies or warrior academies.
+
+
+score: 0.719917, para: 1 4	As a member of a noble house, Linley’s education began from a young age. The five-thousand year old Baruch clan was even stricter regarding educational matters than even the royal families of most kingdoms were.
+
+
+score: 0.692521, para: 2 5	Hogg smiled faintly as he said, “Becoming a magus is no easy thing. Perhaps only one in ten thousand has the talent. The requirements for entering the Ernst Institute are even higher. Only someone with an extremely high aptitude for magic will be admitted. If Linley can become a magus, I will be very satisfied, regardless of what academy he is accepted to.”
+
+
+score: 0.629807, para: 2 9	Despite being packed, everyone in the main hall, from the commoners to the nobles, all discreetly made way for him to move through. Even those nobles who had previously scorned Linley as a country bumpkin were all now smiling at him in a friendly manner. Their attitudes were amazingly good.
+
+
+score: 0.626652, para: 2 11	“Our clan elders really were formidable. They actually came up with the idea of drinking the blood of a living dragon in order to utilize the Secret Dragonblood Training Method.” Linley didn’t know whether to laugh or to cry.
+
+

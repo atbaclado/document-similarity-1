@@ -1,0 +1,15 @@
+source_doc: 1 23	Linley felt his heart began thumping frantically. He was so excited he didn’t know what to say.
+
+
+score: 0.832646, para: 1 2	Linley could feel his heart thumping frantically.
+
+
+score: 0.702079, para: 1 6	Upon coming to this realization, Linley’s heart began to pound.
+
+
+score: 0.700161, para: 2 10	“Lord Hogg.” Hillman was very excited as well.
+
+
+score: 0.671889, para: 1 5	Hearing these words, Linley felt his heart twinge.
+
+

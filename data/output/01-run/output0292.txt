@@ -1,0 +1,15 @@
+source_doc: 1 5	“No need, I still have some business back home.” Philip laughed.
+
+
+score: 0.654279, para: 1 4	“Just this?” Hogg frowned.
+
+
+score: 0.654279, para: 1 12	“It is possible.” Hogg nodded.
+
+
+score: 0.654279, para: 1 17	“Linley, how are you feeling?” Hogg said with concern.
+
+
+score: 0.654279, para: 1 18	“Ugh!” Hogg let out a long sigh.
+
+

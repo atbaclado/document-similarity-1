@@ -1,0 +1,30 @@
+source: 01 8 29	Linley’s heart trembled.
+
+
+score: 0.976590, para: 01 5 6	Hearing these words, Linley felt his heart twinge.
+
+
+score: 0.932889, para: 02 1 39	Hearing his words, Linley’s heart fluttered.
+
+
+score: 0.870401, para: 01 6 9	Upon coming to this realization, Linley’s heart began to pound.
+
+
+score: 0.797075, para: 01 19 41	Linley’s heart trembled.
+
+
+score: 0.797075, para: 01 21 14	Linley’s heart was trembling.
+
+
+score: 0.797075, para: 02 23 17	Linley’s heart was full of excitement.
+
+
+score: 0.705190, para: 01 2 66	Linley could feel his heart thumping frantically.
+
+
+score: 0.690613, para: 02 6 34	“It really is the ‘bond of equals’?” Linley’s heart clenched. Even though he had guessed as much, he still felt stunned and excited.
+
+
+score: 0.650856, para: 01 20 7	“Low talent, low accomplishments?” Linley felt his heart tremble.
+
+

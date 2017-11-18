@@ -1,0 +1,12 @@
+source: 01 11 40	“Don’t make a sound.” Hogg glanced at Linley, conveying that message with his eyes.
+
+
+score: 0.568438, para: 01 5 41	“Sculpting?” Hogg glanced at Linley, his eyes cold.
+
+
+score: 0.505416, para: 02 10 5	Hogg raised his head. Seeing the wild excitement on the faces of Linley and Hillman, he had a positive premonition. He immediately stood up. Staring at Linley and Hillman, his voice quavered as he said, “How did the magus assessment test go?”
+
+
+score: 0.503807, para: 02 10 21	“Squeak squeak!” Suddenly, the little Shadowmouse ‘Bebe’ scurried out from within Linley’s clothes. He hopped onto Linley’s shoulders to stare at Hogg, his little eyes filled with anger.
+
+

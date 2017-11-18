@@ -1,0 +1,15 @@
+source: 01 12 13	“Yes, lord Hogg.” Hillman assented.
+
+
+score: 1.000000, para: 02 10 20	“Yes, Lord Hogg,” Hillman and Hiri responded.
+
+
+score: 0.652199, para: 01 2 29	“Uncle Hillman, I know already. My lord father already reminded me three times. My lord father has never been so insistent about anything. I won’t go off and play.” Linley grinned, revealing his pearly white teeth, perfect but for the fact that one was missing.
+
+
+score: 0.628983, para: 01 15 37	“Captain, Lord Hogg ordered us to come assist you!” Twelve warriors had come flying out of the Baruch clan manor. As soon as they saw Hillman, they shouted at him.
+
+
+score: 0.569926, para: 01 8 18	“Lord Magus, this is indeed Wushan town. Is there anything we can help you with, Lord Magus?” Hillman’s voice rang out.
+
+

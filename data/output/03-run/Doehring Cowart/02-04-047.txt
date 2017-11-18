@@ -1,0 +1,9 @@
+source: 02 4 47	“No, Linley, accept your father’s offer.” Doehring Cowart frowned and hurriedly said.
+
+
+score: 0.800178, para: 02 3 25	Doehring Cowart also frowned in confusion. “That shouldn’t be the case. It was just an hour. Did it really leave already?”
+
+
+score: 0.502585, para: 02 7 30	“Linley, how does it feel to be in a big city?” Doehring Cowart laughed as he spoke.
+
+

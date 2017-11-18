@@ -1,0 +1,15 @@
+source_doc: 2 11	“But of course, that’s just my conjecture.” Doehring Cowart said placidly. “And Linley, based on what I know, drinking the blood of a live dragon is not necessarily a road to death. As long as you combine it with some Blueheart Grass, the negative effects of dragon’s blood will be negated. But I bet there’s very few people nowadays who know this secret.”
+
+
+score: 0.621032, para: 2 4	Linley’s heart began to beat faster. If he could one day step atop the head of a dragon and control cataclysmic power, if he too could feel the power of standing at the very pinnacle of mankind, that must be an amazing feeling. When he thought of this, Linley felt his blood begin to boil.
+
+
+score: 0.616944, para: 2 6	A thick, dense black light began to emanate from the little Shadowmouse’s body. A droplet of fresh blood suddenly flew out from the corner of its mouth. That droplet of fresh blood had both Linley’s blood as well as the little Shadowmouse’s blood. That blood suddenly, bizarrely transformed into two opposite, interlocking black triangles, which the thick black light merged with, forming a strange magical formation which gave off a dark aura.
+
+
+score: 0.608118, para: 1 15	“Is this dragonsfear?” Linley also felt as though his heart was being squeezed by a huge stone, making it impossible for him to breathe, but nonetheless, Linley felt extremely excited, and his blood was beginning to boil.
+
+
+score: 0.608080, para: 1 19	Linley frowned while mumbling, “Dripping blood onto the ring?” Frowning as he tried to recollect when that had happened, Linley suddenly remembered that when the rock had cut his head open, fresh blood had suffused his clothes and his chest. Most likely, it was around then that the blood had dripped onto the ring.
+
+

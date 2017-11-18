@@ -1,0 +1,20 @@
+source: 01 1 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+score: 0.787387, para: 01 127 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+score: 0.787387, para: 01 127 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+score: 0.787387, para: 01 127 139	Linley turned around and immediately said happily, “Uncle Hillman!”
+
+score: 0.681997, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+score: 0.681997, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+score: 0.681997, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+score: 0.681997, para: 01 2 18	“Now, I order all of you, go home immediately and begin your preparations. Disperse!” Hillman said in a cold, fierce voice.
+
+score: 0.604500, para: 01 8 22	“Everyone, stay here.” After he spoke, Hillman immediately chased after the departing Velocidragon.
+
+score: 0.604500, para: 01 8 22	“Everyone, stay here.” After he spoke, Hillman immediately chased after the departing Velocidragon.
+

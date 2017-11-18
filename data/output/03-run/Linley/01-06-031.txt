@@ -1,0 +1,30 @@
+source: 01 6 31	On the ancient walls were many rotted wooden cabinets, each of which had many drawers. Linley pulled open each and every drawer, but the drawers were totally empty, almost immaculately so. The only thing inside of them? Some dust.
+
+
+score: 0.651252, para: 01 4 53	His face cold and harsh, Hogg pulled out a wooden stick, and Linley obediently stuck his hand out.
+
+
+score: 0.649932, para: 01 7 20	Linley suddenly remembered. He frantically stared at his filthy clothes, covered in dust and grime. He looked like a beggar. “Oh no…” Linley had no time to think. He immediately ran out of the ancient courtyard and charged straight for the washroom.
+
+
+score: 0.640424, para: 02 3 22	“Where’s the Shadowmouse?” Linley stared at the ancient building, but aside from some rubble and rotting leaves, he didn’t see anything.
+
+
+score: 0.626489, para: 01 15 43	“Quick, hide in the cellar beneath the storage room.” Hogg was standing in the middle of the courtyard. Upon seeing Linley, he immediately ordered him in. The cellar beneath the storage room was the largest, most sturdy cellar within the Baruch clan’s manor. Anyone hiding there definitely would be able to survive.
+
+
+score: 0.626435, para: 01 14 18	“That magical beast is known as a ‘Velocidragon’, and is a magical beast of seventh rank. It is incredibly powerful. Its entire body is covered in extremely hard scales, impenetrable to normal weapons. It is also armed with a sturdy, whip-like tail and with sharp claws. Those tough road stones and floor foundation stones were ripped apart like paper by its tail and claws. It was even able to breath fire from its mouth, fire so hot that even the stones cracked apart.” Linley said truthfully.
+
+
+score: 0.625523, para: 01 2 33	In the ancient front courtyard of the Baruch manor, after the family finished dinner, Linley was playing around with his younger brother.
+
+
+score: 0.625009, para: 02 3 27	“Crunch, crunch.” That familiar, soft crunching sound could be heard once again. Linley’s eyes brightened, and he immediately turned and headed towards an ancient courtyard nearby. Arriving at the entryway, he clearly saw the black Shadowmouse chewing on stones in one spot, unmoving. He seemed almost like a sculptor, as he chewed each rock into surprising, bizarre shapes.
+
+
+score: 0.619617, para: 02 17 49	Five skull-sized pieces of rock flew up and began to circle around Linley’s head. These five rocks were all covered with earthen specks of light, and as Linley’s eyes began to shine, he let out a deep shout. The five rocks rapidly shot off to a far distance, carrying a gust of wind with them.
+
+
+score: 0.614188, para: 02 4 3	“Right, today I’ll give the little Shadowmouse some cooked meat.” Linley covered a wild chicken with a cloth sack, and then happily went to the back of the ancient courtyard in the manor.
+
+
